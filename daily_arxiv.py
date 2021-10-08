@@ -26,7 +26,7 @@ def get_daily_code(DateToday,cats):
             for item in tmp:
                 if item["id"] not in output:
                     output[item["id"]] = item
-        time.sleep(1)
+        time.sleep(30)
 
     base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
     cnt = 0
@@ -94,8 +94,12 @@ def json_to_md(filename):
             # the head of each part
             f.write(f"## {day}\n")
             f.write("|paper|code|\n" + "|---|---|\n")
-            for k,v in day_content.items():
-                f.write(v)
+            for item in day_content.items():
+                
+                k = item[0]
+                v = item[1]
+                if v is not None:
+                    f.write(v)
     
     print("finished")        
 
@@ -108,8 +112,10 @@ if __name__ == "__main__":
         day = str(DateToday + timedelta(-i))
         # you can add the categories in cats
         cats = {
-        "cs":["cs.CV" "cs.RO" "cs.AI" "cs.MM"],
-        "eess":["eess.SP" "eess.IV" ]
+#         "cs":["cs.CV" "cs.RO" "cs.AI" "cs.MM"],
+#         "eess":["eess.SP" "eess.IV" ]
+        "eess":["eess.SP"],
+        "cs":["cs.IT"]    
     }
         data = get_daily_code(day,cats)
         data_all.append(data)
