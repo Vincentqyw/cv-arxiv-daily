@@ -21,11 +21,8 @@ def get_daily_code(DateToday,cats):
     for k,v in cats.items():
         scraper = arxivscraper.Scraper(category=k, date_from=from_day,date_until=until_day,filters={'categories':v})
         tmp = scraper.scrape()
-        print("scraper.scrape() outputs")
-        print(tmp)
-        if ~isinstance(tmp,list):
-            continue
-             
+#         print("scraper.scrape() outputs")
+#         print(tmp)           
             
         if isinstance(tmp,list):
             for item in tmp:
