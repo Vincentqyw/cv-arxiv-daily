@@ -102,14 +102,13 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 7 # 往前查询的天数
+    N = 2 # 往前查询的天数
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
         # you can add the categories in cats
         cats = {
-        "eess":["eess.SP"],
-        "cs":["cs.IT"]
+        "cs":["cs.CV" "cs.RO" "cs.IT" ]
     }
         data = get_daily_code(day,cats)
         data_all.append(data)
