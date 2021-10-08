@@ -10,9 +10,8 @@ on:
     - cron: "00 12 * * *"  
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches:
+    - main
 
 env:
 
@@ -52,7 +51,7 @@ jobs:
         uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.G_T }}
-          commit-message: "update today arxiv"
+          commit-message: "update today cv arxiv"
           files: README.md cv-arxiv-daily.json
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
