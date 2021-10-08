@@ -26,7 +26,7 @@ def get_daily_code(DateToday,cats):
             for item in tmp:
                 if item["id"] not in output:
                     output[item["id"]] = item
-        time.sleep(30)
+        time.sleep(1)
 
     base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
     cnt = 0
@@ -102,7 +102,7 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 5 # 往前查询的天数
+    N = 7 # 往前查询的天数
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
