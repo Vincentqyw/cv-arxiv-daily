@@ -53,11 +53,6 @@
 |[relation prediction as an auxiliary training objective for improving multi-relational graph representations](https://arxiv.org/abs/2110.02834)|[ssl-relation-prediction](https://github.com/facebookresearch/ssl-relation-prediction)|
 |[climategan: raising climate change awareness by generating images of floods](https://arxiv.org/abs/2110.02871)|[climategan](https://github.com/cc-ai/climategan)|
 |[meta internal learning](https://arxiv.org/abs/2110.02900)|[MetaInternalLearning](https://github.com/RaphaelBensTAU/MetaInternalLearning)|
-|[point process simulation of generalised inverse gaussian processes and estimation of the jaeger integral](https://arxiv.org/abs/2105.09429)|[GiG](https://github.com/yamankindap/GiG)|
-|[an approximate expectation-maximization for two-dimensional multi-target detection](https://arxiv.org/abs/2110.02289)|[mtd-2d-em](https://github.com/krshay/mtd-2d-em)|
-|[cartesian dictionary-based native t1 and t2 mapping of the myocardium](https://arxiv.org/abs/2110.02317)|[Matlab_files](https://github.com/Multimapping/Matlab_files)|
-|[a local updating algorithm for personalized pagerank via chebyshev polynomials](https://arxiv.org/abs/2110.02538)|[pagerank_updating_chebyshev_paper](https://github.com/estbautista/pagerank_updating_chebyshev_paper)|
-|[unrolling particles: unsupervised learning of sampling distributions](https://arxiv.org/abs/2110.02915)|[unrolling-particles](https://github.com/fgfgama/unrolling-particles)|
 ## 2021-10-06
 |paper|code|
 |---|---|
@@ -98,19 +93,3 @@
 |[self-supervised generative style transfer for one-shot medical image segmentation](https://arxiv.org/abs/2110.02117)|[sst](https://github.com/devavrattomar/sst)|
 |[transfer learning u-net deep learning for lung ultrasound segmentation](https://arxiv.org/abs/2110.02196)|[Transfer-Learning-U-Net-Deep-Learning-for-Lung-Ultrasound-Segmentation](https://github.com/dorltcheng/Transfer-Learning-U-Net-Deep-Learning-for-Lung-Ultrasound-Segmentation)|
 |[waypoint models for instruction-guided navigation in continuous environments](https://arxiv.org/abs/2110.02207)|[VLN-CE](https://github.com/jacobkrantz/VLN-CE)|
-|[the simons observatory: holosim-ml: machine learning applied to the efficient analysis of radio holography measurements of complex optical systems](https://arxiv.org/abs/2107.04138)|[holosim-ml](https://github.com/McMahonCosmologyGroup/holosim-ml)|
-|[cram\'er-rao bound-informed training of neural networks for quantitative mri](https://arxiv.org/abs/2109.10535)|[mrf-crbloss](https://github.com/quentin-duchemin/mrf-crbloss)|
-|[wireless link scheduling via graph representation learning: a comparative study of different supervision levels](https://arxiv.org/abs/2110.01722)|[LinkSchedulingGNNs_SupervisionStudy](https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy)|
-## 2021-05-25
-|paper|code|
-|---|---|
-|[deep joint source channel coding for wirelessimage transmission with ofdm](https://arxiv.org/abs/2101.03909)|[Deep-JSCC-for-images-with-OFDM](https://github.com/mingyuyng/Deep-JSCC-for-images-with-OFDM)|
-|[joint learning of multiple granger causal networks via non-convex regularizations: inference of group-level brain connectivity](https://arxiv.org/abs/2105.07196)|[JGranger_ncvx](https://github.com/parinthorn/JGranger_ncvx)|
-|[denoising noisy neural networks: a bayesian approach with compensation](https://arxiv.org/abs/2105.10699)|[NoisyNN](https://github.com/lynshao/NoisyNN)|
-|[deep active learning approach to adaptive beamforming for mmwave initial alignment](https://arxiv.org/abs/2012.13607)|[DL-ActiveLearning-BeamAlignment](https://github.com/foadsohrabi/DL-ActiveLearning-BeamAlignment)|
-|[byzantine-resilient federated machine learning via over-the-air computation](https://arxiv.org/abs/2105.10883)|[Byzantine_AirComp](https://github.com/goldenBill/Byzantine_AirComp)|
-## 2021-05-24
-|paper|code|
-|---|---|
-|[semi-supervised learning for identifying the likelihood of agitation in people with dementia](https://arxiv.org/abs/2105.10398)|[Agitation_detection](https://github.com/RoonakR/Agitation_detection)|
-|[redunet: a white-box deep network from the principle of maximizing rate reduction](https://arxiv.org/abs/2105.10446)|[MCR2](https://github.com/Ma-Lab-Berkeley/MCR2)|
