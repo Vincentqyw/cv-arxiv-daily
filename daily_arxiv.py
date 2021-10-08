@@ -21,7 +21,12 @@ def get_daily_code(DateToday,cats):
     for k,v in cats.items():
         scraper = arxivscraper.Scraper(category=k, date_from=from_day,date_until=until_day,filters={'categories':v})
         tmp = scraper.scrape()
+        print("scraper.scrape() outputs")
         print(tmp)
+        if ~isinstance(tmp,list):
+            continue
+             
+            
         if isinstance(tmp,list):
             for item in tmp:
                 if item["id"] not in output:
@@ -106,7 +111,7 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 7 # 往前查询的天数
+    N = 3 # 往前查询的天数
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
