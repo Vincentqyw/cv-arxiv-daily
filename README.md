@@ -20,6 +20,7 @@
 |[wavelet-packet powered deepfake image detection](https://arxiv.org/abs/2106.09369)|[pytorch-wavelet-toolbox](https://github.com/v0lta/pytorch-wavelet-toolbox)|
 |[adversarial visual robustness by causal intervention](https://arxiv.org/abs/2106.09534)|[ciiv-adversarial-robustness.pytorch](https://github.com/kaihuatang/ciiv-adversarial-robustness.pytorch)|
 |[don't take it literally: an edit-invariant sequence loss for text generation](https://arxiv.org/abs/2106.15078)|[EISL](https://github.com/guangyliu/EISL)|
+|[cl4ac: a contrastive loss for audio captioning](https://arxiv.org/abs/2107.09990)|[contrastive_loss_for_audio_captioning](https://github.com/liuxubo717/contrastive_loss_for_audio_captioning)|
 |[conditional sound generation using neural discrete time-frequency representation learning](https://arxiv.org/abs/2107.09998)|[sound_generation](https://github.com/liuxubo717/sound_generation)|
 |[bob and alice go to a bar: reasoning about future with probabilistic programs](https://arxiv.org/abs/2108.03834)|[playermodels](https://bitbucket.org/dtolpin/playermodels)|
 |[deep reinforcement learning at the edge of the statistical precipice](https://arxiv.org/abs/2108.13264)|[rliable](https://github.com/google-research/rliable)|
