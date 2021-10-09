@@ -48,6 +48,7 @@ def get_daily_code(DateToday,cats):
         affiliation = v["affiliation"]
         abstract = v["abstract"].capitalize()
        
+        
         print("id = ", _id," title = ", paper_title, " authors = ", authors)
 
         try:
@@ -58,7 +59,7 @@ def get_daily_code(DateToday,cats):
                 repo_name = repo_url.split("/")[-1]
 
                 # content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
-                content[_id] = f"|{paper_title}|{abstract}|{authors}|[{paper_url}]({paper_url})|[{repo_name}]({repo_url})|\n"
+                content[_id] = f"|**{paper_title}**|{abstract}|{authors}|[{_id}]({paper_url})|**[link]({repo_url})**|\n"
         except Exception as e:
             print(f"exception: {e} with id: {_id}")
     data = {DateToday:content}
@@ -107,7 +108,7 @@ def json_to_md(filename):
                 continue
             # the head of each part
             f.write(f"## {day}\n")
-            f.write("|Title|Abstract|Authors|PDFs|Code|\n" + "|---|---|---|---|---|\n")
+            f.write("|Title|Abstract|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
             for item in day_content.items():
                 
                 k = item[0]
