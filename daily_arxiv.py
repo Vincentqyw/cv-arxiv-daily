@@ -29,16 +29,27 @@ def get_daily_code(DateToday,cats):
                 if item["id"] not in output:
                     output[item["id"]] = item
         time.sleep(30)
+    #todo: sort output according to keys
+    sorted_output = {}
+    for id in sorted(output.keys(),reverse=True):
+        sorted_output[id] = output[id]
+    # sorted_output = {{k:output[k]} for k in sorted(output.keys(),reverse=True)}
+    # sorted_output = sorted(output,reverse=True)
 
     base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
     cnt = 0
 
-    for k,v in output.items():
-        print(v["id"])
+    for k,v in sorted_output.items():
         _id = v["id"]
-        paper_title = " ".join(v["title"].split())
+        paper_title = " ".join(v["title"].split()).title()
         paper_url = v["url"]
         url = base_url + _id
+        authors = ", ".join(v["authors"]).title()
+        affiliation = v["affiliation"]
+        abstract = v["abstract"].capitalize()
+       
+        print("id = ", _id," title = ", paper_title, " authors = ", authors)
+
         try:
             r = requests.get(url).json()
             if "official" in r and r["official"]:
@@ -46,11 +57,12 @@ def get_daily_code(DateToday,cats):
                 repo_url = r["official"]["url"]
                 repo_name = repo_url.split("/")[-1]
 
-                content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
+                # content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
+                content[_id] = f"|{paper_title}|{abstract}|{authors}|[{paper_url}]({paper_url})|[{repo_name}]({repo_url})|\n"
         except Exception as e:
             print(f"exception: {e} with id: {_id}")
     data = {DateToday:content}
-    return data
+    return data 
 
 def update_daily_json(filename,data_all):
     with open(filename,"r") as f:
@@ -95,7 +107,7 @@ def json_to_md(filename):
                 continue
             # the head of each part
             f.write(f"## {day}\n")
-            f.write("|paper|code|\n" + "|---|---|\n")
+            f.write("|Title|Abstract|Authors|PDFs|Code|\n" + "|---|---|---|---|---|\n")
             for item in day_content.items():
                 
                 k = item[0]
@@ -108,7 +120,7 @@ def json_to_md(filename):
 if __name__ == "__main__":
 
     DateToday = datetime.date.today()
-    N = 3 # 往前查询的天数
+    N = 2 # 往前查询的天数
     data_all = []
     for i in range(1,N):
         day = str(DateToday + timedelta(-i))
