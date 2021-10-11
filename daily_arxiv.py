@@ -65,9 +65,11 @@ def get_daily_code(DateToday,query="slam", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                # content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
             else:
-                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
+                # content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
+                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
 
         except Exception as e:
             print(f"exception: {e} with id: {paper_key}")
@@ -117,7 +119,7 @@ def json_to_md(filename):
                 continue
             # the head of each part
             f.write(f"## {day}\n")
-            f.write("|Publish Date|Title|Abstract|Authors|PDF|Code|\n" + "|---|---|---|---|---|---|\n")
+            f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
             for _,v in day_content.items():
                 if v is not None:
                     f.write(v)
