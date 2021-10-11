@@ -1,67 +1,77 @@
-# refer to github@zhuwenxing/daily_arxiv
-
-import arxivscraper
 import datetime
 import time
 import requests
 import json
 from datetime import timedelta
+import arxiv
+import os
+
+base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
 
-def get_daily_code(DateToday,cats):
+def get_authors(authors):
+    output = str()
+    output = ", ".join(str(author) for author in authors)
+    return output
+
+def get_daily_code(DateToday,query="slam", max_results=2):
     """
     @param DateToday: str
-    @param cats: dict
+    @param query: str
     @return paper_with_code: dict
     """
-    from_day = until_day = DateToday
-    content = dict()
+
+    # output 
+    content = dict() 
+
     # content
     output = dict()
-    for k,v in cats.items():
-        scraper = arxivscraper.Scraper(category=k, date_from=from_day,date_until=until_day,filters={'categories':v})
-        tmp = scraper.scrape()
-#         print("scraper.scrape() outputs")
-#         print(tmp)           
-            
-        if isinstance(tmp,list):
-            for item in tmp:
-                if item["id"] not in output:
-                    output[item["id"]] = item
-        time.sleep(30)
-    #todo: sort output according to keys
-    sorted_output = {}
-    for id in sorted(output.keys(),reverse=True):
-        sorted_output[id] = output[id]
-    # sorted_output = {{k:output[k]} for k in sorted(output.keys(),reverse=True)}
-    # sorted_output = sorted(output,reverse=True)
+    
+    search_engine = arxiv.Search(
+        query = query,
+        max_results = max_results,
+        sort_by = arxiv.SortCriterion.SubmittedDate
+    )
 
-    base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
     cnt = 0
 
-    for k,v in sorted_output.items():
-        _id = v["id"]
-        paper_title = " ".join(v["title"].split()).title()
-        paper_url = v["url"]
-        url = base_url + _id
-        authors = ", ".join(v["authors"]).title()
-        affiliation = v["affiliation"]
-        abstract = v["abstract"].capitalize()
+    for result in search_engine.results():
+
+        paper_id       = result.get_short_id()
+        paper_title    = result.title
+        paper_url      = result.entry_id
+
+        code_url       = base_url + paper_id
+        paper_abstract = result.summary.replace("\n"," ")
+        paper_authors  = get_authors(result.authors)
        
-        
-        print("id = ", _id," title = ", paper_title, " authors = ", authors)
+        primary_category = result.primary_category
+
+        publish_time = result.published.date()
+
+      
+        print("Time = ", publish_time ," title = ", paper_title)
+
+        # eg: 2108.09112v1 -> 2108.09112
+        ver_pos = paper_id.find('v')
+        if ver_pos == -1:
+            paper_key = paper_id
+        else:
+            paper_key = paper_id[0:ver_pos]    
 
         try:
-            r = requests.get(url).json()
+            r = requests.get(code_url).json()
+            # source code link
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                repo_name = repo_url.split("/")[-1]
+                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+            else:
+                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
 
-                # content[_id] = f"|[{paper_title}]({paper_url})|[{repo_name}]({repo_url})|\n"
-                content[_id] = f"|**{paper_title}**|{abstract}|{authors}|[{_id}]({paper_url})|**[link]({repo_url})**|\n"
         except Exception as e:
-            print(f"exception: {e} with id: {_id}")
+            print(f"exception: {e} with id: {paper_key}")
+
     data = {DateToday:content}
     return data 
 
@@ -101,18 +111,14 @@ def json_to_md(filename):
         pass
     # write data into README.md
     with open("README.md","a+") as f:
-        # 对data数据排序
-        for day in sorted(data.keys(),reverse=True):
+        for day in data.keys():
             day_content = data[day]
             if not day_content:
                 continue
             # the head of each part
             f.write(f"## {day}\n")
-            f.write("|Title|Abstract|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-            for item in day_content.items():
-                
-                k = item[0]
-                v = item[1]
+            f.write("|Publish Date|Title|Abstract|Authors|PDF|Code|\n" + "|---|---|---|---|---|---|\n")
+            for _,v in day_content.items():
                 if v is not None:
                     f.write(v)
     
@@ -120,18 +126,38 @@ def json_to_md(filename):
 
 if __name__ == "__main__":
 
-    DateToday = datetime.date.today()
-    N = 2 # 往前查询的天数
-    data_all = []
-    for i in range(1,N):
-        day = str(DateToday + timedelta(-i))
-        # you can add the categories in cats
-        cats = {
-        "cs":["cs.CV","cs.RO"]
-#         "cs":["cs.CV","cs.RO","cs.AI","cs.MM"],
-#         "eess":["eess.SP","eess.IV" ]
-    }
-        data = get_daily_code(day,cats)
-        data_all.append(data)
-    update_daily_json("cv-arxiv-daily.json",data_all)
-    json_to_md("cv-arxiv-daily.json")
+    DateNow = datetime.date.today()
+
+    data_collector = []
+    
+    keywords = ["SLAM",
+                "\"Camera Localization\"",
+                "\"Visual Localization\"",
+                "\"Keypoint Detection\"",
+                "\"Image Matching\"",
+                "SFM",
+                "\"Structure from Motion\"",
+                "\"3D Reconstruction\"",
+                # "\"Depth Estimation\"",
+                # "\"Long Term Localization\""
+    ]
+    for keyword in keywords:
+ 
+        topic = keyword.replace("\"","")
+        print("Keyword: " + topic)
+
+        data = get_daily_code(topic, query = keyword, max_results = 10)
+        data_collector.append(data)
+        print("\n")
+
+
+    json_file = "cv-arxiv-daily.json"
+    if ~os.path.exists(json_file):
+        with open(json_file,'w')as a:
+            print("create " + json_file)
+
+    # update json data
+    update_daily_json(json_file,data_collector)
+
+    # json data to markdown
+    json_to_md(json_file)
