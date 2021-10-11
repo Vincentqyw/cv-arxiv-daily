@@ -15,6 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
+|**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2109.07339v1](http://arxiv.org/abs/2109.07339v1)|null|
 |**2021-09-13**|**Monocular Camera Localization for Automated Vehicles Using Image Retrieval**|Eunhyek Joa, Francesco Borrelli|[2109.06296v1](http://arxiv.org/abs/2109.06296v1)|null|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
 |**2021-08-09**|**DistillPose: Lightweight Camera Localization Using Auxiliary Learning**|Yehya Abouelnaga, Mai Bui, Slobodan Ilic|[2108.03819v1](http://arxiv.org/abs/2108.03819v1)|null|
@@ -41,6 +42,7 @@
 |---|---|---|---|---|
 |**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li, Xu Liang, Dandan Fan, Jinxing Li, David Zhang|[2110.01179v1](http://arxiv.org/abs/2110.01179v1)|**[link](https://github.com/dxbdxx/bpfnet)**|
 |**2021-09-28**|**PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**|Prune Truong, Martin Danelljan, Radu Timofte, Luc Van Gool|[2109.13912v2](http://arxiv.org/abs/2109.13912v2)|**[link](https://github.com/PruneTruong/DenseMatching)**|
+|**2021-09-24**|**Catadioptric Stereo on a Smartphone**|Kristijan Bartol, David Bojanić, Tomislav Petković, Tomislav Pribanić|[2109.11872v1](http://arxiv.org/abs/2109.11872v1)|null|
 |**2021-09-20**|**Semi-supervised Dense Keypointsusing Unlabeled Multiview Images**|Zhixuan Yu, Haozheng Yu, Long Sha, Sujoy Ganguly, Hyun Soo Park|[2109.09299v1](http://arxiv.org/abs/2109.09299v1)|null|
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik, Lin Li, Xishuang Dong|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-26**|**Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR**|Vinkle Srivastav, Afshin Gangi, Nicolas Padoy|[2108.11801v2](http://arxiv.org/abs/2108.11801v2)|**[link](https://github.com/camma-public/hpe-adaptor)**|
