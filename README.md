@@ -11,6 +11,7 @@
 |**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong et.al.|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
 |**2021-10-01**|**From SLAM to Situational Awareness: Challenges and Survey**|Hriday Bavle et.al.|[2110.00273v1](http://arxiv.org/abs/2110.00273v1)|null|
 |**2021-09-30**|**Uncertainty Estimation of Dense Optical-Flow for Robust Visual Navigation**|Yonhon Ng et.al.|[2109.14828v1](http://arxiv.org/abs/2109.14828v1)|null|
+
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -24,6 +25,7 @@
 |**2021-07-01**|**Deep auxiliary learning for visual localization using colorization task**|Mi Tian et.al.|[2107.00222v1](http://arxiv.org/abs/2107.00222v1)|null|
 |**2021-04-02**|**End-to-end learning of keypoint detection and matching for relative pose estimation**|Antoine Fond et.al.|[2104.01085v1](http://arxiv.org/abs/2104.01085v1)|null|
 |**2021-03-31**|**Learning Camera Localization via Dense Scene Matching**|Shitao Tang et.al.|[2103.16792v1](http://arxiv.org/abs/2103.16792v1)|**[link](https://github.com/Tangshitao/Dense-Scene-Matching)**|
+
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -37,6 +39,7 @@
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang et.al.|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
 |**2021-08-14**|**PICCOLO: Point Cloud-Centric Omnidirectional Localization**|Junho Kim et.al.|[2108.06545v1](http://arxiv.org/abs/2108.06545v1)|null|
 |**2021-07-08**|**4D Attention: Comprehensive Framework for Spatio-Temporal Gaze Mapping**|Shuji Oishi et.al.|[2107.03606v1](http://arxiv.org/abs/2107.03606v1)|null|
+
 ## Keypoint Detection
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -50,6 +53,7 @@
 |**2021-08-13**|**EEEA-Net: An Early Exit Evolutionary Neural Architecture Search**|Chakkrit Termritthikun et.al.|[2108.06156v1](http://arxiv.org/abs/2108.06156v1)|**[link](https://github.com/chakkritte/eeea-net)**|
 |**2021-08-13**|**Learning Transferable Parameters for Unsupervised Domain Adaptation**|Zhongyi Han et.al.|[2108.06129v1](http://arxiv.org/abs/2108.06129v1)|**[link](https://github.com/zhyhan/transpar)**|
 |**2021-08-05**|**A Low Rank Promoting Prior for Unsupervised Contrastive Learning**|Yu Wang et.al.|[2108.02696v1](http://arxiv.org/abs/2108.02696v1)|null|
+
 ## Image Matching
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -63,6 +67,7 @@
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
+
 ## SFM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -76,6 +81,7 @@
 |**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger et.al.|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
 |**2021-08-04**|**Self-Supervised Learning of Depth and Ego-Motion from Video by Alternative Training and Geometric Constraints from 3D to 2D**|Jiaojiao Fang et.al.|[2108.01980v1](http://arxiv.org/abs/2108.01980v1)|null|
 |**2021-07-29**|**Efficient Human Pose Estimation by Maximizing Fusion and High-Level Spatial Attention**|Zhiyuan Ren et.al.|[2107.13693v1](http://arxiv.org/abs/2107.13693v1)|null|
+
 ## Structure from Motion
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -89,6 +95,7 @@
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 |**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger et.al.|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
 |**2021-08-17**|**PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-rigid Structure-from-Motion**|Haitian Zeng et.al.|[2108.07506v1](http://arxiv.org/abs/2108.07506v1)|null|
+
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -102,3 +109,4 @@
 |**2021-10-03**|**Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild**|Akash Sengupta et.al.|[2110.00990v1](http://arxiv.org/abs/2110.00990v1)|**[link](https://github.com/akashsengupta1997/hierarchicalprobabilistic3dhuman)**|
 |**2021-09-30**|**Symmetry and planar chirality of a protein measured on an angular basis in a transmission electron microscope**|A. H. Tavabi et.al.|[2110.03391v1](http://arxiv.org/abs/2110.03391v1)|null|
 |**2021-09-29**|**Identity-Expression Ambiguity in 3D Morphable Face Models**|Bernhard Egger et.al.|[2109.14203v1](http://arxiv.org/abs/2109.14203v1)|null|
+

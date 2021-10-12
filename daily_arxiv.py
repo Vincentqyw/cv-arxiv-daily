@@ -130,6 +130,10 @@ def json_to_md(filename,to_web = False):
 
     # write data into README.md
     with open(md_filename,"a+") as f:
+
+        if to_web == True:
+            f.write("---\n" + "layout: default\n" + "---\n")
+
         for day in data.keys():
             day_content = data[day]
             if not day_content:
@@ -140,13 +144,15 @@ def json_to_md(filename,to_web = False):
             if to_web == False:
                 f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
             else:
-                f.write("|Publish Date|Title|Authors|PDF|Code|\n")
+                f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                 f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
             for _,v in day_content.items():
                 if v is not None:
                     f.write(v)
-    
+
+            f.write(f"\n")
+
     print("finished")        
 
  
