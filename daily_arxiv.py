@@ -73,11 +73,11 @@ def get_daily_code(DateToday,query="slam", max_results=2):
                 cnt += 1
                 repo_url = r["official"]["url"]
                 # content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
                 content_to_web[paper_key] = f"- **{publish_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url}), **[code]({repo_url})**\n"
             else:
                 # content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
-                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
+                content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
                 content_to_web[paper_key] = f"- **{publish_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url})\n"
 
         except Exception as e:
@@ -124,7 +124,7 @@ def json_to_md(filename,to_web = False):
     else:
         md_filename = "docs/index.md"  
                   
-    # clean README.md if daily already exist else creat it
+    # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
         pass
 
@@ -138,7 +138,11 @@ def json_to_md(filename,to_web = False):
             f.write(f"## {day}\n")
 
             if to_web == False:
-                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")    
+                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+            else:
+                f.write("|Publish Date|Title|Authors|PDF|Code|\n")
+                f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
             for _,v in day_content.items():
                 if v is not None:
                     f.write(v)
@@ -195,6 +199,6 @@ if __name__ == "__main__":
             print("create " + json_file)
 
     # update json data
-    update_daily_json(json_file,data_collector_web)
+    update_daily_json(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file, to_web = True)
