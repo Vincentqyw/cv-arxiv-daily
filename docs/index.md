@@ -1,3 +1,18 @@
+---
+layout: default
+---
+
+
+
+| head1 | head two  | three |
+|:-------------|:------------------|:------|
+| 2021-10-07 | Self-Supervised Depth Completion for Active Stereo | [2110.03234v1](http://arxiv.org/abs/2110.03234v1) |
+| 2021-10-06 | InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes  | [PDF:2110.02593v1](http://arxiv.org/abs/2110.02593v1)  |
+| 2021-10-06 | InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes  | [PDF:2110.02593v1](http://arxiv.org/abs/2110.02593v1)  |
+| 2021-10-06 | InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes  | [PDF:2110.02593v1](http://arxiv.org/abs/2110.02593v1)  |
+| 2021-10-06 | InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes  | [PDF:2110.02593v1](http://arxiv.org/abs/2110.02593v1)  |
+
+
 ## SLAM
 - **2021-10-07**, **Self-Supervised Depth Completion for Active Stereo**, Frederik Warburg et.al., [PDF:2110.03234v1](http://arxiv.org/abs/2110.03234v1)
 - **2021-10-06**, **InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes**, Zhenkun Zhu et.al., [PDF:2110.02593v1](http://arxiv.org/abs/2110.02593v1)
