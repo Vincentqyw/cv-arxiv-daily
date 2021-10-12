@@ -132,14 +132,14 @@ def json_to_md(filename,to_web = False):
     with open(md_filename,"a+") as f:
 
         if to_web == True:
-            f.write("---\n" + "layout: default\n" + "---\n")
+            f.write("---\n" + "layout: default\n" + "---\n\n")
 
         for day in data.keys():
             day_content = data[day]
             if not day_content:
                 continue
             # the head of each part
-            f.write(f"## {day}\n")
+            f.write(f"## {day}\n\n")
 
             if to_web == False:
                 f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")

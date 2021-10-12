@@ -18,6 +18,7 @@ layout: default
 |**2021-09-30**|**Uncertainty Estimation of Dense Optical-Flow for Robust Visual Navigation**|Yonhon Ng et.al.|[2109.14828v1](http://arxiv.org/abs/2109.14828v1)|null|
 
 ## Camera Localization
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
@@ -32,6 +33,7 @@ layout: default
 |**2021-03-31**|**Learning Camera Localization via Dense Scene Matching**|Shitao Tang et.al.|[2103.16792v1](http://arxiv.org/abs/2103.16792v1)|**[link](https://github.com/Tangshitao/Dense-Scene-Matching)**|
 
 ## Visual Localization
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
@@ -46,6 +48,7 @@ layout: default
 |**2021-07-08**|**4D Attention: Comprehensive Framework for Spatio-Temporal Gaze Mapping**|Shuji Oishi et.al.|[2107.03606v1](http://arxiv.org/abs/2107.03606v1)|null|
 
 ## Keypoint Detection
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-10-04**|**BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**|Zhaoqun Li et.al.|[2110.01179v1](http://arxiv.org/abs/2110.01179v1)|**[link](https://github.com/dxbdxx/bpfnet)**|
@@ -60,6 +63,7 @@ layout: default
 |**2021-08-05**|**A Low Rank Promoting Prior for Unsupervised Contrastive Learning**|Yu Wang et.al.|[2108.02696v1](http://arxiv.org/abs/2108.02696v1)|null|
 
 ## Image Matching
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser et.al.|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
@@ -74,6 +78,7 @@ layout: default
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
 ## SFM
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova et.al.|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
@@ -88,6 +93,7 @@ layout: default
 |**2021-07-29**|**Efficient Human Pose Estimation by Maximizing Fusion and High-Level Spatial Attention**|Zhiyuan Ren et.al.|[2107.13693v1](http://arxiv.org/abs/2107.13693v1)|null|
 
 ## Structure from Motion
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova et.al.|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
@@ -102,6 +108,7 @@ layout: default
 |**2021-08-17**|**PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-rigid Structure-from-Motion**|Haitian Zeng et.al.|[2108.07506v1](http://arxiv.org/abs/2108.07506v1)|null|
 
 ## 3D Reconstruction
+
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-10-08**|**Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery**|Ruofeng Wei et.al.|[2110.03912v1](http://arxiv.org/abs/2110.03912v1)|null|
