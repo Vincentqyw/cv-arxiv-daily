@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "00 23 * * *"  #'*/60 * * * *'
+    - cron:  "* 6 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -48,11 +48,11 @@ jobs:
           python daily_arxiv.py
           
       - name: Push new cv-arxiv-daily.md
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.8
         with:
-          github-token: ${{ secrets.G_T }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md cv-arxiv-daily.json
+          files: README.md cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
