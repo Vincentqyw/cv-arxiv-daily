@@ -164,20 +164,16 @@ if __name__ == "__main__":
     data_collector = []
     data_collector_web= []
     
-    keywords = ["SLAM",
-                "\"Camera Localization\"",
-                "\"Visual Localization\"",
-                "\"Keypoint Detection\"",
-                "\"Image Matching\"",
-                "SFM",
-                "\"Structure from Motion\"",
-                "\"3D Reconstruction\"",
-                # "\"Depth Estimation\"",
-                # "\"Long Term Localization\""
-    ]
-    for keyword in keywords:
+    keywords = dict()
+    keywords["SLAM"]                = "SLAM"
+    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
+    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    keywords["Image Matching"]      = "\"Image Matching\""
+
+    for topic,keyword in keywords.items():
  
-        topic = keyword.replace("\"","")
+        # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
         data,data_web = get_daily_code(topic, query = keyword, max_results = 10)
