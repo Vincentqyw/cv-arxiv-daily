@@ -8,7 +8,6 @@ import os
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
-
 def get_authors(authors, first_author = False):
     output = str()
     if first_author == False:
@@ -26,7 +25,6 @@ def get_daily_code(DateToday,query="slam", max_results=2):
 
     # output 
     content = dict() 
-
     content_to_web = dict()
 
     # content
@@ -94,18 +92,13 @@ def update_daily_json(filename,data_all):
             m = {}
         else:
             m = json.loads(content)
-    
-    #将datas更新到m中
+            
     for data in data_all:
         m.update(data)
 
-    # save data to daily.json
     with open(filename,"w") as f:
         json.dump(m,f)
     
-
-
-
 def json_to_md(filename,to_web = False):
     """
     @param filename: str
@@ -122,7 +115,7 @@ def json_to_md(filename,to_web = False):
     if to_web == False:
         md_filename = "README.md"  
     else:
-        md_filename = "docs/index.md"  
+        md_filename = "./docs/index.md"  
                   
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
@@ -190,12 +183,11 @@ if __name__ == "__main__":
 
     # update json data
     update_daily_json(json_file,data_collector)
-
     # json data to markdown
     json_to_md(json_file)
 
     # update docs/index.md file
-    json_file = "docs/cv-arxiv-daily-web.json"
+    json_file = "./docs/cv-arxiv-daily-web.json"
     if ~os.path.exists(json_file):
         with open(json_file,'w')as a:
             print("create " + json_file)
