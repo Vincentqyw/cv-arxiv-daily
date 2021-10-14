@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-13**|**Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity**|Ran Liu et.al.|[2110.06541v1](http://arxiv.org/abs/2110.06541v1)|null|
 |**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu et.al.|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 |**2021-10-07**|**Self-Supervised Depth Completion for Active Stereo**|Frederik Warburg et.al.|[2110.03234v1](http://arxiv.org/abs/2110.03234v1)|null|
 |**2021-10-06**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotating Scenes**|Zhenkun Zhu et.al.|[2110.02593v1](http://arxiv.org/abs/2110.02593v1)|null|
@@ -11,12 +12,12 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 |**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong et.al.|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
-|**2021-10-01**|**From SLAM to Situational Awareness: Challenges and Survey**|Hriday Bavle et.al.|[2110.00273v2](http://arxiv.org/abs/2110.00273v2)|null|
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera et.al.|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova et.al.|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-16**|**Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**|Gabriel Moreira et.al.|[2109.08046v1](http://arxiv.org/abs/2109.08046v1)|**[link](https://github.com/gabmoreira/maks)**|
 |**2021-09-06**|**Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**|Tejas Mane et.al.|[2109.02740v1](http://arxiv.org/abs/2109.02740v1)|null|
@@ -26,7 +27,6 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 |**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger et.al.|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
-|**2021-08-17**|**PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-rigid Structure-from-Motion**|Haitian Zeng et.al.|[2108.07506v1](http://arxiv.org/abs/2108.07506v1)|null|
 
 ## Visual Localization
 
