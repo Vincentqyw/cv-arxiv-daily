@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-14**|**Active SLAM over Continuous Trajectory and Control: A Covariance-Feedback Approach**|Shumon Koga et.al.|[2110.07546v1](http://arxiv.org/abs/2110.07546v1)|null|
 |**2021-10-13**|**Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity**|Ran Liu et.al.|[2110.06541v1](http://arxiv.org/abs/2110.06541v1)|null|
 |**2021-10-12**|**Learning Efficient Multi-Agent Cooperative Visual Exploration**|Chao Yu et.al.|[2110.05734v1](http://arxiv.org/abs/2110.05734v1)|null|
 |**2021-10-07**|**Self-Supervised Depth Completion for Active Stereo**|Frederik Warburg et.al.|[2110.03234v1](http://arxiv.org/abs/2110.03234v1)|null|
@@ -11,12 +12,12 @@
 |**2021-10-03**|**AEROS: Adaptive RObust least-Squares for Graph-Based SLAM**|Milad Ramezani et.al.|[2110.02018v1](http://arxiv.org/abs/2110.02018v1)|null|
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
-|**2021-10-01**|**ASH: A Modern Framework for Parallel Spatial Hashing in 3D Perception**|Wei Dong et.al.|[2110.00511v1](http://arxiv.org/abs/2110.00511v1)|null|
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera et.al.|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
 |**2021-09-24**|**Automatic Map Update Using Dashcam Videos**|Aziza Zhanabatyrova et.al.|[2109.12131v1](http://arxiv.org/abs/2109.12131v1)|null|
 |**2021-09-16**|**Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**|Gabriel Moreira et.al.|[2109.08046v1](http://arxiv.org/abs/2109.08046v1)|**[link](https://github.com/gabmoreira/maks)**|
@@ -26,7 +27,6 @@
 |**2021-08-31**|**DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension**|Roman Shapovalov et.al.|[2109.00033v1](http://arxiv.org/abs/2109.00033v1)|null|
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
-|**2021-08-18**|**Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**|Philipp Lindenberger et.al.|[2108.08291v1](http://arxiv.org/abs/2108.08291v1)|**[link](https://github.com/cvg/pixel-perfect-sfm)**|
 
 ## Visual Localization
 
