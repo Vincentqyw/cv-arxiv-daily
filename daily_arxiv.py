@@ -93,8 +93,16 @@ def update_daily_json(filename,data_all):
         else:
             m = json.loads(content)
             
+    json_data = m.copy() 
+    
+    # update papers in each keywords         
     for data in data_all:
-        m.update(data)
+        for keyword in data.keys():
+            papers = data[keyword]
+            if keyword in json_data.keys():
+                json_data[keyword].update(papers)
+            else:
+                json_data[keyword] = papers
 
     with open(filename,"w") as f:
         json.dump(m,f)
