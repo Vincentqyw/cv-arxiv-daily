@@ -1,5 +1,5 @@
 title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update at 23:00 UTC Every Day).
+description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
 #theme: jekyll-theme-slate
 
