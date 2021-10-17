@@ -112,7 +112,10 @@ def json_to_md(filename,to_web = False):
     @param filename: str
     @return None
     """
+    
     DateNow = datetime.date.today()
+    DateNow = str(DateNow)
+    DateNow = DateNow.replace('-','.')
     
     with open(filename,"r") as f:
         content = f.read()
@@ -136,7 +139,7 @@ def json_to_md(filename,to_web = False):
         if to_web == True:
             f.write("---\n" + "layout: default\n" + "---\n\n")
         
-        f.write(DateNow + "\n\n")
+        f.write("## Updated on " + DateNow + "\n\n")
         
         for day in data.keys():
             day_content = data[day]
