@@ -112,7 +112,8 @@ def json_to_md(filename,to_web = False):
     @param filename: str
     @return None
     """
-
+    DateNow = datetime.date.today()
+    
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -134,7 +135,9 @@ def json_to_md(filename,to_web = False):
 
         if to_web == True:
             f.write("---\n" + "layout: default\n" + "---\n\n")
-
+        
+        f.write(DateNow + "\n\n")
+        
         for day in data.keys():
             day_content = data[day]
             if not day_content:
@@ -160,7 +163,7 @@ def json_to_md(filename,to_web = False):
 
 if __name__ == "__main__":
 
-    DateNow = datetime.date.today()
+    
 
     data_collector = []
     data_collector_web= []
