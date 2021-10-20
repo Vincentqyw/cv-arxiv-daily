@@ -105,7 +105,7 @@ def update_daily_json(filename,data_all):
                 json_data[keyword] = papers
 
     with open(filename,"w") as f:
-        json.dump(m,f)
+        json.dump(json_data,f)
     
 def json_to_md(filename,to_web = False):
     """
