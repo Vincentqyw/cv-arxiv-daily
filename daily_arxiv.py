@@ -15,6 +15,13 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+def sort_papers(papers):
+    output = dict()
+    keys = list(papers.keys())
+    keys.sort(reverse=True)
+    for key in keys:
+        output[key] = papers[key]
+    return output    
 
 def get_daily_code(DateToday,query="slam", max_results=2):
     """
@@ -98,7 +105,10 @@ def update_daily_json(filename,data_all):
     # update papers in each keywords         
     for data in data_all:
         for keyword in data.keys():
-            papers = data[keyword]
+            papers_unsort = data[keyword]
+            # sort papers by date
+            papers = sort_papers(papers_unsort)
+        
             if keyword in json_data.keys():
                 json_data[keyword].update(papers)
             else:
@@ -141,12 +151,12 @@ def json_to_md(filename,to_web = False):
         
         f.write("## Updated on " + DateNow + "\n\n")
         
-        for day in data.keys():
-            day_content = data[day]
+        for keyword in data.keys():
+            day_content = data[keyword]
             if not day_content:
                 continue
             # the head of each part
-            f.write(f"## {day}\n\n")
+            f.write(f"## {keyword}\n\n")
 
             if to_web == False:
                 f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
