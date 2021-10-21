@@ -105,10 +105,8 @@ def update_daily_json(filename,data_all):
     # update papers in each keywords         
     for data in data_all:
         for keyword in data.keys():
-            papers_unsort = data[keyword]
-            # sort papers by date
-            papers = sort_papers(papers_unsort)
-        
+            papers = data[keyword]
+
             if keyword in json_data.keys():
                 json_data[keyword].update(papers)
             else:
@@ -164,6 +162,9 @@ def json_to_md(filename,to_web = False):
                 f.write("| Publish Date | Title | Authors | PDF | Code |\n")
                 f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
+            # sort papers by date
+            day_content = sort_papers(day_content)
+        
             for _,v in day_content.items():
                 if v is not None:
                     f.write(v)
