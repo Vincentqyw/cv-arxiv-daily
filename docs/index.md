@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-10-21**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotational Motion**|Zhenkun Zhu et.al.|[2110.11040v1](http://arxiv.org/abs/2110.11040v1)|null|
+|**2021-10-20**|**SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training**|Ankur Bapna et.al.|[2110.10329v1](http://arxiv.org/abs/2110.10329v1)|null|
 |**2021-10-18**|**Enhancing exploration algorithms for navigation with visual SLAM**|Kirill Muravyev et.al.|[2110.09156v1](http://arxiv.org/abs/2110.09156v1)|null|
 |**2021-10-18**|**Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment**|Rui Tian et.al.|[2110.08977v1](http://arxiv.org/abs/2110.08977v1)|null|
 |**2021-10-16**|**Partial Hierarchical Pose Graph Optimization for SLAM**|Alexander Korovko et.al.|[2110.08639v1](http://arxiv.org/abs/2110.08639v1)|null|
