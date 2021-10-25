@@ -1,8 +1,6 @@
 import datetime
-import time
 import requests
 import json
-from datetime import timedelta
 import arxiv
 import os
 
@@ -23,9 +21,9 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_code(DateToday,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=2):
     """
-    @param DateToday: str
+    @param topic: str
     @param query: str
     @return paper_with_code: dict
     """
@@ -77,22 +75,20 @@ def get_daily_code(DateToday,query="slam", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                # content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
                 content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
                 content_to_web[paper_key] = f"- **{publish_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url}), **[code]({repo_url})**\n"
             else:
-                # content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_abstract}|{paper_authors}|[{paper_id}]({paper_url})|null|\n"
                 content[paper_key] = f"|**{publish_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
                 content_to_web[paper_key] = f"- **{publish_time}**, **{paper_title}**, {paper_first_author} et.al., [PDF:{paper_id}]({paper_url})\n"
 
         except Exception as e:
             print(f"exception: {e} with id: {paper_key}")
 
-    data = {DateToday:content}
-    data_web = {DateToday:content_to_web}
+    data = {topic:content}
+    data_web = {topic:content_to_web}
     return data,data_web 
 
-def update_daily_json(filename,data_all):
+def update_json_file(filename,data_all):
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -194,7 +190,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_code(topic, query = keyword, max_results = 10)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
@@ -207,7 +203,7 @@ if __name__ == "__main__":
 #             print("create " + json_file)
 
     # update json data
-    update_daily_json(json_file,data_collector)
+    update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file)
 
@@ -218,6 +214,6 @@ if __name__ == "__main__":
 #             print("create " + json_file)
 
     # update json data
-    update_daily_json(json_file,data_collector)
+    update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file, to_web = True)
