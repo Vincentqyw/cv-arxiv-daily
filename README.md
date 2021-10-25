@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-10-21**|**Real-Time Ground-Plane Refined LiDAR SLAM**|Fan Yang et.al.|[2110.11517v1](http://arxiv.org/abs/2110.11517v1)|null|
+|**2021-10-21**|**SymbioLCD: Ensemble-Based Loop Closure Detection using CNN-Extracted Objects and Visual Bag-of-Words**|Jonathan J. Y. Kim et.al.|[2110.11491v1](http://arxiv.org/abs/2110.11491v1)|null|
 |**2021-10-21**|**InterpolationSLAM: A Novel Robust Visual SLAM System in Rotational Motion**|Zhenkun Zhu et.al.|[2110.11040v2](http://arxiv.org/abs/2110.11040v2)|null|
 |**2021-10-20**|**SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training**|Ankur Bapna et.al.|[2110.10329v1](http://arxiv.org/abs/2110.10329v1)|null|
 |**2021-10-18**|**Enhancing exploration algorithms for navigation with visual SLAM**|Kirill Muravyev et.al.|[2110.09156v1](http://arxiv.org/abs/2110.09156v1)|null|
