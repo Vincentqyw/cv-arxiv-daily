@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
+|**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii et.al.|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
 |**2021-11-07**|**Online Adaptation of Monocular Depth Prediction with Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v1](http://arxiv.org/abs/2111.04096v1)|null|
 |**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
