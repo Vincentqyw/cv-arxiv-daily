@@ -36,7 +36,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v1](http://arxiv.org/abs/2111.03708v1)|null|
+|**2021-11-05**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
 |**2021-11-03**|**Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**|Swarnabja Bhaumik et.al.|[2111.02064v1](http://arxiv.org/abs/2111.02064v1)|null|
 |**2021-10-14**|**Modeling dynamic target deformation in camera calibration**|Annika Hagemann et.al.|[2110.07322v1](http://arxiv.org/abs/2110.07322v1)|null|
 |**2021-10-13**|**Hyperspectral 3D Mapping of Underwater Environments**|Maxime Ferrera et.al.|[2110.06571v1](http://arxiv.org/abs/2110.06571v1)|null|
