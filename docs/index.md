@@ -15,7 +15,7 @@ layout: default
 |**2021-11-10**|**Comparing dominance of tennis' big three via multiple-output Bayesian quantile regression models**|Bruno Santos et.al.|[2111.05631v1](http://arxiv.org/abs/2111.05631v1)|null|
 |**2021-11-10**|**TomoSLAM: factor graph optimization for rotation angle refinement in microtomography**|Mark Griguletskii et.al.|[2111.05562v1](http://arxiv.org/abs/2111.05562v1)|null|
 |**2021-11-07**|**Hierarchical Segment-based Optimization for SLAM**|Yuxin Tian et.al.|[2111.04101v1](http://arxiv.org/abs/2111.04101v1)|null|
-|**2021-11-07**|**Online Adaptation of Monocular Depth Prediction with Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v1](http://arxiv.org/abs/2111.04096v1)|null|
+|**2021-11-07**|**Online Mutual Adaptation of Deep Depth Prediction and Visual SLAM**|Shing Yan Loo et.al.|[2111.04096v2](http://arxiv.org/abs/2111.04096v2)|null|
 |**2021-11-05**|**MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry**|Joan P. Company-Corcoles et.al.|[2111.03408v1](http://arxiv.org/abs/2111.03408v1)|null|
 |**2021-10-31**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v1](http://arxiv.org/abs/2111.00440v1)|null|
 |**2021-10-27**|**Millimeter Wave Wireless Assisted Robot Navigation with Link State Classification**|Mingsheng Yin et.al.|[2110.14789v2](http://arxiv.org/abs/2110.14789v2)|**[link](https://github.com/nyu-wireless/mmwRobotNav)**|
@@ -102,7 +102,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-11-17**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006v2](http://arxiv.org/abs/2111.09006v2)|null|
-|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou et.al.|[2111.08994v1](http://arxiv.org/abs/2111.08994v1)|null|
+|**2021-11-17**|**Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**|Xiaoteng Zhou et.al.|[2111.08994v2](http://arxiv.org/abs/2111.08994v2)|null|
 |**2021-10-30**|**A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**|Haldan N. Cohn et.al.|[2111.00357v1](http://arxiv.org/abs/2111.00357v1)|null|
 |**2021-10-01**|**Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**|Kevin Köser et.al.|[2110.00480v1](http://arxiv.org/abs/2110.00480v1)|null|
 |**2021-09-29**|**Visually Grounded Concept Composition**|Bowen Zhang et.al.|[2109.14115v1](http://arxiv.org/abs/2109.14115v1)|null|
