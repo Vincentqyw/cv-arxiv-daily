@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu et.al.|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
 |**2021-12-15**|**Homography Decomposition Networks for Planar Object Tracking**|Xinrui Zhan et.al.|[2112.07909v2](http://arxiv.org/abs/2112.07909v2)|null|
 |**2021-12-14**|**Autonomous Navigation System from Simultaneous Localization and Mapping**|Micheal Caracciolo et.al.|[2112.07723v1](http://arxiv.org/abs/2112.07723v1)|**[link](https://github.com/michealcarac/VSLAM-Mapping)**|
 |**2021-12-12**|**360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation**|Bolivar Solarte et.al.|[2112.06180v1](http://arxiv.org/abs/2112.06180v1)|null|
