@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 |**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
-|**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|null|
+|**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|**[link](https://github.com/url-kaist/uv-slam)**|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang et.al.|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
 |**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang et.al.|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li et.al.|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
@@ -89,7 +89,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
-|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/topo-epfl/crossloc)**|
+|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-11-25**|**MegLoc: A Robust and Accurate Visual Localization Pipeline**|Shuxue Peng et.al.|[2111.13063v1](http://arxiv.org/abs/2111.13063v1)|null|
 |**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb et.al.|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
