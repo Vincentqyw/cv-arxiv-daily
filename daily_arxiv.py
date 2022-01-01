@@ -56,7 +56,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         primary_category = result.primary_category
 
         publish_time = result.published.date()
-        update_time  = result.updated.data()
+        update_time  = result.updated.date()
       
         print("Time = ", update_time ,
               " title = ", paper_title,
