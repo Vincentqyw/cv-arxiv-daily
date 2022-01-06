@@ -1,4 +1,4 @@
-## Updated on 2022.01.05
+## Updated on 2022.01.06
 
 ## SLAM
 
