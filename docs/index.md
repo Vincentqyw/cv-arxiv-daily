@@ -65,6 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279v1](http://arxiv.org/abs/2201.02279v1)|null|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651v1](http://arxiv.org/abs/2112.14651v1)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
@@ -108,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242v1](http://arxiv.org/abs/2201.02242v1)|null|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159v1](http://arxiv.org/abs/2112.14159v1)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579v1](http://arxiv.org/abs/2112.12579v1)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193v1](http://arxiv.org/abs/2112.12193v1)|null|
