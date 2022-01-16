@@ -34,12 +34,14 @@
 - 2021-11-25, **MegLoc: A Robust and Accurate Visual Localization Pipeline**, Shuxue Peng et.al., Paper: [http://arxiv.org/abs/2111.13063v1](http://arxiv.org/abs/2111.13063v1)
 - 2021-10-08, **Semantic Image Alignment for Vehicle Localization**, Markus Herb et.al., Paper: [http://arxiv.org/abs/2110.04162v1](http://arxiv.org/abs/2110.04162v1)
 - 2021-10-05, **Season-invariant GNSS-denied visual localization for UAVs**, Jouko Kinnari et.al., Paper: [http://arxiv.org/abs/2110.01967v1](http://arxiv.org/abs/2110.01967v1), Code: **[https://github.com/aalto-intelligent-robotics/sivl](https://github.com/aalto-intelligent-robotics/sivl)**
+- 2021-09-30, **Forming a sparse representation for visual place recognition using a neurorobotic approach**, Sylvain Colomer et.al., Paper: [http://arxiv.org/abs/2109.14916v1](http://arxiv.org/abs/2109.14916v1)
 - 2021-09-22, **Audio-Visual Grounding Referring Expression for Robotic Manipulation**, Yefei Wang et.al., Paper: [http://arxiv.org/abs/2109.10571v1](http://arxiv.org/abs/2109.10571v1)
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
 ## Keypoint Detection
 
+- 2022-01-10, **Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**, Harry Nguyen et.al., Paper: [http://arxiv.org/abs/2201.03556v1](http://arxiv.org/abs/2201.03556v1), Code: **[https://github.com/StoneY1/Reproducing-BowNet](https://github.com/StoneY1/Reproducing-BowNet)**
 - 2022-01-10, **TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**, Jinnavat Sanalohit et.al., Paper: [http://arxiv.org/abs/2201.03170v1](http://arxiv.org/abs/2201.03170v1)
 - 2022-01-06, **A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2201.02242v1](http://arxiv.org/abs/2201.02242v1)
 - 2021-12-28, **Skin feature point tracking using deep feature encodings**, Jose Ramon Chang et.al., Paper: [http://arxiv.org/abs/2112.14159v1](http://arxiv.org/abs/2112.14159v1)
@@ -52,6 +54,7 @@
 
 ## Image Matching
 
+- 2021-12-24, **Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**, Zhiwei Liu et.al., Paper: [http://arxiv.org/abs/2112.12917v1](http://arxiv.org/abs/2112.12917v1)
 - 2021-12-20, **Scale-Net: Learning to Reduce Scale Differences for Large-Scale Invariant Image Matching**, Yujie Fu et.al., Paper: [http://arxiv.org/abs/2112.10485v1](http://arxiv.org/abs/2112.10485v1)
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-14, **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et.al., Paper: [http://arxiv.org/abs/2112.05744v2](http://arxiv.org/abs/2112.05744v2)
