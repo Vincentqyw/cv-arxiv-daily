@@ -77,11 +77,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 cnt += 1
                 repo_url = r["official"]["url"]
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- **{update_time}**, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
             else:
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- **{update_time}**, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
 
             # TODO: select useful comments
             comments = None
@@ -147,8 +147,11 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-        
-        f.write("## Updated on " + DateNow + "\n\n")
+
+        if use_title == True:
+            f.write("## Updated on " + DateNow + "\n\n")
+        else:
+            f.write("> Updated on " + DateNow + "\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
@@ -178,8 +181,6 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
  
 
 if __name__ == "__main__":
-
-    
 
     data_collector = []
     data_collector_web= []
