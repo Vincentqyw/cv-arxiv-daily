@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-01-17, **SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**, Giseop Kim et.al., Paper: [http://arxiv.org/abs/2201.06423v1](http://arxiv.org/abs/2201.06423v1)
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
 - 2022-01-11, **Multi-Hypothesis Scan Matching through Clustering**, Giorgio Iavicoli et.al., Paper: [http://arxiv.org/abs/2201.03814v1](http://arxiv.org/abs/2201.03814v1)
 - 2022-01-11, **Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**, Kevin J. Doherty et.al., Paper: [http://arxiv.org/abs/2201.03773v1](http://arxiv.org/abs/2201.03773v1)
@@ -29,6 +30,7 @@
 
 ## Visual Localization
 
+- 2022-01-15, **A Critical Analysis of Image-based Camera Pose Estimation Techniques**, Meng Xu et.al., Paper: [http://arxiv.org/abs/2201.05816v1](http://arxiv.org/abs/2201.05816v1)
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
 - 2021-12-23, **NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**, Tony Ng et.al., Paper: [http://arxiv.org/abs/2112.12785v1](http://arxiv.org/abs/2112.12785v1)
 - 2021-12-16, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v1](http://arxiv.org/abs/2112.09081v1)
@@ -43,6 +45,7 @@
 
 ## Keypoint Detection
 
+- 2022-01-16, **Cross-Centroid Ripple Pattern for Facial Expression Recognition**, Monu Verma et.al., Paper: [http://arxiv.org/abs/2201.05958v1](http://arxiv.org/abs/2201.05958v1)
 - 2022-01-14, **Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**, Harry Nguyen et.al., Paper: [http://arxiv.org/abs/2201.03556v2](http://arxiv.org/abs/2201.03556v2), Code: **[https://github.com/StoneY1/Reproducing-BowNet](https://github.com/StoneY1/Reproducing-BowNet)**
 - 2022-01-10, **TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**, Jinnavat Sanalohit et.al., Paper: [http://arxiv.org/abs/2201.03170v1](http://arxiv.org/abs/2201.03170v1)
 - 2022-01-06, **A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2201.02242v1](http://arxiv.org/abs/2201.02242v1)
