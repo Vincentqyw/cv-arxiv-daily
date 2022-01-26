@@ -1,8 +1,8 @@
-> Updated on 2022.01.25
+> Updated on 2022.01.26
 
 ## SLAM
 
-- 2022-01-24, **Learning to Act with Affordance-Aware Multimodal Neural SLAM**, Zhiwei Jia et.al., Paper: [http://arxiv.org/abs/2201.09862v1](http://arxiv.org/abs/2201.09862v1)
+- 2022-01-24, **Learning to Act with Affordance-Aware Multimodal Neural SLAM**, Zhiwei Jia et.al., Paper: [http://arxiv.org/abs/2201.09862v1](http://arxiv.org/abs/2201.09862v1), Code: **[https://github.com/amazon-research/multimodal-neuralslam](https://github.com/amazon-research/multimodal-neuralslam)**
 - 2022-01-22, **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2201.09048v1](http://arxiv.org/abs/2201.09048v1), Code: **[https://github.com/zhengxi-git/phase-slam](https://github.com/zhengxi-git/phase-slam)**
 - 2022-01-17, **SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**, Giseop Kim et.al., Paper: [http://arxiv.org/abs/2201.06423v1](http://arxiv.org/abs/2201.06423v1)
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
