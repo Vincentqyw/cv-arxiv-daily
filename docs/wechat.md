@@ -62,6 +62,7 @@
 
 ## Image Matching
 
+- 2022-01-27, **Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**, Jie Shao et.al., Paper: [http://arxiv.org/abs/2201.11296v1](http://arxiv.org/abs/2201.11296v1)
 - 2021-12-24, **Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**, Zhiwei Liu et.al., Paper: [http://arxiv.org/abs/2112.12917v1](http://arxiv.org/abs/2112.12917v1)
 - 2021-12-20, **Scale-Net: Learning to Reduce Scale Differences for Large-Scale Invariant Image Matching**, Yujie Fu et.al., Paper: [http://arxiv.org/abs/2112.10485v1](http://arxiv.org/abs/2112.10485v1)
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
