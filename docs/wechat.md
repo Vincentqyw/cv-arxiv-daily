@@ -36,6 +36,7 @@
 
 ## Visual Localization
 
+- 2022-02-02, **Training Semantic Descriptors for Image-Based Localization**, Ibrahim Cinaroglu et.al., Paper: [http://arxiv.org/abs/2202.01212v1](http://arxiv.org/abs/2202.01212v1)
 - 2022-01-31, **Rigidity Preserving Image Transformations and Equivariance in Perspective**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2201.13065v1](http://arxiv.org/abs/2201.13065v1)
 - 2022-01-15, **A Critical Analysis of Image-based Camera Pose Estimation Techniques**, Meng Xu et.al., Paper: [http://arxiv.org/abs/2201.05816v1](http://arxiv.org/abs/2201.05816v1)
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
