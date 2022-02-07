@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-02-04, **DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2202.01938v1](http://arxiv.org/abs/2202.01938v1)
 - 2022-02-01, **A Model for Multi-View Residual Covariances based on Perspective Deformation**, Alejandro Fontan et.al., Paper: [http://arxiv.org/abs/2202.00765v1](http://arxiv.org/abs/2202.00765v1)
 - 2022-01-30, **Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**, Xinghe Chu et.al., Paper: [http://arxiv.org/abs/2201.12726v1](http://arxiv.org/abs/2201.12726v1)
 - 2022-01-28, **RGB-D SLAM Using Attention Guided Frame Association**, Ali Caglayan et.al., Paper: [http://arxiv.org/abs/2201.12047v1](http://arxiv.org/abs/2201.12047v1)
@@ -36,6 +37,7 @@
 
 ## Visual Localization
 
+- 2022-02-03, **Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**, Andrea Vallone et.al., Paper: [http://arxiv.org/abs/2202.01821v1](http://arxiv.org/abs/2202.01821v1)
 - 2022-02-02, **Training Semantic Descriptors for Image-Based Localization**, Ibrahim Cinaroglu et.al., Paper: [http://arxiv.org/abs/2202.01212v1](http://arxiv.org/abs/2202.01212v1)
 - 2022-01-31, **Rigidity Preserving Image Transformations and Equivariance in Perspective**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2201.13065v1](http://arxiv.org/abs/2201.13065v1)
 - 2022-01-15, **A Critical Analysis of Image-based Camera Pose Estimation Techniques**, Meng Xu et.al., Paper: [http://arxiv.org/abs/2201.05816v1](http://arxiv.org/abs/2201.05816v1)
