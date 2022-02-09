@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
 - 2022-01-25, **Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**, Oussama Saoudi et.al., Paper: [http://arxiv.org/abs/2202.03148v1](http://arxiv.org/abs/2202.03148v1)
 - 2022-02-07, **Temporal Point Cloud Completion with Pose Disturbance**, Jieqi Shi et.al., Paper: [http://arxiv.org/abs/2202.03084v1](http://arxiv.org/abs/2202.03084v1)
 - 2022-02-04, **DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2202.01938v1](http://arxiv.org/abs/2202.01938v1)
@@ -72,6 +73,7 @@
 
 ## Image Matching
 
+- 2022-02-08, **Learning Optical Flow with Adaptive Graph Reasoning**, Ao Luo et.al., Paper: [http://arxiv.org/abs/2202.03857v1](http://arxiv.org/abs/2202.03857v1), Code: **[https://github.com/la30/agflow](https://github.com/la30/agflow)**
 - 2022-02-03, **Sim2Real Object-Centric Keypoint Detection and Description**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2202.00448v2](http://arxiv.org/abs/2202.00448v2)
 - 2022-01-27, **Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**, Jie Shao et.al., Paper: [http://arxiv.org/abs/2201.11296v1](http://arxiv.org/abs/2201.11296v1)
 - 2021-12-24, **Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**, Zhiwei Liu et.al., Paper: [http://arxiv.org/abs/2112.12917v1](http://arxiv.org/abs/2112.12917v1)
