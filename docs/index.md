@@ -108,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 |**2022-02-03**|**Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**|Andrea Vallone et.al.|[2202.01821v1](http://arxiv.org/abs/2202.01821v1)|null|
 |**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu et.al.|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
@@ -132,6 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-09**|**Motion-Aware Transformer For Occluded Person Re-identification**|Mi Zhou et.al.|[2202.04243v1](http://arxiv.org/abs/2202.04243v1)|null|
 |**2022-02-03**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-16**|**Cross-Centroid Ripple Pattern for Facial Expression Recognition**|Monu Verma et.al.|[2201.05958v1](http://arxiv.org/abs/2201.05958v1)|null|
 |**2022-01-14**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v2](http://arxiv.org/abs/2201.03556v2)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
