@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-02-10, **Scale Estimation with Dual Quadrics for Monocular Object SLAM**, Shuangfu Song et.al., Paper: [http://arxiv.org/abs/2202.04816v1](http://arxiv.org/abs/2202.04816v1)
 - 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
 - 2022-01-25, **Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**, Oussama Saoudi et.al., Paper: [http://arxiv.org/abs/2202.03148v1](http://arxiv.org/abs/2202.03148v1)
 - 2022-02-07, **Temporal Point Cloud Completion with Pose Disturbance**, Jieqi Shi et.al., Paper: [http://arxiv.org/abs/2202.03084v1](http://arxiv.org/abs/2202.03084v1)
@@ -59,7 +60,7 @@
 
 ## Keypoint Detection
 
-- 2022-02-09, **Motion-Aware Transformer For Occluded Person Re-identification**, Mi Zhou et.al., Paper: [http://arxiv.org/abs/2202.04243v1](http://arxiv.org/abs/2202.04243v1)
+- 2022-02-10, **Motion-Aware Transformer For Occluded Person Re-identification**, Mi Zhou et.al., Paper: [http://arxiv.org/abs/2202.04243v2](http://arxiv.org/abs/2202.04243v2)
 - 2022-02-03, **Sim2Real Object-Centric Keypoint Detection and Description**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2202.00448v2](http://arxiv.org/abs/2202.00448v2)
 - 2022-01-16, **Cross-Centroid Ripple Pattern for Facial Expression Recognition**, Monu Verma et.al., Paper: [http://arxiv.org/abs/2201.05958v1](http://arxiv.org/abs/2201.05958v1)
 - 2022-01-14, **Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**, Harry Nguyen et.al., Paper: [http://arxiv.org/abs/2201.03556v2](http://arxiv.org/abs/2201.03556v2), Code: **[https://github.com/StoneY1/Reproducing-BowNet](https://github.com/StoneY1/Reproducing-BowNet)**
