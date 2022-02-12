@@ -110,9 +110,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
+|**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-02-03**|**Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**|Andrea Vallone et.al.|[2202.01821v1](http://arxiv.org/abs/2202.01821v1)|null|
 |**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu et.al.|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
+|**2022-01-31**|**Hydra: A Real-time Spatial Perception Engine for 3D Scene Graph Construction and Optimization**|Nathan Hughes et.al.|[2201.13360v1](http://arxiv.org/abs/2201.13360v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte et.al.|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
+|**2022-01-25**|**Learning Semantics for Visual Place Recognition through Multi-Scale Attention**|Valerio Paolicelli et.al.|[2201.09701v2](http://arxiv.org/abs/2201.09701v2)|null|
+|**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
