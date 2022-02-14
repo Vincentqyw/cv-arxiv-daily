@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-02-11, **Overhead Image Factors for Underwater Sonar-based SLAM**, John McConnell et.al., Paper: [http://arxiv.org/abs/2202.05811v1](http://arxiv.org/abs/2202.05811v1)
 - 2022-02-10, **Scale Estimation with Dual Quadrics for Monocular Object SLAM**, Shuangfu Song et.al., Paper: [http://arxiv.org/abs/2202.04816v1](http://arxiv.org/abs/2202.04816v1)
 - 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
 - 2022-01-25, **Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**, Oussama Saoudi et.al., Paper: [http://arxiv.org/abs/2202.03148v1](http://arxiv.org/abs/2202.03148v1)
@@ -41,6 +42,7 @@
 
 ## Visual Localization
 
+- 2022-02-11, **Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**, Yingfeng Cai et.al., Paper: [http://arxiv.org/abs/2202.05738v1](http://arxiv.org/abs/2202.05738v1)
 - 2022-02-09, **Object-Guided Day-Night Visual Localization in Urban Scenes**, Assia Benbihi et.al., Paper: [http://arxiv.org/abs/2202.04445v1](http://arxiv.org/abs/2202.04445v1)
 - 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
 - 2022-02-03, **Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**, Andrea Vallone et.al., Paper: [http://arxiv.org/abs/2202.01821v1](http://arxiv.org/abs/2202.01821v1)
