@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.02.14
+## Updated on 2022.02.15
 
 ## SLAM
 
@@ -110,6 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-14**|**Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**|Y. Shen et.al.|[2202.06470v1](http://arxiv.org/abs/2202.06470v1)|null|
 |**2022-02-11**|**Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**|Yingfeng Cai et.al.|[2202.05738v1](http://arxiv.org/abs/2202.05738v1)|null|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi et.al.|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei et.al.|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
@@ -180,6 +181,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-02-14**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho et.al.|[2202.06817v1](http://arxiv.org/abs/2202.06817v1)|**[link](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**|
+|**2022-02-11**|**Improving Image-recognition Edge Caches with a Generative Adversarial Network**|Guilherme B. Souza et.al.|[2202.05929v1](http://arxiv.org/abs/2202.05929v1)|null|
 |**2022-02-08**|**Learning Optical Flow with Adaptive Graph Reasoning**|Ao Luo et.al.|[2202.03857v1](http://arxiv.org/abs/2202.03857v1)|**[link](https://github.com/la30/agflow)**|
 |**2022-02-03**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448v2](http://arxiv.org/abs/2202.00448v2)|null|
 |**2022-01-27**|**Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**|Jie Shao et.al.|[2201.11296v1](http://arxiv.org/abs/2201.11296v1)|null|

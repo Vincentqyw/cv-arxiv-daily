@@ -1,4 +1,4 @@
-> Updated on 2022.02.14
+> Updated on 2022.02.15
 
 ## SLAM
 
@@ -42,6 +42,7 @@
 
 ## Visual Localization
 
+- 2022-02-14, **Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**, Y. Shen et.al., Paper: [http://arxiv.org/abs/2202.06470v1](http://arxiv.org/abs/2202.06470v1)
 - 2022-02-11, **Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**, Yingfeng Cai et.al., Paper: [http://arxiv.org/abs/2202.05738v1](http://arxiv.org/abs/2202.05738v1)
 - 2022-02-09, **Object-Guided Day-Night Visual Localization in Urban Scenes**, Assia Benbihi et.al., Paper: [http://arxiv.org/abs/2202.04445v1](http://arxiv.org/abs/2202.04445v1)
 - 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
@@ -82,6 +83,8 @@
 
 ## Image Matching
 
+- 2022-02-14, **CATs++: Boosting Cost Aggregation with Convolutions and Transformers**, Seokju Cho et.al., Paper: [http://arxiv.org/abs/2202.06817v1](http://arxiv.org/abs/2202.06817v1), Code: **[https://github.com/SunghwanHong/Cost-Aggregation-transformers](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**
+- 2022-02-11, **Improving Image-recognition Edge Caches with a Generative Adversarial Network**, Guilherme B. Souza et.al., Paper: [http://arxiv.org/abs/2202.05929v1](http://arxiv.org/abs/2202.05929v1)
 - 2022-02-08, **Learning Optical Flow with Adaptive Graph Reasoning**, Ao Luo et.al., Paper: [http://arxiv.org/abs/2202.03857v1](http://arxiv.org/abs/2202.03857v1), Code: **[https://github.com/la30/agflow](https://github.com/la30/agflow)**
 - 2022-02-03, **Sim2Real Object-Centric Keypoint Detection and Description**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2202.00448v2](http://arxiv.org/abs/2202.00448v2)
 - 2022-01-27, **Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**, Jie Shao et.al., Paper: [http://arxiv.org/abs/2201.11296v1](http://arxiv.org/abs/2201.11296v1)
