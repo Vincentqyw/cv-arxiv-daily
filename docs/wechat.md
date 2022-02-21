@@ -2,6 +2,10 @@
 
 ## SLAM
 
+- 2022-02-18, **OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**, Stefan Leutenegger et.al., Paper: [http://arxiv.org/abs/2202.09199v1](http://arxiv.org/abs/2202.09199v1)
+- 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1)
+- 2022-02-18, **An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems**, Qiang Liu et.al., Paper: [http://arxiv.org/abs/2202.08952v1](http://arxiv.org/abs/2202.08952v1)
+- 2022-02-17, **Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study**, Giovanni Cioffi et.al., Paper: [http://arxiv.org/abs/2202.08894v1](http://arxiv.org/abs/2202.08894v1), Code: **[https://github.com/uzh-rpg/rpg_vision-based_slam](https://github.com/uzh-rpg/rpg_vision-based_slam)**
 - 2022-02-17, **LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**, Jiashi Zhang et.al., Paper: [http://arxiv.org/abs/2202.08487v1](http://arxiv.org/abs/2202.08487v1)
 - 2022-02-16, **Virtual Maps for Autonomous Exploration of Cluttered Underwater Environments**, Jinkun Wang et.al., Paper: [http://arxiv.org/abs/2202.08359v1](http://arxiv.org/abs/2202.08359v1)
 - 2022-02-11, **Overhead Image Factors for Underwater Sonar-based SLAM**, John McConnell et.al., Paper: [http://arxiv.org/abs/2202.05811v1](http://arxiv.org/abs/2202.05811v1)
@@ -30,6 +34,7 @@
 
 ## SFM
 
+- 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1)
 - 2022-01-20, **GeoFill: Reference-Based Image Inpainting of Scenes with Complex Geometry**, Yunhan Zhao et.al., Paper: [http://arxiv.org/abs/2201.08131v1](http://arxiv.org/abs/2201.08131v1)
 - 2022-01-13, **Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching**, Yunpeng Shi et.al., Paper: [http://arxiv.org/abs/2201.04797v1](http://arxiv.org/abs/2201.04797v1), Code: **[https://github.com/yunpeng-shi/fcc](https://github.com/yunpeng-shi/fcc)**
 - 2022-01-10, **High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**, Brian M. Hopkinson et.al., Paper: [http://arxiv.org/abs/2201.03364v1](http://arxiv.org/abs/2201.03364v1), Code: **[https://github.com/bmhopkinson/hyslam](https://github.com/bmhopkinson/hyslam)**
@@ -44,6 +49,7 @@
 
 ## Visual Localization
 
+- 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1)
 - 2022-02-14, **Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**, Y. Shen et.al., Paper: [http://arxiv.org/abs/2202.06470v1](http://arxiv.org/abs/2202.06470v1)
 - 2022-02-11, **Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**, Yingfeng Cai et.al., Paper: [http://arxiv.org/abs/2202.05738v1](http://arxiv.org/abs/2202.05738v1)
 - 2022-02-09, **Object-Guided Day-Night Visual Localization in Urban Scenes**, Assia Benbihi et.al., Paper: [http://arxiv.org/abs/2202.04445v1](http://arxiv.org/abs/2202.04445v1)
