@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-03-01, **Descriptellation: Deep Learned Constellation Descriptors for SLAM**, Chunwei Xing et.al., Paper: [http://arxiv.org/abs/2203.00567v1](http://arxiv.org/abs/2203.00567v1)
+- 2022-03-01, **Collaborative Robot Mapping using Spectral Graph Analysis**, Lukas Bernreiter et.al., Paper: [http://arxiv.org/abs/2203.00308v1](http://arxiv.org/abs/2203.00308v1)
 - 2022-02-26, **RL-PGO: Reinforcement Learning-based Planar Pose-Graph Optimization**, Nikolaos Kourtzanidis et.al., Paper: [http://arxiv.org/abs/2202.13221v1](http://arxiv.org/abs/2202.13221v1)
 - 2022-02-25, **Probabilistic Data Association for Semantic SLAM at Scale**, Elad Michael et.al., Paper: [http://arxiv.org/abs/2202.12802v1](http://arxiv.org/abs/2202.12802v1)
 - 2022-02-24, **TwistSLAM: Constrained SLAM in Dynamic Environment**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2202.12384v1](http://arxiv.org/abs/2202.12384v1)
@@ -57,6 +59,8 @@
 
 ## Visual Localization
 
+- 2022-03-01, **SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments**, Maria Waheed et.al., Paper: [http://arxiv.org/abs/2203.00591v1](http://arxiv.org/abs/2203.00591v1)
+- 2022-02-28, **Deep Camera Pose Regression Using Pseudo-LiDAR**, Ali Raza et.al., Paper: [http://arxiv.org/abs/2203.00080v1](http://arxiv.org/abs/2203.00080v1)
 - 2022-02-25, **RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**, Praveen Kumar Rajendran et.al., Paper: [http://arxiv.org/abs/2202.12838v1](http://arxiv.org/abs/2202.12838v1)
 - 2022-02-24, **Highly-Efficient Binary Neural Networks for Visual Place Recognition**, Bruno Ferrarini et.al., Paper: [http://arxiv.org/abs/2202.12375v1](http://arxiv.org/abs/2202.12375v1)
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
@@ -102,6 +106,7 @@
 
 ## Image Matching
 
+- 2022-03-01, **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2203.00386v1](http://arxiv.org/abs/2203.00386v1)
 - 2022-02-27, **Time-resolved Imaging of Stochastic Cascade Reactions over a Submillisecond to Second Time Range at the Angstrom Level**, Toshiki Shimizu et.al., Paper: [http://arxiv.org/abs/2202.13332v1](http://arxiv.org/abs/2202.13332v1)
 - 2022-02-16, **Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**, Matheus M. Dos Santos et.al., Paper: [http://arxiv.org/abs/2202.07817v1](http://arxiv.org/abs/2202.07817v1)
 - 2022-02-14, **CATs++: Boosting Cost Aggregation with Convolutions and Transformers**, Seokju Cho et.al., Paper: [http://arxiv.org/abs/2202.06817v1](http://arxiv.org/abs/2202.06817v1), Code: **[https://github.com/SunghwanHong/Cost-Aggregation-transformers](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**
