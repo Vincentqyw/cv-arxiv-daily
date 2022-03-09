@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-03-08, **An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**, Thorsten Hempel et.al., Paper: [http://arxiv.org/abs/2203.03944v1](http://arxiv.org/abs/2203.03944v1)
 - 2022-03-07, **Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**, Qingqing Li et.al., Paper: [http://arxiv.org/abs/2203.03454v1](http://arxiv.org/abs/2203.03454v1)
 - 2022-03-07, **OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**, Junyi Ma et.al., Paper: [http://arxiv.org/abs/2203.03397v1](http://arxiv.org/abs/2203.03397v1), Code: **[https://github.com/haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer)**
 - 2022-03-06, **Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**, Kazushi Aiba et.al., Paper: [http://arxiv.org/abs/2203.02887v1](http://arxiv.org/abs/2203.02887v1)
