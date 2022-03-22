@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-19**|**Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**|Jie Yang et.al.|[2203.10267v1](http://arxiv.org/abs/2203.10267v1)|null|
 |**2022-03-16**|**Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**|Ian D. Miller et.al.|[2203.08925v1](http://arxiv.org/abs/2203.08925v1)|**[link](https://github.com/iandouglas96/cross_view_slam)**|
 |**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi et.al.|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
 |**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow et.al.|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
@@ -116,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
 |**2022-03-02**|**Asynchronous Optimisation for Event-based Visual Odometry**|Daqi Liu et.al.|[2203.01037v1](http://arxiv.org/abs/2203.01037v1)|null|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian et.al.|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
