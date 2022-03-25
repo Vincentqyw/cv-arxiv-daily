@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-03-24, **MD-SLAM: Multi-cue Direct SLAM**, Luca Di Giammarino et.al., Paper: [http://arxiv.org/abs/2203.13237v1](http://arxiv.org/abs/2203.13237v1)
+- 2022-03-24, **Unsupervised Simultaneous Learning for Camera Re-Localization and Depth Estimation from Video**, Shun Taguchi et.al., Paper: [http://arxiv.org/abs/2203.12804v1](http://arxiv.org/abs/2203.12804v1)
 - 2022-03-19, **Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2203.10267v1](http://arxiv.org/abs/2203.10267v1)
 - 2022-03-16, **Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**, Ian D. Miller et.al., Paper: [http://arxiv.org/abs/2203.08925v1](http://arxiv.org/abs/2203.08925v1), Code: **[https://github.com/iandouglas96/cross_view_slam](https://github.com/iandouglas96/cross_view_slam)**
 - 2022-03-15, **Neural RF SLAM for unsupervised positioning and mapping with channel state information**, Shreya Kadambi et.al., Paper: [http://arxiv.org/abs/2203.08264v1](http://arxiv.org/abs/2203.08264v1)
@@ -82,6 +84,8 @@
 
 ## Visual Localization
 
+- 2022-03-24, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v1](http://arxiv.org/abs/2203.13048v1)
+- 2022-03-24, **Is Geometry Enough for Matching in Visual Localization?**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2203.12979v1](http://arxiv.org/abs/2203.12979v1)
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-10, **ReF -- Rotation Equivariant Features for Local Feature Matching**, Abhishek Peri et.al., Paper: [http://arxiv.org/abs/2203.05206v1](http://arxiv.org/abs/2203.05206v1)
 - 2022-03-09, **Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2203.04613v1](http://arxiv.org/abs/2203.04613v1)
@@ -119,6 +123,7 @@
 
 ## Keypoint Detection
 
+- 2022-03-23, **UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2203.12745v1](http://arxiv.org/abs/2203.12745v1)
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-16, **PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**, R. James Cotton et.al., Paper: [http://arxiv.org/abs/2203.08792v1](http://arxiv.org/abs/2203.08792v1), Code: **[https://github.com/peabody124/posepipeline](https://github.com/peabody124/posepipeline)**
 - 2022-03-11, **DRTAM: Dual Rank-1 Tensor Attention Module**, Hanxing Chi et.al., Paper: [http://arxiv.org/abs/2203.05893v1](http://arxiv.org/abs/2203.05893v1)
