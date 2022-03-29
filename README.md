@@ -1,4 +1,4 @@
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## SLAM
 
@@ -194,7 +194,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v1](http://arxiv.org/abs/2203.12745v1)|**[link](https://github.com/tencentarc/umt)**|
+|**2022-03-27**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v2](http://arxiv.org/abs/2203.12745v2)|**[link](https://github.com/tencentarc/umt)**|
 |**2022-03-21**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|**[link](https://github.com/jamycheung/matchformer)**|
 |**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
 |**2022-03-11**|**DRTAM: Dual Rank-1 Tensor Attention Module**|Hanxing Chi et.al.|[2203.05893v1](http://arxiv.org/abs/2203.05893v1)|null|
