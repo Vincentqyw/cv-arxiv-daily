@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-03-29, **Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**, Mostafa Osman et.al., Paper: [http://arxiv.org/abs/2203.15866v1](http://arxiv.org/abs/2203.15866v1)
 - 2022-03-29, **Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**, Mingjun Li et.al., Paper: [http://arxiv.org/abs/2203.15439v1](http://arxiv.org/abs/2203.15439v1)
 - 2022-03-29, **Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**, Pranay Mathur et.al., Paper: [http://arxiv.org/abs/2203.15272v1](http://arxiv.org/abs/2203.15272v1)
 - 2022-03-28, **Are High-Resolution Event Cameras Really Needed?**, Daniel Gehrig et.al., Paper: [http://arxiv.org/abs/2203.14672v1](http://arxiv.org/abs/2203.14672v1)
@@ -71,6 +72,7 @@
 
 ## SFM
 
+- 2022-03-30, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v1](http://arxiv.org/abs/2203.16505v1)
 - 2022-03-28, **Visual Odometry for RGB-D Cameras**, Afonso Fontes et.al., Paper: [http://arxiv.org/abs/2203.15119v1](http://arxiv.org/abs/2203.15119v1)
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1)
 - 2022-03-23, **Event-Based Dense Reconstruction Pipeline**, Kun Xiao et.al., Paper: [http://arxiv.org/abs/2203.12270v1](http://arxiv.org/abs/2203.12270v1)
@@ -92,6 +94,7 @@
 
 ## Visual Localization
 
+- 2022-03-30, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v1](http://arxiv.org/abs/2203.16291v1)
 - 2022-03-29, **Long-term Visual Map Sparsification with Heterogeneous GNN**, Ming-Fang Chang et.al., Paper: [http://arxiv.org/abs/2203.15182v1](http://arxiv.org/abs/2203.15182v1)
 - 2022-03-24, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v1](http://arxiv.org/abs/2203.13048v1)
 - 2022-03-24, **Is Geometry Enough for Matching in Visual Localization?**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2203.12979v1](http://arxiv.org/abs/2203.12979v1)
@@ -155,6 +158,7 @@
 
 ## Image Matching
 
+- 2022-03-30, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v1](http://arxiv.org/abs/2203.16291v1)
 - 2022-03-29, **Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**, Christian Sigg et.al., Paper: [http://arxiv.org/abs/2203.15601v1](http://arxiv.org/abs/2203.15601v1)
 - 2022-03-29, **Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**, Pranay Mathur et.al., Paper: [http://arxiv.org/abs/2203.15272v1](http://arxiv.org/abs/2203.15272v1)
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1)
