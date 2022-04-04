@@ -1,4 +1,4 @@
-> Updated on 2022.04.03
+> Updated on 2022.04.04
 
 ## SLAM
 
@@ -98,7 +98,7 @@
 - 2022-03-31, **Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**, Semih Orhan et.al., Paper: [http://arxiv.org/abs/2203.16945v1](http://arxiv.org/abs/2203.16945v1)
 - 2022-03-30, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v1](http://arxiv.org/abs/2203.16291v1)
 - 2022-03-29, **Long-term Visual Map Sparsification with Heterogeneous GNN**, Ming-Fang Chang et.al., Paper: [http://arxiv.org/abs/2203.15182v1](http://arxiv.org/abs/2203.15182v1)
-- 2022-03-24, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v1](http://arxiv.org/abs/2203.13048v1)
+- 2022-04-01, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v2](http://arxiv.org/abs/2203.13048v2)
 - 2022-03-24, **Is Geometry Enough for Matching in Visual Localization?**, Qunjie Zhou et.al., Paper: [http://arxiv.org/abs/2203.12979v1](http://arxiv.org/abs/2203.12979v1)
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-10, **ReF -- Rotation Equivariant Features for Local Feature Matching**, Abhishek Peri et.al., Paper: [http://arxiv.org/abs/2203.05206v1](http://arxiv.org/abs/2203.05206v1)
