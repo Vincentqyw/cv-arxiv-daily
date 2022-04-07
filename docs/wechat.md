@@ -79,6 +79,8 @@
 
 ## SFM
 
+- 2022-04-06, **Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**, Lukas Bommes et.al., Paper: [http://arxiv.org/abs/2204.02733v1](http://arxiv.org/abs/2204.02733v1), Code: **[https://github.com/lukasbommes/pv-hawk](https://github.com/lukasbommes/pv-hawk)**
+- 2022-04-05, **Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**, Sheng Liu et.al., Paper: [http://arxiv.org/abs/2204.02509v1](http://arxiv.org/abs/2204.02509v1), Code: **[https://github.com/amazon-research/small-baseline-camera-tracking](https://github.com/amazon-research/small-baseline-camera-tracking)**
 - 2022-03-31, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v2](http://arxiv.org/abs/2203.16505v2)
 - 2022-03-28, **Visual Odometry for RGB-D Cameras**, Afonso Fontes et.al., Paper: [http://arxiv.org/abs/2203.15119v1](http://arxiv.org/abs/2203.15119v1)
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1), Code: **[https://github.com/martyushev/eliminationtemplates](https://github.com/martyushev/eliminationtemplates)**
@@ -145,6 +147,7 @@
 
 ## Keypoint Detection
 
+- 2022-04-06, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v1](http://arxiv.org/abs/2204.02611v1), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-04-01, **MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2204.00260v1](http://arxiv.org/abs/2204.00260v1)
 - 2022-03-29, **Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**, David Howard et.al., Paper: [http://arxiv.org/abs/2203.15172v1](http://arxiv.org/abs/2203.15172v1)
