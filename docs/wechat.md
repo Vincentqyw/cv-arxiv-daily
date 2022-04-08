@@ -1,4 +1,4 @@
-> Updated on 2022.04.07
+> Updated on 2022.04.08
 
 ## SLAM
 
@@ -147,7 +147,7 @@
 
 ## Keypoint Detection
 
-- 2022-04-06, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v1](http://arxiv.org/abs/2204.02611v1), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
+- 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-04-01, **MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2204.00260v1](http://arxiv.org/abs/2204.00260v1)
 - 2022-03-29, **Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**, David Howard et.al., Paper: [http://arxiv.org/abs/2203.15172v1](http://arxiv.org/abs/2203.15172v1)
