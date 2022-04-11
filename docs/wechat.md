@@ -79,6 +79,7 @@
 
 ## SFM
 
+- 2022-04-08, **Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**, Debao Huang et.al., Paper: [http://arxiv.org/abs/2204.04145v1](http://arxiv.org/abs/2204.04145v1)
 - 2022-04-07, **SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**, Yi Wei et.al., Paper: [http://arxiv.org/abs/2204.03636v1](http://arxiv.org/abs/2204.03636v1), Code: **[https://github.com/weiyithu/surrounddepth](https://github.com/weiyithu/surrounddepth)**
 - 2022-04-06, **Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**, Lukas Bommes et.al., Paper: [http://arxiv.org/abs/2204.02733v1](http://arxiv.org/abs/2204.02733v1), Code: **[https://github.com/lukasbommes/pv-hawk](https://github.com/lukasbommes/pv-hawk)**
 - 2022-04-05, **Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows**, Sheng Liu et.al., Paper: [http://arxiv.org/abs/2204.02509v1](http://arxiv.org/abs/2204.02509v1), Code: **[https://github.com/amazon-research/small-baseline-camera-tracking](https://github.com/amazon-research/small-baseline-camera-tracking)**
@@ -174,6 +175,7 @@
 
 ## Image Matching
 
+- 2022-04-08, **Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**, Andrew Chen et.al., Paper: [http://arxiv.org/abs/2204.03853v1](http://arxiv.org/abs/2204.03853v1)
 - 2022-03-30, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v1](http://arxiv.org/abs/2203.16291v1)
 - 2022-03-29, **Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**, Christian Sigg et.al., Paper: [http://arxiv.org/abs/2203.15601v1](http://arxiv.org/abs/2203.15601v1)
 - 2022-03-29, **Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**, Pranay Mathur et.al., Paper: [http://arxiv.org/abs/2203.15272v1](http://arxiv.org/abs/2203.15272v1)
