@@ -269,7 +269,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen et.al.|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|null|
+|**2022-04-08**|**Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**|Andrew Chen et.al.|[2204.03853v1](http://arxiv.org/abs/2204.03853v1)|**[link](https://github.com/astro-data-lab/starshade-xy)**|
 |**2022-03-30**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v1](http://arxiv.org/abs/2203.16291v1)|null|
 |**2022-03-29**|**Photographic Visualization of Weather Forecasts with Generative Adversarial Networks**|Christian Sigg et.al.|[2203.15601v1](http://arxiv.org/abs/2203.15601v1)|null|
 |**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur et.al.|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
