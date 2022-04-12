@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
 - 2022-04-04, **Monitoring social distancing with single image depth estimation**, Alessio Mingozzi et.al., Paper: [http://arxiv.org/abs/2204.01693v1](http://arxiv.org/abs/2204.01693v1)
 - 2022-04-01, **Bi-directional Loop Closure for Visual SLAM**, Ihtisham Ali et.al., Paper: [http://arxiv.org/abs/2204.01524v1](http://arxiv.org/abs/2204.01524v1)
 - 2022-04-04, **IMOT: General-Purpose, Fast and Robust Estimation for Spatial Perception Problems with Outliers**, Lei Sun et.al., Paper: [http://arxiv.org/abs/2204.01324v1](http://arxiv.org/abs/2204.01324v1)
@@ -79,6 +80,7 @@
 
 ## SFM
 
+- 2022-04-10, **Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**, Hui Deng et.al., Paper: [http://arxiv.org/abs/2204.04730v1](http://arxiv.org/abs/2204.04730v1)
 - 2022-04-08, **Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**, Debao Huang et.al., Paper: [http://arxiv.org/abs/2204.04145v1](http://arxiv.org/abs/2204.04145v1)
 - 2022-04-07, **SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**, Yi Wei et.al., Paper: [http://arxiv.org/abs/2204.03636v1](http://arxiv.org/abs/2204.03636v1), Code: **[https://github.com/weiyithu/surrounddepth](https://github.com/weiyithu/surrounddepth)**
 - 2022-04-06, **Georeferencing of Photovoltaic Modules from Aerial Infrared Videos using Structure-from-Motion**, Lukas Bommes et.al., Paper: [http://arxiv.org/abs/2204.02733v1](http://arxiv.org/abs/2204.02733v1), Code: **[https://github.com/lukasbommes/pv-hawk](https://github.com/lukasbommes/pv-hawk)**
@@ -105,6 +107,8 @@
 
 ## Visual Localization
 
+- 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
+- 2022-04-10, **Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2204.04752v1](http://arxiv.org/abs/2204.04752v1), Code: **[https://github.com/shiyujiao/highlyaccurate](https://github.com/shiyujiao/highlyaccurate)**
 - 2022-04-01, **Bi-directional Loop Closure for Visual SLAM**, Ihtisham Ali et.al., Paper: [http://arxiv.org/abs/2204.01524v1](http://arxiv.org/abs/2204.01524v1)
 - 2022-04-01, **LASER: LAtent SpacE Rendering for 2D Visual Localization**, Zhixiang Min et.al., Paper: [http://arxiv.org/abs/2204.00157v1](http://arxiv.org/abs/2204.00157v1)
 - 2022-03-31, **Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**, Semih Orhan et.al., Paper: [http://arxiv.org/abs/2203.16945v1](http://arxiv.org/abs/2203.16945v1)
@@ -149,6 +153,7 @@
 
 ## Keypoint Detection
 
+- 2022-04-11, **Towards Homogeneous Modality Learning and Multi-Granularity Information Exploration for Visible-Infrared Person Re-Identification**, Haojie Liu et.al., Paper: [http://arxiv.org/abs/2204.04842v1](http://arxiv.org/abs/2204.04842v1)
 - 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-04-01, **MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**, Chenzhong Gao et.al., Paper: [http://arxiv.org/abs/2204.00260v1](http://arxiv.org/abs/2204.00260v1)
