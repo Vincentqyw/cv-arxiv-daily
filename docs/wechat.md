@@ -1,7 +1,10 @@
-> Updated on 2022.04.12
+> Updated on 2022.04.14
 
 ## SLAM
 
+- 2022-04-13, **ViViD++: Vision for Visibility Dataset**, Alex Junho Lee et.al., Paper: [http://arxiv.org/abs/2204.06183v1](http://arxiv.org/abs/2204.06183v1)
+- 2022-04-12, **HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**, Zhixing Hou et.al., Paper: [http://arxiv.org/abs/2204.05481v1](http://arxiv.org/abs/2204.05481v1)
+- 2022-04-12, **RGB-D Semantic SLAM for Surgical Robot Navigation in the Operating Room**, Cong Gao et.al., Paper: [http://arxiv.org/abs/2204.05467v1](http://arxiv.org/abs/2204.05467v1)
 - 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
 - 2022-04-04, **Monitoring social distancing with single image depth estimation**, Alessio Mingozzi et.al., Paper: [http://arxiv.org/abs/2204.01693v1](http://arxiv.org/abs/2204.01693v1)
 - 2022-04-01, **Bi-directional Loop Closure for Visual SLAM**, Ihtisham Ali et.al., Paper: [http://arxiv.org/abs/2204.01524v1](http://arxiv.org/abs/2204.01524v1)
@@ -107,8 +110,16 @@
 
 ## Visual Localization
 
+- 2022-04-13, **Reuse your features: unifying retrieval and feature-metric alignment**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2204.06292v1](http://arxiv.org/abs/2204.06292v1)
+- 2022-04-12, **Probabilistic Compositional Embeddings for Multimodal Image Retrieval**, Andrei Neculai et.al., Paper: [http://arxiv.org/abs/2204.05845v1](http://arxiv.org/abs/2204.05845v1), Code: **[https://github.com/andreineculai/mpc](https://github.com/andreineculai/mpc)**
+- 2022-04-12, **Three-Stream Joint Network for Zero-Shot Sketch-Based Image Retrieval**, Yu-Wei Zhan et.al., Paper: [http://arxiv.org/abs/2204.05666v1](http://arxiv.org/abs/2204.05666v1)
+- 2022-04-12, **HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**, Zhixing Hou et.al., Paper: [http://arxiv.org/abs/2204.05481v1](http://arxiv.org/abs/2204.05481v1)
 - 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
 - 2022-04-10, **Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2204.04752v1](http://arxiv.org/abs/2204.04752v1), Code: **[https://github.com/shiyujiao/highlyaccurate](https://github.com/shiyujiao/highlyaccurate)**
+- 2022-04-08, **A Generic Image Retrieval Method for Date Estimation of Historical Document Collections**, Adrià Molina et.al., Paper: [http://arxiv.org/abs/2204.04028v1](http://arxiv.org/abs/2204.04028v1)
+- 2022-04-08, **SnapMode: An Intelligent and Distributed Large-Scale Fashion Image Retrieval Platform Based On Big Data and Deep Generative Adversarial Network Technologies**, Narges Norouzi et.al., Paper: [http://arxiv.org/abs/2204.03998v1](http://arxiv.org/abs/2204.03998v1)
+- 2022-04-05, **Leveraging Equivariant Features for Absolute Pose Regression**, Mohamed Adel Musallam et.al., Paper: [http://arxiv.org/abs/2204.02163v1](http://arxiv.org/abs/2204.02163v1)
+- 2022-04-04, **"This is my unicorn, Fluffy": Personalizing frozen vision-language representations**, Niv Cohen et.al., Paper: [http://arxiv.org/abs/2204.01694v1](http://arxiv.org/abs/2204.01694v1)
 - 2022-04-01, **Bi-directional Loop Closure for Visual SLAM**, Ihtisham Ali et.al., Paper: [http://arxiv.org/abs/2204.01524v1](http://arxiv.org/abs/2204.01524v1)
 - 2022-04-01, **LASER: LAtent SpacE Rendering for 2D Visual Localization**, Zhixiang Min et.al., Paper: [http://arxiv.org/abs/2204.00157v1](http://arxiv.org/abs/2204.00157v1)
 - 2022-03-31, **Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**, Semih Orhan et.al., Paper: [http://arxiv.org/abs/2203.16945v1](http://arxiv.org/abs/2203.16945v1)
