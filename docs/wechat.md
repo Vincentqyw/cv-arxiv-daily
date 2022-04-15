@@ -1,8 +1,8 @@
-> Updated on 2022.04.14
+> Updated on 2022.04.15
 
 ## SLAM
 
-- 2022-04-13, **ViViD++: Vision for Visibility Dataset**, Alex Junho Lee et.al., Paper: [http://arxiv.org/abs/2204.06183v1](http://arxiv.org/abs/2204.06183v1)
+- 2022-04-14, **ViViD++: Vision for Visibility Dataset**, Alex Junho Lee et.al., Paper: [http://arxiv.org/abs/2204.06183v2](http://arxiv.org/abs/2204.06183v2)
 - 2022-04-12, **HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**, Zhixing Hou et.al., Paper: [http://arxiv.org/abs/2204.05481v1](http://arxiv.org/abs/2204.05481v1)
 - 2022-04-12, **RGB-D Semantic SLAM for Surgical Robot Navigation in the Operating Room**, Cong Gao et.al., Paper: [http://arxiv.org/abs/2204.05467v1](http://arxiv.org/abs/2204.05467v1)
 - 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
@@ -10,7 +10,7 @@
 - 2022-04-01, **Bi-directional Loop Closure for Visual SLAM**, Ihtisham Ali et.al., Paper: [http://arxiv.org/abs/2204.01524v1](http://arxiv.org/abs/2204.01524v1)
 - 2022-04-04, **IMOT: General-Purpose, Fast and Robust Estimation for Spatial Perception Problems with Outliers**, Lei Sun et.al., Paper: [http://arxiv.org/abs/2204.01324v1](http://arxiv.org/abs/2204.01324v1)
 - 2022-04-03, **Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**, Wenyan Ou et.al., Paper: [http://arxiv.org/abs/2204.01154v1](http://arxiv.org/abs/2204.01154v1)
-- 2022-04-02, **UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**, Ayyappa Swamy Thatavarthy et.al., Paper: [http://arxiv.org/abs/2204.00865v1](http://arxiv.org/abs/2204.00865v1)
+- 2022-04-02, **UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**, Ayyappa Swamy Thatavarthy et.al., Paper: [http://arxiv.org/abs/2204.00865v1](http://arxiv.org/abs/2204.00865v1), Code: **[https://github.com/sudarshan-s-harithas/urbanfly](https://github.com/sudarshan-s-harithas/urbanfly)**
 - 2022-03-31, **Curiosity Driven Self-supervised Tactile Exploration of Unknown Objects**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2204.00035v1](http://arxiv.org/abs/2204.00035v1)
 - 2022-03-30, **GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2203.16690v1](http://arxiv.org/abs/2203.16690v1)
 - 2022-03-29, **Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**, Mostafa Osman et.al., Paper: [http://arxiv.org/abs/2203.15866v1](http://arxiv.org/abs/2203.15866v1)
