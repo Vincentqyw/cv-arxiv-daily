@@ -110,6 +110,7 @@
 
 ## Visual Localization
 
+- 2022-04-14, **Composite Code Sparse Autoencoders for first stage retrieval**, Carlos Lassance et.al., Paper: [http://arxiv.org/abs/2204.07023v1](http://arxiv.org/abs/2204.07023v1)
 - 2022-04-13, **Reuse your features: unifying retrieval and feature-metric alignment**, Javier Morlana et.al., Paper: [http://arxiv.org/abs/2204.06292v1](http://arxiv.org/abs/2204.06292v1)
 - 2022-04-12, **Probabilistic Compositional Embeddings for Multimodal Image Retrieval**, Andrei Neculai et.al., Paper: [http://arxiv.org/abs/2204.05845v1](http://arxiv.org/abs/2204.05845v1), Code: **[https://github.com/andreineculai/mpc](https://github.com/andreineculai/mpc)**
 - 2022-04-12, **Three-Stream Joint Network for Zero-Shot Sketch-Based Image Retrieval**, Yu-Wei Zhan et.al., Paper: [http://arxiv.org/abs/2204.05666v1](http://arxiv.org/abs/2204.05666v1)
