@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-04-19, **Photometric single-view dense 3D reconstruction in endoscopy**, Victor M. Batlle et.al., Paper: [http://arxiv.org/abs/2204.09083v1](http://arxiv.org/abs/2204.09083v1)
 - 2022-04-18, **Pulsar skips: Understanding variations in the regular periods of rotating neutron stars**, Clayton Miller et.al., Paper: [http://arxiv.org/abs/2204.08449v1](http://arxiv.org/abs/2204.08449v1)
 - 2022-04-18, **Tracking monocular camera pose and deformation for SLAM inside the human body**, Juan J. Gomez Rodriguez et.al., Paper: [http://arxiv.org/abs/2204.08309v1](http://arxiv.org/abs/2204.08309v1)
 - 2022-04-18, **Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker**, Hanjing Ye et.al., Paper: [http://arxiv.org/abs/2204.08163v1](http://arxiv.org/abs/2204.08163v1)
@@ -86,6 +87,7 @@
 
 ## SFM
 
+- 2022-04-20, **Learned Monocular Depth Priors in Visual-Inertial Initialization**, Yunwen Zhou et.al., Paper: [http://arxiv.org/abs/2204.09171v1](http://arxiv.org/abs/2204.09171v1)
 - 2022-04-10, **Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**, Hui Deng et.al., Paper: [http://arxiv.org/abs/2204.04730v1](http://arxiv.org/abs/2204.04730v1)
 - 2022-04-08, **Constrained Bundle Adjustment for Structure From Motion Using Uncalibrated Multi-Camera Systems**, Debao Huang et.al., Paper: [http://arxiv.org/abs/2204.04145v1](http://arxiv.org/abs/2204.04145v1)
 - 2022-04-07, **SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation**, Yi Wei et.al., Paper: [http://arxiv.org/abs/2204.03636v1](http://arxiv.org/abs/2204.03636v1), Code: **[https://github.com/weiyithu/surrounddepth](https://github.com/weiyithu/surrounddepth)**
@@ -113,6 +115,7 @@
 
 ## Visual Localization
 
+- 2022-04-20, **Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**, Leila Pishdad et.al., Paper: [http://arxiv.org/abs/2204.09268v1](http://arxiv.org/abs/2204.09268v1)
 - 2022-04-19, **Unsupervised Contrastive Hashing for Cross-Modal Retrieval in Remote Sensing**, Georgii Mikriukov et.al., Paper: [http://arxiv.org/abs/2204.08707v1](http://arxiv.org/abs/2204.08707v1)
 - 2022-04-18, **Multiple-environment Self-adaptive Network for Aerial-view Geo-localization**, Tingyu Wang et.al., Paper: [http://arxiv.org/abs/2204.08381v1](http://arxiv.org/abs/2204.08381v1)
 - 2022-04-15, **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**, Hanjing Ye et.al., Paper: [http://arxiv.org/abs/2204.07350v1](http://arxiv.org/abs/2204.07350v1), Code: **[https://github.com/medlartea/cae-vpr](https://github.com/medlartea/cae-vpr)**
@@ -201,6 +204,7 @@
 
 ## Image Matching
 
+- 2022-04-20, **Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**, Leila Pishdad et.al., Paper: [http://arxiv.org/abs/2204.09268v1](http://arxiv.org/abs/2204.09268v1)
 - 2022-04-19, **OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**, Ostap Viniavskyi et.al., Paper: [http://arxiv.org/abs/2204.08870v1](http://arxiv.org/abs/2204.08870v1), Code: **[https://github.com/ucuapps/openglue](https://github.com/ucuapps/openglue)**
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1)
 - 2022-04-16, **Efficient Linear Attention for Fast and Accurate Keypoint Matching**, Suwichaya Suwanwimolkul et.al., Paper: [http://arxiv.org/abs/2204.07731v1](http://arxiv.org/abs/2204.07731v1)
