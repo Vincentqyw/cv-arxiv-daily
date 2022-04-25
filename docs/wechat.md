@@ -2,6 +2,10 @@
 
 ## SLAM
 
+- 2022-04-22, **Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2204.10631v1](http://arxiv.org/abs/2204.10631v1)
+- 2022-04-22, **Fast Autonomous Robotic Exploration Using the Underlying Graph Structure**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2204.10610v1](http://arxiv.org/abs/2204.10610v1)
+- 2022-04-22, **Making Parameterization and Constrains of Object Landmark Globally Consistent via SPD(3) Manifold and Improved Cost Functions**, Yutong Hu et.al., Paper: [http://arxiv.org/abs/2204.10552v1](http://arxiv.org/abs/2204.10552v1)
+- 2022-04-22, **Implicit Object Mapping With Noisy Data**, Jad Abou-Chakra et.al., Paper: [http://arxiv.org/abs/2204.10516v1](http://arxiv.org/abs/2204.10516v1)
 - 2022-04-19, **Photometric single-view dense 3D reconstruction in endoscopy**, Victor M. Batlle et.al., Paper: [http://arxiv.org/abs/2204.09083v1](http://arxiv.org/abs/2204.09083v1)
 - 2022-04-18, **Pulsar skips: Understanding variations in the regular periods of rotating neutron stars**, Clayton Miller et.al., Paper: [http://arxiv.org/abs/2204.08449v1](http://arxiv.org/abs/2204.08449v1)
 - 2022-04-18, **Tracking monocular camera pose and deformation for SLAM inside the human body**, Juan J. Gomez Rodriguez et.al., Paper: [http://arxiv.org/abs/2204.08309v1](http://arxiv.org/abs/2204.08309v1)
@@ -115,6 +119,8 @@
 
 ## Visual Localization
 
+- 2022-04-18, **Centralized Adversarial Learning for Robust Deep Hashing**, Xunguang Wang et.al., Paper: [http://arxiv.org/abs/2204.10779v1](http://arxiv.org/abs/2204.10779v1)
+- 2022-04-22, **Transferring ConvNet Features from Passive to Active Robot Self-Localization: The Use of Ego-Centric and World-Centric Views**, Kanya Kurauchi et.al., Paper: [http://arxiv.org/abs/2204.10497v1](http://arxiv.org/abs/2204.10497v1)
 - 2022-04-21, **Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**, Zhiqiang Yuan et.al., Paper: [http://arxiv.org/abs/2204.09868v1](http://arxiv.org/abs/2204.09868v1), Code: **[https://github.com/xiaoyuan1996/AMFMN](https://github.com/xiaoyuan1996/AMFMN)**
 - 2022-04-21, **Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**, Zhiqiang Yuan et.al., Paper: [http://arxiv.org/abs/2204.09860v1](http://arxiv.org/abs/2204.09860v1), Code: **[https://github.com/xiaoyuan1996/galr](https://github.com/xiaoyuan1996/galr)**
 - 2022-04-20, **Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**, Leila Pishdad et.al., Paper: [http://arxiv.org/abs/2204.09268v1](http://arxiv.org/abs/2204.09268v1)
@@ -206,6 +212,7 @@
 
 ## Image Matching
 
+- 2022-04-22, **SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**, Runzhe Zhu et.al., Paper: [http://arxiv.org/abs/2204.10704v1](http://arxiv.org/abs/2204.10704v1), Code: **[https://github.com/Reza-Zhu/SUES-200-Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)**
 - 2022-04-20, **Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**, Leila Pishdad et.al., Paper: [http://arxiv.org/abs/2204.09268v1](http://arxiv.org/abs/2204.09268v1)
 - 2022-04-19, **OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**, Ostap Viniavskyi et.al., Paper: [http://arxiv.org/abs/2204.08870v1](http://arxiv.org/abs/2204.08870v1), Code: **[https://github.com/ucuapps/openglue](https://github.com/ucuapps/openglue)**
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1)
