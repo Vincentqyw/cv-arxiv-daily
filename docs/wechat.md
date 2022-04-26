@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-04-25, **MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**, Tingchen Ma et.al., Paper: [http://arxiv.org/abs/2204.11621v1](http://arxiv.org/abs/2204.11621v1)
+- 2022-04-23, **Indoor simultaneous localization and mapping based on fringe projection profilometry**, Yang Zhao et.al., Paper: [http://arxiv.org/abs/2204.11020v1](http://arxiv.org/abs/2204.11020v1)
 - 2022-04-22, **Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2204.10631v1](http://arxiv.org/abs/2204.10631v1)
 - 2022-04-22, **Fast Autonomous Robotic Exploration Using the Underlying Graph Structure**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2204.10610v1](http://arxiv.org/abs/2204.10610v1)
 - 2022-04-22, **Making Parameterization and Constrains of Object Landmark Globally Consistent via SPD(3) Manifold and Improved Cost Functions**, Yutong Hu et.al., Paper: [http://arxiv.org/abs/2204.10552v1](http://arxiv.org/abs/2204.10552v1)
@@ -119,6 +121,8 @@
 
 ## Visual Localization
 
+- 2022-04-24, **Progressive Learning for Image Retrieval with Hybrid-Modality Queries**, Yida Zhao et.al., Paper: [http://arxiv.org/abs/2204.11212v1](http://arxiv.org/abs/2204.11212v1)
+- 2022-04-23, **Training and challenging models for text-guided fashion image retrieval**, Eric Dodds et.al., Paper: [http://arxiv.org/abs/2204.11004v1](http://arxiv.org/abs/2204.11004v1)
 - 2022-04-18, **Centralized Adversarial Learning for Robust Deep Hashing**, Xunguang Wang et.al., Paper: [http://arxiv.org/abs/2204.10779v1](http://arxiv.org/abs/2204.10779v1)
 - 2022-04-22, **Transferring ConvNet Features from Passive to Active Robot Self-Localization: The Use of Ego-Centric and World-Centric Views**, Kanya Kurauchi et.al., Paper: [http://arxiv.org/abs/2204.10497v1](http://arxiv.org/abs/2204.10497v1)
 - 2022-04-21, **Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**, Zhiqiang Yuan et.al., Paper: [http://arxiv.org/abs/2204.09868v1](http://arxiv.org/abs/2204.09868v1), Code: **[https://github.com/xiaoyuan1996/AMFMN](https://github.com/xiaoyuan1996/AMFMN)**
