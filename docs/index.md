@@ -190,7 +190,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-24**|**Progressive Learning for Image Retrieval with Hybrid-Modality Queries**|Yida Zhao et.al.|[2204.11212v1](http://arxiv.org/abs/2204.11212v1)|null|
-|**2022-04-23**|**Training and challenging models for text-guided fashion image retrieval**|Eric Dodds et.al.|[2204.11004v1](http://arxiv.org/abs/2204.11004v1)|null|
+|**2022-04-23**|**Training and challenging models for text-guided fashion image retrieval**|Eric Dodds et.al.|[2204.11004v1](http://arxiv.org/abs/2204.11004v1)|**[link](https://github.com/yahoo/maaf)**|
 |**2022-04-18**|**Centralized Adversarial Learning for Robust Deep Hashing**|Xunguang Wang et.al.|[2204.10779v1](http://arxiv.org/abs/2204.10779v1)|null|
 |**2022-04-22**|**Transferring ConvNet Features from Passive to Active Robot Self-Localization: The Use of Ego-Centric and World-Centric Views**|Kanya Kurauchi et.al.|[2204.10497v1](http://arxiv.org/abs/2204.10497v1)|null|
 |**2022-04-21**|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|Zhiqiang Yuan et.al.|[2204.09868v1](http://arxiv.org/abs/2204.09868v1)|**[link](https://github.com/xiaoyuan1996/AMFMN)**|
