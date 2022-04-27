@@ -121,6 +121,8 @@
 
 ## Visual Localization
 
+- 2022-04-25, **SceneTrilogy: On Scene Sketches and its Relationship with Text and Photo**, Pinaki Nath Chowdhury et.al., Paper: [http://arxiv.org/abs/2204.11964v1](http://arxiv.org/abs/2204.11964v1)
+- 2022-04-23, **On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning**, Muhammad Umer Anwaar et.al., Paper: [http://arxiv.org/abs/2204.11848v1](http://arxiv.org/abs/2204.11848v1)
 - 2022-04-24, **Progressive Learning for Image Retrieval with Hybrid-Modality Queries**, Yida Zhao et.al., Paper: [http://arxiv.org/abs/2204.11212v1](http://arxiv.org/abs/2204.11212v1)
 - 2022-04-23, **Training and challenging models for text-guided fashion image retrieval**, Eric Dodds et.al., Paper: [http://arxiv.org/abs/2204.11004v1](http://arxiv.org/abs/2204.11004v1), Code: **[https://github.com/yahoo/maaf](https://github.com/yahoo/maaf)**
 - 2022-04-18, **Centralized Adversarial Learning for Robust Deep Hashing**, Xunguang Wang et.al., Paper: [http://arxiv.org/abs/2204.10779v1](http://arxiv.org/abs/2204.10779v1)
@@ -186,6 +188,8 @@
 
 ## Keypoint Detection
 
+- 2022-04-26, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v1](http://arxiv.org/abs/2204.12484v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
+- 2022-04-26, **Unified GCNs: Towards Connecting GCNs with CNNs**, Ziyan Zhang et.al., Paper: [http://arxiv.org/abs/2204.12300v1](http://arxiv.org/abs/2204.12300v1)
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1)
 - 2022-04-17, **The Z-axis, X-axis, Weight and Disambiguation Methods for Constructing Local Reference Frame in 3D Registration: An Evaluation**, Bao Zhao et.al., Paper: [http://arxiv.org/abs/2204.08024v1](http://arxiv.org/abs/2204.08024v1)
 - 2022-04-15, **2D Human Pose Estimation: A Survey**, Haoming Chen et.al., Paper: [http://arxiv.org/abs/2204.07370v1](http://arxiv.org/abs/2204.07370v1)
