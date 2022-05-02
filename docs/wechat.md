@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-04-29, **Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**, Jinwoo Jeon et.al., Paper: [http://arxiv.org/abs/2204.13877v1](http://arxiv.org/abs/2204.13877v1), Code: **[https://github.com/url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC)**
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
 - 2022-04-27, **Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**, Wenyu Li et.al., Paper: [http://arxiv.org/abs/2204.12769v1](http://arxiv.org/abs/2204.12769v1)
 - 2022-04-29, **MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**, Tingchen Ma et.al., Paper: [http://arxiv.org/abs/2204.11621v2](http://arxiv.org/abs/2204.11621v2)
@@ -123,6 +124,8 @@
 
 ## Visual Localization
 
+- 2022-04-29, **Privacy-Preserving Model Upgrades with Bidirectional Compatible Training in Image Retrieval**, Shupeng Su et.al., Paper: [http://arxiv.org/abs/2204.13919v1](http://arxiv.org/abs/2204.13919v1)
+- 2022-04-29, **Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**, Siyu Ren et.al., Paper: [http://arxiv.org/abs/2204.13913v1](http://arxiv.org/abs/2204.13913v1)
 - 2022-04-28, **Spatio-Temporal Graph Localization Networks for Image-based Navigation**, Takahiro Niwa et.al., Paper: [http://arxiv.org/abs/2204.13237v1](http://arxiv.org/abs/2204.13237v1)
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
 - 2022-04-25, **SceneTrilogy: On Scene Sketches and its Relationship with Text and Photo**, Pinaki Nath Chowdhury et.al., Paper: [http://arxiv.org/abs/2204.11964v1](http://arxiv.org/abs/2204.11964v1)
@@ -192,6 +195,7 @@
 
 ## Keypoint Detection
 
+- 2022-04-28, **Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**, Emilio Gomez-Gonzalez et.al., Paper: [http://arxiv.org/abs/2204.14050v1](http://arxiv.org/abs/2204.14050v1)
 - 2022-04-28, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v1](http://arxiv.org/abs/2204.13653v1), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-04-26, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v1](http://arxiv.org/abs/2204.12484v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-04-26, **Unified GCNs: Towards Connecting GCNs with CNNs**, Ziyan Zhang et.al., Paper: [http://arxiv.org/abs/2204.12300v1](http://arxiv.org/abs/2204.12300v1)
