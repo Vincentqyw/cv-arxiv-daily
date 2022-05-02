@@ -1,10 +1,10 @@
-> Updated on 2022.05.01
+> Updated on 2022.05.02
 
 ## SLAM
 
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
 - 2022-04-27, **Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**, Wenyu Li et.al., Paper: [http://arxiv.org/abs/2204.12769v1](http://arxiv.org/abs/2204.12769v1)
-- 2022-04-25, **MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Envirnoment**, Tingchen Ma et.al., Paper: [http://arxiv.org/abs/2204.11621v1](http://arxiv.org/abs/2204.11621v1)
+- 2022-04-29, **MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**, Tingchen Ma et.al., Paper: [http://arxiv.org/abs/2204.11621v2](http://arxiv.org/abs/2204.11621v2)
 - 2022-04-23, **Indoor simultaneous localization and mapping based on fringe projection profilometry**, Yang Zhao et.al., Paper: [http://arxiv.org/abs/2204.11020v1](http://arxiv.org/abs/2204.11020v1)
 - 2022-04-22, **Enough is Enough: Towards Autonomous Uncertainty-driven Stopping Criteria**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2204.10631v1](http://arxiv.org/abs/2204.10631v1)
 - 2022-04-22, **Fast Autonomous Robotic Exploration Using the Underlying Graph Structure**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2204.10610v1](http://arxiv.org/abs/2204.10610v1)
