@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-05-03, **GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.01656v1](http://arxiv.org/abs/2205.01656v1)
 - 2022-04-29, **Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**, Jinwoo Jeon et.al., Paper: [http://arxiv.org/abs/2204.13877v1](http://arxiv.org/abs/2204.13877v1), Code: **[https://github.com/url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC)**
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
 - 2022-04-27, **Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**, Wenyu Li et.al., Paper: [http://arxiv.org/abs/2204.12769v1](http://arxiv.org/abs/2204.12769v1)
