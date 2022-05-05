@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-05-04, **A Global Asymptotic Convergent Observer for SLAM**, Seyed Hamed Hashemi et.al., Paper: [http://arxiv.org/abs/2205.01953v1](http://arxiv.org/abs/2205.01953v1)
+- 2022-05-04, **Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**, Nathaniel Merrill et.al., Paper: [http://arxiv.org/abs/2205.01823v1](http://arxiv.org/abs/2205.01823v1)
 - 2022-05-03, **GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.01656v1](http://arxiv.org/abs/2205.01656v1)
 - 2022-04-29, **Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**, Jinwoo Jeon et.al., Paper: [http://arxiv.org/abs/2204.13877v1](http://arxiv.org/abs/2204.13877v1), Code: **[https://github.com/url-kaist/Struct-MDC](https://github.com/url-kaist/Struct-MDC)**
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
