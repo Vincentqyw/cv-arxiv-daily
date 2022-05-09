@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado et.al.|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
+|**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji et.al.|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim et.al.|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
 |**2022-05-04**|**BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking**|Dorian Henning et.al.|[2205.02301v1](http://arxiv.org/abs/2205.02301v1)|null|
 |**2022-05-04**|**A Global Asymptotic Convergent Observer for SLAM**|Seyed Hamed Hashemi et.al.|[2205.01953v1](http://arxiv.org/abs/2205.01953v1)|null|
@@ -197,6 +199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-05**|**AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**|Khanh Nguyen et.al.|[2205.02849v1](http://arxiv.org/abs/2205.02849v1)|null|
 |**2022-04-29**|**Privacy-Preserving Model Upgrades with Bidirectional Compatible Training in Image Retrieval**|Shupeng Su et.al.|[2204.13919v1](http://arxiv.org/abs/2204.13919v1)|null|
 |**2022-04-29**|**Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**|Siyu Ren et.al.|[2204.13913v1](http://arxiv.org/abs/2204.13913v1)|null|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
@@ -332,6 +335,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-06**|**BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**|Jingwei Song et.al.|[2205.03133v1](http://arxiv.org/abs/2205.03133v1)|**[link](https://github.com/jingweisong/bdis-v2)**|
+|**2022-05-05**|**AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**|Khanh Nguyen et.al.|[2205.02849v1](http://arxiv.org/abs/2205.02849v1)|null|
 |**2022-04-27**|**Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**|Chao Li et.al.|[2204.12884v1](http://arxiv.org/abs/2204.12884v1)|null|
 |**2022-04-22**|**SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**|Runzhe Zhu et.al.|[2204.10704v1](http://arxiv.org/abs/2204.10704v1)|**[link](https://github.com/Reza-Zhu/SUES-200-Benchmark)**|
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268v1](http://arxiv.org/abs/2204.09268v1)|null|
