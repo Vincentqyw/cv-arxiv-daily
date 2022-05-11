@@ -1,4 +1,4 @@
-> Updated on 2022.05.10
+> Updated on 2022.05.11
 
 ## SLAM
 
@@ -137,7 +137,7 @@
 - 2022-05-09, **Introspective Deep Metric Learning**, Chengkun Wang et.al., Paper: [http://arxiv.org/abs/2205.04449v1](http://arxiv.org/abs/2205.04449v1), Code: **[https://github.com/wangck20/idml](https://github.com/wangck20/idml)**
 - 2022-05-09, **Improved Evaluation and Generation of Grid Layouts using Distance Preservation Quality and Linear Assignment Sorting**, Kai Uwe Barthel et.al., Paper: [http://arxiv.org/abs/2205.04255v1](http://arxiv.org/abs/2205.04255v1), Code: **[https://github.com/visual-computing/las_flas](https://github.com/visual-computing/las_flas)**
 - 2022-05-08, **Adversarial Learning of Hard Positives for Place Recognition**, Wenxuan Fang et.al., Paper: [http://arxiv.org/abs/2205.03871v1](http://arxiv.org/abs/2205.03871v1)
-- 2022-05-05, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v1](http://arxiv.org/abs/2205.02849v1)
+- 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
 - 2022-04-29, **Privacy-Preserving Model Upgrades with Bidirectional Compatible Training in Image Retrieval**, Shupeng Su et.al., Paper: [http://arxiv.org/abs/2204.13919v1](http://arxiv.org/abs/2204.13919v1)
 - 2022-04-29, **Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**, Siyu Ren et.al., Paper: [http://arxiv.org/abs/2204.13913v1](http://arxiv.org/abs/2204.13913v1)
 - 2022-04-28, **Spatio-Temporal Graph Localization Networks for Image-based Navigation**, Takahiro Niwa et.al., Paper: [http://arxiv.org/abs/2204.13237v1](http://arxiv.org/abs/2204.13237v1)
@@ -244,7 +244,7 @@
 ## Image Matching
 
 - 2022-05-06, **BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**, Jingwei Song et.al., Paper: [http://arxiv.org/abs/2205.03133v1](http://arxiv.org/abs/2205.03133v1), Code: **[https://github.com/jingweisong/bdis-v2](https://github.com/jingweisong/bdis-v2)**
-- 2022-05-05, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v1](http://arxiv.org/abs/2205.02849v1)
+- 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
 - 2022-04-27, **Gleo-Det: Deep Convolution Feature-Guided Detector with Local Entropy Optimization for Salient Points**, Chao Li et.al., Paper: [http://arxiv.org/abs/2204.12884v1](http://arxiv.org/abs/2204.12884v1)
 - 2022-04-22, **SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**, Runzhe Zhu et.al., Paper: [http://arxiv.org/abs/2204.10704v1](http://arxiv.org/abs/2204.10704v1), Code: **[https://github.com/Reza-Zhu/SUES-200-Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)**
 - 2022-04-20, **Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**, Leila Pishdad et.al., Paper: [http://arxiv.org/abs/2204.09268v1](http://arxiv.org/abs/2204.09268v1)
