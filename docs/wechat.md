@@ -135,6 +135,7 @@
 
 ## Visual Localization
 
+- 2022-05-11, **Review on Panoramic Imaging and Its Applications in Scene Understanding**, Shaohua Gao et.al., Paper: [http://arxiv.org/abs/2205.05570v1](http://arxiv.org/abs/2205.05570v1)
 - 2022-05-10, **Identical Image Retrieval using Deep Learning**, Sayan Nath et.al., Paper: [http://arxiv.org/abs/2205.04883v1](http://arxiv.org/abs/2205.04883v1), Code: **[https://github.com/sayannath/identical-image-retrieval](https://github.com/sayannath/identical-image-retrieval)**
 - 2022-05-09, **Introspective Deep Metric Learning**, Chengkun Wang et.al., Paper: [http://arxiv.org/abs/2205.04449v1](http://arxiv.org/abs/2205.04449v1), Code: **[https://github.com/wangck20/idml](https://github.com/wangck20/idml)**
 - 2022-05-11, **Improved Evaluation and Generation of Grid Layouts using Distance Preservation Quality and Linear Assignment Sorting**, Kai Uwe Barthel et.al., Paper: [http://arxiv.org/abs/2205.04255v2](http://arxiv.org/abs/2205.04255v2), Code: **[https://github.com/visual-computing/las_flas](https://github.com/visual-computing/las_flas)**
@@ -211,6 +212,7 @@
 
 ## Keypoint Detection
 
+- 2022-05-10, **ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**, Chirag Raman et.al., Paper: [http://arxiv.org/abs/2205.05177v1](http://arxiv.org/abs/2205.05177v1)
 - 2022-04-28, **Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**, Emilio Gomez-Gonzalez et.al., Paper: [http://arxiv.org/abs/2204.14050v1](http://arxiv.org/abs/2204.14050v1)
 - 2022-05-02, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v2](http://arxiv.org/abs/2204.13653v2), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-04-26, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v1](http://arxiv.org/abs/2204.12484v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
