@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-05-12, **Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2205.05916v1](http://arxiv.org/abs/2205.05916v1), Code: **[https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**
+- 2022-05-12, **S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**, Ran Cheng et.al., Paper: [http://arxiv.org/abs/2205.05861v1](http://arxiv.org/abs/2205.05861v1)
 - 2022-05-09, **Multi-modal Semantic SLAM for Complex Dynamic Environments**, Jing Ying Ko et.al., Paper: [http://arxiv.org/abs/2205.04300v1](http://arxiv.org/abs/2205.04300v1), Code: **[https://github.com/wh200720041/mms_slam](https://github.com/wh200720041/mms_slam)**
 - 2022-05-06, **OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**, Carmen Delgado et.al., Paper: [http://arxiv.org/abs/2205.03256v1](http://arxiv.org/abs/2205.03256v1)
 - 2022-05-05, **CNN-Augmented Visual-Inertial SLAM with Planar Constraints**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.02940v1](http://arxiv.org/abs/2205.02940v1)
@@ -135,6 +137,7 @@
 
 ## Visual Localization
 
+- 2022-05-12, **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et.al., Paper: [http://arxiv.org/abs/2205.06126v1](http://arxiv.org/abs/2205.06126v1)
 - 2022-05-11, **Review on Panoramic Imaging and Its Applications in Scene Understanding**, Shaohua Gao et.al., Paper: [http://arxiv.org/abs/2205.05570v1](http://arxiv.org/abs/2205.05570v1)
 - 2022-05-10, **Identical Image Retrieval using Deep Learning**, Sayan Nath et.al., Paper: [http://arxiv.org/abs/2205.04883v1](http://arxiv.org/abs/2205.04883v1), Code: **[https://github.com/sayannath/identical-image-retrieval](https://github.com/sayannath/identical-image-retrieval)**
 - 2022-05-09, **Introspective Deep Metric Learning**, Chengkun Wang et.al., Paper: [http://arxiv.org/abs/2205.04449v1](http://arxiv.org/abs/2205.04449v1), Code: **[https://github.com/wangck20/idml](https://github.com/wangck20/idml)**
