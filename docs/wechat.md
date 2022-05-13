@@ -1,4 +1,4 @@
-> Updated on 2022.05.12
+> Updated on 2022.05.13
 
 ## SLAM
 
@@ -142,7 +142,7 @@
 - 2022-05-08, **Adversarial Learning of Hard Positives for Place Recognition**, Wenxuan Fang et.al., Paper: [http://arxiv.org/abs/2205.03871v1](http://arxiv.org/abs/2205.03871v1)
 - 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
 - 2022-04-29, **Privacy-Preserving Model Upgrades with Bidirectional Compatible Training in Image Retrieval**, Shupeng Su et.al., Paper: [http://arxiv.org/abs/2204.13919v1](http://arxiv.org/abs/2204.13919v1)
-- 2022-04-29, **Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**, Siyu Ren et.al., Paper: [http://arxiv.org/abs/2204.13913v1](http://arxiv.org/abs/2204.13913v1)
+- 2022-04-29, **Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**, Siyu Ren et.al., Paper: [http://arxiv.org/abs/2204.13913v1](http://arxiv.org/abs/2204.13913v1), Code: **[https://github.com/drsy/motis](https://github.com/drsy/motis)**
 - 2022-04-28, **Spatio-Temporal Graph Localization Networks for Image-based Navigation**, Takahiro Niwa et.al., Paper: [http://arxiv.org/abs/2204.13237v1](http://arxiv.org/abs/2204.13237v1)
 - 2022-04-27, **The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**, Konstantinos A. Tsintotas et.al., Paper: [http://arxiv.org/abs/2204.12831v1](http://arxiv.org/abs/2204.12831v1)
 - 2022-04-25, **SceneTrilogy: On Scene Sketches and its Relationship with Text and Photo**, Pinaki Nath Chowdhury et.al., Paper: [http://arxiv.org/abs/2204.11964v1](http://arxiv.org/abs/2204.11964v1)
