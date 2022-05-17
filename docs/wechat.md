@@ -1,10 +1,10 @@
-> Updated on 2022.05.16
+> Updated on 2022.05.17
 
 ## SLAM
 
 - 2022-05-12, **Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2205.05916v1](http://arxiv.org/abs/2205.05916v1), Code: **[https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**
 - 2022-05-12, **S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**, Ran Cheng et.al., Paper: [http://arxiv.org/abs/2205.05861v1](http://arxiv.org/abs/2205.05861v1)
-- 2022-05-09, **Multi-modal Semantic SLAM for Complex Dynamic Environments**, Jing Ying Ko et.al., Paper: [http://arxiv.org/abs/2205.04300v1](http://arxiv.org/abs/2205.04300v1), Code: **[https://github.com/wh200720041/mms_slam](https://github.com/wh200720041/mms_slam)**
+- 2022-05-14, **Multi-modal Semantic SLAM for Complex Dynamic Environments**, Han Wang et.al., Paper: [http://arxiv.org/abs/2205.04300v2](http://arxiv.org/abs/2205.04300v2), Code: **[https://github.com/wh200720041/mms_slam](https://github.com/wh200720041/mms_slam)**
 - 2022-05-06, **OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**, Carmen Delgado et.al., Paper: [http://arxiv.org/abs/2205.03256v1](http://arxiv.org/abs/2205.03256v1)
 - 2022-05-05, **CNN-Augmented Visual-Inertial SLAM with Planar Constraints**, Pan Ji et.al., Paper: [http://arxiv.org/abs/2205.02940v1](http://arxiv.org/abs/2205.02940v1)
 - 2022-05-05, **PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**, Hyowon Kim et.al., Paper: [http://arxiv.org/abs/2205.02502v1](http://arxiv.org/abs/2205.02502v1)
