@@ -1,4 +1,4 @@
-> Updated on 2022.05.18
+> Updated on 2022.05.19
 
 ## SLAM
 
@@ -140,7 +140,7 @@
 
 - 2022-05-12, **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et.al., Paper: [http://arxiv.org/abs/2205.06126v1](http://arxiv.org/abs/2205.06126v1)
 - 2022-05-11, **Review on Panoramic Imaging and Its Applications in Scene Understanding**, Shaohua Gao et.al., Paper: [http://arxiv.org/abs/2205.05570v1](http://arxiv.org/abs/2205.05570v1)
-- 2022-05-10, **Identical Image Retrieval using Deep Learning**, Sayan Nath et.al., Paper: [http://arxiv.org/abs/2205.04883v1](http://arxiv.org/abs/2205.04883v1), Code: **[https://github.com/sayannath/identical-image-retrieval](https://github.com/sayannath/identical-image-retrieval)**
+- 2022-05-18, **Identical Image Retrieval using Deep Learning**, Sayan Nath et.al., Paper: [http://arxiv.org/abs/2205.04883v2](http://arxiv.org/abs/2205.04883v2), Code: **[https://github.com/sayannath/identical-image-retrieval](https://github.com/sayannath/identical-image-retrieval)**
 - 2022-05-09, **Introspective Deep Metric Learning**, Chengkun Wang et.al., Paper: [http://arxiv.org/abs/2205.04449v1](http://arxiv.org/abs/2205.04449v1), Code: **[https://github.com/wangck20/idml](https://github.com/wangck20/idml)**
 - 2022-05-11, **Improved Evaluation and Generation of Grid Layouts using Distance Preservation Quality and Linear Assignment Sorting**, Kai Uwe Barthel et.al., Paper: [http://arxiv.org/abs/2205.04255v2](http://arxiv.org/abs/2205.04255v2), Code: **[https://github.com/visual-computing/las_flas](https://github.com/visual-computing/las_flas)**
 - 2022-05-08, **Adversarial Learning of Hard Positives for Place Recognition**, Wenxuan Fang et.al., Paper: [http://arxiv.org/abs/2205.03871v1](http://arxiv.org/abs/2205.03871v1)
