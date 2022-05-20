@@ -1,9 +1,9 @@
-> Updated on 2022.05.19
+> Updated on 2022.05.20
 
 ## SLAM
 
 - 2022-05-17, **Global Data Association for SLAM with 3D Grassmannian Manifold Objects**, Parker C. Lusk et.al., Paper: [http://arxiv.org/abs/2205.08556v1](http://arxiv.org/abs/2205.08556v1)
-- 2022-05-17, **Cluster on Wheels**, Yuanyuan Yang et.al., Paper: [http://arxiv.org/abs/2205.08151v1](http://arxiv.org/abs/2205.08151v1)
+- 2022-05-19, **Cluster on Wheels**, Yuanyuan Yang et.al., Paper: [http://arxiv.org/abs/2205.08151v2](http://arxiv.org/abs/2205.08151v2)
 - 2022-05-12, **Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2205.05916v1](http://arxiv.org/abs/2205.05916v1), Code: **[https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**
 - 2022-05-12, **S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**, Ran Cheng et.al., Paper: [http://arxiv.org/abs/2205.05861v1](http://arxiv.org/abs/2205.05861v1)
 - 2022-05-14, **Multi-modal Semantic SLAM for Complex Dynamic Environments**, Han Wang et.al., Paper: [http://arxiv.org/abs/2205.04300v2](http://arxiv.org/abs/2205.04300v2), Code: **[https://github.com/wh200720041/mms_slam](https://github.com/wh200720041/mms_slam)**
@@ -140,7 +140,7 @@
 ## Visual Localization
 
 - 2022-05-18, **Deep Features for CBIR with Scarce Data using Hebbian Learning**, Gabriele Lagani et.al., Paper: [http://arxiv.org/abs/2205.08935v1](http://arxiv.org/abs/2205.08935v1)
-- 2022-05-17, **Text Detection & Recognition in the Wild for Robot Localization**, Zobeir Raisi et.al., Paper: [http://arxiv.org/abs/2205.08565v1](http://arxiv.org/abs/2205.08565v1)
+- 2022-05-19, **Text Detection & Recognition in the Wild for Robot Localization**, Zobeir Raisi et.al., Paper: [http://arxiv.org/abs/2205.08565v2](http://arxiv.org/abs/2205.08565v2)
 - 2022-05-12, **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et.al., Paper: [http://arxiv.org/abs/2205.06126v1](http://arxiv.org/abs/2205.06126v1)
 - 2022-05-11, **Review on Panoramic Imaging and Its Applications in Scene Understanding**, Shaohua Gao et.al., Paper: [http://arxiv.org/abs/2205.05570v1](http://arxiv.org/abs/2205.05570v1)
 - 2022-05-18, **Identical Image Retrieval using Deep Learning**, Sayan Nath et.al., Paper: [http://arxiv.org/abs/2205.04883v2](http://arxiv.org/abs/2205.04883v2), Code: **[https://github.com/sayannath/identical-image-retrieval](https://github.com/sayannath/identical-image-retrieval)**
