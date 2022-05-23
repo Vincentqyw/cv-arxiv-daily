@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-05-19, **FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**, Jeffrey Ichnowski et.al., Paper: [http://arxiv.org/abs/2205.09778v1](http://arxiv.org/abs/2205.09778v1), Code: **[https://github.com/BerkeleyAutomation/FogROS2](https://github.com/BerkeleyAutomation/FogROS2)**
 - 2022-05-17, **Global Data Association for SLAM with 3D Grassmannian Manifold Objects**, Parker C. Lusk et.al., Paper: [http://arxiv.org/abs/2205.08556v1](http://arxiv.org/abs/2205.08556v1)
 - 2022-05-19, **Cluster on Wheels**, Yuanyuan Yang et.al., Paper: [http://arxiv.org/abs/2205.08151v2](http://arxiv.org/abs/2205.08151v2)
 - 2022-05-12, **Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2205.05916v1](http://arxiv.org/abs/2205.05916v1), Code: **[https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**
@@ -139,6 +140,7 @@
 
 ## Visual Localization
 
+- 2022-05-20, **Visually-Augmented Language Modeling**, Weizhi Wang et.al., Paper: [http://arxiv.org/abs/2205.10178v1](http://arxiv.org/abs/2205.10178v1)
 - 2022-05-18, **Deep Features for CBIR with Scarce Data using Hebbian Learning**, Gabriele Lagani et.al., Paper: [http://arxiv.org/abs/2205.08935v1](http://arxiv.org/abs/2205.08935v1)
 - 2022-05-19, **Text Detection & Recognition in the Wild for Robot Localization**, Zobeir Raisi et.al., Paper: [http://arxiv.org/abs/2205.08565v2](http://arxiv.org/abs/2205.08565v2)
 - 2022-05-12, **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et.al., Paper: [http://arxiv.org/abs/2205.06126v1](http://arxiv.org/abs/2205.06126v1)

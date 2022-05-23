@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-19**|**FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**|Jeffrey Ichnowski et.al.|[2205.09778v1](http://arxiv.org/abs/2205.09778v1)|**[link](https://github.com/BerkeleyAutomation/FogROS2)**|
 |**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk et.al.|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
 |**2022-05-19**|**Cluster on Wheels**|Yuanyuan Yang et.al.|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen et.al.|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
@@ -207,6 +208,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-20**|**Visually-Augmented Language Modeling**|Weizhi Wang et.al.|[2205.10178v1](http://arxiv.org/abs/2205.10178v1)|null|
 |**2022-05-18**|**Deep Features for CBIR with Scarce Data using Hebbian Learning**|Gabriele Lagani et.al.|[2205.08935v1](http://arxiv.org/abs/2205.08935v1)|null|
 |**2022-05-19**|**Text Detection & Recognition in the Wild for Robot Localization**|Zobeir Raisi et.al.|[2205.08565v2](http://arxiv.org/abs/2205.08565v2)|null|
 |**2022-05-12**|**One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**|Yong Dai et.al.|[2205.06126v1](http://arxiv.org/abs/2205.06126v1)|null|
