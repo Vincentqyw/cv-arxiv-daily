@@ -2,7 +2,7 @@
 
 ## SLAM
 
-- 2022-05-22, **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2205.10737v1](http://arxiv.org/abs/2205.10737v1)
+- 2022-05-22, **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2205.10737v1](http://arxiv.org/abs/2205.10737v1), Code: **[https://github.com/metaslam/alita](https://github.com/metaslam/alita)**
 - 2022-05-19, **FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**, Jeffrey Ichnowski et.al., Paper: [http://arxiv.org/abs/2205.09778v1](http://arxiv.org/abs/2205.09778v1), Code: **[https://github.com/BerkeleyAutomation/FogROS2](https://github.com/BerkeleyAutomation/FogROS2)**
 - 2022-05-17, **Global Data Association for SLAM with 3D Grassmannian Manifold Objects**, Parker C. Lusk et.al., Paper: [http://arxiv.org/abs/2205.08556v1](http://arxiv.org/abs/2205.08556v1)
 - 2022-05-19, **Cluster on Wheels**, Yuanyuan Yang et.al., Paper: [http://arxiv.org/abs/2205.08151v2](http://arxiv.org/abs/2205.08151v2)
@@ -141,6 +141,8 @@
 
 ## Visual Localization
 
+- 2022-05-24, **OnePose: One-Shot Object Pose Estimation without CAD Models**, Jiaming Sun et.al., Paper: [http://arxiv.org/abs/2205.12257v1](http://arxiv.org/abs/2205.12257v1), Code: **[https://github.com/zju3dv/OnePose](https://github.com/zju3dv/OnePose)**
+- 2022-05-23, **VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**, Michael Schleiss et.al., Paper: [http://arxiv.org/abs/2205.11567v1](http://arxiv.org/abs/2205.11567v1)
 - 2022-05-23, **VQA-GNN: Reasoning with Multimodal Semantic Graph for Visual Question Answering**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2205.11501v1](http://arxiv.org/abs/2205.11501v1)
 - 2022-05-23, **Deep Image Retrieval is not Robust to Label Noise**, Stanislav Dereka et.al., Paper: [http://arxiv.org/abs/2205.11195v1](http://arxiv.org/abs/2205.11195v1)
 - 2022-05-22, **Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval**, Zelong Zeng et.al., Paper: [http://arxiv.org/abs/2205.10878v1](http://arxiv.org/abs/2205.10878v1)
@@ -261,6 +263,7 @@
 
 ## Image Matching
 
+- 2022-05-23, **TransforMatcher: Match-to-Match Attention for Semantic Correspondence**, Seungwook Kim et.al., Paper: [http://arxiv.org/abs/2205.11634v1](http://arxiv.org/abs/2205.11634v1)
 - 2022-05-16, **ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning**, Yuxin Deng et.al., Paper: [http://arxiv.org/abs/2205.07439v1](http://arxiv.org/abs/2205.07439v1)
 - 2022-05-06, **BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**, Jingwei Song et.al., Paper: [http://arxiv.org/abs/2205.03133v1](http://arxiv.org/abs/2205.03133v1), Code: **[https://github.com/jingweisong/bdis-v2](https://github.com/jingweisong/bdis-v2)**
 - 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
