@@ -1,4 +1,4 @@
-## Updated on 2022.05.24
+## Updated on 2022.05.25
 
 ## SLAM
 
@@ -208,7 +208,7 @@
 |**2022-05-23**|**VQA-GNN: Reasoning with Multimodal Semantic Graph for Visual Question Answering**|Yanan Wang et.al.|[2205.11501v1](http://arxiv.org/abs/2205.11501v1)|null|
 |**2022-05-23**|**Deep Image Retrieval is not Robust to Label Noise**|Stanislav Dereka et.al.|[2205.11195v1](http://arxiv.org/abs/2205.11195v1)|null|
 |**2022-05-22**|**Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval**|Zelong Zeng et.al.|[2205.10878v1](http://arxiv.org/abs/2205.10878v1)|null|
-|**2022-05-20**|**Visually-Augmented Language Modeling**|Weizhi Wang et.al.|[2205.10178v1](http://arxiv.org/abs/2205.10178v1)|null|
+|**2022-05-20**|**Visually-Augmented Language Modeling**|Weizhi Wang et.al.|[2205.10178v1](http://arxiv.org/abs/2205.10178v1)|**[link](https://github.com/victorwz/valm)**|
 |**2022-05-18**|**Deep Features for CBIR with Scarce Data using Hebbian Learning**|Gabriele Lagani et.al.|[2205.08935v1](http://arxiv.org/abs/2205.08935v1)|null|
 |**2022-05-19**|**Text Detection & Recognition in the Wild for Robot Localization**|Zobeir Raisi et.al.|[2205.08565v2](http://arxiv.org/abs/2205.08565v2)|null|
 |**2022-05-12**|**One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**|Yong Dai et.al.|[2205.06126v1](http://arxiv.org/abs/2205.06126v1)|null|
@@ -299,7 +299,7 @@
 |**2022-05-10**|**ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**|Chirag Raman et.al.|[2205.05177v1](http://arxiv.org/abs/2205.05177v1)|null|
 |**2022-04-28**|**Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**|Emilio Gomez-Gonzalez et.al.|[2204.14050v1](http://arxiv.org/abs/2204.14050v1)|null|
 |**2022-05-02**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
-|**2022-04-26**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v1](http://arxiv.org/abs/2204.12484v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
+|**2022-05-24**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v2](http://arxiv.org/abs/2204.12484v2)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-04-26**|**Unified GCNs: Towards Connecting GCNs with CNNs**|Ziyan Zhang et.al.|[2204.12300v1](http://arxiv.org/abs/2204.12300v1)|null|
 |**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|null|
 |**2022-04-17**|**The Z-axis, X-axis, Weight and Disambiguation Methods for Constructing Local Reference Frame in 3D Registration: An Evaluation**|Bao Zhao et.al.|[2204.08024v1](http://arxiv.org/abs/2204.08024v1)|null|
