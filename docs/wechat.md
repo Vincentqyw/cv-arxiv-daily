@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-05-25, **Wildcat: Online Continuous-Time 3D Lidar-Inertial SLAM**, Milad Ramezani et.al., Paper: [http://arxiv.org/abs/2205.12595v1](http://arxiv.org/abs/2205.12595v1)
+- 2022-05-24, **Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM**, Christopher E. Denniston et.al., Paper: [http://arxiv.org/abs/2205.12402v1](http://arxiv.org/abs/2205.12402v1)
 - 2022-05-22, **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2205.10737v1](http://arxiv.org/abs/2205.10737v1), Code: **[https://github.com/metaslam/alita](https://github.com/metaslam/alita)**
 - 2022-05-19, **FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**, Jeffrey Ichnowski et.al., Paper: [http://arxiv.org/abs/2205.09778v1](http://arxiv.org/abs/2205.09778v1), Code: **[https://github.com/BerkeleyAutomation/FogROS2](https://github.com/BerkeleyAutomation/FogROS2)**
 - 2022-05-17, **Global Data Association for SLAM with 3D Grassmannian Manifold Objects**, Parker C. Lusk et.al., Paper: [http://arxiv.org/abs/2205.08556v1](http://arxiv.org/abs/2205.08556v1)
@@ -141,6 +143,7 @@
 
 ## Visual Localization
 
+- 2022-05-25, **Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**, Kyung Ho Park et.al., Paper: [http://arxiv.org/abs/2205.12544v1](http://arxiv.org/abs/2205.12544v1)
 - 2022-05-24, **OnePose: One-Shot Object Pose Estimation without CAD Models**, Jiaming Sun et.al., Paper: [http://arxiv.org/abs/2205.12257v1](http://arxiv.org/abs/2205.12257v1), Code: **[https://github.com/zju3dv/OnePose](https://github.com/zju3dv/OnePose)**
 - 2022-05-23, **VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**, Michael Schleiss et.al., Paper: [http://arxiv.org/abs/2205.11567v1](http://arxiv.org/abs/2205.11567v1)
 - 2022-05-23, **VQA-GNN: Reasoning with Multimodal Semantic Graph for Visual Question Answering**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2205.11501v1](http://arxiv.org/abs/2205.11501v1)
