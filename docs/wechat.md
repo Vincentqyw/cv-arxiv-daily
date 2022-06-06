@@ -240,6 +240,7 @@
 
 ## Keypoint Detection
 
+- 2022-06-03, **SNAKE: Shape-aware Neural 3D Keypoint Field**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2206.01724v1](http://arxiv.org/abs/2206.01724v1), Code: **[https://github.com/zhongcl-thu/snake](https://github.com/zhongcl-thu/snake)**
 - 2022-05-17, **MulT: An End-to-End Multitask Learning Transformer**, Deblina Bhattacharjee et.al., Paper: [http://arxiv.org/abs/2205.08303v1](http://arxiv.org/abs/2205.08303v1)
 - 2022-05-10, **ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions In-the-Wild**, Chirag Raman et.al., Paper: [http://arxiv.org/abs/2205.05177v1](http://arxiv.org/abs/2205.05177v1)
 - 2022-04-28, **Polarimetric imaging for the detection of synthetic models of SARS-CoV-2: a proof of concept**, Emilio Gomez-Gonzalez et.al., Paper: [http://arxiv.org/abs/2204.14050v1](http://arxiv.org/abs/2204.14050v1)
