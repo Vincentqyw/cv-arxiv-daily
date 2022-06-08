@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-06-07, **Robot Self-Calibration Using Actuated 3D Sensors**, Arne Peters et.al., Paper: [http://arxiv.org/abs/2206.03430v1](http://arxiv.org/abs/2206.03430v1)
+- 2022-06-07, **Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**, Haodong Yuan et.al., Paper: [http://arxiv.org/abs/2206.03062v1](http://arxiv.org/abs/2206.03062v1)
 - 2022-06-05, **DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**, Alena Savinykh et.al., Paper: [http://arxiv.org/abs/2206.02199v1](http://arxiv.org/abs/2206.02199v1)
 - 2022-06-04, **C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**, Erez Posner et.al., Paper: [http://arxiv.org/abs/2206.01961v1](http://arxiv.org/abs/2206.01961v1)
 - 2022-06-01, **PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**, Dong-Uk Seo et.al., Paper: [http://arxiv.org/abs/2206.00266v1](http://arxiv.org/abs/2206.00266v1), Code: **[https://github.com/url-kaist/alterground-lego-loam](https://github.com/url-kaist/alterground-lego-loam)**
@@ -150,6 +152,7 @@
 
 ## Visual Localization
 
+- 2022-06-06, **Learning Treatment Plan Representations for Content Based Image Retrieval**, Charles Huang et.al., Paper: [http://arxiv.org/abs/2206.02912v1](http://arxiv.org/abs/2206.02912v1)
 - 2022-06-07, **NORPPA: NOvel Ringed seal re-identification by Pelage Pattern Aggregation**, Ekaterina Nepovinnykh et.al., Paper: [http://arxiv.org/abs/2206.02498v2](http://arxiv.org/abs/2206.02498v2), Code: **[https://github.com/kwadraterry/norppa](https://github.com/kwadraterry/norppa)**
 - 2022-06-05, **Autoregressive Model for Multi-Pass SAR Change Detection Based on Image Stacks**, B. G. Palm et.al., Paper: [http://arxiv.org/abs/2206.02278v1](http://arxiv.org/abs/2206.02278v1)
 - 2022-05-28, **FaIRCoP: Facial Image Retrieval using Contrastive Personalization**, Devansh Gupta et.al., Paper: [http://arxiv.org/abs/2205.15870v1](http://arxiv.org/abs/2205.15870v1)
