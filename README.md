@@ -226,6 +226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**RetrievalGuard: Provably Robust 1-Nearest Neighbor Image Retrieval**|Yihan Wu et.al.|[2206.11225v1](http://arxiv.org/abs/2206.11225v1)|null|
+|**2022-06-22**|**ICC++: Explainable Image Retrieval for Art Historical Corpora using Image Composition Canvas**|Prathmesh Madhu et.al.|[2206.11115v1](http://arxiv.org/abs/2206.11115v1)|null|
 |**2022-06-20**|**Self-Supervised Consistent Quantization for Fully Unsupervised Image Retrieval**|Guile Wu et.al.|[2206.09806v1](http://arxiv.org/abs/2206.09806v1)|null|
 |**2022-06-18**|**Attention-based Dynamic Subspace Learners for Medical Image Analysis**|Sukesh Adiga V et.al.|[2206.09068v1](http://arxiv.org/abs/2206.09068v1)|null|
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail et.al.|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
