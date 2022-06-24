@@ -177,6 +177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-23**|**Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**|San Jiang et.al.|[2206.11499v1](http://arxiv.org/abs/2206.11499v1)|null|
 |**2022-06-13**|**TC-SfM: Robust Track-Community-Based Structure-from-Motion**|Lei Wang et.al.|[2206.05866v1](http://arxiv.org/abs/2206.05866v1)|null|
 |**2022-06-10**|**EigenFairing: 3D Model Fairing using Image Coherence**|Pragyana Mishra et.al.|[2206.05309v1](http://arxiv.org/abs/2206.05309v1)|null|
 |**2022-06-01**|**Semantic Room Wireframe Detection from a Single View**|David Gillsjö et.al.|[2206.00491v1](http://arxiv.org/abs/2206.00491v1)|**[link](https://github.com/davidgillsjo/srw-net)**|
