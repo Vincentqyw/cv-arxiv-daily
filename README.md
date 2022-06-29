@@ -229,6 +229,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-28**|**Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**|Stephen Hausler et.al.|[2206.13883v1](http://arxiv.org/abs/2206.13883v1)|null|
+|**2022-06-28**|**How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**|Tobias Fischer et.al.|[2206.13673v1](http://arxiv.org/abs/2206.13673v1)|null|
 |**2022-06-25**|**FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**|Yongzhi Fan et.al.|[2206.12628v1](http://arxiv.org/abs/2206.12628v1)|null|
 |**2022-06-25**|**Inverted Semantic-Index for Image Retrieval**|Ying Wang et.al.|[2206.12623v1](http://arxiv.org/abs/2206.12623v1)|null|
 |**2022-06-17**|**RetrievalGuard: Provably Robust 1-Nearest Neighbor Image Retrieval**|Yihan Wu et.al.|[2206.11225v1](http://arxiv.org/abs/2206.11225v1)|null|
