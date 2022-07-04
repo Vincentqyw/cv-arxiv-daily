@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-07-01, **A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2207.00254v1](http://arxiv.org/abs/2207.00254v1)
+- 2022-07-01, **Keeping Less is More: Point Sparsification for Visual SLAM**, Yeonsoo Park et.al., Paper: [http://arxiv.org/abs/2207.00225v1](http://arxiv.org/abs/2207.00225v1)
 - 2022-06-30, **Controlled and impulsive compression of an entrapped air bubble during impact**, Utkarsh Jain et.al., Paper: [http://arxiv.org/abs/2206.15297v1](http://arxiv.org/abs/2206.15297v1)
 - 2022-06-30, **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**, Yuehao Wang et.al., Paper: [http://arxiv.org/abs/2206.15255v1](http://arxiv.org/abs/2206.15255v1), Code: **[https://github.com/med-air/endonerf](https://github.com/med-air/endonerf)**
 - 2022-06-27, **IBISCape: A Simulated Benchmark for multi-modal SLAM Systems Evaluation in Large-scale Dynamic Environments**, Abanob Soliman et.al., Paper: [http://arxiv.org/abs/2206.13455v1](http://arxiv.org/abs/2206.13455v1), Code: **[https://github.com/AbanobSoliman/IBISCape](https://github.com/AbanobSoliman/IBISCape)**
@@ -167,6 +169,8 @@
 
 ## Visual Localization
 
+- 2022-07-01, **DALG: Deep Attentive Local and Global Modeling for Image Retrieval**, Yuxin Song et.al., Paper: [http://arxiv.org/abs/2207.00287v1](http://arxiv.org/abs/2207.00287v1)
+- 2022-07-01, **BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**, Shengshan Hu et.al., Paper: [http://arxiv.org/abs/2207.00278v1](http://arxiv.org/abs/2207.00278v1)
 - 2022-06-28, **Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2206.13883v1](http://arxiv.org/abs/2206.13883v1)
 - 2022-06-28, **How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2206.13673v1](http://arxiv.org/abs/2206.13673v1)
 - 2022-06-25, **FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**, Yongzhi Fan et.al., Paper: [http://arxiv.org/abs/2206.12628v1](http://arxiv.org/abs/2206.12628v1)
@@ -271,6 +275,7 @@
 
 ## Keypoint Detection
 
+- 2022-07-01, **Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**, Jiamin Liang et.al., Paper: [http://arxiv.org/abs/2207.00474v1](http://arxiv.org/abs/2207.00474v1)
 - 2022-06-24, **Motion Estimation for Large Displacements and Deformations**, Qiao Chen et.al., Paper: [http://arxiv.org/abs/2206.12464v1](http://arxiv.org/abs/2206.12464v1)
 - 2022-06-24, **Deep embedded clustering algorithm for clustering PACS repositories**, Teo Manojlović et.al., Paper: [http://arxiv.org/abs/2206.12417v1](http://arxiv.org/abs/2206.12417v1)
 - 2022-06-21, **KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**, Xuanhan Wang et.al., Paper: [http://arxiv.org/abs/2206.10090v1](http://arxiv.org/abs/2206.10090v1), Code: **[https://github.com/stoa-xh91/humandensepose](https://github.com/stoa-xh91/humandensepose)**
@@ -314,6 +319,7 @@
 
 ## Image Matching
 
+- 2022-07-01, **TopicFM: Robust and Interpretable Feature Matching with Topic-assisted**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2207.00328v1](http://arxiv.org/abs/2207.00328v1), Code: **[https://github.com/truongkhang/topicfm](https://github.com/truongkhang/topicfm)**
 - 2022-06-16, **Virtual Correspondence: Humans as a Cue for Extreme-View Geometry**, Wei-Chiu Ma et.al., Paper: [http://arxiv.org/abs/2206.08365v1](http://arxiv.org/abs/2206.08365v1)
 - 2022-06-15, **Self-Supervised Learning of Image Scale and Orientation**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2206.07259v1](http://arxiv.org/abs/2206.07259v1), Code: **[https://github.com/bluedream1121/self-sca-ori](https://github.com/bluedream1121/self-sca-ori)**
 - 2022-05-27, **Image Keypoint Matching using Graph Neural Networks**, Nancy Xu et.al., Paper: [http://arxiv.org/abs/2205.14275v1](http://arxiv.org/abs/2205.14275v1)
