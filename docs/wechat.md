@@ -1,4 +1,4 @@
-> Updated on 2022.07.04
+> Updated on 2022.07.05
 
 ## SLAM
 
@@ -170,7 +170,7 @@
 ## Visual Localization
 
 - 2022-07-01, **DALG: Deep Attentive Local and Global Modeling for Image Retrieval**, Yuxin Song et.al., Paper: [http://arxiv.org/abs/2207.00287v1](http://arxiv.org/abs/2207.00287v1)
-- 2022-07-01, **BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**, Shengshan Hu et.al., Paper: [http://arxiv.org/abs/2207.00278v1](http://arxiv.org/abs/2207.00278v1)
+- 2022-07-04, **BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**, Shengshan Hu et.al., Paper: [http://arxiv.org/abs/2207.00278v2](http://arxiv.org/abs/2207.00278v2)
 - 2022-06-28, **Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2206.13883v1](http://arxiv.org/abs/2206.13883v1)
 - 2022-06-28, **How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2206.13673v1](http://arxiv.org/abs/2206.13673v1)
 - 2022-06-25, **FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**, Yongzhi Fan et.al., Paper: [http://arxiv.org/abs/2206.12628v1](http://arxiv.org/abs/2206.12628v1)
