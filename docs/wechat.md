@@ -172,6 +172,8 @@
 
 ## Visual Localization
 
+- 2022-07-05, **Object-Level Targeted Selection via Deep Template Matching**, Suraj Kothawade et.al., Paper: [http://arxiv.org/abs/2207.01778v1](http://arxiv.org/abs/2207.01778v1)
+- 2022-07-04, **Adaptive Fine-Grained Sketch-Based Image Retrieval**, Ayan Kumar Bhunia et.al., Paper: [http://arxiv.org/abs/2207.01723v1](http://arxiv.org/abs/2207.01723v1)
 - 2022-07-04, **Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**, Paul Albert et.al., Paper: [http://arxiv.org/abs/2207.01573v1](http://arxiv.org/abs/2207.01573v1)
 - 2022-07-02, **Contrastive Cross-Modal Knowledge Sharing Pre-training for Vision-Language Representation Learning and Retrieval**, Keyu Wen et.al., Paper: [http://arxiv.org/abs/2207.00733v1](http://arxiv.org/abs/2207.00733v1)
 - 2022-07-01, **DALG: Deep Attentive Local and Global Modeling for Image Retrieval**, Yuxin Song et.al., Paper: [http://arxiv.org/abs/2207.00287v1](http://arxiv.org/abs/2207.00287v1)
