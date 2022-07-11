@@ -2,6 +2,10 @@
 
 ## SLAM
 
+- 2022-07-08, **BlindSpotNet: Seeing Where We Cannot See**, Taichi Fukuda et.al., Paper: [http://arxiv.org/abs/2207.03870v1](http://arxiv.org/abs/2207.03870v1)
+- 2022-07-08, **Continuous Target-free Extrinsic Calibration of a Multi-Sensor System from a Sequence of Static Viewpoints**, Philipp Glira et.al., Paper: [http://arxiv.org/abs/2207.03785v1](http://arxiv.org/abs/2207.03785v1)
+- 2022-07-08, **Distributed Ranging SLAM for Multiple Robots with Ultra-WideBand and Odometry Measurements**, Ran Liu et.al., Paper: [http://arxiv.org/abs/2207.03700v1](http://arxiv.org/abs/2207.03700v1)
+- 2022-07-07, **RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**, Qihao Peng et.al., Paper: [http://arxiv.org/abs/2207.03539v1](http://arxiv.org/abs/2207.03539v1)
 - 2022-07-06, **VI-SLAM2tag: Low-Effort Labeled Dataset Collection for Fingerprinting-Based Indoor Localization**, Marius Laska et.al., Paper: [http://arxiv.org/abs/2207.02668v1](http://arxiv.org/abs/2207.02668v1)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-07-04, **VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2207.01404v1](http://arxiv.org/abs/2207.01404v1)
@@ -175,6 +179,8 @@
 
 ## Visual Localization
 
+- 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
+- 2022-07-08, **GEMS: Scene Expansion using Generative Models of Graphs**, Rishi Agarwal et.al., Paper: [http://arxiv.org/abs/2207.03729v1](http://arxiv.org/abs/2207.03729v1)
 - 2022-07-05, **Object-Level Targeted Selection via Deep Template Matching**, Suraj Kothawade et.al., Paper: [http://arxiv.org/abs/2207.01778v1](http://arxiv.org/abs/2207.01778v1)
 - 2022-07-06, **Adaptive Fine-Grained Sketch-Based Image Retrieval**, Ayan Kumar Bhunia et.al., Paper: [http://arxiv.org/abs/2207.01723v2](http://arxiv.org/abs/2207.01723v2)
 - 2022-07-04, **Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**, Paul Albert et.al., Paper: [http://arxiv.org/abs/2207.01573v1](http://arxiv.org/abs/2207.01573v1)
@@ -285,6 +291,7 @@
 
 ## Keypoint Detection
 
+- 2022-07-07, **RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**, Qihao Peng et.al., Paper: [http://arxiv.org/abs/2207.03539v1](http://arxiv.org/abs/2207.03539v1)
 - 2022-07-06, **Semi-supervised Human Pose Estimation in Art-historical Images**, Matthias Springstein et.al., Paper: [http://arxiv.org/abs/2207.02976v1](http://arxiv.org/abs/2207.02976v1)
 - 2022-07-01, **Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**, Jiamin Liang et.al., Paper: [http://arxiv.org/abs/2207.00474v1](http://arxiv.org/abs/2207.00474v1)
 - 2022-06-24, **Motion Estimation for Large Displacements and Deformations**, Qiao Chen et.al., Paper: [http://arxiv.org/abs/2206.12464v1](http://arxiv.org/abs/2206.12464v1)
