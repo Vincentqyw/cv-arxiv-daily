@@ -1,4 +1,4 @@
-> Updated on 2022.07.10
+> Updated on 2022.07.11
 
 ## SLAM
 
@@ -178,11 +178,11 @@
 - 2022-07-05, **Object-Level Targeted Selection via Deep Template Matching**, Suraj Kothawade et.al., Paper: [http://arxiv.org/abs/2207.01778v1](http://arxiv.org/abs/2207.01778v1)
 - 2022-07-06, **Adaptive Fine-Grained Sketch-Based Image Retrieval**, Ayan Kumar Bhunia et.al., Paper: [http://arxiv.org/abs/2207.01723v2](http://arxiv.org/abs/2207.01723v2)
 - 2022-07-04, **Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets**, Paul Albert et.al., Paper: [http://arxiv.org/abs/2207.01573v1](http://arxiv.org/abs/2207.01573v1)
-- 2022-07-02, **Contrastive Cross-Modal Knowledge Sharing Pre-training for Vision-Language Representation Learning and Retrieval**, Keyu Wen et.al., Paper: [http://arxiv.org/abs/2207.00733v1](http://arxiv.org/abs/2207.00733v1)
+- 2022-07-08, **Contrastive Cross-Modal Knowledge Sharing Pre-training for Vision-Language Representation Learning and Retrieval**, Keyu Wen et.al., Paper: [http://arxiv.org/abs/2207.00733v2](http://arxiv.org/abs/2207.00733v2)
 - 2022-07-01, **DALG: Deep Attentive Local and Global Modeling for Image Retrieval**, Yuxin Song et.al., Paper: [http://arxiv.org/abs/2207.00287v1](http://arxiv.org/abs/2207.00287v1)
 - 2022-07-04, **BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label**, Shengshan Hu et.al., Paper: [http://arxiv.org/abs/2207.00278v2](http://arxiv.org/abs/2207.00278v2)
 - 2022-06-28, **Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2206.13883v1](http://arxiv.org/abs/2206.13883v1)
-- 2022-06-28, **How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2206.13673v1](http://arxiv.org/abs/2206.13673v1)
+- 2022-07-08, **How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2206.13673v2](http://arxiv.org/abs/2206.13673v2)
 - 2022-06-25, **FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**, Yongzhi Fan et.al., Paper: [http://arxiv.org/abs/2206.12628v1](http://arxiv.org/abs/2206.12628v1)
 - 2022-06-25, **Inverted Semantic-Index for Image Retrieval**, Ying Wang et.al., Paper: [http://arxiv.org/abs/2206.12623v1](http://arxiv.org/abs/2206.12623v1)
 - 2022-06-17, **RetrievalGuard: Provably Robust 1-Nearest Neighbor Image Retrieval**, Yihan Wu et.al., Paper: [http://arxiv.org/abs/2206.11225v1](http://arxiv.org/abs/2206.11225v1)
