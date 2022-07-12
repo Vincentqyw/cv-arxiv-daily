@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.07.11
+## Updated on 2022.07.12
 
 ## SLAM
 
@@ -366,7 +366,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-07-07**|**RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**|Qihao Peng et.al.|[2207.03539v1](http://arxiv.org/abs/2207.03539v1)|null|
-|**2022-07-06**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v1](http://arxiv.org/abs/2207.02976v1)|null|
+|**2022-07-11**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v2](http://arxiv.org/abs/2207.02976v2)|null|
 |**2022-07-01**|**Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**|Jiamin Liang et.al.|[2207.00474v1](http://arxiv.org/abs/2207.00474v1)|null|
 |**2022-06-24**|**Motion Estimation for Large Displacements and Deformations**|Qiao Chen et.al.|[2206.12464v1](http://arxiv.org/abs/2206.12464v1)|null|
 |**2022-06-24**|**Deep embedded clustering algorithm for clustering PACS repositories**|Teo Manojlović et.al.|[2206.12417v1](http://arxiv.org/abs/2206.12417v1)|null|
