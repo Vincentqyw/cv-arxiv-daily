@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-07-13, **SLAM: SLO-Aware Memory Optimization for Serverless Applications**, Gor Safaryan et.al., Paper: [http://arxiv.org/abs/2207.06183v1](http://arxiv.org/abs/2207.06183v1)
+- 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1)
 - 2022-07-12, **Accelerating Certifiable Estimation with Preconditioned Eigensolvers**, David M. Rosen et.al., Paper: [http://arxiv.org/abs/2207.05257v1](http://arxiv.org/abs/2207.05257v1)
 - 2022-07-12, **Robust Key-Frame Stereo Visual SLAM with low-threshold Point and Line Features**, Meiyu Zhi et.al., Paper: [http://arxiv.org/abs/2207.05244v1](http://arxiv.org/abs/2207.05244v1)
 - 2022-07-11, **SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2207.05043v1](http://arxiv.org/abs/2207.05043v1)
@@ -145,6 +147,7 @@
 
 ## SFM
 
+- 2022-07-13, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v1](http://arxiv.org/abs/2207.06262v1)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
 - 2022-06-13, **TC-SfM: Robust Track-Community-Based Structure-from-Motion**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2206.05866v1](http://arxiv.org/abs/2206.05866v1)
@@ -182,6 +185,7 @@
 
 ## Visual Localization
 
+- 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1)
 - 2022-07-12, **CPO: Change Robust Panorama to Point Cloud Localization**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2207.05317v1](http://arxiv.org/abs/2207.05317v1)
 - 2022-07-05, **Hierarchical Average Precision Training for Pertinent Image Retrieval**, Elias Ramzi et.al., Paper: [http://arxiv.org/abs/2207.04873v1](http://arxiv.org/abs/2207.04873v1)
 - 2022-07-11, **A clinically motivated self-supervised approach for content-based image retrieval of CT liver images**, Kristoffer Knutsen Wickstrøm et.al., Paper: [http://arxiv.org/abs/2207.04812v1](http://arxiv.org/abs/2207.04812v1), Code: **[https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver](https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver)**
@@ -298,6 +302,7 @@
 
 ## Keypoint Detection
 
+- 2022-07-13, **Rapid Person Re-Identification via Sub-space Consistency Regularization**, Qingze Yin et.al., Paper: [http://arxiv.org/abs/2207.05933v1](http://arxiv.org/abs/2207.05933v1)
 - 2022-07-07, **RWT-SLAM: Robust Visual SLAM for Highly Weak-textured Environments**, Qihao Peng et.al., Paper: [http://arxiv.org/abs/2207.03539v1](http://arxiv.org/abs/2207.03539v1)
 - 2022-07-11, **Semi-supervised Human Pose Estimation in Art-historical Images**, Matthias Springstein et.al., Paper: [http://arxiv.org/abs/2207.02976v2](http://arxiv.org/abs/2207.02976v2)
 - 2022-07-01, **Weakly-supervised High-fidelity Ultrasound Video Synthesis with Feature Decoupling**, Jiamin Liang et.al., Paper: [http://arxiv.org/abs/2207.00474v1](http://arxiv.org/abs/2207.00474v1)
