@@ -1,4 +1,4 @@
-> Updated on 2022.07.18
+> Updated on 2022.07.19
 
 ## SLAM
 
@@ -150,7 +150,7 @@
 
 ## SFM
 
-- 2022-07-14, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v2](http://arxiv.org/abs/2207.06262v2)
+- 2022-07-16, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v3](http://arxiv.org/abs/2207.06262v3)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
 - 2022-06-13, **TC-SfM: Robust Track-Community-Based Structure-from-Motion**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2206.05866v1](http://arxiv.org/abs/2206.05866v1)
@@ -193,7 +193,7 @@
 - 2022-07-14, **Self-supervised Vector-Quantization in Visual SLAM using Deep Convolutional Autoencoders**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06732v1](http://arxiv.org/abs/2207.06732v1)
 - 2022-07-13, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v1](http://arxiv.org/abs/2207.06058v1), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-12, **CPO: Change Robust Panorama to Point Cloud Localization**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2207.05317v1](http://arxiv.org/abs/2207.05317v1)
-- 2022-07-05, **Hierarchical Average Precision Training for Pertinent Image Retrieval**, Elias Ramzi et.al., Paper: [http://arxiv.org/abs/2207.04873v1](http://arxiv.org/abs/2207.04873v1)
+- 2022-07-05, **Hierarchical Average Precision Training for Pertinent Image Retrieval**, Elias Ramzi et.al., Paper: [http://arxiv.org/abs/2207.04873v1](http://arxiv.org/abs/2207.04873v1), Code: **[https://github.com/elias-ramzi/happier](https://github.com/elias-ramzi/happier)**
 - 2022-07-11, **A clinically motivated self-supervised approach for content-based image retrieval of CT liver images**, Kristoffer Knutsen Wickstrøm et.al., Paper: [http://arxiv.org/abs/2207.04812v1](http://arxiv.org/abs/2207.04812v1), Code: **[https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver](https://github.com/wickstrom/clinical-self-supervised-cbir-ct-liver)**
 - 2022-07-09, **BOSS: Bottom-up Cross-modal Semantic Composition with Hybrid Counterfactual Training for Robust Content-based Image Retrieval**, Wenqiao Zhang et.al., Paper: [http://arxiv.org/abs/2207.04211v1](http://arxiv.org/abs/2207.04211v1)
 - 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
