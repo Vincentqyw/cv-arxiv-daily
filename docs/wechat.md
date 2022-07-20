@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-07-19, **Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**, Tuvy Lemberg et.al., Paper: [http://arxiv.org/abs/2207.09103v1](http://arxiv.org/abs/2207.09103v1)
 - 2022-07-18, **DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2207.08794v1](http://arxiv.org/abs/2207.08794v1)
 - 2022-07-18, **Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2207.08439v1](http://arxiv.org/abs/2207.08439v1)
 - 2022-07-18, **ORB-based SLAM accelerator on SoC FPGA**, Vibhakar Vemulapati et.al., Paper: [http://arxiv.org/abs/2207.08405v1](http://arxiv.org/abs/2207.08405v1)
@@ -153,6 +154,7 @@
 
 ## SFM
 
+- 2022-07-19, **ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**, Wang Zhao et.al., Paper: [http://arxiv.org/abs/2207.09137v1](http://arxiv.org/abs/2207.09137v1)
 - 2022-07-16, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v3](http://arxiv.org/abs/2207.06262v3)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
 - 2022-06-24, **Parallel Structure from Motion for UAV Images via Weighted Connected Dominating Set**, San Jiang et.al., Paper: [http://arxiv.org/abs/2206.11499v2](http://arxiv.org/abs/2206.11499v2)
@@ -191,6 +193,7 @@
 
 ## Visual Localization
 
+- 2022-07-19, **Context Unaware Knowledge Distillation for Image Retrieval**, Bytasandram Yaswanth Reddy et.al., Paper: [http://arxiv.org/abs/2207.09070v1](http://arxiv.org/abs/2207.09070v1)
 - 2022-07-17, **FashionViL: Fashion-Focused Vision-and-Language Representation Learning**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2207.08150v1](http://arxiv.org/abs/2207.08150v1), Code: **[https://github.com/brandonhanx/mmf](https://github.com/brandonhanx/mmf)**
 - 2022-07-14, **AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2207.06965v1](http://arxiv.org/abs/2207.06965v1)
 - 2022-07-14, **Semi-supervised Vector-Quantization in Visual SLAM using HGCN**, Amir Zarringhalam et.al., Paper: [http://arxiv.org/abs/2207.06738v1](http://arxiv.org/abs/2207.06738v1)
