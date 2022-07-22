@@ -2,6 +2,9 @@
 
 ## SLAM
 
+- 2022-07-21, **Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion**, Suman Ghosh et.al., Paper: [http://arxiv.org/abs/2207.10494v1](http://arxiv.org/abs/2207.10494v1)
+- 2022-07-21, **Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**, Quentin Serdel et.al., Paper: [http://arxiv.org/abs/2207.10489v1](http://arxiv.org/abs/2207.10489v1)
+- 2022-07-21, **On applicability of von Karman's momentum theory in predicting the water entry load of V-shaped structures with varying initial velocity**, Yujin Lu et.al., Paper: [http://arxiv.org/abs/2207.10413v1](http://arxiv.org/abs/2207.10413v1)
 - 2022-07-19, **Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**, Tuvy Lemberg et.al., Paper: [http://arxiv.org/abs/2207.09103v1](http://arxiv.org/abs/2207.09103v1)
 - 2022-07-18, **DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2207.08794v1](http://arxiv.org/abs/2207.08794v1)
 - 2022-07-18, **Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2207.08439v1](http://arxiv.org/abs/2207.08439v1)
@@ -193,6 +196,7 @@
 
 ## Visual Localization
 
+- 2022-07-20, **Revisiting Hotels-50K and Hotel-ID**, Aarash Feizi et.al., Paper: [http://arxiv.org/abs/2207.10200v1](http://arxiv.org/abs/2207.10200v1), Code: **[https://github.com/aarashfeizi/revisited-hotels](https://github.com/aarashfeizi/revisited-hotels)**
 - 2022-07-20, **Feature Representation Learning for Unsupervised Cross-domain Image Retrieval**, Conghui Hu et.al., Paper: [http://arxiv.org/abs/2207.09721v1](http://arxiv.org/abs/2207.09721v1), Code: **[https://github.com/conghuihu/ucdir](https://github.com/conghuihu/ucdir)**
 - 2022-07-19, **SeasoNet: A Seasonal Scene Classification, segmentation and Retrieval dataset for satellite Imagery over Germany**, Dominik Koßmann et.al., Paper: [http://arxiv.org/abs/2207.09507v1](http://arxiv.org/abs/2207.09507v1)
 - 2022-07-19, **Context Unaware Knowledge Distillation for Image Retrieval**, Bytasandram Yaswanth Reddy et.al., Paper: [http://arxiv.org/abs/2207.09070v1](http://arxiv.org/abs/2207.09070v1), Code: **[https://github.com/satoru2001/cukdfir](https://github.com/satoru2001/cukdfir)**
@@ -317,6 +321,7 @@
 
 ## Keypoint Detection
 
+- 2022-07-21, **Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2207.10506v1](http://arxiv.org/abs/2207.10506v1)
 - 2022-07-15, **Human keypoint detection for close proximity human-robot interaction**, Jan Docekal et.al., Paper: [http://arxiv.org/abs/2207.07742v1](http://arxiv.org/abs/2207.07742v1)
 - 2022-07-15, **Adversarial Focal Loss: Asking Your Discriminator for Hard Examples**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2207.07739v1](http://arxiv.org/abs/2207.07739v1)
 - 2022-07-13, **Rapid Person Re-Identification via Sub-space Consistency Regularization**, Qingze Yin et.al., Paper: [http://arxiv.org/abs/2207.05933v1](http://arxiv.org/abs/2207.05933v1)
@@ -366,6 +371,7 @@
 
 ## Image Matching
 
+- 2022-07-21, **Pose for Everything: Towards Category-Agnostic Pose Estimation**, Lumin Xu et.al., Paper: [http://arxiv.org/abs/2207.10387v1](http://arxiv.org/abs/2207.10387v1)
 - 2022-07-20, **Explaining Deepfake Detection by Analysing Image Matching**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2207.09679v1](http://arxiv.org/abs/2207.09679v1), Code: **[https://github.com/megvii-research/fst-matching](https://github.com/megvii-research/fst-matching)**
 - 2022-07-18, **Adaptive Assignment for Geometry Aware Local Feature Matching**, Dihe Huang et.al., Paper: [http://arxiv.org/abs/2207.08427v1](http://arxiv.org/abs/2207.08427v1)
 - 2022-07-16, **Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**, Jiazhen Liu et.al., Paper: [http://arxiv.org/abs/2207.07932v1](http://arxiv.org/abs/2207.07932v1), Code: **[https://github.com/ruc-aimc-lab/superretina](https://github.com/ruc-aimc-lab/superretina)**
