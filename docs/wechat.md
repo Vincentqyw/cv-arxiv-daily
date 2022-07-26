@@ -1,4 +1,4 @@
-> Updated on 2022.07.25
+> Updated on 2022.07.26
 
 ## SLAM
 
@@ -160,7 +160,7 @@
 
 ## SFM
 
-- 2022-07-21, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v1](http://arxiv.org/abs/2207.10762v1), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
+- 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**, Wang Zhao et.al., Paper: [http://arxiv.org/abs/2207.09137v1](http://arxiv.org/abs/2207.09137v1), Code: **[https://github.com/bytedance/particle-sfm](https://github.com/bytedance/particle-sfm)**
 - 2022-07-16, **Organic Priors in Non-Rigid Structure from Motion**, Suryansh Kumar et.al., Paper: [http://arxiv.org/abs/2207.06262v3](http://arxiv.org/abs/2207.06262v3)
 - 2022-07-06, **A Novel Hybrid Endoscopic Dataset for Evaluating Machine Learning-based Photometric Image Enhancement Models**, Axel Garcia-Vega et.al., Paper: [http://arxiv.org/abs/2207.02396v1](http://arxiv.org/abs/2207.02396v1)
@@ -201,7 +201,7 @@
 ## Visual Localization
 
 - 2022-07-22, **PLD-SLAM: A Real-Time Visual SLAM Using Points and Line Segments in Dynamic Scenes**, BaoSheng Zhang et.al., Paper: [http://arxiv.org/abs/2207.10916v1](http://arxiv.org/abs/2207.10916v1)
-- 2022-07-21, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v1](http://arxiv.org/abs/2207.10762v1), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
+- 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-20, **Revisiting Hotels-50K and Hotel-ID**, Aarash Feizi et.al., Paper: [http://arxiv.org/abs/2207.10200v1](http://arxiv.org/abs/2207.10200v1), Code: **[https://github.com/aarashfeizi/revisited-hotels](https://github.com/aarashfeizi/revisited-hotels)**
 - 2022-07-20, **Feature Representation Learning for Unsupervised Cross-domain Image Retrieval**, Conghui Hu et.al., Paper: [http://arxiv.org/abs/2207.09721v1](http://arxiv.org/abs/2207.09721v1), Code: **[https://github.com/conghuihu/ucdir](https://github.com/conghuihu/ucdir)**
 - 2022-07-19, **SeasoNet: A Seasonal Scene Classification, segmentation and Retrieval dataset for satellite Imagery over Germany**, Dominik Koßmann et.al., Paper: [http://arxiv.org/abs/2207.09507v1](http://arxiv.org/abs/2207.09507v1)
@@ -377,7 +377,7 @@
 
 ## Image Matching
 
-- 2022-07-21, **Pose for Everything: Towards Category-Agnostic Pose Estimation**, Lumin Xu et.al., Paper: [http://arxiv.org/abs/2207.10387v1](http://arxiv.org/abs/2207.10387v1)
+- 2022-07-21, **Pose for Everything: Towards Category-Agnostic Pose Estimation**, Lumin Xu et.al., Paper: [http://arxiv.org/abs/2207.10387v1](http://arxiv.org/abs/2207.10387v1), Code: **[https://github.com/luminxu/pose-for-everything](https://github.com/luminxu/pose-for-everything)**
 - 2022-07-20, **Explaining Deepfake Detection by Analysing Image Matching**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2207.09679v1](http://arxiv.org/abs/2207.09679v1), Code: **[https://github.com/megvii-research/fst-matching](https://github.com/megvii-research/fst-matching)**
 - 2022-07-18, **Adaptive Assignment for Geometry Aware Local Feature Matching**, Dihe Huang et.al., Paper: [http://arxiv.org/abs/2207.08427v1](http://arxiv.org/abs/2207.08427v1)
 - 2022-07-16, **Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**, Jiazhen Liu et.al., Paper: [http://arxiv.org/abs/2207.07932v1](http://arxiv.org/abs/2207.07932v1), Code: **[https://github.com/ruc-aimc-lab/superretina](https://github.com/ruc-aimc-lab/superretina)**
