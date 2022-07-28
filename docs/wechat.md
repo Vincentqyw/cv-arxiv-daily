@@ -203,6 +203,8 @@
 
 ## Visual Localization
 
+- 2022-07-27, **Abstracting Sketches through Simple Primitives**, Stephan Alaniz et.al., Paper: [http://arxiv.org/abs/2207.13543v1](http://arxiv.org/abs/2207.13543v1), Code: **[https://github.com/explainableml/sketch-primitives](https://github.com/explainableml/sketch-primitives)**
+- 2022-07-27, **Satellite Image Based Cross-view Localization for Autonomous Vehicle**, Shan Wang et.al., Paper: [http://arxiv.org/abs/2207.13506v1](http://arxiv.org/abs/2207.13506v1)
 - 2022-07-26, **RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments**, Jiahui Zhang et.al., Paper: [http://arxiv.org/abs/2207.12579v1](http://arxiv.org/abs/2207.12579v1)
 - 2022-07-25, **A hybrid-qudit representation of digital RGB images**, Sreetama Das et.al., Paper: [http://arxiv.org/abs/2207.12550v1](http://arxiv.org/abs/2207.12550v1)
 - 2022-07-19, **ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**, Ivan Cisneros et.al., Paper: [http://arxiv.org/abs/2207.12317v1](http://arxiv.org/abs/2207.12317v1), Code: **[https://github.com/metaslam/alto](https://github.com/metaslam/alto)**
