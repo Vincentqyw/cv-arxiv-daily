@@ -1,4 +1,4 @@
-> Updated on 2022.08.01
+> Updated on 2022.08.02
 
 ## SLAM
 
@@ -438,4 +438,30 @@
 - 2021-11-29, **Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.15514v1](http://arxiv.org/abs/2111.15514v1)
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
+
+## CV
+
+- 2022-07-29, **Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations**, Jakub Rydzewski et.al., Paper: [http://arxiv.org/abs/2207.14554v1](http://arxiv.org/abs/2207.14554v1)
+- 2022-07-28, **On the Effects of Different Types of Label Noise in Multi-Label Remote Sensing Image Classification**, Tom Burgert et.al., Paper: [http://arxiv.org/abs/2207.13975v1](http://arxiv.org/abs/2207.13975v1)
+- 2022-07-27, **Lightweight and Progressively-Scalable Networks for Semantic Segmentation**, Yiheng Zhang et.al., Paper: [http://arxiv.org/abs/2207.13600v1](http://arxiv.org/abs/2207.13600v1), Code: **[https://github.com/yihengzhang-cv/lps-net](https://github.com/yihengzhang-cv/lps-net)**
+- 2022-07-26, **Key frames assisted hybrid encoding for photorealistic compressive video sensing**, Honghao Huang et.al., Paper: [http://arxiv.org/abs/2207.12627v1](http://arxiv.org/abs/2207.12627v1)
+- 2022-07-25, **Multi-Scale RAFT: Combining Hierarchical Concepts for Learning-based Optical FLow Estimation**, Azin Jahedi et.al., Paper: [http://arxiv.org/abs/2207.12163v1](http://arxiv.org/abs/2207.12163v1)
+- 2022-07-24, **Experimental Demonstration of Discrete Modulation Formats for Continuous Variable Quantum Key Distribution**, François Roumestan et.al., Paper: [http://arxiv.org/abs/2207.11702v1](http://arxiv.org/abs/2207.11702v1)
+- 2022-07-23, **Robots Enact Malignant Stereotypes**, Andrew Hundt et.al., Paper: [http://arxiv.org/abs/2207.11569v1](http://arxiv.org/abs/2207.11569v1)
+- 2022-07-23, **RGB-D Robotic Pose Estimation For a Servicing Robotic Arm**, Jared Herron et.al., Paper: [http://arxiv.org/abs/2207.11537v1](http://arxiv.org/abs/2207.11537v1)
+- 2022-07-21, **UFO: Unified Feature Optimization**, Teng Xi et.al., Paper: [http://arxiv.org/abs/2207.10341v1](http://arxiv.org/abs/2207.10341v1)
+- 2022-07-17, **TESS light curves of cataclysmic variables I -- Unknown periods in long-known stars**, Albert Bruch et.al., Paper: [http://arxiv.org/abs/2207.08203v1](http://arxiv.org/abs/2207.08203v1)
+
+## Computer Vision
+
+- 2022-07-29, **GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**, Kelvin C. K. Chan et.al., Paper: [http://arxiv.org/abs/2207.14812v1](http://arxiv.org/abs/2207.14812v1), Code: **[https://github.com/open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)**
+- 2022-07-29, **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2207.14811v1](http://arxiv.org/abs/2207.14811v1), Code: **[https://github.com/wanggcong/stylelight](https://github.com/wanggcong/stylelight)**
+- 2022-07-29, **Simplifying a classical-quantum algorithm interpolation with quantum singular value transformations**, Duarte Magano et.al., Paper: [http://arxiv.org/abs/2207.14810v1](http://arxiv.org/abs/2207.14810v1)
+- 2022-07-29, **PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14807v1](http://arxiv.org/abs/2207.14807v1)
+- 2022-07-29, **Artifact Identification in X-ray Diffraction Data using Machine Learning Methods**, Howard Yanxon et.al., Paper: [http://arxiv.org/abs/2207.14804v1](http://arxiv.org/abs/2207.14804v1), Code: **[https://github.com/advancedphotonsource/airxd-ml](https://github.com/advancedphotonsource/airxd-ml)**
+- 2022-07-29, **Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14801v1](http://arxiv.org/abs/2207.14801v1)
+- 2022-07-29, **Analysis of VIX-linked fee incentives in variable annuities via continuous-time Markov chain approximation**, Zhenyu Cui et.al., Paper: [http://arxiv.org/abs/2207.14793v1](http://arxiv.org/abs/2207.14793v1)
+- 2022-07-29, **The Novel Approach to the Closed-Form Average Bit Error Rate Calculation for the Nakagami-m Fading Channel**, Aleksey S. Gvozdarev et.al., Paper: [http://arxiv.org/abs/2207.14791v1](http://arxiv.org/abs/2207.14791v1)
+- 2022-07-29, **Encoder-Decoder Architecture for 3D Seismic Inversion**, Maayan Gelboim et.al., Paper: [http://arxiv.org/abs/2207.14789v1](http://arxiv.org/abs/2207.14789v1)
+- 2022-07-29, **Cosmological Perturbations in Double Field Theory**, Olaf Hohm et.al., Paper: [http://arxiv.org/abs/2207.14788v1](http://arxiv.org/abs/2207.14788v1)
 
