@@ -191,7 +191,7 @@ if __name__ == "__main__":
     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
     keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
-    keywords["Computer Vision and Pattern Recognition"]                  = "Computer Vision and Pattern Recognition"
+    keywords["CV"] = "\Computer Vision and Pattern Recognition"
     
     for topic,keyword in keywords.items():
  
