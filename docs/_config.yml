@@ -8,5 +8,5 @@ plugins:
 - jekyll-remote-theme 
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/Oh-Ji-Hoon/cv-arxiv-daily
+  another_url: https://github.com/Oh-Ji-Hoon/cv-arxiv-daily
