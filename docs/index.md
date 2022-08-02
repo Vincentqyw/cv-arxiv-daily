@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche et.al.|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow et.al.|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide et.al.|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
@@ -217,6 +218,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-31**|**One Object at a Time: Accurate and Robust Structure From Motion for Robots**|Aravind Battaje et.al.|[2208.00487v1](http://arxiv.org/abs/2208.00487v1)|null|
 |**2022-07-23**|**Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**|Daniel Posada et.al.|[2207.11413v1](http://arxiv.org/abs/2207.11413v1)|null|
 |**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
 |**2022-07-19**|**ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**|Wang Zhao et.al.|[2207.09137v1](http://arxiv.org/abs/2207.09137v1)|**[link](https://github.com/bytedance/particle-sfm)**|
@@ -272,6 +274,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-27**|**On the robustness of self-supervised representations for multi-view object classification**|David Torpey et.al.|[2208.00787v1](http://arxiv.org/abs/2208.00787v1)|null|
+|**2022-07-26**|**Multimodal Neural Machine Translation with Search Engine Based Image Retrieval**|ZhenHao Tang et.al.|[2208.00767v1](http://arxiv.org/abs/2208.00767v1)|null|
+|**2022-07-30**|**Towards Privacy-Preserving, Real-Time and Lossless Feature Matching**|Qiang Meng et.al.|[2208.00214v1](http://arxiv.org/abs/2208.00214v1)|null|
+|**2022-07-30**|**DAS: Densely-Anchored Sampling for Deep Metric Learning**|Lizhao Liu et.al.|[2208.00119v1](http://arxiv.org/abs/2208.00119v1)|**[link](https://github.com/lizhaoliu-Lec/DAS)**|
 |**2022-07-29**|**Curriculum Learning for Data-Efficient Vision-Language Alignment**|Tejas Srinivasan et.al.|[2207.14525v1](http://arxiv.org/abs/2207.14525v1)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Abstracting Sketches through Simple Primitives**|Stephan Alaniz et.al.|[2207.13543v1](http://arxiv.org/abs/2207.13543v1)|**[link](https://github.com/explainableml/sketch-primitives)**|
@@ -412,6 +418,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**|Qihao Liu et.al.|[2208.00090v1](http://arxiv.org/abs/2208.00090v1)|null|
 |**2022-07-25**|**Translating a Visual LEGO Manual to a Machine-Executable Plan**|Ruocheng Wang et.al.|[2207.12572v1](http://arxiv.org/abs/2207.12572v1)|null|
 |**2022-07-21**|**Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**|Aline Sindel et.al.|[2207.10506v1](http://arxiv.org/abs/2207.10506v1)|null|
 |**2022-07-15**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742v1](http://arxiv.org/abs/2207.07742v1)|null|
@@ -487,6 +494,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**|Weijia Li et.al.|[2208.00928v1](http://arxiv.org/abs/2208.00928v1)|null|
+|**2022-07-29**|**Testing Relational Understanding in Text-Guided Image Generation**|Colin Conwell et.al.|[2208.00005v1](http://arxiv.org/abs/2208.00005v1)|null|
 |**2022-07-21**|**Pose for Everything: Towards Category-Agnostic Pose Estimation**|Lumin Xu et.al.|[2207.10387v1](http://arxiv.org/abs/2207.10387v1)|**[link](https://github.com/luminxu/pose-for-everything)**|
 |**2022-07-20**|**Explaining Deepfake Detection by Analysing Image Matching**|Shichao Dong et.al.|[2207.09679v1](http://arxiv.org/abs/2207.09679v1)|**[link](https://github.com/megvii-research/fst-matching)**|
 |**2022-07-18**|**Adaptive Assignment for Geometry Aware Local Feature Matching**|Dihe Huang et.al.|[2207.08427v1](http://arxiv.org/abs/2207.08427v1)|null|
@@ -554,6 +563,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**Generating Galton-Watson trees using random walks and percolation for the Gaussian free field**|Alexander Drewitz et.al.|[2208.01033v1](http://arxiv.org/abs/2208.01033v1)|null|
+|**2022-08-01**|**Engineering SYK interactions in disordered graphene flakes under realistic experimental conditions**|Marta Brzezinska et.al.|[2208.01032v1](http://arxiv.org/abs/2208.01032v1)|null|
+|**2022-08-01**|**A data compression and optimal galaxy weights scheme for Dark Energy Spectroscopic Instrument and weak lensing datasets**|Rossana Ruggeri et.al.|[2208.01031v1](http://arxiv.org/abs/2208.01031v1)|null|
+|**2022-08-01**|**SMART: Sentences as Basic Units for Text Evaluation**|Reinald Kim Amplayo et.al.|[2208.01030v1](http://arxiv.org/abs/2208.01030v1)|null|
+|**2022-08-01**|**On the Limitations of Sociodemographic Adaptation with Transformers**|Chia-Chien Hung et.al.|[2208.01029v1](http://arxiv.org/abs/2208.01029v1)|null|
+|**2022-08-01**|**Atlas of Nuclear Isomers -- Second Edition**|Swati Garg et.al.|[2208.01028v1](http://arxiv.org/abs/2208.01028v1)|null|
+|**2022-08-01**|**Specialization of Integral Closure of Ideals by General Elements**|Lindsey Hill et.al.|[2208.01027v1](http://arxiv.org/abs/2208.01027v1)|null|
+|**2022-08-01**|**From Vlasov equation to degenerate nonlocal Cahn-Hilliard equation**|Charles Elbar et.al.|[2208.01026v1](http://arxiv.org/abs/2208.01026v1)|null|
+|**2022-08-01**|**Geometrical and analytical results for Einstein solitons**|Enrique Fernando López Agila et.al.|[2208.01025v1](http://arxiv.org/abs/2208.01025v1)|null|
+|**2022-08-01**|**The Poynting vector field generic singularities in resonant scattering of plane linearly polarized electromagnetic waves by subwavelength particles**|Michael I. Tribelsky et.al.|[2208.01024v1](http://arxiv.org/abs/2208.01024v1)|null|
 |**2022-07-29**|**Improved background subtraction and a fresh look at jet sub-structure in JEWEL**|José Guilherme Milhano et.al.|[2207.14814v1](http://arxiv.org/abs/2207.14814v1)|null|
 |**2022-07-29**|**CT or P Problem and Symmetric Gapped Fermion Solution**|Juven Wang et.al.|[2207.14813v1](http://arxiv.org/abs/2207.14813v1)|null|
 |**2022-07-29**|**GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**|Kelvin C. K. Chan et.al.|[2207.14812v1](http://arxiv.org/abs/2207.14812v1)|**[link](https://github.com/open-mmlab/mmediting)**|
