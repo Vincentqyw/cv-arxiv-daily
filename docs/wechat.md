@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-08-01, **Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**, Simon Boche et.al., Paper: [http://arxiv.org/abs/2208.00709v1](http://arxiv.org/abs/2208.00709v1)
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-25, **DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**, Tristan Laidlow et.al., Paper: [http://arxiv.org/abs/2207.12244v1](http://arxiv.org/abs/2207.12244v1)
 - 2022-07-25, **Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2207.11942v1](http://arxiv.org/abs/2207.11942v1)
@@ -163,6 +164,7 @@
 
 ## SFM
 
+- 2022-07-31, **One Object at a Time: Accurate and Robust Structure From Motion for Robots**, Aravind Battaje et.al., Paper: [http://arxiv.org/abs/2208.00487v1](http://arxiv.org/abs/2208.00487v1)
 - 2022-07-23, **Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**, Daniel Posada et.al., Paper: [http://arxiv.org/abs/2207.11413v1](http://arxiv.org/abs/2207.11413v1)
 - 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**, Wang Zhao et.al., Paper: [http://arxiv.org/abs/2207.09137v1](http://arxiv.org/abs/2207.09137v1), Code: **[https://github.com/bytedance/particle-sfm](https://github.com/bytedance/particle-sfm)**
@@ -204,6 +206,10 @@
 
 ## Visual Localization
 
+- 2022-07-27, **On the robustness of self-supervised representations for multi-view object classification**, David Torpey et.al., Paper: [http://arxiv.org/abs/2208.00787v1](http://arxiv.org/abs/2208.00787v1)
+- 2022-07-26, **Multimodal Neural Machine Translation with Search Engine Based Image Retrieval**, ZhenHao Tang et.al., Paper: [http://arxiv.org/abs/2208.00767v1](http://arxiv.org/abs/2208.00767v1)
+- 2022-07-30, **Towards Privacy-Preserving, Real-Time and Lossless Feature Matching**, Qiang Meng et.al., Paper: [http://arxiv.org/abs/2208.00214v1](http://arxiv.org/abs/2208.00214v1)
+- 2022-07-30, **DAS: Densely-Anchored Sampling for Deep Metric Learning**, Lizhao Liu et.al., Paper: [http://arxiv.org/abs/2208.00119v1](http://arxiv.org/abs/2208.00119v1), Code: **[https://github.com/lizhaoliu-Lec/DAS](https://github.com/lizhaoliu-Lec/DAS)**
 - 2022-07-29, **Curriculum Learning for Data-Efficient Vision-Language Alignment**, Tejas Srinivasan et.al., Paper: [http://arxiv.org/abs/2207.14525v1](http://arxiv.org/abs/2207.14525v1)
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Abstracting Sketches through Simple Primitives**, Stephan Alaniz et.al., Paper: [http://arxiv.org/abs/2207.13543v1](http://arxiv.org/abs/2207.13543v1), Code: **[https://github.com/explainableml/sketch-primitives](https://github.com/explainableml/sketch-primitives)**
@@ -338,6 +344,7 @@
 
 ## Keypoint Detection
 
+- 2022-07-29, **Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2208.00090v1](http://arxiv.org/abs/2208.00090v1)
 - 2022-07-25, **Translating a Visual LEGO Manual to a Machine-Executable Plan**, Ruocheng Wang et.al., Paper: [http://arxiv.org/abs/2207.12572v1](http://arxiv.org/abs/2207.12572v1)
 - 2022-07-21, **Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2207.10506v1](http://arxiv.org/abs/2207.10506v1)
 - 2022-07-15, **Human keypoint detection for close proximity human-robot interaction**, Jan Docekal et.al., Paper: [http://arxiv.org/abs/2207.07742v1](http://arxiv.org/abs/2207.07742v1)
@@ -389,6 +396,8 @@
 
 ## Image Matching
 
+- 2022-08-01, **OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**, Weijia Li et.al., Paper: [http://arxiv.org/abs/2208.00928v1](http://arxiv.org/abs/2208.00928v1)
+- 2022-07-29, **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell et.al., Paper: [http://arxiv.org/abs/2208.00005v1](http://arxiv.org/abs/2208.00005v1)
 - 2022-07-21, **Pose for Everything: Towards Category-Agnostic Pose Estimation**, Lumin Xu et.al., Paper: [http://arxiv.org/abs/2207.10387v1](http://arxiv.org/abs/2207.10387v1), Code: **[https://github.com/luminxu/pose-for-everything](https://github.com/luminxu/pose-for-everything)**
 - 2022-07-20, **Explaining Deepfake Detection by Analysing Image Matching**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2207.09679v1](http://arxiv.org/abs/2207.09679v1), Code: **[https://github.com/megvii-research/fst-matching](https://github.com/megvii-research/fst-matching)**
 - 2022-07-18, **Adaptive Assignment for Geometry Aware Local Feature Matching**, Dihe Huang et.al., Paper: [http://arxiv.org/abs/2207.08427v1](http://arxiv.org/abs/2207.08427v1)
