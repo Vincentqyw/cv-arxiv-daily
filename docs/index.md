@@ -554,6 +554,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-07-29**|**Improved background subtraction and a fresh look at jet sub-structure in JEWEL**|José Guilherme Milhano et.al.|[2207.14814v1](http://arxiv.org/abs/2207.14814v1)|null|
+|**2022-07-29**|**CT or P Problem and Symmetric Gapped Fermion Solution**|Juven Wang et.al.|[2207.14813v1](http://arxiv.org/abs/2207.14813v1)|null|
+|**2022-07-29**|**GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**|Kelvin C. K. Chan et.al.|[2207.14812v1](http://arxiv.org/abs/2207.14812v1)|**[link](https://github.com/open-mmlab/mmediting)**|
+|**2022-07-29**|**StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**|Guangcong Wang et.al.|[2207.14811v1](http://arxiv.org/abs/2207.14811v1)|**[link](https://github.com/wanggcong/stylelight)**|
+|**2022-07-29**|**Simplifying a classical-quantum algorithm interpolation with quantum singular value transformations**|Duarte Magano et.al.|[2207.14810v1](http://arxiv.org/abs/2207.14810v1)|null|
+|**2022-07-29**|**CDF Measurement of $M_W$: Theory implications**|S. Heinemeyer et.al.|[2207.14809v1](http://arxiv.org/abs/2207.14809v1)|null|
+|**2022-07-29**|**The brightest galaxies at Cosmic Dawn**|Charlotte A. Mason et.al.|[2207.14808v1](http://arxiv.org/abs/2207.14808v1)|null|
+|**2022-07-29**|**PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**|Dezhi Peng et.al.|[2207.14807v1](http://arxiv.org/abs/2207.14807v1)|null|
+|**2022-07-29**|**Properties of the Conformal Yangian in Scalar and Gauge Field Theories**|Nikolaos Dokmetzoglou et.al.|[2207.14806v1](http://arxiv.org/abs/2207.14806v1)|null|
+|**2022-07-29**|**Algebraic two-level measure trees**|Josué Nussbaumer et.al.|[2207.14805v1](http://arxiv.org/abs/2207.14805v1)|null|
 |**2022-07-29**|**Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations**|Jakub Rydzewski et.al.|[2207.14554v1](http://arxiv.org/abs/2207.14554v1)|null|
 |**2022-07-28**|**On the Effects of Different Types of Label Noise in Multi-Label Remote Sensing Image Classification**|Tom Burgert et.al.|[2207.13975v1](http://arxiv.org/abs/2207.13975v1)|null|
 |**2022-07-27**|**Lightweight and Progressively-Scalable Networks for Semantic Segmentation**|Yiheng Zhang et.al.|[2207.13600v1](http://arxiv.org/abs/2207.13600v1)|**[link](https://github.com/yihengzhang-cv/lps-net)**|
