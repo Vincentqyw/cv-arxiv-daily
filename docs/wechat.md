@@ -475,3 +475,16 @@
 - 2022-07-29, **Encoder-Decoder Architecture for 3D Seismic Inversion**, Maayan Gelboim et.al., Paper: [http://arxiv.org/abs/2207.14789v1](http://arxiv.org/abs/2207.14789v1)
 - 2022-07-29, **Cosmological Perturbations in Double Field Theory**, Olaf Hohm et.al., Paper: [http://arxiv.org/abs/2207.14788v1](http://arxiv.org/abs/2207.14788v1)
 
+## Computer Vision and Pattern Recognition
+
+- 2022-07-29, **Improved background subtraction and a fresh look at jet sub-structure in JEWEL**, José Guilherme Milhano et.al., Paper: [http://arxiv.org/abs/2207.14814v1](http://arxiv.org/abs/2207.14814v1)
+- 2022-07-29, **CT or P Problem and Symmetric Gapped Fermion Solution**, Juven Wang et.al., Paper: [http://arxiv.org/abs/2207.14813v1](http://arxiv.org/abs/2207.14813v1)
+- 2022-07-29, **GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**, Kelvin C. K. Chan et.al., Paper: [http://arxiv.org/abs/2207.14812v1](http://arxiv.org/abs/2207.14812v1), Code: **[https://github.com/open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)**
+- 2022-07-29, **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2207.14811v1](http://arxiv.org/abs/2207.14811v1), Code: **[https://github.com/wanggcong/stylelight](https://github.com/wanggcong/stylelight)**
+- 2022-07-29, **Simplifying a classical-quantum algorithm interpolation with quantum singular value transformations**, Duarte Magano et.al., Paper: [http://arxiv.org/abs/2207.14810v1](http://arxiv.org/abs/2207.14810v1)
+- 2022-07-29, **CDF Measurement of $M_W$: Theory implications**, S. Heinemeyer et.al., Paper: [http://arxiv.org/abs/2207.14809v1](http://arxiv.org/abs/2207.14809v1)
+- 2022-07-29, **The brightest galaxies at Cosmic Dawn**, Charlotte A. Mason et.al., Paper: [http://arxiv.org/abs/2207.14808v1](http://arxiv.org/abs/2207.14808v1)
+- 2022-07-29, **PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14807v1](http://arxiv.org/abs/2207.14807v1)
+- 2022-07-29, **Properties of the Conformal Yangian in Scalar and Gauge Field Theories**, Nikolaos Dokmetzoglou et.al., Paper: [http://arxiv.org/abs/2207.14806v1](http://arxiv.org/abs/2207.14806v1)
+- 2022-07-29, **Algebraic two-level measure trees**, Josué Nussbaumer et.al., Paper: [http://arxiv.org/abs/2207.14805v1](http://arxiv.org/abs/2207.14805v1)
+
