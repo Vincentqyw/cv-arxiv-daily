@@ -1,5 +1,5 @@
 title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
+description: Github Actions를 사용하여 매일 CV 논문 자동 업데이트(매 8시간마다 업데이트)
 show_downloads: true
 #theme: jekyll-theme-slate
 
@@ -8,5 +8,5 @@ plugins:
 - jekyll-remote-theme 
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/Oh-Ji-Hoon/cv-arxiv-daily
+  another_url: https://github.com/Oh-Ji-Hoon/cv-arxiv-daily

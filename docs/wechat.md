@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-08-01, **Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**, Simon Boche et.al., Paper: [http://arxiv.org/abs/2208.00709v1](http://arxiv.org/abs/2208.00709v1)
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-25, **DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**, Tristan Laidlow et.al., Paper: [http://arxiv.org/abs/2207.12244v1](http://arxiv.org/abs/2207.12244v1)
 - 2022-07-25, **Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2207.11942v1](http://arxiv.org/abs/2207.11942v1)
@@ -163,6 +164,7 @@
 
 ## SFM
 
+- 2022-07-31, **One Object at a Time: Accurate and Robust Structure From Motion for Robots**, Aravind Battaje et.al., Paper: [http://arxiv.org/abs/2208.00487v1](http://arxiv.org/abs/2208.00487v1)
 - 2022-07-23, **Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**, Daniel Posada et.al., Paper: [http://arxiv.org/abs/2207.11413v1](http://arxiv.org/abs/2207.11413v1)
 - 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**, Wang Zhao et.al., Paper: [http://arxiv.org/abs/2207.09137v1](http://arxiv.org/abs/2207.09137v1), Code: **[https://github.com/bytedance/particle-sfm](https://github.com/bytedance/particle-sfm)**
@@ -204,6 +206,10 @@
 
 ## Visual Localization
 
+- 2022-07-27, **On the robustness of self-supervised representations for multi-view object classification**, David Torpey et.al., Paper: [http://arxiv.org/abs/2208.00787v1](http://arxiv.org/abs/2208.00787v1)
+- 2022-07-26, **Multimodal Neural Machine Translation with Search Engine Based Image Retrieval**, ZhenHao Tang et.al., Paper: [http://arxiv.org/abs/2208.00767v1](http://arxiv.org/abs/2208.00767v1)
+- 2022-07-30, **Towards Privacy-Preserving, Real-Time and Lossless Feature Matching**, Qiang Meng et.al., Paper: [http://arxiv.org/abs/2208.00214v1](http://arxiv.org/abs/2208.00214v1)
+- 2022-07-30, **DAS: Densely-Anchored Sampling for Deep Metric Learning**, Lizhao Liu et.al., Paper: [http://arxiv.org/abs/2208.00119v1](http://arxiv.org/abs/2208.00119v1), Code: **[https://github.com/lizhaoliu-Lec/DAS](https://github.com/lizhaoliu-Lec/DAS)**
 - 2022-07-29, **Curriculum Learning for Data-Efficient Vision-Language Alignment**, Tejas Srinivasan et.al., Paper: [http://arxiv.org/abs/2207.14525v1](http://arxiv.org/abs/2207.14525v1)
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Abstracting Sketches through Simple Primitives**, Stephan Alaniz et.al., Paper: [http://arxiv.org/abs/2207.13543v1](http://arxiv.org/abs/2207.13543v1), Code: **[https://github.com/explainableml/sketch-primitives](https://github.com/explainableml/sketch-primitives)**
@@ -338,6 +344,7 @@
 
 ## Keypoint Detection
 
+- 2022-07-29, **Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2208.00090v1](http://arxiv.org/abs/2208.00090v1)
 - 2022-07-25, **Translating a Visual LEGO Manual to a Machine-Executable Plan**, Ruocheng Wang et.al., Paper: [http://arxiv.org/abs/2207.12572v1](http://arxiv.org/abs/2207.12572v1)
 - 2022-07-21, **Multi-modal Retinal Image Registration Using a Keypoint-Based Vessel Structure Aligning Network**, Aline Sindel et.al., Paper: [http://arxiv.org/abs/2207.10506v1](http://arxiv.org/abs/2207.10506v1)
 - 2022-07-15, **Human keypoint detection for close proximity human-robot interaction**, Jan Docekal et.al., Paper: [http://arxiv.org/abs/2207.07742v1](http://arxiv.org/abs/2207.07742v1)
@@ -389,6 +396,8 @@
 
 ## Image Matching
 
+- 2022-08-01, **OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**, Weijia Li et.al., Paper: [http://arxiv.org/abs/2208.00928v1](http://arxiv.org/abs/2208.00928v1)
+- 2022-07-29, **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell et.al., Paper: [http://arxiv.org/abs/2208.00005v1](http://arxiv.org/abs/2208.00005v1)
 - 2022-07-21, **Pose for Everything: Towards Category-Agnostic Pose Estimation**, Lumin Xu et.al., Paper: [http://arxiv.org/abs/2207.10387v1](http://arxiv.org/abs/2207.10387v1), Code: **[https://github.com/luminxu/pose-for-everything](https://github.com/luminxu/pose-for-everything)**
 - 2022-07-20, **Explaining Deepfake Detection by Analysing Image Matching**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2207.09679v1](http://arxiv.org/abs/2207.09679v1), Code: **[https://github.com/megvii-research/fst-matching](https://github.com/megvii-research/fst-matching)**
 - 2022-07-18, **Adaptive Assignment for Geometry Aware Local Feature Matching**, Dihe Huang et.al., Paper: [http://arxiv.org/abs/2207.08427v1](http://arxiv.org/abs/2207.08427v1)
@@ -438,4 +447,63 @@
 - 2021-11-29, **Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.15514v1](http://arxiv.org/abs/2111.15514v1)
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
+
+## CV
+
+- 2022-08-01, **Generating Galton-Watson trees using random walks and percolation for the Gaussian free field**, Alexander Drewitz et.al., Paper: [http://arxiv.org/abs/2208.01033v1](http://arxiv.org/abs/2208.01033v1)
+- 2022-08-01, **Engineering SYK interactions in disordered graphene flakes under realistic experimental conditions**, Marta Brzezinska et.al., Paper: [http://arxiv.org/abs/2208.01032v1](http://arxiv.org/abs/2208.01032v1)
+- 2022-08-01, **A data compression and optimal galaxy weights scheme for Dark Energy Spectroscopic Instrument and weak lensing datasets**, Rossana Ruggeri et.al., Paper: [http://arxiv.org/abs/2208.01031v1](http://arxiv.org/abs/2208.01031v1)
+- 2022-08-01, **SMART: Sentences as Basic Units for Text Evaluation**, Reinald Kim Amplayo et.al., Paper: [http://arxiv.org/abs/2208.01030v1](http://arxiv.org/abs/2208.01030v1)
+- 2022-08-01, **On the Limitations of Sociodemographic Adaptation with Transformers**, Chia-Chien Hung et.al., Paper: [http://arxiv.org/abs/2208.01029v1](http://arxiv.org/abs/2208.01029v1)
+- 2022-08-01, **Atlas of Nuclear Isomers -- Second Edition**, Swati Garg et.al., Paper: [http://arxiv.org/abs/2208.01028v1](http://arxiv.org/abs/2208.01028v1)
+- 2022-08-01, **Specialization of Integral Closure of Ideals by General Elements**, Lindsey Hill et.al., Paper: [http://arxiv.org/abs/2208.01027v1](http://arxiv.org/abs/2208.01027v1)
+- 2022-08-01, **From Vlasov equation to degenerate nonlocal Cahn-Hilliard equation**, Charles Elbar et.al., Paper: [http://arxiv.org/abs/2208.01026v1](http://arxiv.org/abs/2208.01026v1)
+- 2022-08-01, **Geometrical and analytical results for Einstein solitons**, Enrique Fernando López Agila et.al., Paper: [http://arxiv.org/abs/2208.01025v1](http://arxiv.org/abs/2208.01025v1)
+- 2022-08-01, **The Poynting vector field generic singularities in resonant scattering of plane linearly polarized electromagnetic waves by subwavelength particles**, Michael I. Tribelsky et.al., Paper: [http://arxiv.org/abs/2208.01024v1](http://arxiv.org/abs/2208.01024v1)
+- 2022-07-29, **Improved background subtraction and a fresh look at jet sub-structure in JEWEL**, José Guilherme Milhano et.al., Paper: [http://arxiv.org/abs/2207.14814v1](http://arxiv.org/abs/2207.14814v1)
+- 2022-07-29, **CT or P Problem and Symmetric Gapped Fermion Solution**, Juven Wang et.al., Paper: [http://arxiv.org/abs/2207.14813v1](http://arxiv.org/abs/2207.14813v1)
+- 2022-07-29, **GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**, Kelvin C. K. Chan et.al., Paper: [http://arxiv.org/abs/2207.14812v1](http://arxiv.org/abs/2207.14812v1), Code: **[https://github.com/open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)**
+- 2022-07-29, **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2207.14811v1](http://arxiv.org/abs/2207.14811v1), Code: **[https://github.com/wanggcong/stylelight](https://github.com/wanggcong/stylelight)**
+- 2022-07-29, **Simplifying a classical-quantum algorithm interpolation with quantum singular value transformations**, Duarte Magano et.al., Paper: [http://arxiv.org/abs/2207.14810v1](http://arxiv.org/abs/2207.14810v1)
+- 2022-07-29, **CDF Measurement of $M_W$: Theory implications**, S. Heinemeyer et.al., Paper: [http://arxiv.org/abs/2207.14809v1](http://arxiv.org/abs/2207.14809v1)
+- 2022-07-29, **The brightest galaxies at Cosmic Dawn**, Charlotte A. Mason et.al., Paper: [http://arxiv.org/abs/2207.14808v1](http://arxiv.org/abs/2207.14808v1)
+- 2022-07-29, **PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14807v1](http://arxiv.org/abs/2207.14807v1)
+- 2022-07-29, **Properties of the Conformal Yangian in Scalar and Gauge Field Theories**, Nikolaos Dokmetzoglou et.al., Paper: [http://arxiv.org/abs/2207.14806v1](http://arxiv.org/abs/2207.14806v1)
+- 2022-07-29, **Algebraic two-level measure trees**, Josué Nussbaumer et.al., Paper: [http://arxiv.org/abs/2207.14805v1](http://arxiv.org/abs/2207.14805v1)
+- 2022-07-29, **Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations**, Jakub Rydzewski et.al., Paper: [http://arxiv.org/abs/2207.14554v1](http://arxiv.org/abs/2207.14554v1)
+- 2022-07-28, **On the Effects of Different Types of Label Noise in Multi-Label Remote Sensing Image Classification**, Tom Burgert et.al., Paper: [http://arxiv.org/abs/2207.13975v1](http://arxiv.org/abs/2207.13975v1)
+- 2022-07-27, **Lightweight and Progressively-Scalable Networks for Semantic Segmentation**, Yiheng Zhang et.al., Paper: [http://arxiv.org/abs/2207.13600v1](http://arxiv.org/abs/2207.13600v1), Code: **[https://github.com/yihengzhang-cv/lps-net](https://github.com/yihengzhang-cv/lps-net)**
+- 2022-07-26, **Key frames assisted hybrid encoding for photorealistic compressive video sensing**, Honghao Huang et.al., Paper: [http://arxiv.org/abs/2207.12627v1](http://arxiv.org/abs/2207.12627v1)
+- 2022-07-25, **Multi-Scale RAFT: Combining Hierarchical Concepts for Learning-based Optical FLow Estimation**, Azin Jahedi et.al., Paper: [http://arxiv.org/abs/2207.12163v1](http://arxiv.org/abs/2207.12163v1)
+- 2022-07-24, **Experimental Demonstration of Discrete Modulation Formats for Continuous Variable Quantum Key Distribution**, François Roumestan et.al., Paper: [http://arxiv.org/abs/2207.11702v1](http://arxiv.org/abs/2207.11702v1)
+- 2022-07-23, **Robots Enact Malignant Stereotypes**, Andrew Hundt et.al., Paper: [http://arxiv.org/abs/2207.11569v1](http://arxiv.org/abs/2207.11569v1)
+- 2022-07-23, **RGB-D Robotic Pose Estimation For a Servicing Robotic Arm**, Jared Herron et.al., Paper: [http://arxiv.org/abs/2207.11537v1](http://arxiv.org/abs/2207.11537v1)
+- 2022-07-21, **UFO: Unified Feature Optimization**, Teng Xi et.al., Paper: [http://arxiv.org/abs/2207.10341v1](http://arxiv.org/abs/2207.10341v1)
+- 2022-07-17, **TESS light curves of cataclysmic variables I -- Unknown periods in long-known stars**, Albert Bruch et.al., Paper: [http://arxiv.org/abs/2207.08203v1](http://arxiv.org/abs/2207.08203v1)
+
+## Computer Vision
+
+- 2022-07-29, **GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**, Kelvin C. K. Chan et.al., Paper: [http://arxiv.org/abs/2207.14812v1](http://arxiv.org/abs/2207.14812v1), Code: **[https://github.com/open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)**
+- 2022-07-29, **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2207.14811v1](http://arxiv.org/abs/2207.14811v1), Code: **[https://github.com/wanggcong/stylelight](https://github.com/wanggcong/stylelight)**
+- 2022-07-29, **Simplifying a classical-quantum algorithm interpolation with quantum singular value transformations**, Duarte Magano et.al., Paper: [http://arxiv.org/abs/2207.14810v1](http://arxiv.org/abs/2207.14810v1)
+- 2022-07-29, **PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14807v1](http://arxiv.org/abs/2207.14807v1)
+- 2022-07-29, **Artifact Identification in X-ray Diffraction Data using Machine Learning Methods**, Howard Yanxon et.al., Paper: [http://arxiv.org/abs/2207.14804v1](http://arxiv.org/abs/2207.14804v1), Code: **[https://github.com/advancedphotonsource/airxd-ml](https://github.com/advancedphotonsource/airxd-ml)**
+- 2022-07-29, **Recognition of Handwritten Chinese Text by Segmentation: A Segment-annotation-free Approach**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14801v1](http://arxiv.org/abs/2207.14801v1)
+- 2022-07-29, **Analysis of VIX-linked fee incentives in variable annuities via continuous-time Markov chain approximation**, Zhenyu Cui et.al., Paper: [http://arxiv.org/abs/2207.14793v1](http://arxiv.org/abs/2207.14793v1)
+- 2022-07-29, **The Novel Approach to the Closed-Form Average Bit Error Rate Calculation for the Nakagami-m Fading Channel**, Aleksey S. Gvozdarev et.al., Paper: [http://arxiv.org/abs/2207.14791v1](http://arxiv.org/abs/2207.14791v1)
+- 2022-07-29, **Encoder-Decoder Architecture for 3D Seismic Inversion**, Maayan Gelboim et.al., Paper: [http://arxiv.org/abs/2207.14789v1](http://arxiv.org/abs/2207.14789v1)
+- 2022-07-29, **Cosmological Perturbations in Double Field Theory**, Olaf Hohm et.al., Paper: [http://arxiv.org/abs/2207.14788v1](http://arxiv.org/abs/2207.14788v1)
+
+## Computer Vision and Pattern Recognition
+
+- 2022-07-29, **Improved background subtraction and a fresh look at jet sub-structure in JEWEL**, José Guilherme Milhano et.al., Paper: [http://arxiv.org/abs/2207.14814v1](http://arxiv.org/abs/2207.14814v1)
+- 2022-07-29, **CT or P Problem and Symmetric Gapped Fermion Solution**, Juven Wang et.al., Paper: [http://arxiv.org/abs/2207.14813v1](http://arxiv.org/abs/2207.14813v1)
+- 2022-07-29, **GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond**, Kelvin C. K. Chan et.al., Paper: [http://arxiv.org/abs/2207.14812v1](http://arxiv.org/abs/2207.14812v1), Code: **[https://github.com/open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)**
+- 2022-07-29, **StyleLight: HDR Panorama Generation for Lighting Estimation and Editing**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2207.14811v1](http://arxiv.org/abs/2207.14811v1), Code: **[https://github.com/wanggcong/stylelight](https://github.com/wanggcong/stylelight)**
+- 2022-07-29, **Simplifying a classical-quantum algorithm interpolation with quantum singular value transformations**, Duarte Magano et.al., Paper: [http://arxiv.org/abs/2207.14810v1](http://arxiv.org/abs/2207.14810v1)
+- 2022-07-29, **CDF Measurement of $M_W$: Theory implications**, S. Heinemeyer et.al., Paper: [http://arxiv.org/abs/2207.14809v1](http://arxiv.org/abs/2207.14809v1)
+- 2022-07-29, **The brightest galaxies at Cosmic Dawn**, Charlotte A. Mason et.al., Paper: [http://arxiv.org/abs/2207.14808v1](http://arxiv.org/abs/2207.14808v1)
+- 2022-07-29, **PageNet: Towards End-to-End Weakly Supervised Page-Level Handwritten Chinese Text Recognition**, Dezhi Peng et.al., Paper: [http://arxiv.org/abs/2207.14807v1](http://arxiv.org/abs/2207.14807v1)
+- 2022-07-29, **Properties of the Conformal Yangian in Scalar and Gauge Field Theories**, Nikolaos Dokmetzoglou et.al., Paper: [http://arxiv.org/abs/2207.14806v1](http://arxiv.org/abs/2207.14806v1)
+- 2022-07-29, **Algebraic two-level measure trees**, Josué Nussbaumer et.al., Paper: [http://arxiv.org/abs/2207.14805v1](http://arxiv.org/abs/2207.14805v1)
 
