@@ -1,4 +1,4 @@
-> Updated on 2022.08.04
+> Updated on 2022.08.05
 
 ## SLAM
 
@@ -398,7 +398,7 @@
 
 ## Image Matching
 
-- 2022-08-01, **OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**, Weijia Li et.al., Paper: [http://arxiv.org/abs/2208.00928v1](http://arxiv.org/abs/2208.00928v1)
+- 2022-08-04, **OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**, Weijia Li et.al., Paper: [http://arxiv.org/abs/2208.00928v2](http://arxiv.org/abs/2208.00928v2)
 - 2022-07-29, **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell et.al., Paper: [http://arxiv.org/abs/2208.00005v1](http://arxiv.org/abs/2208.00005v1)
 - 2022-07-21, **Pose for Everything: Towards Category-Agnostic Pose Estimation**, Lumin Xu et.al., Paper: [http://arxiv.org/abs/2207.10387v1](http://arxiv.org/abs/2207.10387v1), Code: **[https://github.com/luminxu/pose-for-everything](https://github.com/luminxu/pose-for-everything)**
 - 2022-07-20, **Explaining Deepfake Detection by Analysing Image Matching**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2207.09679v1](http://arxiv.org/abs/2207.09679v1), Code: **[https://github.com/megvii-research/fst-matching](https://github.com/megvii-research/fst-matching)**
