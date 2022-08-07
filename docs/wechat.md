@@ -1,8 +1,8 @@
-> Updated on 2022.08.06
+> Updated on 2022.08.07
 
 ## SLAM
 
-- 2022-08-04, **SROS2: Usable Cyber Security Tools for ROS 2**, Victor Mayoral Vilches et.al., Paper: [http://arxiv.org/abs/2208.02615v1](http://arxiv.org/abs/2208.02615v1)
+- 2022-08-04, **SROS2: Usable Cyber Security Tools for ROS 2**, Victor Mayoral Vilches et.al., Paper: [http://arxiv.org/abs/2208.02615v1](http://arxiv.org/abs/2208.02615v1), Code: **[https://github.com/ros-swg/turtlebot3_demo](https://github.com/ros-swg/turtlebot3_demo)**
 - 2022-08-03, **Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**, Bharath Garigipati et.al., Paper: [http://arxiv.org/abs/2208.02063v1](http://arxiv.org/abs/2208.02063v1)
 - 2022-08-02, **Present and Future of SLAM in Extreme Underground Environments**, Kamak Ebadi et.al., Paper: [http://arxiv.org/abs/2208.01787v1](http://arxiv.org/abs/2208.01787v1)
 - 2022-08-01, **Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**, Simon Boche et.al., Paper: [http://arxiv.org/abs/2208.00709v1](http://arxiv.org/abs/2208.00709v1)
