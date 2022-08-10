@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.09
+## Updated on 2022.08.10
 
 ## SLAM
 
