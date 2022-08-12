@@ -164,7 +164,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = T
                     continue
                 f.write(f"    <li><a href=#{keyword}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
-            f.write("</details>\n")
+            f.write("</details>\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
