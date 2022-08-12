@@ -2,6 +2,11 @@
 layout: default
 ---
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 ## Updated on 2022.08.12
 
 <details>
@@ -612,4 +617,13 @@ layout: default
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
 <p align=right>(<a href=#Updated-on-20220812>back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
