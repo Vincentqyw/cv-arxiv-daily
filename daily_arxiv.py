@@ -190,7 +190,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = T
             f.write(f"\n")
             
             #Add: back to top
-            f.write(f"<p align=right>(<a href=#Updated on + {DateNow}>back to top</a>)</p>\n\n")
+            f.write(f"<p align=right>(<a href=#SLAM>back to top</a>)</p>\n\n")
             
     print("finished")        
 
