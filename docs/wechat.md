@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
 - 2022-08-08, **SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**, Shuai Zhang et.al., Paper: [http://arxiv.org/abs/2208.03945v1](http://arxiv.org/abs/2208.03945v1), Code: **[https://github.com/zsustc/calibration](https://github.com/zsustc/calibration)**
 - 2022-08-05, **A Survey on Visual Map Localization Using LiDARs and Cameras**, Elhousni Mahdi et.al., Paper: [http://arxiv.org/abs/2208.03376v1](http://arxiv.org/abs/2208.03376v1)
@@ -461,4 +462,17 @@
 - 2021-11-29, **Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.15514v1](http://arxiv.org/abs/2111.15514v1)
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
+
+## NeRF
+
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
+- 2022-08-11, **FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**, Jingbo Zhang et.al., Paper: [http://arxiv.org/abs/2208.05751v1](http://arxiv.org/abs/2208.05751v1)
+- 2022-08-04, **360Roam: Real-Time Indoor Roaming Using Geometry-Aware ${360^\circ}$ Radiance Fields**, Huajian Huang et.al., Paper: [http://arxiv.org/abs/2208.02705v1](http://arxiv.org/abs/2208.02705v1)
+- 2022-08-02, **T4DT: Tensorizing Time for Learning Temporal 3D Visual Data**, Mikhail Usvyatsov et.al., Paper: [http://arxiv.org/abs/2208.01421v1](http://arxiv.org/abs/2208.01421v1), Code: **[https://github.com/aelphy/t4dt](https://github.com/aelphy/t4dt)**
+- 2022-08-01, **DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**, Zijin Wu et.al., Paper: [http://arxiv.org/abs/2208.00945v1](http://arxiv.org/abs/2208.00945v1), Code: **[https://github.com/zijinwuzijin/dof-nerf](https://github.com/zijinwuzijin/dof-nerf)**
+- 2022-08-06, **MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**, Zhiqin Chen et.al., Paper: [http://arxiv.org/abs/2208.00277v2](http://arxiv.org/abs/2208.00277v2), Code: **[https://github.com/google-research/jax3d](https://github.com/google-research/jax3d)**
+- 2022-07-30, **Distilled Low Rank Neural Radiance Field with Quantization for Light Field Compression**, Jinglei Shi et.al., Paper: [http://arxiv.org/abs/2208.00164v1](http://arxiv.org/abs/2208.00164v1)
+- 2022-08-01, **End-to-end View Synthesis via NeRF Attention**, Zelin Zhao et.al., Paper: [http://arxiv.org/abs/2207.14741v2](http://arxiv.org/abs/2207.14741v2)
+- 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
+- 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
