@@ -120,7 +120,7 @@ def update_json_file(filename,data_all):
     with open(filename,"w") as f:
         json.dump(json_data,f)
     
-def json_to_md(filename,md_filename,to_web = False, use_title = True):
+def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = True):
     """
     @param filename: str
     @param md_filename: str
@@ -152,6 +152,19 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
+        
+        #Add table of contents
+        if use_tc == True:
+            f.write("<details>\n")
+            f.write("  <summary>Table of Contents</summary>\n")
+            f.write("  <ol>\n")
+            for keyword in data.keys():
+                day_content = data[keyword]
+                if not day_content:
+                    continue
+                f.write(f"    <li><a href=#{keyword}>{keyword}</a></li>\n")
+            f.write("  </ol>\n")
+            f.write("</details>\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
