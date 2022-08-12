@@ -153,7 +153,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = T
         else:
             f.write("> Updated on " + DateNow + "\n\n")
         
-        #Add table of contents
+        #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
@@ -188,7 +188,10 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = T
                     f.write(v)
 
             f.write(f"\n")
-
+            
+            #Add: back to top
+            f.write(f"<p align=right>(<a href=#Updated on + {DateNow}>back to top</a>)</p>\n\n")
+            
     print("finished")        
 
  
