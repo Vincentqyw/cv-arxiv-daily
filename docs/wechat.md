@@ -11,6 +11,7 @@
     <li><a href=#NeRF>NeRF</a></li>
   </ol>
 </details>
+
 ## SLAM
 
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
