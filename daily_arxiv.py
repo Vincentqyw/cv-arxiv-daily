@@ -162,7 +162,8 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = T
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                f.write(f"    <li><a href=#{keyword}>{keyword}</a></li>\n")
+                kw = keyword.replace(' ','-')      
+                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
@@ -190,7 +191,9 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True, use_tc = T
             f.write(f"\n")
             
             #Add: back to top
-            f.write(f"<p align=right>(<a href=#SLAM>back to top</a>)</p>\n\n")
+            top_info = f"#Updated on {DateNow}"
+            top_info = top_info.replace(' ','-').replace('.','')
+            f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
             
     print("finished")        
 
