@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
 - 2022-08-08, **SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**, Shuai Zhang et.al., Paper: [http://arxiv.org/abs/2208.03945v1](http://arxiv.org/abs/2208.03945v1), Code: **[https://github.com/zsustc/calibration](https://github.com/zsustc/calibration)**
@@ -190,6 +191,7 @@
 
 ## SFM
 
+- 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-04, **Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2208.02709v1](http://arxiv.org/abs/2208.02709v1), Code: **[https://github.com/yaochih/gcvd-release](https://github.com/yaochih/gcvd-release)**
 - 2022-07-31, **One Object at a Time: Accurate and Robust Structure From Motion for Robots**, Aravind Battaje et.al., Paper: [http://arxiv.org/abs/2208.00487v1](http://arxiv.org/abs/2208.00487v1)
 - 2022-07-23, **Detection and Initial Assessment of Lunar Landing Sites Using Neural Networks**, Daniel Posada et.al., Paper: [http://arxiv.org/abs/2207.11413v1](http://arxiv.org/abs/2207.11413v1)
@@ -235,6 +237,8 @@
 
 ## Visual Localization
 
+- 2022-08-12, **Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2208.06195v1](http://arxiv.org/abs/2208.06195v1)
+- 2022-08-12, **Instance Image Retrieval by Learning Purely From Within the Dataset**, Zhongyan Zhang et.al., Paper: [http://arxiv.org/abs/2208.06119v1](http://arxiv.org/abs/2208.06119v1)
 - 2022-08-07, **CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2208.03660v1](http://arxiv.org/abs/2208.03660v1)
 - 2022-08-05, **A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch**, Patsorn Sangkloy et.al., Paper: [http://arxiv.org/abs/2208.03354v1](http://arxiv.org/abs/2208.03354v1)
 - 2022-08-05, **ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding**, Bingning Wang et.al., Paper: [http://arxiv.org/abs/2208.03030v1](http://arxiv.org/abs/2208.03030v1), Code: **[https://github.com/benywon/ChiQA](https://github.com/benywon/ChiQA)**
