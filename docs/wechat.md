@@ -238,6 +238,7 @@
 
 ## Visual Localization
 
+- 2022-08-17, **Visual Cross-View Metric Localization with Dense Uncertainty Estimates**, Zimin Xia et.al., Paper: [http://arxiv.org/abs/2208.08519v1](http://arxiv.org/abs/2208.08519v1), Code: **[https://github.com/tudelft-iv/crossviewmetriclocalization](https://github.com/tudelft-iv/crossviewmetriclocalization)**
 - 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
 - 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1), Code: **[https://github.com/siyandong/src](https://github.com/siyandong/src)**
 - 2022-08-14, **HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**, Chengyin Xu et.al., Paper: [http://arxiv.org/abs/2208.06866v1](http://arxiv.org/abs/2208.06866v1), Code: **[https://github.com/jerryxu0129/hyp2-loss](https://github.com/jerryxu0129/hyp2-loss)**
@@ -446,7 +447,7 @@
 ## Image Matching
 
 - 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
-- 2022-08-16, **Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**, Dongwoo Park et.al., Paper: [http://arxiv.org/abs/2208.07039v2](http://arxiv.org/abs/2208.07039v2), Code: **[https://github.com/infinity7428/hANMCL](https://github.com/infinity7428/hANMCL)**
+- 2022-08-16, **Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**, Dongwoo Park et.al., Paper: [http://arxiv.org/abs/2208.07039v2](http://arxiv.org/abs/2208.07039v2)
 - 2022-08-04, **Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2208.02450v1](http://arxiv.org/abs/2208.02450v1), Code: **[https://github.com/vcm-project233/mitml](https://github.com/vcm-project233/mitml)**
 - 2022-08-04, **OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images**, Weijia Li et.al., Paper: [http://arxiv.org/abs/2208.00928v2](http://arxiv.org/abs/2208.00928v2)
 - 2022-07-29, **Testing Relational Understanding in Text-Guided Image Generation**, Colin Conwell et.al., Paper: [http://arxiv.org/abs/2208.00005v1](http://arxiv.org/abs/2208.00005v1)
@@ -504,6 +505,7 @@
 
 ## NeRF
 
+- 2022-08-18, **Neural Capture of Animatable 3D Human from Monocular Video**, Gusi Te et.al., Paper: [http://arxiv.org/abs/2208.08728v1](http://arxiv.org/abs/2208.08728v1)
 - 2022-08-16, **Casual Indoor HDR Radiance Capture from Omnidirectional Images**, Pulkit Gera et.al., Paper: [http://arxiv.org/abs/2208.07903v1](http://arxiv.org/abs/2208.07903v1)
 - 2022-08-15, **DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**, Bing Wang et.al., Paper: [http://arxiv.org/abs/2208.07227v1](http://arxiv.org/abs/2208.07227v1), Code: **[https://github.com/vlar-group/dm-nerf](https://github.com/vlar-group/dm-nerf)**
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
