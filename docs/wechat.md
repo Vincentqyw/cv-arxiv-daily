@@ -238,6 +238,8 @@
 
 ## Visual Localization
 
+- 2022-08-19, **Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**, Chao Chen et.al., Paper: [http://arxiv.org/abs/2208.09315v1](http://arxiv.org/abs/2208.09315v1)
+- 2022-08-19, **TTT-UCDR: Test-time Training for Universal Cross-Domain Retrieval**, Soumava Paul et.al., Paper: [http://arxiv.org/abs/2208.09198v1](http://arxiv.org/abs/2208.09198v1)
 - 2022-08-17, **Visual Cross-View Metric Localization with Dense Uncertainty Estimates**, Zimin Xia et.al., Paper: [http://arxiv.org/abs/2208.08519v1](http://arxiv.org/abs/2208.08519v1), Code: **[https://github.com/tudelft-iv/crossviewmetriclocalization](https://github.com/tudelft-iv/crossviewmetriclocalization)**
 - 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
 - 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1), Code: **[https://github.com/siyandong/src](https://github.com/siyandong/src)**
