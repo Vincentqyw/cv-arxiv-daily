@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.08.25
+> Updated on 2022.08.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -192,7 +192,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20220825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220826>back to top</a>)</p>
 
 ## SFM
 
@@ -238,7 +238,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20220825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220826>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -251,7 +251,7 @@
 - 2022-08-14, **Visual Localization via Few-Shot Scene Region Classification**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2208.06933v1](http://arxiv.org/abs/2208.06933v1), Code: **[https://github.com/siyandong/src](https://github.com/siyandong/src)**
 - 2022-08-14, **HyP$^2$ Loss: Beyond Hypersphere Metric Space for Multi-label Image Retrieval**, Chengyin Xu et.al., Paper: [http://arxiv.org/abs/2208.06866v1](http://arxiv.org/abs/2208.06866v1), Code: **[https://github.com/jerryxu0129/hyp2-loss](https://github.com/jerryxu0129/hyp2-loss)**
 - 2022-08-13, **Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**, Ming Dai et.al., Paper: [http://arxiv.org/abs/2208.06561v1](http://arxiv.org/abs/2208.06561v1)
-- 2022-08-16, **Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2208.06195v2](http://arxiv.org/abs/2208.06195v2)
+- 2022-08-16, **Category-Level Pose Retrieval with Contrastive Features Learnt with Occlusion Augmentation**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2208.06195v2](http://arxiv.org/abs/2208.06195v2), Code: **[https://github.com/gkouros/contrastive-pose-retrieval](https://github.com/gkouros/contrastive-pose-retrieval)**
 - 2022-08-12, **Instance Image Retrieval by Learning Purely From Within the Dataset**, Zhongyan Zhang et.al., Paper: [http://arxiv.org/abs/2208.06119v1](http://arxiv.org/abs/2208.06119v1)
 - 2022-08-07, **CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2208.03660v1](http://arxiv.org/abs/2208.03660v1)
 - 2022-08-05, **A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch**, Patsorn Sangkloy et.al., Paper: [http://arxiv.org/abs/2208.03354v1](http://arxiv.org/abs/2208.03354v1)
@@ -393,11 +393,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20220825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220826>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1)
+- 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1), Code: **[https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**
 - 2022-08-19, **Blind-Spot Collision Detection System for Commercial Vehicles Using Multi Deep CNN Architecture**, Muhammad Muzammel et.al., Paper: [http://arxiv.org/abs/2208.08224v2](http://arxiv.org/abs/2208.08224v2)
 - 2022-08-08, **MetaGraspNet: A Large-Scale Benchmark Dataset for Scene-Aware Ambidextrous Bin Picking via Physics-based Metaverse Synthesis**, Maximilian Gilles et.al., Paper: [http://arxiv.org/abs/2208.03963v1](http://arxiv.org/abs/2208.03963v1)
 - 2022-08-07, **CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2208.03660v1](http://arxiv.org/abs/2208.03660v1)
@@ -451,11 +451,11 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20220825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220826>back to top</a>)</p>
 
 ## Image Matching
 
-- 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1)
+- 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1), Code: **[https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**
 - 2022-08-22, **Equivariant Hypergraph Neural Networks**, Jinwoo Kim et.al., Paper: [http://arxiv.org/abs/2208.10428v1](http://arxiv.org/abs/2208.10428v1), Code: **[https://github.com/jw9730/ehnn](https://github.com/jw9730/ehnn)**
 - 2022-08-17, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v1](http://arxiv.org/abs/2208.08104v1)
 - 2022-08-16, **Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**, Dongwoo Park et.al., Paper: [http://arxiv.org/abs/2208.07039v2](http://arxiv.org/abs/2208.07039v2), Code: **[https://github.com/infinity7428/hANMCL](https://github.com/infinity7428/hANMCL)**
@@ -512,7 +512,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20220825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220826>back to top</a>)</p>
 
 ## NeRF
 
@@ -532,7 +532,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20220825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220826>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
