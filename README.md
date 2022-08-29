@@ -308,6 +308,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-25**|**A Deep Perceptual Measure for Lens and Camera Calibration**|Yannick Hold-Geoffroy et.al.|[2208.12300v1](http://arxiv.org/abs/2208.12300v1)|null|
 |**2022-08-25**|**A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme**|Zhixun Lu et.al.|[2208.11876v1](http://arxiv.org/abs/2208.11876v1)|null|
 |**2022-08-23**|**Satellite Image Search in AgoraEO**|Ahmet Kerem Aksoy et.al.|[2208.10830v1](http://arxiv.org/abs/2208.10830v1)|null|
 |**2022-08-20**|**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**|Ujjal Kr Dutta et.al.|[2208.09698v1](http://arxiv.org/abs/2208.09698v1)|null|
