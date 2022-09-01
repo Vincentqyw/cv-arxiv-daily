@@ -248,7 +248,7 @@
 
 ## Visual Localization
 
-- 2022-08-31, **EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**, Qihua Feng et.al., Paper: [http://arxiv.org/abs/2208.14657v1](http://arxiv.org/abs/2208.14657v1)
+- 2022-08-31, **EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**, Qihua Feng et.al., Paper: [http://arxiv.org/abs/2208.14657v1](http://arxiv.org/abs/2208.14657v1), Code: **[https://github.com/onlinehuazai/evit](https://github.com/onlinehuazai/evit)**
 - 2022-08-25, **A Deep Perceptual Measure for Lens and Camera Calibration**, Yannick Hold-Geoffroy et.al., Paper: [http://arxiv.org/abs/2208.12300v1](http://arxiv.org/abs/2208.12300v1)
 - 2022-08-25, **A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme**, Zhixun Lu et.al., Paper: [http://arxiv.org/abs/2208.11876v1](http://arxiv.org/abs/2208.11876v1)
 - 2022-08-23, **Satellite Image Search in AgoraEO**, Ahmet Kerem Aksoy et.al., Paper: [http://arxiv.org/abs/2208.10830v1](http://arxiv.org/abs/2208.10830v1)
