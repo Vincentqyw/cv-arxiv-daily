@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan et.al.|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
+|**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin et.al.|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa et.al.|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao et.al.|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili et.al.|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
@@ -314,6 +316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**|Qihua Feng et.al.|[2208.14657v1](http://arxiv.org/abs/2208.14657v1)|null|
 |**2022-08-25**|**A Deep Perceptual Measure for Lens and Camera Calibration**|Yannick Hold-Geoffroy et.al.|[2208.12300v1](http://arxiv.org/abs/2208.12300v1)|null|
 |**2022-08-25**|**A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme**|Zhixun Lu et.al.|[2208.11876v1](http://arxiv.org/abs/2208.11876v1)|null|
 |**2022-08-23**|**Satellite Image Search in AgoraEO**|Ahmet Kerem Aksoy et.al.|[2208.10830v1](http://arxiv.org/abs/2208.10830v1)|null|
@@ -639,6 +642,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-31**|**Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**|Yihao Zhi et.al.|[2208.14851v1](http://arxiv.org/abs/2208.14851v1)|**[link](https://github.com/zyhbili/Dual-Space-NeRF)**|
 |**2022-08-30**|**A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**|Tianjia Zhang et.al.|[2208.14433v1](http://arxiv.org/abs/2208.14433v1)|null|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong et.al.|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
 |**2022-08-24**|**E-NeRF: Neural Radiance Fields from a Moving Event Camera**|Simon Klenk et.al.|[2208.11300v1](http://arxiv.org/abs/2208.11300v1)|null|
