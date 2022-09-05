@@ -529,6 +529,8 @@
 
 ## NeRF
 
+- 2022-09-02, **CLONeR: Camera-Lidar Fusion for Occupancy Grid-aided Neural Representations**, Alexandra Carlson et.al., Paper: [http://arxiv.org/abs/2209.01194v1](http://arxiv.org/abs/2209.01194v1)
+- 2022-09-01, **On Quantizing Implicit Neural Representations**, Cameron Gordon et.al., Paper: [http://arxiv.org/abs/2209.01019v1](http://arxiv.org/abs/2209.01019v1)
 - 2022-08-31, **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**, Yihao Zhi et.al., Paper: [http://arxiv.org/abs/2208.14851v1](http://arxiv.org/abs/2208.14851v1), Code: **[https://github.com/zyhbili/Dual-Space-NeRF](https://github.com/zyhbili/Dual-Space-NeRF)**
 - 2022-08-30, **A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes**, Tianjia Zhang et.al., Paper: [http://arxiv.org/abs/2208.14433v1](http://arxiv.org/abs/2208.14433v1)
 - 2022-08-24, **PeRFception: Perception using Radiance Fields**, Yoonwoo Jeong et.al., Paper: [http://arxiv.org/abs/2208.11537v1](http://arxiv.org/abs/2208.11537v1), Code: **[https://github.com/POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception)**
