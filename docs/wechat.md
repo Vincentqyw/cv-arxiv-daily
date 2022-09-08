@@ -206,6 +206,7 @@
 
 ## SFM
 
+- 2022-09-07, **Deployment of Aerial Robots during the Flood Disaster in Erftstadt / Blessem in July 2021**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2209.03084v1](http://arxiv.org/abs/2209.03084v1)
 - 2022-08-27, **Weakly and Semi-Supervised Detection, Segmentation and Tracking of Table Grapes with Limited and Noisy Data**, Thomas A. Ciarfuglia et.al., Paper: [http://arxiv.org/abs/2208.13001v1](http://arxiv.org/abs/2208.13001v1)
 - 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-04, **Globally Consistent Video Depth and Pose Estimation with Efficient Test-Time Training**, Yao-Chih Lee et.al., Paper: [http://arxiv.org/abs/2208.02709v1](http://arxiv.org/abs/2208.02709v1), Code: **[https://github.com/yaochih/gcvd-release](https://github.com/yaochih/gcvd-release)**
