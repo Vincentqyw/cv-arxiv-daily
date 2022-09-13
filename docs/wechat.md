@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2022-09-12, **A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**, Tin Lai et.al., Paper: [http://arxiv.org/abs/2209.05222v1](http://arxiv.org/abs/2209.05222v1)
+- 2022-09-12, **Attitude-Guided Loop Closure for Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2209.05167v1](http://arxiv.org/abs/2209.05167v1), Code: **[https://github.com/flysoaryun/lf-vio-loop](https://github.com/flysoaryun/lf-vio-loop)**
+- 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1)
 - 2022-09-08, **ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2209.03693v1](http://arxiv.org/abs/2209.03693v1), Code: **[https://github.com/julioplaced/explorb-slam](https://github.com/julioplaced/explorb-slam)**
 - 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1), Code: **[https://github.com/hku-mars/r3live](https://github.com/hku-mars/r3live)**
 - 2022-09-06, **Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1), Code: **[https://bitbucket.org/jmangelson/gkcm](https://bitbucket.org/jmangelson/gkcm)**
@@ -256,6 +259,7 @@
 
 ## Visual Localization
 
+- 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1)
 - 2022-09-09, **Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet**, Alnur Alimanov et.al., Paper: [http://arxiv.org/abs/2209.04234v1](http://arxiv.org/abs/2209.04234v1), Code: **[https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet](https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet)**
 - 2022-09-06, **Segment Augmentation and Differentiable Ranking for Logo Retrieval**, Feyza Yavuz et.al., Paper: [http://arxiv.org/abs/2209.02482v1](http://arxiv.org/abs/2209.02482v1)
 - 2022-09-12, **ScaleFace: Uncertainty-aware Deep Metric Learning**, Roman Kail et.al., Paper: [http://arxiv.org/abs/2209.01880v2](http://arxiv.org/abs/2209.01880v2), Code: **[https://github.com/stat-ml/face-evaluation](https://github.com/stat-ml/face-evaluation)**
@@ -542,6 +546,7 @@
 
 ## NeRF
 
+- 2022-09-12, **StructNeRF: Neural Radiance Fields for Indoor Scenes with Structural Hints**, Zheng Chen et.al., Paper: [http://arxiv.org/abs/2209.05277v1](http://arxiv.org/abs/2209.05277v1)
 - 2022-09-09, **Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects**, Ziyu Wang et.al., Paper: [http://arxiv.org/abs/2209.04183v1](http://arxiv.org/abs/2209.04183v1)
 - 2022-09-08, **im2nerf: Image to Neural Radiance Field in the Wild**, Lu Mi et.al., Paper: [http://arxiv.org/abs/2209.04061v1](http://arxiv.org/abs/2209.04061v1)
 - 2022-09-08, **PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**, Prajwal Chidananda et.al., Paper: [http://arxiv.org/abs/2209.03910v1](http://arxiv.org/abs/2209.03910v1)
