@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.09.13
+> Updated on 2022.09.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 
 - 2022-09-12, **A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**, Tin Lai et.al., Paper: [http://arxiv.org/abs/2209.05222v1](http://arxiv.org/abs/2209.05222v1)
 - 2022-09-12, **Attitude-Guided Loop Closure for Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2209.05167v1](http://arxiv.org/abs/2209.05167v1), Code: **[https://github.com/flysoaryun/lf-vio-loop](https://github.com/flysoaryun/lf-vio-loop)**
-- 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1)
+- 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1), Code: **[https://github.com/MetaSLAM/GPRS](https://github.com/MetaSLAM/GPRS)**
 - 2022-09-08, **ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**, Julio A. Placed et.al., Paper: [http://arxiv.org/abs/2209.03693v1](http://arxiv.org/abs/2209.03693v1), Code: **[https://github.com/julioplaced/explorb-slam](https://github.com/julioplaced/explorb-slam)**
 - 2022-09-08, **R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**, Jiarong Lin et.al., Paper: [http://arxiv.org/abs/2209.03666v1](http://arxiv.org/abs/2209.03666v1), Code: **[https://github.com/hku-mars/r3live](https://github.com/hku-mars/r3live)**
 - 2022-09-06, **Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**, Brendon Forsgren et.al., Paper: [http://arxiv.org/abs/2209.02658v1](http://arxiv.org/abs/2209.02658v1), Code: **[https://bitbucket.org/jmangelson/gkcm](https://bitbucket.org/jmangelson/gkcm)**
@@ -207,7 +207,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
 ## SFM
 
@@ -255,13 +255,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
 ## Visual Localization
 
-- 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1)
+- 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1), Code: **[https://github.com/MetaSLAM/GPRS](https://github.com/MetaSLAM/GPRS)**
 - 2022-09-09, **Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet**, Alnur Alimanov et.al., Paper: [http://arxiv.org/abs/2209.04234v1](http://arxiv.org/abs/2209.04234v1), Code: **[https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet](https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet)**
-- 2022-09-06, **Segment Augmentation and Differentiable Ranking for Logo Retrieval**, Feyza Yavuz et.al., Paper: [http://arxiv.org/abs/2209.02482v1](http://arxiv.org/abs/2209.02482v1)
+- 2022-09-13, **Segment Augmentation and Differentiable Ranking for Logo Retrieval**, Feyza Yavuz et.al., Paper: [http://arxiv.org/abs/2209.02482v2](http://arxiv.org/abs/2209.02482v2)
 - 2022-09-12, **ScaleFace: Uncertainty-aware Deep Metric Learning**, Roman Kail et.al., Paper: [http://arxiv.org/abs/2209.01880v2](http://arxiv.org/abs/2209.01880v2), Code: **[https://github.com/stat-ml/face-evaluation](https://github.com/stat-ml/face-evaluation)**
 - 2022-09-04, **CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**, Evgeny Yudin et.al., Paper: [http://arxiv.org/abs/2209.01605v1](http://arxiv.org/abs/2209.01605v1)
 - 2022-08-31, **EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing**, Qihua Feng et.al., Paper: [http://arxiv.org/abs/2208.14657v1](http://arxiv.org/abs/2208.14657v1), Code: **[https://github.com/onlinehuazai/evit](https://github.com/onlinehuazai/evit)**
@@ -418,7 +418,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -478,7 +478,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
 ## Image Matching
 
@@ -542,7 +542,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
 ## NeRF
 
@@ -572,7 +572,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
