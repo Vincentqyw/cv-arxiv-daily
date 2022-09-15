@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen et.al.|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
+|**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali et.al.|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
 |**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai et.al.|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
 |**2022-09-12**|**Attitude-Guided Loop Closure for Cameras with Negative Plane**|Ze Wang et.al.|[2209.05167v1](http://arxiv.org/abs/2209.05167v1)|**[link](https://github.com/flysoaryun/lf-vio-loop)**|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
@@ -323,6 +325,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-14**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v1](http://arxiv.org/abs/2209.06779v1)|null|
+|**2022-09-14**|**Transformers and CNNs both Beat Humans on SBIR**|Omar Seddati et.al.|[2209.06629v1](http://arxiv.org/abs/2209.06629v1)|null|
+|**2022-09-14**|**Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch**|J. Lu et.al.|[2209.06545v1](http://arxiv.org/abs/2209.06545v1)|null|
+|**2022-09-14**|**iSimLoc: Visual Global Localization for Previously Unseen Environments with Simulated Images**|Peng Yin et.al.|[2209.06376v1](http://arxiv.org/abs/2209.06376v1)|null|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
 |**2022-09-09**|**Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet**|Alnur Alimanov et.al.|[2209.04234v1](http://arxiv.org/abs/2209.04234v1)|**[link](https://github.com/AAleka/Cycle-CBAM-and-CBAM-UNet/tree/main/UNet)**|
 |**2022-09-13**|**Segment Augmentation and Differentiable Ranking for Logo Retrieval**|Feyza Yavuz et.al.|[2209.02482v2](http://arxiv.org/abs/2209.02482v2)|null|
