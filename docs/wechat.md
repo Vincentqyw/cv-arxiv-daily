@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-09-20, **Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**, Sabir Hossain et.al., Paper: [http://arxiv.org/abs/2209.10047v1](http://arxiv.org/abs/2209.10047v1)
 - 2022-09-20, **WGICP: Differentiable Weighted GICP-Based Lidar Odometry**, Sanghyun Son et.al., Paper: [http://arxiv.org/abs/2209.09777v1](http://arxiv.org/abs/2209.09777v1)
 - 2022-09-20, **PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**, José Arce et.al., Paper: [http://arxiv.org/abs/2209.09699v1](http://arxiv.org/abs/2209.09699v1)
 - 2022-09-19, **MeSLAM: Memory Efficient SLAM based on Neural Fields**, Evgenii Kruzhkov et.al., Paper: [http://arxiv.org/abs/2209.09357v1](http://arxiv.org/abs/2209.09357v1)
@@ -450,6 +451,7 @@
 
 ## Keypoint Detection
 
+- 2022-09-21, **Long-Lived Accurate Keypoints in Event Streams**, Philippe Chiberre et.al., Paper: [http://arxiv.org/abs/2209.10385v1](http://arxiv.org/abs/2209.10385v1)
 - 2022-09-20, **Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2209.08742v2](http://arxiv.org/abs/2209.08742v2)
 - 2022-09-15, **Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**, Bastian Pätzold et.al., Paper: [http://arxiv.org/abs/2209.07393v1](http://arxiv.org/abs/2209.07393v1), Code: **[https://github.com/ais-bonn/extrcamcalib_personkeypoints](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**
 - 2022-09-07, **Deep Learning-Based Automatic Diagnosis System for Developmental Dysplasia of the Hip**, Yang Li et.al., Paper: [http://arxiv.org/abs/2209.03440v1](http://arxiv.org/abs/2209.03440v1)
