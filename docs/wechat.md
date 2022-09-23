@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2022-09-22, **SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2209.10817v1](http://arxiv.org/abs/2209.10817v1)
+- 2022-09-22, **Acoustic SLAM based on the Direction-of-Arrival and the Direct-to-Reverberant Energy Ratio**, Wenhao Qiu et.al., Paper: [http://arxiv.org/abs/2209.10726v1](http://arxiv.org/abs/2209.10726v1)
+- 2022-09-21, **Visual Localization and Mapping in Dynamic and Changing Environments**, João Carlos Virgolino Soares et.al., Paper: [http://arxiv.org/abs/2209.10710v1](http://arxiv.org/abs/2209.10710v1)
 - 2022-09-20, **Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**, Sabir Hossain et.al., Paper: [http://arxiv.org/abs/2209.10047v1](http://arxiv.org/abs/2209.10047v1)
 - 2022-09-20, **WGICP: Differentiable Weighted GICP-Based Lidar Odometry**, Sanghyun Son et.al., Paper: [http://arxiv.org/abs/2209.09777v1](http://arxiv.org/abs/2209.09777v1)
 - 2022-09-20, **PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**, José Arce et.al., Paper: [http://arxiv.org/abs/2209.09699v1](http://arxiv.org/abs/2209.09699v1)
@@ -279,6 +282,7 @@
 
 ## Visual Localization
 
+- 2022-09-21, **Visual Localization and Mapping in Dynamic and Changing Environments**, João Carlos Virgolino Soares et.al., Paper: [http://arxiv.org/abs/2209.10710v1](http://arxiv.org/abs/2209.10710v1)
 - 2022-09-20, **PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**, José Arce et.al., Paper: [http://arxiv.org/abs/2209.09699v1](http://arxiv.org/abs/2209.09699v1)
 - 2022-09-19, **Deep Metric Learning with Chance Constraints**, Yeti Z. Gurbuz et.al., Paper: [http://arxiv.org/abs/2209.09060v1](http://arxiv.org/abs/2209.09060v1), Code: **[https://github.com/yetigurbuz/ccp-dml](https://github.com/yetigurbuz/ccp-dml)**
 - 2022-09-18, **HGI-SLAM: Loop Closure With Human and Geometric Importance Features**, Shuhul Mujoo et.al., Paper: [http://arxiv.org/abs/2209.08608v1](http://arxiv.org/abs/2209.08608v1)
@@ -514,6 +518,7 @@
 
 ## Image Matching
 
+- 2022-09-22, **DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**, Chao Li et.al., Paper: [http://arxiv.org/abs/2209.10907v1](http://arxiv.org/abs/2209.10907v1)
 - 2022-09-15, **Efficient Subgraph Isomorphism using Graph Topology**, Arpan Kusari et.al., Paper: [http://arxiv.org/abs/2209.09090v1](http://arxiv.org/abs/2209.09090v1)
 - 2022-09-16, **SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**, Lei Li et.al., Paper: [http://arxiv.org/abs/2209.07806v1](http://arxiv.org/abs/2209.07806v1), Code: **[https://github.com/craigleili/srfeat](https://github.com/craigleili/srfeat)**
 - 2022-08-30, **ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**, Hongkai Chen et.al., Paper: [http://arxiv.org/abs/2208.14201v1](http://arxiv.org/abs/2208.14201v1)
