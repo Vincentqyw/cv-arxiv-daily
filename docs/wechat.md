@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
 - 2022-09-28, **Robust Incremental Smoothing and Mapping (riSAM)**, Daniel McGann et.al., Paper: [http://arxiv.org/abs/2209.14359v1](http://arxiv.org/abs/2209.14359v1)
 - 2022-09-27, **Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**, Chi-Ming Chung et.al., Paper: [http://arxiv.org/abs/2209.13274v1](http://arxiv.org/abs/2209.13274v1)
@@ -289,6 +290,7 @@
 
 ## Visual Localization
 
+- 2022-09-29, **Guided Unsupervised Learning by Subaperture Decomposition for Ocean SAR Image Retrieval**, Nicolae-Cătălin Ristea et.al., Paper: [http://arxiv.org/abs/2209.15034v1](http://arxiv.org/abs/2209.15034v1)
 - 2022-09-28, **TVLT: Textless Vision-Language Transformer**, Zineng Tang et.al., Paper: [http://arxiv.org/abs/2209.14156v1](http://arxiv.org/abs/2209.14156v1), Code: **[https://github.com/zinengtang/tvlt](https://github.com/zinengtang/tvlt)**
 - 2022-09-28, **SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval**, Yang Shen et.al., Paper: [http://arxiv.org/abs/2209.13833v1](http://arxiv.org/abs/2209.13833v1), Code: **[https://github.com/njust-vipgroup/semicon](https://github.com/njust-vipgroup/semicon)**
 - 2022-09-28, **Learning Deep Representations via Contrastive Learning for Instance Retrieval**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2209.13832v1](http://arxiv.org/abs/2209.13832v1)
@@ -612,6 +614,8 @@
 
 ## NeRF
 
+- 2022-09-30, **Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2209.15637v1](http://arxiv.org/abs/2209.15637v1)
+- 2022-09-30, **Understanding Pure CLIP Guidance for Voxel Grid NeRF Models**, Han-Hung Lee et.al., Paper: [http://arxiv.org/abs/2209.15172v1](http://arxiv.org/abs/2209.15172v1)
 - 2022-09-29, **DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et.al., Paper: [http://arxiv.org/abs/2209.14988v1](http://arxiv.org/abs/2209.14988v1)
 - 2022-09-29, **SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2209.14819v1](http://arxiv.org/abs/2209.14819v1), Code: **[https://github.com/xingyi-li/symmnerf](https://github.com/xingyi-li/symmnerf)**
 - 2022-09-28, **360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**, Shreyas Kulkarni et.al., Paper: [http://arxiv.org/abs/2209.14265v1](http://arxiv.org/abs/2209.14265v1)
