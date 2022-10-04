@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2022-10-03, **DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**, John McConnell et.al., Paper: [http://arxiv.org/abs/2210.00867v1](http://arxiv.org/abs/2210.00867v1)
+- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1)
+- 2022-10-01, **Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**, Ali Eslamian et.al., Paper: [http://arxiv.org/abs/2210.00278v1](http://arxiv.org/abs/2210.00278v1)
 - 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
 - 2022-09-28, **Robust Incremental Smoothing and Mapping (riSAM)**, Daniel McGann et.al., Paper: [http://arxiv.org/abs/2209.14359v1](http://arxiv.org/abs/2209.14359v1)
@@ -239,6 +242,8 @@
 
 ## SFM
 
+- 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
+- 2022-10-01, **FAST-LIO, Then Bayesian ICP, then GTSFM**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2210.00146v1](http://arxiv.org/abs/2210.00146v1)
 - 2022-09-20, **BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**, Ahalya Ravendran et.al., Paper: [http://arxiv.org/abs/2209.09470v1](http://arxiv.org/abs/2209.09470v1)
 - 2022-09-19, **A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion**, Gerry Chen et.al., Paper: [http://arxiv.org/abs/2209.08690v1](http://arxiv.org/abs/2209.08690v1)
 - 2022-09-14, **End-to-End Multi-View Structure-from-Motion with Hypercorrelation Volumes**, Qiao Chen et.al., Paper: [http://arxiv.org/abs/2209.06926v1](http://arxiv.org/abs/2209.06926v1)
@@ -290,6 +295,8 @@
 
 ## Visual Localization
 
+- 2022-10-03, **Merging Classification Predictions with Sequential Information for Lightweight Visual Place Recognition in Changing Environments**, Bruno Arcanjo et.al., Paper: [http://arxiv.org/abs/2210.00834v1](http://arxiv.org/abs/2210.00834v1)
+- 2022-10-02, **Loc-VAE: Learning Structurally Localized Representation from 3D Brain MR Images for Content-Based Image Retrieval**, Kei Nishimaki et.al., Paper: [http://arxiv.org/abs/2210.00506v1](http://arxiv.org/abs/2210.00506v1)
 - 2022-09-29, **Guided Unsupervised Learning by Subaperture Decomposition for Ocean SAR Image Retrieval**, Nicolae-Cătălin Ristea et.al., Paper: [http://arxiv.org/abs/2209.15034v1](http://arxiv.org/abs/2209.15034v1)
 - 2022-09-28, **TVLT: Textless Vision-Language Transformer**, Zineng Tang et.al., Paper: [http://arxiv.org/abs/2209.14156v1](http://arxiv.org/abs/2209.14156v1), Code: **[https://github.com/zinengtang/tvlt](https://github.com/zinengtang/tvlt)**
 - 2022-09-28, **SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval**, Yang Shen et.al., Paper: [http://arxiv.org/abs/2209.13833v1](http://arxiv.org/abs/2209.13833v1), Code: **[https://github.com/njust-vipgroup/semicon](https://github.com/njust-vipgroup/semicon)**
@@ -614,6 +621,10 @@
 
 ## NeRF
 
+- 2022-10-02, **IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2210.00647v1](http://arxiv.org/abs/2210.00647v1), Code: **[https://github.com/zju3dv/intrinsicnerf](https://github.com/zju3dv/intrinsicnerf)**
+- 2022-10-02, **Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation**, Xinhang Liu et.al., Paper: [http://arxiv.org/abs/2210.00489v1](http://arxiv.org/abs/2210.00489v1)
+- 2022-10-01, **NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review**, Kyle Gao et.al., Paper: [http://arxiv.org/abs/2210.00379v1](http://arxiv.org/abs/2210.00379v1)
+- 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
 - 2022-09-30, **Improving 3D-aware Image Synthesis with A Geometry-aware Discriminator**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2209.15637v1](http://arxiv.org/abs/2209.15637v1)
 - 2022-09-30, **Understanding Pure CLIP Guidance for Voxel Grid NeRF Models**, Han-Hung Lee et.al., Paper: [http://arxiv.org/abs/2209.15172v1](http://arxiv.org/abs/2209.15172v1)
 - 2022-09-29, **DreamFusion: Text-to-3D using 2D Diffusion**, Ben Poole et.al., Paper: [http://arxiv.org/abs/2209.14988v1](http://arxiv.org/abs/2209.14988v1)
