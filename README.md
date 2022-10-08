@@ -367,7 +367,7 @@
 |---|---|---|---|---|
 |**2022-10-05**|**Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**|Deepak Gupta et.al.|[2210.02401v1](http://arxiv.org/abs/2210.02401v1)|**[link](https://github.com/deepaknlp/dls)**|
 |**2022-10-05**|**Granularity-aware Adaptation for Image Retrieval over Multiple Tasks**|Jon Almazán et.al.|[2210.02254v1](http://arxiv.org/abs/2210.02254v1)|null|
-|**2022-10-05**|**Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective**|Zijian Zhang et.al.|[2210.02206v1](http://arxiv.org/abs/2210.02206v1)|null|
+|**2022-10-05**|**Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective**|Zijian Zhang et.al.|[2210.02206v1](http://arxiv.org/abs/2210.02206v1)|**[link](https://github.com/96-zachary/vse_2ad)**|
 |**2022-10-04**|**Supervised Metric Learning for Retrieval via Contextual Similarity Optimization**|Christopher Liao et.al.|[2210.01908v1](http://arxiv.org/abs/2210.01908v1)|**[link](https://github.com/chris210634/metric-learning-using-contextual-similarity)**|
 |**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
 |**2022-10-03**|**Merging Classification Predictions with Sequential Information for Lightweight Visual Place Recognition in Changing Environments**|Bruno Arcanjo et.al.|[2210.00834v1](http://arxiv.org/abs/2210.00834v1)|null|
