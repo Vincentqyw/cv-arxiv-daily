@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
@@ -302,6 +303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
 |**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
 |**2022-10-05**|**FAST-LIO, Then Bayesian ICP, Then GTSFM**|Jerred Chen et.al.|[2210.00146v2](http://arxiv.org/abs/2210.00146v2)|null|
 |**2022-09-20**|**BuFF: Burst Feature Finder for Light-Constrained 3D Reconstruction**|Ahalya Ravendran et.al.|[2209.09470v1](http://arxiv.org/abs/2209.09470v1)|null|
@@ -662,6 +664,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**|Lang Zhou et.al.|[2210.03398v1](http://arxiv.org/abs/2210.03398v1)|**[link](https://github.com/Mars-Rover-Localization/A2G-Localization)**|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-25**|**ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement**|Dongli Tan et.al.|[2209.12213v1](http://arxiv.org/abs/2209.12213v1)|null|
 |**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
