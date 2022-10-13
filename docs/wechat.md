@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-10-12, **RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2210.05984v1](http://arxiv.org/abs/2210.05984v1), Code: **[https://github.com/MaverickPeter/MR_SLAM](https://github.com/MaverickPeter/MR_SLAM)**
 - 2022-10-11, **Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**, Yuanzheng He et.al., Paper: [http://arxiv.org/abs/2210.05600v1](http://arxiv.org/abs/2210.05600v1)
 - 2022-10-11, **Autonomous Asteroid Characterization Through Nanosatellite Swarming**, Kaitlin Dennison et.al., Paper: [http://arxiv.org/abs/2210.05518v1](http://arxiv.org/abs/2210.05518v1)
 - 2022-10-11, **DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2210.05517v1](http://arxiv.org/abs/2210.05517v1)
@@ -648,6 +649,7 @@
 
 ## NeRF
 
+- 2022-10-12, **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**, Xuan Gao et.al., Paper: [http://arxiv.org/abs/2210.06108v1](http://arxiv.org/abs/2210.06108v1)
 - 2022-10-11, **X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360$^{\circ} $ Insufficient RGB-D Views**, Haoyi Zhu et.al., Paper: [http://arxiv.org/abs/2210.05135v1](http://arxiv.org/abs/2210.05135v1), Code: **[https://github.com/haoyizhu/xnerf](https://github.com/haoyizhu/xnerf)**
 - 2022-10-10, **NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**, Arunkumar Byravan et.al., Paper: [http://arxiv.org/abs/2210.04932v1](http://arxiv.org/abs/2210.04932v1)
 - 2022-10-10, **EVA3D: Compositional 3D Human Generation from 2D Image Collections**, Fangzhou Hong et.al., Paper: [http://arxiv.org/abs/2210.04888v1](http://arxiv.org/abs/2210.04888v1)
