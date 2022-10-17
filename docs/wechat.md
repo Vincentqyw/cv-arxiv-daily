@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-10-13, **Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2210.07315v1](http://arxiv.org/abs/2210.07315v1)
 - 2022-10-12, **RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2210.05984v1](http://arxiv.org/abs/2210.05984v1), Code: **[https://github.com/MaverickPeter/MR_SLAM](https://github.com/MaverickPeter/MR_SLAM)**
 - 2022-10-11, **Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**, Yuanzheng He et.al., Paper: [http://arxiv.org/abs/2210.05600v1](http://arxiv.org/abs/2210.05600v1)
 - 2022-10-11, **Autonomous Asteroid Characterization Through Nanosatellite Swarming**, Kaitlin Dennison et.al., Paper: [http://arxiv.org/abs/2210.05518v1](http://arxiv.org/abs/2210.05518v1)
@@ -257,6 +258,7 @@
 
 ## SFM
 
+- 2022-10-13, **Quantifying and analyzing rock trait distributions of rocky fault scarps using a deep learning approach**, Zhiang Chen et.al., Paper: [http://arxiv.org/abs/2210.07349v1](http://arxiv.org/abs/2210.07349v1)
 - 2022-10-11, **DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2210.05517v1](http://arxiv.org/abs/2210.05517v1)
 - 2022-10-07, **Leveraging Structure from Motion to Localize Inaccessible Bus Stops**, Indu Panigrahi et.al., Paper: [http://arxiv.org/abs/2210.03646v1](http://arxiv.org/abs/2210.03646v1), Code: **[https://github.com/ind1010/SfM_for_BusEdge](https://github.com/ind1010/SfM_for_BusEdge)**
 - 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
@@ -312,6 +314,8 @@
 
 ## Visual Localization
 
+- 2022-10-14, **Cross-Scale Context Extracted Hashing for Fine-Grained Image Binary Encoding**, Xuetong Xue et.al., Paper: [http://arxiv.org/abs/2210.07572v1](http://arxiv.org/abs/2210.07572v1), Code: **[https://github.com/netease-media/csce-net](https://github.com/netease-media/csce-net)**
+- 2022-10-14, **Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2210.07509v1](http://arxiv.org/abs/2210.07509v1)
 - 2022-10-11, **Large-to-small Image Resolution Asymmetry in Deep Metric Learning**, Pavel Suma et.al., Paper: [http://arxiv.org/abs/2210.05463v1](http://arxiv.org/abs/2210.05463v1)
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-05, **Medical Image Retrieval via Nearest Neighbor Search on Pre-trained Image Features**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2210.02401v1](http://arxiv.org/abs/2210.02401v1), Code: **[https://github.com/deepaknlp/dls](https://github.com/deepaknlp/dls)**
@@ -649,6 +653,7 @@
 
 ## NeRF
 
+- 2022-10-13, **3D GAN Inversion with Pose Optimization**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2210.07301v1](http://arxiv.org/abs/2210.07301v1)
 - 2022-10-13, **Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2210.07181v1](http://arxiv.org/abs/2210.07181v1)
 - 2022-10-12, **GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**, Qiyu Dai et.al., Paper: [http://arxiv.org/abs/2210.06575v1](http://arxiv.org/abs/2210.06575v1)
 - 2022-10-12, **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**, Xuan Gao et.al., Paper: [http://arxiv.org/abs/2210.06108v1](http://arxiv.org/abs/2210.06108v1), Code: **[https://github.com/USTC3DV/NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code)**
