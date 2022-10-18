@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.17
+> Updated on 2022.10.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
+- 2022-10-16, **Indoor Smartphone SLAM with Learned Echoic Location Features**, Wenjie Luo et.al., Paper: [http://arxiv.org/abs/2210.08493v1](http://arxiv.org/abs/2210.08493v1)
+- 2022-10-15, **Self-Improving SLAM in Dynamic Environments: Learning When to Mask**, Adrian Bojko et.al., Paper: [http://arxiv.org/abs/2210.08350v1](http://arxiv.org/abs/2210.08350v1)
 - 2022-10-13, **Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2210.07315v1](http://arxiv.org/abs/2210.07315v1)
 - 2022-10-12, **RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2210.05984v1](http://arxiv.org/abs/2210.05984v1), Code: **[https://github.com/MaverickPeter/MR_SLAM](https://github.com/MaverickPeter/MR_SLAM)**
 - 2022-10-11, **Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**, Yuanzheng He et.al., Paper: [http://arxiv.org/abs/2210.05600v1](http://arxiv.org/abs/2210.05600v1)
@@ -254,7 +257,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## SFM
 
@@ -310,10 +313,13 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## Visual Localization
 
+- 2022-10-17, **Bridging the Gap between Local Semantic Concepts and Bag of Visual Words for Natural Scene Image Retrieval**, Yousef Alqasrawi et.al., Paper: [http://arxiv.org/abs/2210.08875v1](http://arxiv.org/abs/2210.08875v1)
+- 2022-10-17, **SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation**, Woo Suk Choi et.al., Paper: [http://arxiv.org/abs/2210.08675v1](http://arxiv.org/abs/2210.08675v1)
+- 2022-10-16, **Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers**, Tao Tang et.al., Paper: [http://arxiv.org/abs/2210.08458v1](http://arxiv.org/abs/2210.08458v1), Code: **[https://github.com/trent-tangtao/autoview](https://github.com/trent-tangtao/autoview)**
 - 2022-10-14, **Cross-Scale Context Extracted Hashing for Fine-Grained Image Binary Encoding**, Xuetong Xue et.al., Paper: [http://arxiv.org/abs/2210.07572v1](http://arxiv.org/abs/2210.07572v1), Code: **[https://github.com/netease-media/csce-net](https://github.com/netease-media/csce-net)**
 - 2022-10-14, **Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2210.07509v1](http://arxiv.org/abs/2210.07509v1)
 - 2022-10-11, **Large-to-small Image Resolution Asymmetry in Deep Metric Learning**, Pavel Suma et.al., Paper: [http://arxiv.org/abs/2210.05463v1](http://arxiv.org/abs/2210.05463v1)
@@ -508,7 +514,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -516,7 +522,7 @@
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2022-09-28, **Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**, Jun-Jee Chao et.al., Paper: [http://arxiv.org/abs/2209.14419v1](http://arxiv.org/abs/2209.14419v1)
 - 2022-09-28, **USEEK: Unsupervised SE(3)-Equivariant 3D Keypoints for Generalizable Manipulation**, Zhengrong Xue et.al., Paper: [http://arxiv.org/abs/2209.13864v1](http://arxiv.org/abs/2209.13864v1)
-- 2022-09-27, **Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**, Neelay Joglekar et.al., Paper: [http://arxiv.org/abs/2209.13657v1](http://arxiv.org/abs/2209.13657v1), Code: **[https://github.com/ucsdarclab/thread-reconstruction](https://github.com/ucsdarclab/thread-reconstruction)**
+- 2022-10-16, **Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**, Neelay Joglekar et.al., Paper: [http://arxiv.org/abs/2209.13657v2](http://arxiv.org/abs/2209.13657v2), Code: **[https://github.com/ucsdarclab/thread-reconstruction](https://github.com/ucsdarclab/thread-reconstruction)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-09-26, **Performance Evaluation of 3D Keypoint Detectors and Descriptors on Coloured Point Clouds in Subsea Environments**, Kyungmin Jung et.al., Paper: [http://arxiv.org/abs/2209.12881v1](http://arxiv.org/abs/2209.12881v1)
 - 2022-10-07, **Long-Lived Accurate Keypoints in Event Streams**, Philippe Chiberre et.al., Paper: [http://arxiv.org/abs/2209.10385v2](http://arxiv.org/abs/2209.10385v2)
@@ -578,7 +584,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## Image Matching
 
@@ -649,11 +655,13 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 ## NeRF
 
-- 2022-10-13, **3D GAN Inversion with Pose Optimization**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2210.07301v1](http://arxiv.org/abs/2210.07301v1)
+- 2022-10-15, **SPIDR: SDF-based Neural Point Fields for Illumination and Deformation**, Ruofan Liang et.al., Paper: [http://arxiv.org/abs/2210.08398v1](http://arxiv.org/abs/2210.08398v1)
+- 2022-10-15, **IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields**, Changwoon Choi et.al., Paper: [http://arxiv.org/abs/2210.08202v1](http://arxiv.org/abs/2210.08202v1)
+- 2022-10-17, **3D GAN Inversion with Pose Optimization**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2210.07301v2](http://arxiv.org/abs/2210.07301v2)
 - 2022-10-13, **Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**, Yang Fu et.al., Paper: [http://arxiv.org/abs/2210.07181v1](http://arxiv.org/abs/2210.07181v1)
 - 2022-10-12, **GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**, Qiyu Dai et.al., Paper: [http://arxiv.org/abs/2210.06575v1](http://arxiv.org/abs/2210.06575v1)
 - 2022-10-12, **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**, Xuan Gao et.al., Paper: [http://arxiv.org/abs/2210.06108v1](http://arxiv.org/abs/2210.06108v1), Code: **[https://github.com/USTC3DV/NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code)**
@@ -716,7 +724,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20221017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
