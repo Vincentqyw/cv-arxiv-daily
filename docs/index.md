@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
 |**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
@@ -386,6 +387,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-19**|**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2210.10486v1](http://arxiv.org/abs/2210.10486v1)|null|
+|**2022-10-19**|**GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**|Amar Ali-bey et.al.|[2210.10239v1](http://arxiv.org/abs/2210.10239v1)|**[link](https://github.com/amaralibey/gsv-cities)**|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
 |**2022-10-17**|**Bridging the Gap between Local Semantic Concepts and Bag of Visual Words for Natural Scene Image Retrieval**|Yousef Alqasrawi et.al.|[2210.08875v1](http://arxiv.org/abs/2210.08875v1)|null|
 |**2022-10-17**|**SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation**|Woo Suk Choi et.al.|[2210.08675v1](http://arxiv.org/abs/2210.08675v1)|null|
@@ -774,6 +777,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|null|
 |**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
 |**2022-10-17**|**Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**|Simon Le Cleac'h et.al.|[2210.09420v1](http://arxiv.org/abs/2210.09420v1)|null|
 |**2022-10-15**|**SPIDR: SDF-based Neural Point Fields for Illumination and Deformation**|Ruofan Liang et.al.|[2210.08398v1](http://arxiv.org/abs/2210.08398v1)|null|
