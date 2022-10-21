@@ -383,6 +383,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-19**|**Image Semantic Relation Generation**|Mingzhe Du et.al.|[2210.11253v1](http://arxiv.org/abs/2210.11253v1)|null|
+|**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|null|
+|**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
 |**2022-10-19**|**Cross-Modal Fusion Distillation for Fine-Grained Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2210.10486v1](http://arxiv.org/abs/2210.10486v1)|null|
 |**2022-10-19**|**GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**|Amar Ali-bey et.al.|[2210.10239v1](http://arxiv.org/abs/2210.10239v1)|**[link](https://github.com/amaralibey/gsv-cities)**|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang et.al.|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
@@ -773,6 +776,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**|Fukun Yin et.al.|[2210.11170v1](http://arxiv.org/abs/2210.11170v1)|**[link](https://github.com/fukunyin/coco-nerf)**|
 |**2022-10-18**|**Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**|Yunzhi Lin et.al.|[2210.10108v1](http://arxiv.org/abs/2210.10108v1)|null|
 |**2022-10-18**|**ARAH: Animatable Volume Rendering of Articulated Human SDFs**|Shaofei Wang et.al.|[2210.10036v1](http://arxiv.org/abs/2210.10036v1)|null|
 |**2022-10-20**|**Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**|Simon Le Cleac'h et.al.|[2210.09420v2](http://arxiv.org/abs/2210.09420v2)|null|
