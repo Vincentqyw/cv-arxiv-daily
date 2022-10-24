@@ -389,7 +389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-21**|**Boosting vision transformers for image retrieval**|Chull Hwan Song et.al.|[2210.11909v1](http://arxiv.org/abs/2210.11909v1)|null|
+|**2022-10-21**|**Boosting vision transformers for image retrieval**|Chull Hwan Song et.al.|[2210.11909v1](http://arxiv.org/abs/2210.11909v1)|**[link](https://github.com/dealicious-inc/dtop)**|
 |**2022-10-20**|**Communication breakdown: On the low mutual intelligibility between human and neural captioning**|Roberto Dessì et.al.|[2210.11512v1](http://arxiv.org/abs/2210.11512v1)|null|
 |**2022-10-19**|**Image Semantic Relation Generation**|Mingzhe Du et.al.|[2210.11253v1](http://arxiv.org/abs/2210.11253v1)|null|
 |**2022-10-20**|**General Image Descriptors for Open World Image Retrieval using ViT CLIP**|Marcos V. Conde et.al.|[2210.11141v1](http://arxiv.org/abs/2210.11141v1)|**[link](https://github.com/ivanaer/g-universal-clip)**|
