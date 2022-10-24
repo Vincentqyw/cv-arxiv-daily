@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.10.23
+> Updated on 2022.10.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
+- 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
 - 2022-10-19, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v1](http://arxiv.org/abs/2210.10491v1)
 - 2022-10-18, **Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**, Geon Choi et.al., Paper: [http://arxiv.org/abs/2210.09636v1](http://arxiv.org/abs/2210.09636v1)
 - 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
@@ -259,7 +261,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 ## SFM
 
@@ -315,10 +317,12 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 ## Visual Localization
 
+- 2022-10-21, **Boosting vision transformers for image retrieval**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2210.11909v1](http://arxiv.org/abs/2210.11909v1)
+- 2022-10-20, **Communication breakdown: On the low mutual intelligibility between human and neural captioning**, Roberto Dessì et.al., Paper: [http://arxiv.org/abs/2210.11512v1](http://arxiv.org/abs/2210.11512v1)
 - 2022-10-19, **Image Semantic Relation Generation**, Mingzhe Du et.al., Paper: [http://arxiv.org/abs/2210.11253v1](http://arxiv.org/abs/2210.11253v1)
 - 2022-10-20, **General Image Descriptors for Open World Image Retrieval using ViT CLIP**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.11141v1](http://arxiv.org/abs/2210.11141v1), Code: **[https://github.com/ivanaer/g-universal-clip](https://github.com/ivanaer/g-universal-clip)**
 - 2022-10-20, **DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**, Sha Lu et.al., Paper: [http://arxiv.org/abs/2210.11029v1](http://arxiv.org/abs/2210.11029v1)
@@ -522,10 +526,11 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 ## Keypoint Detection
 
+- 2022-10-21, **Real-time Detection of 2D Tool Landmarks with Synthetic Training Data**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2210.11991v1](http://arxiv.org/abs/2210.11991v1)
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2022-09-28, **Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences**, Jun-Jee Chao et.al., Paper: [http://arxiv.org/abs/2209.14419v1](http://arxiv.org/abs/2209.14419v1)
@@ -592,7 +597,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 ## Image Matching
 
@@ -663,11 +668,14 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 ## NeRF
 
-- 2022-10-20, **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**, Fukun Yin et.al., Paper: [http://arxiv.org/abs/2210.11170v1](http://arxiv.org/abs/2210.11170v1), Code: **[https://github.com/fukunyin/coco-nerf](https://github.com/fukunyin/coco-nerf)**
+- 2022-10-21, **Neural Fields for Robotic Object Manipulation from a Single Image**, Valts Blukis et.al., Paper: [http://arxiv.org/abs/2210.12126v1](http://arxiv.org/abs/2210.12126v1)
+- 2022-10-21, **HDHumans: A Hybrid Approach for High-fidelity Digital Humans**, Marc Habermann et.al., Paper: [http://arxiv.org/abs/2210.12003v1](http://arxiv.org/abs/2210.12003v1)
+- 2022-10-21, **RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**, Zhenggang Tang et.al., Paper: [http://arxiv.org/abs/2210.11668v1](http://arxiv.org/abs/2210.11668v1)
+- 2022-10-21, **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**, Fukun Yin et.al., Paper: [http://arxiv.org/abs/2210.11170v2](http://arxiv.org/abs/2210.11170v2), Code: **[https://github.com/fukunyin/coco-nerf](https://github.com/fukunyin/coco-nerf)**
 - 2022-10-18, **Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation**, Yunzhi Lin et.al., Paper: [http://arxiv.org/abs/2210.10108v1](http://arxiv.org/abs/2210.10108v1)
 - 2022-10-18, **ARAH: Animatable Volume Rendering of Articulated Human SDFs**, Shaofei Wang et.al., Paper: [http://arxiv.org/abs/2210.10036v1](http://arxiv.org/abs/2210.10036v1)
 - 2022-10-20, **Differentiable Physics Simulation of Dynamics-Augmented Neural Objects**, Simon Le Cleac'h et.al., Paper: [http://arxiv.org/abs/2210.09420v2](http://arxiv.org/abs/2210.09420v2)
@@ -736,7 +744,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20221023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
