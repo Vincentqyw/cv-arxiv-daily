@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2022-10-23, **VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**, Andreas Georgis et.al., Paper: [http://arxiv.org/abs/2210.12756v1](http://arxiv.org/abs/2210.12756v1)
+- 2022-10-22, **SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**, Junliang Chen et.al., Paper: [http://arxiv.org/abs/2210.12417v1](http://arxiv.org/abs/2210.12417v1)
 - 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
 - 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
 - 2022-10-22, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v2](http://arxiv.org/abs/2210.10491v2)
@@ -321,6 +323,8 @@
 
 ## Visual Localization
 
+- 2022-10-24, **Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval**, Zhaopeng Dou et.al., Paper: [http://arxiv.org/abs/2210.13440v1](http://arxiv.org/abs/2210.13440v1), Code: **[https://github.com/dcp15/ual](https://github.com/dcp15/ual)**
+- 2022-10-23, **Neural Eigenfunctions Are Structured Representation Learners**, Zhijie Deng et.al., Paper: [http://arxiv.org/abs/2210.12637v1](http://arxiv.org/abs/2210.12637v1)
 - 2022-10-21, **Boosting vision transformers for image retrieval**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2210.11909v1](http://arxiv.org/abs/2210.11909v1), Code: **[https://github.com/dealicious-inc/dtop](https://github.com/dealicious-inc/dtop)**
 - 2022-10-20, **Communication breakdown: On the low mutual intelligibility between human and neural captioning**, Roberto Dessì et.al., Paper: [http://arxiv.org/abs/2210.11512v1](http://arxiv.org/abs/2210.11512v1)
 - 2022-10-19, **Image Semantic Relation Generation**, Mingzhe Du et.al., Paper: [http://arxiv.org/abs/2210.11253v1](http://arxiv.org/abs/2210.11253v1)
@@ -530,6 +534,7 @@
 
 ## Keypoint Detection
 
+- 2022-10-23, **Few-Shot Meta Learning for Recognizing Facial Phenotypes of Genetic Disorders**, Ömer Sümer et.al., Paper: [http://arxiv.org/abs/2210.12705v1](http://arxiv.org/abs/2210.12705v1)
 - 2022-10-21, **Real-time Detection of 2D Tool Landmarks with Synthetic Training Data**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2210.11991v1](http://arxiv.org/abs/2210.11991v1)
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
@@ -672,6 +677,10 @@
 
 ## NeRF
 
+- 2022-10-24, **Learning Neural Radiance Fields from Multi-View Geometry**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2210.13041v1](http://arxiv.org/abs/2210.13041v1)
+- 2022-10-23, **Compressing Explicit Voxel Grid Representations: fast NeRFs become also small**, Chenxi Lola Deng et.al., Paper: [http://arxiv.org/abs/2210.12782v1](http://arxiv.org/abs/2210.12782v1)
+- 2022-10-23, **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2210.12731v1](http://arxiv.org/abs/2210.12731v1)
+- 2022-10-21, **An Exploration of Neural Radiance Field Scene Reconstruction: Synthetic, Real-world and Dynamic Scenes**, Benedict Quartey et.al., Paper: [http://arxiv.org/abs/2210.12268v1](http://arxiv.org/abs/2210.12268v1)
 - 2022-10-21, **Neural Fields for Robotic Object Manipulation from a Single Image**, Valts Blukis et.al., Paper: [http://arxiv.org/abs/2210.12126v1](http://arxiv.org/abs/2210.12126v1)
 - 2022-10-21, **HDHumans: A Hybrid Approach for High-fidelity Digital Humans**, Marc Habermann et.al., Paper: [http://arxiv.org/abs/2210.12003v1](http://arxiv.org/abs/2210.12003v1)
 - 2022-10-21, **RGB-Only Reconstruction of Tabletop Scenes for Collision-Free Manipulator Control**, Zhenggang Tang et.al., Paper: [http://arxiv.org/abs/2210.11668v1](http://arxiv.org/abs/2210.11668v1)
