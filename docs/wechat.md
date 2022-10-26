@@ -19,6 +19,10 @@
 
 ## SLAM
 
+- 2022-10-25, **MAROAM: Map-based Radar SLAM through Two-step Feature Selection**, Dequan Wang et.al., Paper: [http://arxiv.org/abs/2210.13797v1](http://arxiv.org/abs/2210.13797v1)
+- 2022-10-25, **S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**, Dapeng Feng et.al., Paper: [http://arxiv.org/abs/2210.13723v1](http://arxiv.org/abs/2210.13723v1), Code: **[https://github.com/pengyu-team/s3e](https://github.com/pengyu-team/s3e)**
+- 2022-10-24, **NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.13641v1](http://arxiv.org/abs/2210.13641v1)
+- 2022-10-24, **Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**, Geng Wang et.al., Paper: [http://arxiv.org/abs/2210.13556v1](http://arxiv.org/abs/2210.13556v1)
 - 2022-10-23, **VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**, Andreas Georgis et.al., Paper: [http://arxiv.org/abs/2210.12756v1](http://arxiv.org/abs/2210.12756v1)
 - 2022-10-22, **SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**, Junliang Chen et.al., Paper: [http://arxiv.org/abs/2210.12417v1](http://arxiv.org/abs/2210.12417v1)
 - 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
@@ -323,6 +327,8 @@
 
 ## Visual Localization
 
+- 2022-10-25, **A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**, Lukas Bernreiter et.al., Paper: [http://arxiv.org/abs/2210.13856v1](http://arxiv.org/abs/2210.13856v1)
+- 2022-10-24, **Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision**, Tzu-Jui Julius Wang et.al., Paper: [http://arxiv.org/abs/2210.13591v1](http://arxiv.org/abs/2210.13591v1)
 - 2022-10-24, **Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval**, Zhaopeng Dou et.al., Paper: [http://arxiv.org/abs/2210.13440v1](http://arxiv.org/abs/2210.13440v1), Code: **[https://github.com/dcp15/ual](https://github.com/dcp15/ual)**
 - 2022-10-23, **Neural Eigenfunctions Are Structured Representation Learners**, Zhijie Deng et.al., Paper: [http://arxiv.org/abs/2210.12637v1](http://arxiv.org/abs/2210.12637v1)
 - 2022-10-21, **Boosting vision transformers for image retrieval**, Chull Hwan Song et.al., Paper: [http://arxiv.org/abs/2210.11909v1](http://arxiv.org/abs/2210.11909v1), Code: **[https://github.com/dealicious-inc/dtop](https://github.com/dealicious-inc/dtop)**
@@ -606,6 +612,7 @@
 
 ## Image Matching
 
+- 2022-10-25, **A Comparative Study on Deep-Learning Methods for Dense Image Matching of Multi-angle and Multi-date Remote Sensing Stereo Images**, Hessah Albanwan et.al., Paper: [http://arxiv.org/abs/2210.14031v1](http://arxiv.org/abs/2210.14031v1)
 - 2022-10-11, **DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**, Yuxi Xiao et.al., Paper: [http://arxiv.org/abs/2210.05517v1](http://arxiv.org/abs/2210.05517v1)
 - 2022-10-07, **Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**, Lang Zhou et.al., Paper: [http://arxiv.org/abs/2210.03398v1](http://arxiv.org/abs/2210.03398v1), Code: **[https://github.com/Mars-Rover-Localization/A2G-Localization](https://github.com/Mars-Rover-Localization/A2G-Localization)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
