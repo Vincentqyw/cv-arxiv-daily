@@ -327,6 +327,11 @@
 
 ## Visual Localization
 
+- 2022-10-27, **Structuring User-Generated Content on Social Media with Multimodal Aspect-Based Sentiment Analysis**, Miriam Anschütz et.al., Paper: [http://arxiv.org/abs/2210.15377v1](http://arxiv.org/abs/2210.15377v1), Code: **[https://github.com/miriull/multimodal_absa_elbphilharmonie](https://github.com/miriull/multimodal_absa_elbphilharmonie)**
+- 2022-10-27, **Leveraging Computer Vision Application in Visual Arts: A Case Study on the Use of Residual Neural Network to Classify and Analyze Baroque Paintings**, Daniel Kvak et.al., Paper: [http://arxiv.org/abs/2210.15300v1](http://arxiv.org/abs/2210.15300v1)
+- 2022-10-27, **Towards Practicality of Sketch-Based Visual Understanding**, Ayan Kumar Bhunia et.al., Paper: [http://arxiv.org/abs/2210.15146v1](http://arxiv.org/abs/2210.15146v1)
+- 2022-10-27, **MMFL-Net: Multi-scale and Multi-granularity Feature Learning for Cross-domain Fashion Retrieval**, Chen Bao et.al., Paper: [http://arxiv.org/abs/2210.15128v1](http://arxiv.org/abs/2210.15128v1)
+- 2022-10-26, **FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning**, Suvir Mirchandani et.al., Paper: [http://arxiv.org/abs/2210.15028v1](http://arxiv.org/abs/2210.15028v1)
 - 2022-10-26, **FairCLIP: Social Bias Elimination based on Attribute Prototype Learning and Representation Neutralization**, Junyang Wang et.al., Paper: [http://arxiv.org/abs/2210.14562v1](http://arxiv.org/abs/2210.14562v1)
 - 2022-10-25, **A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**, Lukas Bernreiter et.al., Paper: [http://arxiv.org/abs/2210.13856v1](http://arxiv.org/abs/2210.13856v1)
 - 2022-10-27, **Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision**, Tzu-Jui Julius Wang et.al., Paper: [http://arxiv.org/abs/2210.13591v2](http://arxiv.org/abs/2210.13591v2)
@@ -686,6 +691,7 @@
 
 ## NeRF
 
+- 2022-10-27, **Boosting Point Clouds Rendering via Radiance Mapping**, Xiaoyang Huang et.al., Paper: [http://arxiv.org/abs/2210.15107v1](http://arxiv.org/abs/2210.15107v1)
 - 2022-10-24, **Learning Neural Radiance Fields from Multi-View Geometry**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2210.13041v1](http://arxiv.org/abs/2210.13041v1)
 - 2022-10-23, **Compressing Explicit Voxel Grid Representations: fast NeRFs become also small**, Chenxi Lola Deng et.al., Paper: [http://arxiv.org/abs/2210.12782v1](http://arxiv.org/abs/2210.12782v1)
 - 2022-10-23, **Joint Rigid Motion Correction and Sparse-View CT via Self-Calibrating Neural Field**, Qing Wu et.al., Paper: [http://arxiv.org/abs/2210.12731v1](http://arxiv.org/abs/2210.12731v1)
