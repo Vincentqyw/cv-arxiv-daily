@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2022-11-02, **Semantic SuperPoint: A Deep Semantic Descriptor**, Gabriel S. Gama et.al., Paper: [http://arxiv.org/abs/2211.01098v1](http://arxiv.org/abs/2211.01098v1), Code: **[https://github.com/gabriel-sgama/semantic-superpoint](https://github.com/gabriel-sgama/semantic-superpoint)**
+- 2022-11-02, **Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**, Myung-Hwan Jeon et.al., Paper: [http://arxiv.org/abs/2211.00960v1](http://arxiv.org/abs/2211.00960v1), Code: **[https://github.com/rpmsnu/prima6d](https://github.com/rpmsnu/prima6d)**
 - 2022-10-31, **Mapping Extended Landmarks for Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2210.17207v1](http://arxiv.org/abs/2210.17207v1)
 - 2022-10-25, **MAROAM: Map-based Radar SLAM through Two-step Feature Selection**, Dequan Wang et.al., Paper: [http://arxiv.org/abs/2210.13797v1](http://arxiv.org/abs/2210.13797v1)
 - 2022-10-25, **S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**, Dapeng Feng et.al., Paper: [http://arxiv.org/abs/2210.13723v1](http://arxiv.org/abs/2210.13723v1), Code: **[https://github.com/pengyu-team/s3e](https://github.com/pengyu-team/s3e)**
@@ -328,6 +330,9 @@
 
 ## Visual Localization
 
+- 2022-11-02, **A comparison of uncertainty estimation approaches for DNN-based camera localization**, Matteo Vaghi et.al., Paper: [http://arxiv.org/abs/2211.01234v1](http://arxiv.org/abs/2211.01234v1)
+- 2022-11-02, **M-SpeechCLIP: Leveraging Large-Scale, Pre-Trained Models for Multilingual Speech to Image Retrieval**, Layne Berry et.al., Paper: [http://arxiv.org/abs/2211.01180v1](http://arxiv.org/abs/2211.01180v1)
+- 2022-11-01, **Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2211.00768v1](http://arxiv.org/abs/2211.00768v1), Code: **[https://github.com/ajd12342/why-winoground-hard](https://github.com/ajd12342/why-winoground-hard)**
 - 2022-10-28, **Fashion-Specific Attributes Interpretation via Dual Gaussian Visual-Semantic Embedding**, Ryotaro Shimizu et.al., Paper: [http://arxiv.org/abs/2210.17417v1](http://arxiv.org/abs/2210.17417v1)
 - 2022-10-27, **Structuring User-Generated Content on Social Media with Multimodal Aspect-Based Sentiment Analysis**, Miriam Anschütz et.al., Paper: [http://arxiv.org/abs/2210.15377v1](http://arxiv.org/abs/2210.15377v1), Code: **[https://github.com/miriull/multimodal_absa_elbphilharmonie](https://github.com/miriull/multimodal_absa_elbphilharmonie)**
 - 2022-10-27, **Leveraging Computer Vision Application in Visual Arts: A Case Study on the Use of Residual Neural Network to Classify and Analyze Baroque Paintings**, Daniel Kvak et.al., Paper: [http://arxiv.org/abs/2210.15300v1](http://arxiv.org/abs/2210.15300v1)
