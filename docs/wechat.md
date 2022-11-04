@@ -19,6 +19,9 @@
 
 ## SLAM
 
+- 2022-11-03, **DyOb-SLAM : Dynamic Object Tracking SLAM System**, Rushmian Annoy Wadud et.al., Paper: [http://arxiv.org/abs/2211.01941v1](http://arxiv.org/abs/2211.01941v1)
+- 2022-11-03, **Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2211.01749v1](http://arxiv.org/abs/2211.01749v1)
+- 2022-11-03, **$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2211.01538v1](http://arxiv.org/abs/2211.01538v1)
 - 2022-11-02, **Semantic SuperPoint: A Deep Semantic Descriptor**, Gabriel S. Gama et.al., Paper: [http://arxiv.org/abs/2211.01098v1](http://arxiv.org/abs/2211.01098v1), Code: **[https://github.com/gabriel-sgama/semantic-superpoint](https://github.com/gabriel-sgama/semantic-superpoint)**
 - 2022-11-02, **Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**, Myung-Hwan Jeon et.al., Paper: [http://arxiv.org/abs/2211.00960v1](http://arxiv.org/abs/2211.00960v1), Code: **[https://github.com/rpmsnu/prima6d](https://github.com/rpmsnu/prima6d)**
 - 2022-10-31, **Mapping Extended Landmarks for Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2210.17207v1](http://arxiv.org/abs/2210.17207v1)
@@ -330,6 +333,7 @@
 
 ## Visual Localization
 
+- 2022-11-02, **Optimizing Fiducial Marker Placement for Improved Visual Localization**, Qiangqiang Huang et.al., Paper: [http://arxiv.org/abs/2211.01513v1](http://arxiv.org/abs/2211.01513v1)
 - 2022-11-02, **A comparison of uncertainty estimation approaches for DNN-based camera localization**, Matteo Vaghi et.al., Paper: [http://arxiv.org/abs/2211.01234v1](http://arxiv.org/abs/2211.01234v1)
 - 2022-11-02, **M-SpeechCLIP: Leveraging Large-Scale, Pre-Trained Models for Multilingual Speech to Image Retrieval**, Layne Berry et.al., Paper: [http://arxiv.org/abs/2211.01180v1](http://arxiv.org/abs/2211.01180v1)
 - 2022-11-01, **Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**, Anuj Diwan et.al., Paper: [http://arxiv.org/abs/2211.00768v1](http://arxiv.org/abs/2211.00768v1), Code: **[https://github.com/ajd12342/why-winoground-hard](https://github.com/ajd12342/why-winoground-hard)**
@@ -699,6 +703,7 @@
 
 ## NeRF
 
+- 2022-11-03, **nerf2nerf: Pairwise Registration of Neural Radiance Fields**, Lily Goli et.al., Paper: [http://arxiv.org/abs/2211.01600v1](http://arxiv.org/abs/2211.01600v1)
 - 2022-10-27, **ProbNeRF: Uncertainty-Aware Inference of 3D Shapes from 2D Images**, Matthew D. Hoffman et.al., Paper: [http://arxiv.org/abs/2210.17415v1](http://arxiv.org/abs/2210.17415v1)
 - 2022-10-27, **Boosting Point Clouds Rendering via Radiance Mapping**, Xiaoyang Huang et.al., Paper: [http://arxiv.org/abs/2210.15107v1](http://arxiv.org/abs/2210.15107v1)
 - 2022-10-24, **Learning Neural Radiance Fields from Multi-View Geometry**, Marco Orsingher et.al., Paper: [http://arxiv.org/abs/2210.13041v1](http://arxiv.org/abs/2210.13041v1)
