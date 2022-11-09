@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.08
+## Updated on 2022.11.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch et.al.|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
 |**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu et.al.|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
-|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
+|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/cfear_evaluation)**|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud et.al.|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen et.al.|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
 |**2022-11-04**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
@@ -325,7 +325,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## SFM
 
@@ -395,7 +395,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -406,7 +406,7 @@
 |**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi et.al.|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
 |**2022-11-02**|**M-SpeechCLIP: Leveraging Large-Scale, Pre-Trained Models for Multilingual Speech to Image Retrieval**|Layne Berry et.al.|[2211.01180v1](http://arxiv.org/abs/2211.01180v1)|null|
 |**2022-11-03**|**Why is Winoground Hard? Investigating Failures in Visuolinguistic Compositionality**|Anuj Diwan et.al.|[2211.00768v2](http://arxiv.org/abs/2211.00768v2)|**[link](https://github.com/ajd12342/why-winoground-hard)**|
-|**2022-10-28**|**Fashion-Specific Attributes Interpretation via Dual Gaussian Visual-Semantic Embedding**|Ryotaro Shimizu et.al.|[2210.17417v1](http://arxiv.org/abs/2210.17417v1)|null|
+|**2022-11-07**|**Fashion-Specific Attributes Interpretation via Dual Gaussian Visual-Semantic Embedding**|Ryotaro Shimizu et.al.|[2210.17417v2](http://arxiv.org/abs/2210.17417v2)|null|
 |**2022-10-27**|**Structuring User-Generated Content on Social Media with Multimodal Aspect-Based Sentiment Analysis**|Miriam Anschütz et.al.|[2210.15377v1](http://arxiv.org/abs/2210.15377v1)|**[link](https://github.com/miriull/multimodal_absa_elbphilharmonie)**|
 |**2022-10-27**|**Leveraging Computer Vision Application in Visual Arts: A Case Study on the Use of Residual Neural Network to Classify and Analyze Baroque Paintings**|Daniel Kvak et.al.|[2210.15300v1](http://arxiv.org/abs/2210.15300v1)|null|
 |**2022-10-27**|**Towards Practicality of Sketch-Based Visual Understanding**|Ayan Kumar Bhunia et.al.|[2210.15146v1](http://arxiv.org/abs/2210.15146v1)|null|
@@ -626,7 +626,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -725,7 +725,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## Image Matching
 
@@ -813,7 +813,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## NeRF
 
@@ -898,7 +898,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
