@@ -19,6 +19,7 @@
 
 ## SLAM
 
+- 2022-11-10, **Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**, Ignacio Torroba et.al., Paper: [http://arxiv.org/abs/2211.05601v1](http://arxiv.org/abs/2211.05601v1)
 - 2022-11-07, **When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**, Gerhard Kurz et.al., Paper: [http://arxiv.org/abs/2211.03484v1](http://arxiv.org/abs/2211.03484v1)
 - 2022-11-07, **Detecting Invalid Map Merges in Lifelong SLAM**, Matthias Holoch et.al., Paper: [http://arxiv.org/abs/2211.03423v1](http://arxiv.org/abs/2211.03423v1)
 - 2022-11-06, **Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**, Yibin Wu et.al., Paper: [http://arxiv.org/abs/2211.03174v1](http://arxiv.org/abs/2211.03174v1)
