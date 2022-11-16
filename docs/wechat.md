@@ -343,6 +343,8 @@
 
 ## Visual Localization
 
+- 2022-11-14, **Degeneracy removal of spin bands in antiferromagnets with non-interconvertible spin motif pair**, Lin-Ding Yuan et.al., Paper: [http://arxiv.org/abs/2211.07803v1](http://arxiv.org/abs/2211.07803v1)
+- 2022-11-14, **Supervised Fine-tuning Evaluation for Long-term Visual Place Recognition**, Farid Alijani et.al., Paper: [http://arxiv.org/abs/2211.07696v1](http://arxiv.org/abs/2211.07696v1)
 - 2022-11-14, **Composed Image Retrieval with Text Feedback via Multi-grained Uncertainty Regularization**, Yiyang Chen et.al., Paper: [http://arxiv.org/abs/2211.07394v1](http://arxiv.org/abs/2211.07394v1)
 - 2022-11-14, **Zero-shot Image Captioning by Anchor-augmented Vision-Language Space Alignment**, Junyang Wang et.al., Paper: [http://arxiv.org/abs/2211.07275v1](http://arxiv.org/abs/2211.07275v1)
 - 2022-11-14, **ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations**, Chanda Grover et.al., Paper: [http://arxiv.org/abs/2211.07122v1](http://arxiv.org/abs/2211.07122v1)
