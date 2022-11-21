@@ -730,6 +730,7 @@
 
 ## NeRF
 
+- 2022-11-18, **Magic3D: High-Resolution Text-to-3D Content Creation**, Chen-Hsuan Lin et.al., Paper: [http://arxiv.org/abs/2211.10440v1](http://arxiv.org/abs/2211.10440v1)
 - 2022-11-17, **AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training**, Yifan Jiang et.al., Paper: [http://arxiv.org/abs/2211.09682v1](http://arxiv.org/abs/2211.09682v1)
 - 2022-11-16, **CoNFies: Controllable Neural Face Avatars**, Heng Yu et.al., Paper: [http://arxiv.org/abs/2211.08610v1](http://arxiv.org/abs/2211.08610v1)
 - 2022-11-14, **Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**, Gal Metzer et.al., Paper: [http://arxiv.org/abs/2211.07600v1](http://arxiv.org/abs/2211.07600v1), Code: **[https://github.com/eladrich/latent-nerf](https://github.com/eladrich/latent-nerf)**
