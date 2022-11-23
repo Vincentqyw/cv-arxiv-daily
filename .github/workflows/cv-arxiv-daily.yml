@@ -42,6 +42,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install arxiv
           pip install requests
+          pip install pyyaml
           
       - name: Run daily arxiv 
         run: |
