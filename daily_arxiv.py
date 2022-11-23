@@ -1,7 +1,9 @@
+import argparse
 import datetime
 import requests
 import json
 import arxiv
+import yaml
 import os
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
@@ -217,10 +219,8 @@ def json_to_md(filename,md_filename,
                 
     print("finished")        
 
- 
-
-if __name__ == "__main__":
-
+def demo(**config):
+    # TODO: use config
     data_collector = []
     data_collector_web= []
     
@@ -233,14 +233,11 @@ if __name__ == "__main__":
     keywords["NeRF"]                = "NeRF"
 
     for topic,keyword in keywords.items():
- 
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
-
         data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
         data_collector.append(data)
         data_collector_web.append(data_web)
-
         print("\n")
 
     # 1. update README.md file
@@ -266,3 +263,15 @@ if __name__ == "__main__":
     update_json_file(json_file, data_collector_web)
     # json data to markdown
     json_to_md(json_file, md_file, to_web=False, use_title= False)
+
+def load_config(config_file:str):
+    with open(config_file,'r') as f:
+        config = yaml.load(f,Loader=yaml.FullLoader) 
+    return config 
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--config_path',type=str, default='config.yaml',help='configuration file path')
+    args = parser.parse_args()
+    config = load_config(args.config_path)
+    demo(**config)
