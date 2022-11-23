@@ -5,6 +5,11 @@ import json
 import arxiv
 import yaml
 import os
+import logging
+
+logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
+                    datefmt='%m/%d/%Y %H:%M:%S',
+                    level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
@@ -59,11 +64,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-
-      
-        print("Time = ", update_time ,
-              " title = ", paper_title,
-              " author = ", paper_first_author)
+        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
@@ -93,7 +94,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
                 content_to_web[paper_key] = content_to_web[paper_key] + f"\n"
 
         except Exception as e:
-            print(f"exception: {e} with id: {paper_key}")
+            logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -217,7 +218,7 @@ def json_to_md(filename,md_filename,
             f.write(f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
             f.write(f"[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues\n\n")
                 
-    print("finished")        
+    logging.info("finished")        
 
 def demo(**config):
     # TODO: use config
@@ -233,8 +234,7 @@ def demo(**config):
     keywords["NeRF"]                = "NeRF"
 
     for topic,keyword in keywords.items():
-        # topic = keyword.replace("\"","")
-        print("Keyword: " + topic)
+        logging.info(f"Keyword: {topic}")
         data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
         data_collector.append(data)
         data_collector_web.append(data_web)
@@ -267,7 +267,13 @@ def demo(**config):
 def load_config(config_file:str):
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
+        logging.info(f'config = {config}')
     return config 
+def construct_keywords_filters(**config) -> dict:
+    keywords = dict()
+    for k,v in config['keywords'].items():
+        keywords[k] = v #TODO
+    return keywords
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
