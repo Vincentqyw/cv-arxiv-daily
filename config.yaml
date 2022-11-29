@@ -7,6 +7,10 @@ show_links: True
 show_badge: True
 max_results: 10
 
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
 keywords:
     "SLAM": 
         filters: ["SLAM"]
