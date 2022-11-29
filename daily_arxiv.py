@@ -73,12 +73,19 @@ def get_daily_papers(topic,query="slam", max_results=2):
             # source code link
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                # content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                # content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+                
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                                    update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                                    update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                                    update_time,paper_title,paper_first_author,paper_id,paper_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                                    update_time,paper_title,paper_first_author,paper_url,paper_url)
 
             # TODO: select useful comments
             comments = None
@@ -239,7 +246,7 @@ def demo(**config):
 
     # 1. update README.md file
     if publish_readme:
-        json_file = "cv-arxiv-daily.json"
+        json_file = "./docs/cv-arxiv-daily.json" #"cv-arxiv-daily.json"
         md_file   = "README.md"
         # update json data
         update_json_file(json_file,data_collector)
@@ -251,9 +258,7 @@ def demo(**config):
     if publish_gitpage:
         json_file = "./docs/cv-arxiv-daily-web.json"
         md_file   = "./docs/index.md"
-        # update json data
         update_json_file(json_file,data_collector)
-        # json data to markdown
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge)
 
@@ -261,12 +266,9 @@ def demo(**config):
     if publish_wechat:
         json_file = "./docs/cv-arxiv-daily-wechat.json"
         md_file   = "./docs/wechat.md"
-        # update json data
         update_json_file(json_file, data_collector_web)
-        # json data to markdown
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
-
 
 def load_config(config_file:str) -> dict:
     '''
@@ -300,7 +302,6 @@ def load_config(config_file:str) -> dict:
         logging.info(f'config = {config}')
 
     return config 
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
