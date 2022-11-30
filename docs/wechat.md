@@ -19,6 +19,8 @@
 
 ## SLAM
 
+- 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1), Code: **[https://github.com/roblabwh/patchmatch](https://github.com/roblabwh/patchmatch)**
+- 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
 - 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
 - 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
 - 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
@@ -355,7 +357,8 @@
 
 ## Visual Localization
 
-- 2022-11-29, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v2](http://arxiv.org/abs/2211.15320v2)
+- 2022-11-28, **SLAN: Self-Locator Aided Network for Cross-Modal Understanding**, Jiang-Tian Zhai et.al., Paper: [http://arxiv.org/abs/2211.16208v1](http://arxiv.org/abs/2211.16208v1)
+- 2022-11-29, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v2](http://arxiv.org/abs/2211.15320v2), Code: **[https://github.com/guoqianyu-alberta/rankdnn](https://github.com/guoqianyu-alberta/rankdnn)**
 - 2022-11-28, **Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2211.15127v1](http://arxiv.org/abs/2211.15127v1)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
 - 2022-11-27, **BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images**, Zhihuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.14927v1](http://arxiv.org/abs/2211.14927v1)
@@ -760,6 +763,10 @@
 
 ## NeRF
 
+- 2022-11-29, **NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2211.16431v1](http://arxiv.org/abs/2211.16431v1)
+- 2022-11-29, **Compressing Volumetric Radiance Fields to 1 MB**, Lingzhi Li et.al., Paper: [http://arxiv.org/abs/2211.16386v1](http://arxiv.org/abs/2211.16386v1), Code: **[https://github.com/algohunt/vqrf](https://github.com/algohunt/vqrf)**
+- 2022-11-28, **In-Hand 3D Object Scanning from an RGB Sequence**, Shreyas Hampali et.al., Paper: [http://arxiv.org/abs/2211.16193v1](http://arxiv.org/abs/2211.16193v1)
+- 2022-11-29, **One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2211.15977v1](http://arxiv.org/abs/2211.15977v1), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
 - 2022-11-28, **High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors**, Yunpeng Bai et.al., Paper: [http://arxiv.org/abs/2211.15064v1](http://arxiv.org/abs/2211.15064v1)
 - 2022-11-27, **SuNeRF: Validation of a 3D Global Reconstruction of the Solar Corona Using Simulated EUV Images**, Kyriaki-Margarita Bintsi et.al., Paper: [http://arxiv.org/abs/2211.14879v1](http://arxiv.org/abs/2211.14879v1)
 - 2022-11-27, **3D Scene Creation and Rendering via Rough Meshes: A Lighting Transfer Avenue**, Yujie Li et.al., Paper: [http://arxiv.org/abs/2211.14823v1](http://arxiv.org/abs/2211.14823v1)
