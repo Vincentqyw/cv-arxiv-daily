@@ -89,9 +89,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
             # TODO: select useful comments
             comments = None
             if comments != None:
-                content_to_web[paper_key] = content_to_web[paper_key] + f", {comments}\n"
+                content_to_web[paper_key] += f", {comments}\n"
             else:
-                content_to_web[paper_key] = content_to_web[paper_key] + f"\n"
+                content_to_web[paper_key] += f"\n"
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
