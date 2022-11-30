@@ -1,11 +1,12 @@
-import argparse
-import datetime
-import requests
+import os
+import re
 import json
 import arxiv
 import yaml
-import os
 import logging
+import argparse
+import datetime
+import requests
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -134,6 +135,11 @@ def json_to_md(filename,md_filename,
     @return None
     """
     
+    def pretty_math(line:str)-> str:
+        # make latex pretty
+        # "example$^2$title" -> "example $^2$ title"
+        return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
+
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -199,7 +205,7 @@ def json_to_md(filename,md_filename,
         
             for _,v in day_content.items():
                 if v is not None:
-                    f.write(v)
+                    f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
             
