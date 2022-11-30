@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.11.29
+> Updated on 2022.11.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -289,7 +289,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
 ## SFM
 
@@ -351,20 +351,20 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
 ## Visual Localization
 
-- 2022-11-28, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v1](http://arxiv.org/abs/2211.15320v1)
+- 2022-11-29, **RankDNN: Learning to Rank for Few-shot Learning**, Qianyu Guo et.al., Paper: [http://arxiv.org/abs/2211.15320v2](http://arxiv.org/abs/2211.15320v2)
 - 2022-11-28, **Safety-quantifiable Line Feature-based Monocular Visual Localization with 3D Prior Map**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2211.15127v1](http://arxiv.org/abs/2211.15127v1)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
 - 2022-11-27, **BEV-Locator: An End-to-end Visual Semantic Localization Network Using Multi-View Images**, Zhihuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.14927v1](http://arxiv.org/abs/2211.14927v1)
 - 2022-11-27, **A Faster, Lighter and Stronger Deep Learning-Based Approach for Place Recognition**, Rui Huang et.al., Paper: [http://arxiv.org/abs/2211.14864v1](http://arxiv.org/abs/2211.14864v1)
 - 2022-11-26, **Visual Place Recognition**, Bailu Guo et.al., Paper: [http://arxiv.org/abs/2211.14533v1](http://arxiv.org/abs/2211.14533v1)
 - 2022-11-26, **Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14515v1](http://arxiv.org/abs/2211.14515v1), Code: **[https://github.com/fandulu/IHDA](https://github.com/fandulu/IHDA)**
-- 2022-11-24, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v1](http://arxiv.org/abs/2211.13523v1), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
+- 2022-11-28, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v2](http://arxiv.org/abs/2211.13523v2), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
 - 2022-11-23, **InDiReCT: Language-Guided Zero-Shot Deep Metric Learning for Images**, Konstantin Kobs et.al., Paper: [http://arxiv.org/abs/2211.12760v1](http://arxiv.org/abs/2211.12760v1), Code: **[https://github.com/lsx-uniwue/indirect](https://github.com/lsx-uniwue/indirect)**
-- 2022-11-23, **Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**, Joshua Knights et.al., Paper: [http://arxiv.org/abs/2211.12732v1](http://arxiv.org/abs/2211.12732v1)
+- 2022-11-29, **Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**, Joshua Knights et.al., Paper: [http://arxiv.org/abs/2211.12732v2](http://arxiv.org/abs/2211.12732v2)
 - 2022-11-23, **FE-Fusion-VPR: Attention-based Multi-Scale Network Architecture for Visual Place Recognition by Fusing Frames and Events**, Kuanxu Hou et.al., Paper: [http://arxiv.org/abs/2211.12244v2](http://arxiv.org/abs/2211.12244v2)
 - 2022-11-22, **Multimorbidity Content-Based Medical Image Retrieval Using Proxies**, Yunyan Xing et.al., Paper: [http://arxiv.org/abs/2211.12185v1](http://arxiv.org/abs/2211.12185v1)
 - 2022-11-22, **Vision-based localization methods under GPS-denied conditions**, Zihao Lu et.al., Paper: [http://arxiv.org/abs/2211.11988v1](http://arxiv.org/abs/2211.11988v1)
@@ -603,12 +603,12 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
 ## Keypoint Detection
 
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
-- 2022-11-27, **BALF: Simple and Efficient Blur Aware Local Feature Detector**, Zhenjun Zhao et.al., Paper: [http://arxiv.org/abs/2211.14731v1](http://arxiv.org/abs/2211.14731v1)
+- 2022-11-29, **BALF: Simple and Efficient Blur Aware Local Feature Detector**, Zhenjun Zhao et.al., Paper: [http://arxiv.org/abs/2211.14731v2](http://arxiv.org/abs/2211.14731v2)
 - 2022-11-21, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v1](http://arxiv.org/abs/2211.11589v1)
 - 2022-11-07, **Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration**, Zixin Yang et.al., Paper: [http://arxiv.org/abs/2211.03688v1](http://arxiv.org/abs/2211.03688v1)
 - 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
@@ -681,7 +681,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
 ## Image Matching
 
@@ -756,7 +756,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
 ## NeRF
 
@@ -874,7 +874,7 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
