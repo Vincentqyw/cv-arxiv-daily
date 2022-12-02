@@ -1,12 +1,68 @@
 title: CV Arxiv Daily
 description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
-show_downloads: true
-#theme: jekyll-theme-slate
+# show_downloads: true
+# #theme: jekyll-theme-slate
 
-remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
+# plugins:
+# - jekyll-remote-theme 
+
+# github:
+#   zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
+#   another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+
+
+## add remote theme
+# source: https://github.com/jekyll/minima
+remote_theme: jekyll/minima@v2.5.1
+# Build settings
+# theme: minima
+
+google_analytics:
+# author:
+#   name: Realcat
+#   email: realcat@126.com
+# show_excerpts: true  
+
+# Build settings
+# theme: minima
+
+disqus:
+  shortname: vincentqin
+
+# minima:
+skin: dark
+social_links:
+  twitter: AlphaRealcat
+  github: vincentqyw
+  # stackoverflow: "vincentqyw"
+  # dribbble: vincentqyw
+  # facebook: vincentqyw
+  # flickr: vincentqyw
+  # instagram: vincentqyw
+  # linkedin: vincentqyw
+  # pinterest: vincentqyw
+  # telegram: vincentqyw
+  # microdotblog: vincentqyw
+  # keybase: vincentqyw
+
+  # mastodon:
+  #  - username: vincentqyw
+  #    instance: realcat@126.com
+  #  - username: vincentqyw2
+  #    instance: example.com
+
+  # gitlab:
+  #  - username: vincentqyw
+  #    instance: realcat@126.com
+  #  - username: vincentqyw2
+  #    instance: realcat@126.com
+
+  # youtube: vincentqyw
+  # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+  # youtube_channel_name: CloudCannon
+
 plugins:
-- jekyll-remote-theme 
-
-github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-feed
+ - jekyll-seo-tag
