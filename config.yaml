@@ -1,0 +1,28 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Vincentqyw"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+keywords:
+    "SLAM": 
+        filters: ["SLAM"]
+    "SFM":
+        filters: ["SFM", "Structure from Motion"]
+    "Visual Localization":
+        filters: ["Visual Localization","Camera Localization",
+                  "Camera Re-localisation","Loop Closure Detection",
+                  "visual place recognition","image retrieval"]
+    "Keypoint Detection":
+        filters: ["Keypoint Detection", "Feature Descriptor"]
+    "Image Matching":
+        filters: ["Image Matching", "Keypoint Matching"]
+    "NeRF":
+        filters: ["NeRF"]

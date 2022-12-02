@@ -1,8 +1,16 @@
-import datetime
-import requests
+import os
+import re
 import json
 import arxiv
-import os
+import yaml
+import logging
+import argparse
+import datetime
+import requests
+
+logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
+                    datefmt='%m/%d/%Y %H:%M:%S',
+                    level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 
@@ -32,23 +40,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content = dict() 
     content_to_web = dict()
 
-    # content
-    output = dict()
-    
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    cnt = 0
-
     for result in search_engine.results():
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id
+        code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -57,11 +60,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-
-      
-        print("Time = ", update_time ,
-              " title = ", paper_title,
-              " author = ", paper_first_author)
+        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
         # eg: 2108.09112v1 -> 2108.09112
         ver_pos = paper_id.find('v')
@@ -74,24 +73,28 @@ def get_daily_papers(topic,query="slam", max_results=2):
             r = requests.get(code_url).json()
             # source code link
             if "official" in r and r["official"]:
-                cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
+   
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                                    update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                                    update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                                    update_time,paper_title,paper_first_author,paper_id,paper_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                                    update_time,paper_title,paper_first_author,paper_url,paper_url)
 
             # TODO: select useful comments
             comments = None
             if comments != None:
-                content_to_web[paper_key] = content_to_web[paper_key] + f", {comments}\n"
+                content_to_web[paper_key] += f", {comments}\n"
             else:
-                content_to_web[paper_key] = content_to_web[paper_key] + f"\n"
+                content_to_web[paper_key] += f"\n"
 
         except Exception as e:
-            print(f"exception: {e} with id: {paper_key}")
+            logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -121,6 +124,7 @@ def update_json_file(filename,data_all):
         json.dump(json_data,f)
     
 def json_to_md(filename,md_filename,
+               task = '',
                to_web = False, 
                use_title = True, 
                use_tc = True,
@@ -131,6 +135,11 @@ def json_to_md(filename,md_filename,
     @return None
     """
     
+    def pretty_math(line:str)-> str:
+        # make latex pretty
+        # "example$^2$title" -> "example $^2$ title"
+        return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
+
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -196,7 +205,7 @@ def json_to_md(filename,md_filename,
         
             for _,v in day_content.items():
                 if v is not None:
-                    f.write(v)
+                    f.write(pretty_math(v)) # make latex pretty
 
             f.write(f"\n")
             
@@ -215,54 +224,93 @@ def json_to_md(filename,md_filename,
             f.write(f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n")
             f.write(f"[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues\n\n")
                 
-    print("finished")        
+    logging.info(f"{task} finished")        
 
- 
-
-if __name__ == "__main__":
-
+def demo(**config):
+    # TODO: use config
     data_collector = []
     data_collector_web= []
     
-    keywords = dict()
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
-    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
-    keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
-    keywords["NeRF"]                = "NeRF"
+    keywords = config['kv']
+    max_results = config['max_results']
+    publish_readme = config['publish_readme']
+    publish_gitpage = config['publish_gitpage']
+    publish_wechat = config['publish_wechat']
+    show_badge = config['show_badge']
+    
+    logging.info(f"GET daily papers begin")
 
-    for topic,keyword in keywords.items():
- 
-        # topic = keyword.replace("\"","")
-        print("Keyword: " + topic)
-
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
+    for topic, keyword in keywords.items():
+        logging.info(f"Keyword: {topic}")
+        data, data_web = get_daily_papers(topic, query = keyword, max_results = max_results)
         data_collector.append(data)
         data_collector_web.append(data_web)
-
         print("\n")
+    logging.info(f"GET daily papers end")
 
     # 1. update README.md file
-    json_file = "cv-arxiv-daily.json"
-    md_file   = "README.md"
-    # update json data
-    update_json_file(json_file,data_collector)
-    # json data to markdown
-    json_to_md(json_file,md_file)
+    if publish_readme:
+        json_file = "./docs/cv-arxiv-daily.json" #"cv-arxiv-daily.json"
+        md_file   = "README.md"
+        # update json data
+        update_json_file(json_file,data_collector)
+        # json data to markdown
+        json_to_md(json_file,md_file, task ='Update Readme', \
+            show_badge = show_badge)
 
-    # 2. update docs/index.md file
-    json_file = "./docs/cv-arxiv-daily-web.json"
-    md_file   = "./docs/index.md"
-    # update json data
-    update_json_file(json_file,data_collector)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web = True)
+    # 2. update docs/index.md file (to gitpage)
+    if publish_gitpage:
+        json_file = "./docs/cv-arxiv-daily-web.json"
+        md_file   = "./docs/index.md"
+        update_json_file(json_file,data_collector)
+        json_to_md(json_file, md_file, task ='Update GitPage', \
+            to_web = True, show_badge = show_badge)
 
     # 3. Update docs/wechat.md file
-    json_file = "./docs/cv-arxiv-daily-wechat.json"
-    md_file   = "./docs/wechat.md"
-    # update json data
-    update_json_file(json_file, data_collector_web)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web=False, use_title= False)
+    if publish_wechat:
+        json_file = "./docs/cv-arxiv-daily-wechat.json"
+        md_file   = "./docs/wechat.md"
+        update_json_file(json_file, data_collector_web)
+        json_to_md(json_file, md_file, task ='Update Wechat', \
+            to_web=False, use_title= False, show_badge = show_badge)
+
+def load_config(config_file:str) -> dict:
+    '''
+    config_file: input config file path
+    return: a dict of configuration
+    '''
+    # make filters pretty
+    def pretty_filters(**config) -> dict:
+        keywords = dict()
+        EXCAPE = '\"'
+        QUOTA = '' # NO-USE
+        OR = 'OR' # TODO
+        def parse_filters(filters:list):
+            ret = ''
+            for idx in range(0,len(filters)):
+                filter = filters[idx]
+                if len(filter.split()) > 1:
+                    ret += (EXCAPE + filter + EXCAPE)  
+                else:
+                    ret += (QUOTA + filter + QUOTA)   
+                if idx != len(filters) - 1:
+                    ret += OR
+            return ret
+        for k,v in config['keywords'].items():
+            keywords[k] = parse_filters(v['filters'])
+        return keywords
+
+    with open(config_file,'r') as f:
+        config = yaml.load(f,Loader=yaml.FullLoader) 
+        config['kv'] = pretty_filters(**config)
+        logging.info(f'config = {config}')
+
+    return config 
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--config_path',type=str, default='config.yaml',
+                            help='configuration file path')
+    args = parser.parse_args()
+    config = load_config(args.config_path)
+    demo(**config)
