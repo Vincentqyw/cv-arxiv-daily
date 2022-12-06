@@ -58,7 +58,7 @@
 |**2022-11-29**|**NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**|Dejia Xu et.al.|[2211.16431v1](http://arxiv.org/abs/2211.16431v1)|null|
 |**2022-11-29**|**DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**|Gwanghyun Kim et.al.|[2211.16374v1](http://arxiv.org/abs/2211.16374v1)|null|
 |**2022-11-29**|**Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion**|Kui Zhang et.al.|[2211.16247v1](http://arxiv.org/abs/2211.16247v1)|null|
-|**2022-11-29**|**Wavelet Diffusion Models are fast and scalable Image Generators**|Hao Phung et.al.|[2211.16152v1](http://arxiv.org/abs/2211.16152v1)|null|
+|**2022-11-29**|**Wavelet Diffusion Models are fast and scalable Image Generators**|Hao Phung et.al.|[2211.16152v1](http://arxiv.org/abs/2211.16152v1)|**[link](https://github.com/vinairesearch/wavediff)**|
 |**2022-11-29**|**Machine learning emulation of a local-scale UK climate model**|Henry Addison et.al.|[2211.16116v1](http://arxiv.org/abs/2211.16116v1)|null|
 |**2022-11-29**|**Dimensionality-Varying Diffusion Process**|Han Zhang et.al.|[2211.16032v1](http://arxiv.org/abs/2211.16032v1)|null|
 |**2022-11-28**|**Post-training Quantization on Diffusion Models**|Yuzhang Shang et.al.|[2211.15736v1](http://arxiv.org/abs/2211.15736v1)|null|
