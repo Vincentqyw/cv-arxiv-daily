@@ -24,3 +24,13 @@ keywords:
         filters: ["Image-Colorization", "Image Colorization"]
     "Video-Colorization":
         filters: ["Video-Colorization","Video Colorization"]
+    "Image Restoration":
+        filters: ["Image Restoration"]
+    "Image Reconstruction":
+        filters: ["Image Reconstruction"]
+    "Image Denoising":
+        filters: ["Image Denoising"]
+    "Image Inpainting":
+        filters: ["Image Inpainting"]
+    "Style Transfer":
+        filters: ["Style Transfer"]
