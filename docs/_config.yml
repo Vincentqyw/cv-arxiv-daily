@@ -3,8 +3,8 @@ description: Automatically Update CV Papers Daily using Github Actions (Update E
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
+  zip_url: https://github.com/wscffaa/cv-arxiv-daily
+  another_url: https://github.com/wscffaa/cv-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
@@ -12,8 +12,8 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: dark
 social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
+  twitter: wscffaa
+  github: wscffaa
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
