@@ -62,9 +62,9 @@
 |**2022-11-29**|**Machine learning emulation of a local-scale UK climate model**|Henry Addison et.al.|[2211.16116v1](http://arxiv.org/abs/2211.16116v1)|null|
 |**2022-11-29**|**Dimensionality-Varying Diffusion Process**|Han Zhang et.al.|[2211.16032v1](http://arxiv.org/abs/2211.16032v1)|null|
 |**2022-11-28**|**Post-training Quantization on Diffusion Models**|Yuzhang Shang et.al.|[2211.15736v1](http://arxiv.org/abs/2211.15736v1)|null|
-|**2022-11-28**|**Is Conditional Generative Modeling all you need for Decision-Making?**|Anurag Ajay et.al.|[2211.15657v1](http://arxiv.org/abs/2211.15657v1)|null|
+|**2022-12-06**|**Is Conditional Generative Modeling all you need for Decision-Making?**|Anurag Ajay et.al.|[2211.15657v2](http://arxiv.org/abs/2211.15657v2)|null|
 |**2022-11-28**|**Interaction of a free boundary with a diffusion on a plane: analogy with the obstacle problem**|Luis A. Caffarelli et.al.|[2211.15099v1](http://arxiv.org/abs/2211.15099v1)|null|
-|**2022-11-28**|**Continuous diffusion for categorical data**|Sander Dieleman et.al.|[2211.15089v1](http://arxiv.org/abs/2211.15089v1)|null|
+|**2022-12-06**|**Continuous diffusion for categorical data**|Sander Dieleman et.al.|[2211.15089v2](http://arxiv.org/abs/2211.15089v2)|null|
 |**2022-11-30**|**DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**|Zhengfu He et.al.|[2211.15029v2](http://arxiv.org/abs/2211.15029v2)|**[link](https://github.com/hzfinfdu/diffusion-bert)**|
 |**2022-11-27**|**Unified Discrete Diffusion for Simultaneous Vision-Language Generation**|Minghui Hu et.al.|[2211.14842v1](http://arxiv.org/abs/2211.14842v1)|**[link](https://github.com/mhh0318/unid3)**|
 |**2022-11-26**|**A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction**|Dule Shu et.al.|[2211.14680v1](http://arxiv.org/abs/2211.14680v1)|null|
@@ -519,7 +519,7 @@
 |**2022-11-25**|**Generative Modeling in Structural-Hankel Domain for Color Image Inpainting**|Zihao Li et.al.|[2211.13857v1](http://arxiv.org/abs/2211.13857v1)|null|
 |**2022-11-25**|**WSSL: Weighted Self-supervised Learning Framework For Image-inpainting**|Shubham Gupta et.al.|[2211.13856v1](http://arxiv.org/abs/2211.13856v1)|**[link](https://github.com/IamShubhamGupto/WSSL-Weighted-Self-Supervised-Learning-for-Image-Inpainting)**|
 |**2022-11-22**|**SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2211.12254v1](http://arxiv.org/abs/2211.12254v1)|null|
-|**2022-11-30**|**Coarse-to-fine Task-driven Inpainting for Geoscience Images**|Huiming Sun et.al.|[2211.11059v2](http://arxiv.org/abs/2211.11059v2)|null|
+|**2022-12-06**|**Coarse-to-fine Task-driven Inpainting for Geoscience Images**|Huiming Sun et.al.|[2211.11059v3](http://arxiv.org/abs/2211.11059v3)|null|
 |**2022-11-12**|**Line Drawing Guided Progressive Inpainting of Mural Damages**|Luxi Li et.al.|[2211.06649v1](http://arxiv.org/abs/2211.06649v1)|**[link](https://github.com/qinnzou/mural-image-inpainting)**|
 |**2022-11-12**|**Data-driven Approach for Automatically Correcting Faulty Road Maps**|Soojung Hong et.al.|[2211.06544v1](http://arxiv.org/abs/2211.06544v1)|null|
 |**2022-11-09**|**3DFill:Reference-guided Image Inpainting by Self-supervised 3D Image Alignment**|Liang Zhao et.al.|[2211.04831v1](http://arxiv.org/abs/2211.04831v1)|null|
