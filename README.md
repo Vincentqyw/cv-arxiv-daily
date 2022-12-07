@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
+|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
+|**2022-12-06**|**Semantic-Conditional Diffusion Networks for Image Captioning**|Jianjie Luo et.al.|[2212.03099v1](http://arxiv.org/abs/2212.03099v1)|**[link](https://github.com/yehli/xmodaler)**|
+|**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|null|
+|**2022-12-06**|**M-VADER: A Model for Diffusion with Multimodal Context**|Samuel Weinbach et.al.|[2212.02936v1](http://arxiv.org/abs/2212.02936v1)|null|
+|**2022-12-06**|**Pretrained Diffusion Models for Unified Human Motion Synthesis**|Jianxin Ma et.al.|[2212.02837v1](http://arxiv.org/abs/2212.02837v1)|null|
+|**2022-12-06**|**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding**|Gyeongman Kim et.al.|[2212.02802v1](http://arxiv.org/abs/2212.02802v1)|null|
+|**2022-12-06**|**DiffusionInst: Diffusion Model for Instance Segmentation**|Zhangxuan Gu et.al.|[2212.02773v1](http://arxiv.org/abs/2212.02773v1)|**[link](https://github.com/chenhaoxing/DiffusionInst)**|
 |**2022-12-05**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v1](http://arxiv.org/abs/2212.02500v1)|null|
 |**2022-12-05**|**Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models**|Naoki Matsunaga et.al.|[2212.02024v1](http://arxiv.org/abs/2212.02024v1)|null|
 |**2022-12-04**|**Image Deblurring with Domain Generalizable Diffusion Models**|Mengwei Ren et.al.|[2212.01789v1](http://arxiv.org/abs/2212.01789v1)|null|
@@ -83,6 +91,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
+|**2022-12-06**|**Super-resolution Probabilistic Rain Prediction from Satellite Data Using 3D U-Nets and EarthFormers**|Yang Li et.al.|[2212.02998v1](http://arxiv.org/abs/2212.02998v1)|**[link](https://github.com/bugsuse/weather4cast-2022-stage2)**|
+|**2022-12-05**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|null|
 |**2022-12-05**|**Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**|Taehyeon Kim et.al.|[2212.02059v1](http://arxiv.org/abs/2212.02059v1)|null|
 |**2022-12-05**|**Double U-Net for Super-Resolution and Segmentation of Live Cell Images**|Mayur Bhandary et.al.|[2212.02028v1](http://arxiv.org/abs/2212.02028v1)|null|
 |**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
@@ -345,7 +356,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-12-05**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v1](http://arxiv.org/abs/2212.02198v1)|null|
-|**2022-12-02**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v1](http://arxiv.org/abs/2212.00981v1)|null|
+|**2022-12-02**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v1](http://arxiv.org/abs/2212.00981v1)|**[link](https://github.com/VinAIResearch/QC-StyleGAN)**|
 |**2022-12-01**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v1](http://arxiv.org/abs/2212.00490v1)|**[link](https://github.com/wyhuai/ddnm)**|
 |**2022-11-28**|**Near-filed SAR Image Restoration with Deep Learning Inverse Technique: A Preliminary Study**|Xu Zhan et.al.|[2211.14990v1](http://arxiv.org/abs/2211.14990v1)|null|
 |**2022-11-27**|**A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images**|Wei Chen et.al.|[2211.14715v1](http://arxiv.org/abs/2211.14715v1)|**[link](https://github.com/lichen14/tower)**|
@@ -401,6 +412,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
+|**2022-12-05**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v1](http://arxiv.org/abs/2212.02623v1)|null|
 |**2022-12-05**|**Decoding natural image stimuli from fMRI data with a surface-based convolutional network**|Zijin Gu et.al.|[2212.02409v1](http://arxiv.org/abs/2212.02409v1)|**[link](https://github.com/zijin-gu/meshconv-decoding)**|
 |**2022-12-05**|**Offsets between X-ray and Radio Components in X-ray Jets: The AtlasX**|Karthik Reddy et.al.|[2212.02061v1](http://arxiv.org/abs/2212.02061v1)|null|
 |**2022-12-04**|**CloudBrain-ReconAI: An Online Platform for MRI Reconstruction and Image Quality Evaluation**|Yirong Zhou et.al.|[2212.01878v1](http://arxiv.org/abs/2212.01878v1)|null|
@@ -458,6 +471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**DiffusionInst: Diffusion Model for Instance Segmentation**|Zhangxuan Gu et.al.|[2212.02773v1](http://arxiv.org/abs/2212.02773v1)|**[link](https://github.com/chenhaoxing/DiffusionInst)**|
 |**2022-12-05**|**Domino Denoise: An Accurate Blind Zero-Shot Denoiser using Domino Tilings**|Jason Lequyer et.al.|[2212.02439v1](http://arxiv.org/abs/2212.02439v1)|null|
 |**2022-12-02**|**Quantum median filter for Total Variation image denoising**|Simone De Santis et.al.|[2212.01041v1](http://arxiv.org/abs/2212.01041v1)|null|
 |**2022-12-01**|**Unsupervised Linear and Iterative Combinations of Patches for Image Denoising**|Sébastien Herbreteau et.al.|[2212.00422v1](http://arxiv.org/abs/2212.00422v1)|**[link](https://github.com/sherbret/lichi)**|
@@ -515,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|null|
 |**2022-12-01**|**Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery**|Yisi Luo et.al.|[2212.00262v1](http://arxiv.org/abs/2212.00262v1)|null|
 |**2022-11-25**|**Generative Modeling in Structural-Hankel Domain for Color Image Inpainting**|Zihao Li et.al.|[2211.13857v1](http://arxiv.org/abs/2211.13857v1)|null|
 |**2022-11-25**|**WSSL: Weighted Self-supervised Learning Framework For Image-inpainting**|Shubham Gupta et.al.|[2211.13856v1](http://arxiv.org/abs/2211.13856v1)|**[link](https://github.com/IamShubhamGupto/WSSL-Weighted-Self-Supervised-Learning-for-Image-Inpainting)**|
@@ -572,6 +587,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**PØDA: Prompt-driven Zero-shot Domain Adaptation**|Mohammad Fahes et.al.|[2212.03241v1](http://arxiv.org/abs/2212.03241v1)|**[link](https://github.com/astra-vision/poda)**|
+|**2022-12-06**|**Front-door Adjustment via Style Transfer for Out-of-distribution Generalisation**|Toan Nguyen et.al.|[2212.03063v1](http://arxiv.org/abs/2212.03063v1)|null|
+|**2022-12-06**|**Style transfer and classification in hebrew news items**|Nir Weingarten et.al.|[2212.03019v1](http://arxiv.org/abs/2212.03019v1)|null|
+|**2022-12-05**|**Using Decoupled Features for Photo-realistic Style Transfer**|Trevor D. Canham et.al.|[2212.02953v1](http://arxiv.org/abs/2212.02953v1)|null|
 |**2022-12-03**|**T-STAR: Truthful Style Transfer using AMR Graph as Intermediate Representation**|Anubhav Jangra et.al.|[2212.01667v1](http://arxiv.org/abs/2212.01667v1)|null|
 |**2022-12-03**|**AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-realistic Style Transfer**|Tianwei Lin et.al.|[2212.01567v1](http://arxiv.org/abs/2212.01567v1)|null|
 |**2022-12-02**|**Improving Iterative Text Revision by Learning Where to Edit from Other Revision Tasks**|Zae Myung Kim et.al.|[2212.01350v1](http://arxiv.org/abs/2212.01350v1)|null|
