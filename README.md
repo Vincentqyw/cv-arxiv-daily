@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v1](http://arxiv.org/abs/2212.03860v1)|null|
+|**2022-12-07**|**One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging**|Bin Huang et.al.|[2212.03630v1](http://arxiv.org/abs/2212.03630v1)|null|
+|**2022-12-07**|**On the Convergence of the Multi-scale Deep Neural Network (MscaleDNN) in Approximating Oscillatory Functions**|Bo Wang et.al.|[2212.03416v1](http://arxiv.org/abs/2212.03416v1)|null|
+|**2022-12-06**|**Diffusion-SDF: Text-to-Shape via Voxelized Diffusion**|Muheng Li et.al.|[2212.03293v1](http://arxiv.org/abs/2212.03293v1)|**[link](https://github.com/ttlmh/diffusion-sdf)**|
+|**2022-12-06**|**NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors**|Congyue Deng et.al.|[2212.03267v1](http://arxiv.org/abs/2212.03267v1)|null|
+|**2022-12-06**|**Neural Cell Video Synthesis via Optical-Flow Diffusion**|Manuel Serna-Aguilera et.al.|[2212.03250v1](http://arxiv.org/abs/2212.03250v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
 |**2022-12-06**|**Semantic-Conditional Diffusion Networks for Image Captioning**|Jianjie Luo et.al.|[2212.03099v1](http://arxiv.org/abs/2212.03099v1)|**[link](https://github.com/yehli/xmodaler)**|
@@ -91,6 +97,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**Spatio-Temporal Super-Resolution Data Assimilation (SRDA) Utilizing Deep Neural Networks with Domain Generalization Technique Toward Four-Dimensional SRDA**|Yuki Yasuda et.al.|[2212.03656v1](http://arxiv.org/abs/2212.03656v1)|null|
+|**2022-12-07**|**Learning Continuous Depth Representation via Geometric Spatial Aggregator**|Xiaohang Wang et.al.|[2212.03499v1](http://arxiv.org/abs/2212.03499v1)|**[link](https://github.com/nana01219/geodsr)**|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-06**|**Super-resolution Probabilistic Rain Prediction from Satellite Data Using 3D U-Nets and EarthFormers**|Yang Li et.al.|[2212.02998v1](http://arxiv.org/abs/2212.02998v1)|**[link](https://github.com/bugsuse/weather4cast-2022-stage2)**|
 |**2022-12-05**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|null|
