@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**|Yen-Chi Cheng et.al.|[2212.04493v1](http://arxiv.org/abs/2212.04493v1)|null|
+|**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
+|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v1](http://arxiv.org/abs/2212.04473v1)|null|
+|**2022-12-08**|**Bundling Impacts in Spanish Telecommunications Market**|Juan J. Marfil et.al.|[2212.04189v1](http://arxiv.org/abs/2212.04189v1)|null|
+|**2022-12-08**|**Executing your Commands via Motion Diffusion in Latent Space**|Xin Chen et.al.|[2212.04048v1](http://arxiv.org/abs/2212.04048v1)|**[link](https://github.com/chenfengye/motion-latent-diffusion)**|
 |**2022-12-08**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v2](http://arxiv.org/abs/2212.03860v2)|null|
 |**2022-12-07**|**One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging**|Bin Huang et.al.|[2212.03630v1](http://arxiv.org/abs/2212.03630v1)|null|
 |**2022-12-07**|**On the Convergence of the Multi-scale Deep Neural Network (MscaleDNN) in Approximating Oscillatory Functions**|Bo Wang et.al.|[2212.03416v1](http://arxiv.org/abs/2212.03416v1)|null|
@@ -97,6 +102,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Spatio-Temporal Super-Resolution of Dynamical Systems using Physics-Informed Deep-Learning**|Rajat Arora et.al.|[2212.04457v1](http://arxiv.org/abs/2212.04457v1)|null|
+|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
+|**2022-12-08**|**On the Robustness of Normalizing Flows for Inverse Problems in Imaging**|Seongmin Hong et.al.|[2212.04319v1](http://arxiv.org/abs/2212.04319v1)|null|
+|**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
+|**2022-12-07**|**RainUNet for Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts**|Jinyoung Park et.al.|[2212.04005v1](http://arxiv.org/abs/2212.04005v1)|**[link](https://github.com/jinyxp/weather4cast-2022)**|
 |**2022-12-07**|**Spatio-Temporal Super-Resolution Data Assimilation (SRDA) Utilizing Deep Neural Networks with Domain Generalization Technique Toward Four-Dimensional SRDA**|Yuki Yasuda et.al.|[2212.03656v1](http://arxiv.org/abs/2212.03656v1)|null|
 |**2022-12-07**|**Learning Continuous Depth Representation via Geometric Spatial Aggregator**|Xiaohang Wang et.al.|[2212.03499v1](http://arxiv.org/abs/2212.03499v1)|**[link](https://github.com/nana01219/geodsr)**|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
@@ -159,6 +169,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
+|**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
 |**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
@@ -363,6 +375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Relationship Quantification of Image Degradations**|Wenxin Wang et.al.|[2212.04148v1](http://arxiv.org/abs/2212.04148v1)|null|
 |**2022-12-08**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v2](http://arxiv.org/abs/2212.02198v2)|null|
 |**2022-12-07**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v2](http://arxiv.org/abs/2212.00981v2)|**[link](https://github.com/VinAIResearch/QC-StyleGAN)**|
 |**2022-12-07**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v2](http://arxiv.org/abs/2212.00490v2)|**[link](https://github.com/wyhuai/ddnm)**|
@@ -420,6 +433,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-05**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v1](http://arxiv.org/abs/2212.02623v1)|**[link](https://github.com/microsoft/udop)**|
 |**2022-12-05**|**Decoding natural image stimuli from fMRI data with a surface-based convolutional network**|Zijin Gu et.al.|[2212.02409v1](http://arxiv.org/abs/2212.02409v1)|**[link](https://github.com/zijin-gu/meshconv-decoding)**|
@@ -479,6 +493,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|null|
 |**2022-12-07**|**DiffusionInst: Diffusion Model for Instance Segmentation**|Zhangxuan Gu et.al.|[2212.02773v2](http://arxiv.org/abs/2212.02773v2)|**[link](https://github.com/chenhaoxing/DiffusionInst)**|
 |**2022-12-05**|**Domino Denoise: An Accurate Blind Zero-Shot Denoiser using Domino Tilings**|Jason Lequyer et.al.|[2212.02439v1](http://arxiv.org/abs/2212.02439v1)|null|
 |**2022-12-02**|**Quantum median filter for Total Variation image denoising**|Simone De Santis et.al.|[2212.01041v1](http://arxiv.org/abs/2212.01041v1)|null|
@@ -595,6 +610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-08**|**All-to-key Attention for Arbitrary Style Transfer**|Mingrui Zhu et.al.|[2212.04105v1](http://arxiv.org/abs/2212.04105v1)|null|
 |**2022-12-06**|**PØDA: Prompt-driven Zero-shot Domain Adaptation**|Mohammad Fahes et.al.|[2212.03241v1](http://arxiv.org/abs/2212.03241v1)|**[link](https://github.com/astra-vision/poda)**|
 |**2022-12-06**|**Front-door Adjustment via Style Transfer for Out-of-distribution Generalisation**|Toan Nguyen et.al.|[2212.03063v1](http://arxiv.org/abs/2212.03063v1)|null|
 |**2022-12-06**|**Style transfer and classification in hebrew news items**|Nir Weingarten et.al.|[2212.03019v1](http://arxiv.org/abs/2212.03019v1)|null|
