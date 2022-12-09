@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-07**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v1](http://arxiv.org/abs/2212.03860v1)|null|
+|**2022-12-08**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v2](http://arxiv.org/abs/2212.03860v2)|null|
 |**2022-12-07**|**One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging**|Bin Huang et.al.|[2212.03630v1](http://arxiv.org/abs/2212.03630v1)|null|
 |**2022-12-07**|**On the Convergence of the Multi-scale Deep Neural Network (MscaleDNN) in Approximating Oscillatory Functions**|Bo Wang et.al.|[2212.03416v1](http://arxiv.org/abs/2212.03416v1)|null|
 |**2022-12-06**|**Diffusion-SDF: Text-to-Shape via Voxelized Diffusion**|Muheng Li et.al.|[2212.03293v1](http://arxiv.org/abs/2212.03293v1)|**[link](https://github.com/ttlmh/diffusion-sdf)**|
@@ -41,7 +41,7 @@
 |**2022-12-06**|**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding**|Gyeongman Kim et.al.|[2212.02802v1](http://arxiv.org/abs/2212.02802v1)|null|
 |**2022-12-07**|**DiffusionInst: Diffusion Model for Instance Segmentation**|Zhangxuan Gu et.al.|[2212.02773v2](http://arxiv.org/abs/2212.02773v2)|**[link](https://github.com/chenhaoxing/DiffusionInst)**|
 |**2022-12-05**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v1](http://arxiv.org/abs/2212.02500v1)|null|
-|**2022-12-05**|**Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models**|Naoki Matsunaga et.al.|[2212.02024v1](http://arxiv.org/abs/2212.02024v1)|null|
+|**2022-12-08**|**Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models**|Naoki Matsunaga et.al.|[2212.02024v2](http://arxiv.org/abs/2212.02024v2)|null|
 |**2022-12-04**|**Image Deblurring with Domain Generalizable Diffusion Models**|Mengwei Ren et.al.|[2212.01789v1](http://arxiv.org/abs/2212.01789v1)|null|
 |**2022-12-04**|**Fast Point Cloud Generation with Straight Flows**|Lemeng Wu et.al.|[2212.01747v1](http://arxiv.org/abs/2212.01747v1)|null|
 |**2022-12-03**|**Impact of physical model error on State Estimation for neutronics applications**|Y. Conjungo Taumhas et.al.|[2212.01655v1](http://arxiv.org/abs/2212.01655v1)|null|
@@ -363,7 +363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-05**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v1](http://arxiv.org/abs/2212.02198v1)|null|
+|**2022-12-08**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v2](http://arxiv.org/abs/2212.02198v2)|null|
 |**2022-12-07**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v2](http://arxiv.org/abs/2212.00981v2)|**[link](https://github.com/VinAIResearch/QC-StyleGAN)**|
 |**2022-12-07**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v2](http://arxiv.org/abs/2212.00490v2)|**[link](https://github.com/wyhuai/ddnm)**|
 |**2022-11-28**|**Near-filed SAR Image Restoration with Deep Learning Inverse Technique: A Preliminary Study**|Xu Zhan et.al.|[2211.14990v1](http://arxiv.org/abs/2211.14990v1)|null|
