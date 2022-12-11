@@ -145,9 +145,9 @@ def json_to_md(filename,md_filename,
         if match == None:
             return s
         math_start,math_end = match.span()
-        space_trail = space_leading =  ''
-        if s[:math_start][-1] != ' ': space_trail = ' ' 
-        if s[math_end:][0] != ' ': space_leading = ' ' 
+        space_trail = space_leading = ''
+        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
+        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
         ret += s[:math_start] 
         ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
         ret += s[math_end:]
