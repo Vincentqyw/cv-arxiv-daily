@@ -25,7 +25,6 @@ This codebase is composed of the following parts:
 - [ ] Subscribe & Update alerting
 - [ ] Support more `arxiv` filters
 - [ ] Archive old papers
-- [ ] Language translation (`ChatGPT`)
+- [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
 - [ ] Usefull comments
 - [ ] ...
-
