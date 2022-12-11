@@ -142,6 +142,8 @@ def json_to_md(filename,md_filename,
     def pretty_math(s:str) -> str:
         ret = ''
         match = re.search(r"\$.*\$", s)
+        if match == None:
+            return s
         math_start,math_end = match.span()
         space_trail = space_leading =  ''
         if s[:math_start][-1] != ' ': space_trail = ' ' 
