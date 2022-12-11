@@ -135,11 +135,22 @@ def json_to_md(filename,md_filename,
     @return None
     """
     
-    def pretty_math(line:str)-> str:
-        # make latex pretty
-        # "example$^2$title" -> "example $^2$ title"
-        return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
-
+#     def pretty_math(line:str)-> str:
+#         # make latex pretty
+#         # "example$^2$title" -> "example $^2$ title"
+#         return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
+    def pretty_math(s:str) -> str:
+        ret = ''
+        match = re.search(r"\$.*\$", s)
+        math_start,math_end = match.span()
+        space_trail = space_leading =  ''
+        if s[:math_start][-1] != ' ': space_trail = ' ' 
+        if s[math_end:][0] != ' ': space_leading = ' ' 
+        ret += s[:math_start] 
+        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
+        ret += s[math_end:]
+        return ret
+  
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
