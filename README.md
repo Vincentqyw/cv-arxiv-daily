@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
+|**2022-12-09**|**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**|Weixi Feng et.al.|[2212.05032v1](http://arxiv.org/abs/2212.05032v1)|**[link](https://github.com/weixi-feng/structured-diffusion-guidance)**|
+|**2022-12-09**|**2D interfacial diffusion model of inhibitory synaptic receptor dynamics**|Paul C Bressloff et.al.|[2212.05010v1](http://arxiv.org/abs/2212.05010v1)|null|
+|**2022-12-09**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v1](http://arxiv.org/abs/2212.04711v1)|null|
 |**2022-12-08**|**SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**|Yen-Chi Cheng et.al.|[2212.04493v1](http://arxiv.org/abs/2212.04493v1)|null|
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
 |**2022-12-09**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
@@ -102,6 +106,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
+|**2022-12-09**|**Neural Volume Super-Resolution**|Yuval Bahat et.al.|[2212.04666v1](http://arxiv.org/abs/2212.04666v1)|null|
 |**2022-12-08**|**Spatio-Temporal Super-Resolution of Dynamical Systems using Physics-Informed Deep-Learning**|Rajat Arora et.al.|[2212.04457v1](http://arxiv.org/abs/2212.04457v1)|null|
 |**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
 |**2022-12-08**|**On the Robustness of Normalizing Flows for Inverse Problems in Imaging**|Seongmin Hong et.al.|[2212.04319v1](http://arxiv.org/abs/2212.04319v1)|null|
@@ -375,6 +381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v1](http://arxiv.org/abs/2212.04711v1)|null|
 |**2022-12-08**|**Relationship Quantification of Image Degradations**|Wenxin Wang et.al.|[2212.04148v1](http://arxiv.org/abs/2212.04148v1)|null|
 |**2022-12-08**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v2](http://arxiv.org/abs/2212.02198v2)|null|
 |**2022-12-07**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v2](http://arxiv.org/abs/2212.00981v2)|**[link](https://github.com/VinAIResearch/QC-StyleGAN)**|
@@ -493,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**Noise2Contrast: Multi-Contrast Fusion Enables Self-Supervised Tomographic Image Denoising**|Fabian Wagner et.al.|[2212.04832v1](http://arxiv.org/abs/2212.04832v1)|null|
 |**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|**[link](https://github.com/megvii-research/NAFNet)**|
 |**2022-12-07**|**DiffusionInst: Diffusion Model for Instance Segmentation**|Zhangxuan Gu et.al.|[2212.02773v2](http://arxiv.org/abs/2212.02773v2)|**[link](https://github.com/chenhaoxing/DiffusionInst)**|
 |**2022-12-05**|**Domino Denoise: An Accurate Blind Zero-Shot Denoiser using Domino Tilings**|Jason Lequyer et.al.|[2212.02439v1](http://arxiv.org/abs/2212.02439v1)|null|
@@ -552,6 +560,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|**[link](https://github.com/fenglinglwb/sdm)**|
 |**2022-12-01**|**Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery**|Yisi Luo et.al.|[2212.00262v1](http://arxiv.org/abs/2212.00262v1)|null|
 |**2022-11-25**|**Generative Modeling in Structural-Hankel Domain for Color Image Inpainting**|Zihao Li et.al.|[2211.13857v1](http://arxiv.org/abs/2211.13857v1)|null|
