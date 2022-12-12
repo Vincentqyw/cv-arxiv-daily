@@ -28,7 +28,7 @@
 |---|---|---|---|---|
 |**2022-12-08**|**SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**|Yen-Chi Cheng et.al.|[2212.04493v1](http://arxiv.org/abs/2212.04493v1)|null|
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
-|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v1](http://arxiv.org/abs/2212.04473v1)|null|
+|**2022-12-09**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
 |**2022-12-08**|**Bundling Impacts in Spanish Telecommunications Market**|Juan J. Marfil et.al.|[2212.04189v1](http://arxiv.org/abs/2212.04189v1)|null|
 |**2022-12-08**|**Executing your Commands via Motion Diffusion in Latent Space**|Xin Chen et.al.|[2212.04048v1](http://arxiv.org/abs/2212.04048v1)|**[link](https://github.com/chenfengye/motion-latent-diffusion)**|
 |**2022-12-08**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v2](http://arxiv.org/abs/2212.03860v2)|null|
@@ -45,7 +45,7 @@
 |**2022-12-06**|**Pretrained Diffusion Models for Unified Human Motion Synthesis**|Jianxin Ma et.al.|[2212.02837v1](http://arxiv.org/abs/2212.02837v1)|null|
 |**2022-12-06**|**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding**|Gyeongman Kim et.al.|[2212.02802v1](http://arxiv.org/abs/2212.02802v1)|null|
 |**2022-12-07**|**DiffusionInst: Diffusion Model for Instance Segmentation**|Zhangxuan Gu et.al.|[2212.02773v2](http://arxiv.org/abs/2212.02773v2)|**[link](https://github.com/chenhaoxing/DiffusionInst)**|
-|**2022-12-05**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v1](http://arxiv.org/abs/2212.02500v1)|null|
+|**2022-12-09**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v2](http://arxiv.org/abs/2212.02500v2)|null|
 |**2022-12-08**|**Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models**|Naoki Matsunaga et.al.|[2212.02024v2](http://arxiv.org/abs/2212.02024v2)|null|
 |**2022-12-04**|**Image Deblurring with Domain Generalizable Diffusion Models**|Mengwei Ren et.al.|[2212.01789v1](http://arxiv.org/abs/2212.01789v1)|null|
 |**2022-12-04**|**Fast Point Cloud Generation with Straight Flows**|Lemeng Wu et.al.|[2212.01747v1](http://arxiv.org/abs/2212.01747v1)|null|
