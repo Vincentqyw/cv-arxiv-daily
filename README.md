@@ -35,7 +35,7 @@
 |**2022-12-09**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
 |**2022-12-08**|**Bundling Impacts in Spanish Telecommunications Market**|Juan J. Marfil et.al.|[2212.04189v1](http://arxiv.org/abs/2212.04189v1)|null|
 |**2022-12-08**|**Executing your Commands via Motion Diffusion in Latent Space**|Xin Chen et.al.|[2212.04048v1](http://arxiv.org/abs/2212.04048v1)|**[link](https://github.com/chenfengye/motion-latent-diffusion)**|
-|**2022-12-08**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v2](http://arxiv.org/abs/2212.03860v2)|null|
+|**2022-12-12**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v3](http://arxiv.org/abs/2212.03860v3)|null|
 |**2022-12-07**|**One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging**|Bin Huang et.al.|[2212.03630v1](http://arxiv.org/abs/2212.03630v1)|null|
 |**2022-12-07**|**On the Convergence of the Multi-scale Deep Neural Network (MscaleDNN) in Approximating Oscillatory Functions**|Bo Wang et.al.|[2212.03416v1](http://arxiv.org/abs/2212.03416v1)|null|
 |**2022-12-06**|**Diffusion-SDF: Text-to-Shape via Voxelized Diffusion**|Muheng Li et.al.|[2212.03293v1](http://arxiv.org/abs/2212.03293v1)|**[link](https://github.com/ttlmh/diffusion-sdf)**|
