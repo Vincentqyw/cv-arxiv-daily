@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-12**|**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion**|Tengfei Wang et.al.|[2212.06135v1](http://arxiv.org/abs/2212.06135v1)|null|
+|**2022-12-12**|**The Stable Artist: Steering Semantics in Diffusion Latent Space**|Manuel Brack et.al.|[2212.06013v1](http://arxiv.org/abs/2212.06013v1)|**[link](https://github.com/ml-research/semantic-image-editing)**|
+|**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
+|**2022-12-12**|**Towards Practical Plug-and-Play Diffusion Models**|Hyojun Go et.al.|[2212.05973v1](http://arxiv.org/abs/2212.05973v1)|null|
+|**2022-12-12**|**Diff-Font: Diffusion Model for Robust One-Shot Font Generation**|Haibin He et.al.|[2212.05895v1](http://arxiv.org/abs/2212.05895v1)|null|
+|**2022-12-11**|**Modeling halo and central galaxy orientations on the SO(3) manifold with score-based generative models**|Yesukhei Jagvaral et.al.|[2212.05592v1](http://arxiv.org/abs/2212.05592v1)|null|
+|**2022-12-11**|**DiffAlign : Few-shot learning using diffusion based synthesis and alignment**|Aniket Roy et.al.|[2212.05404v1](http://arxiv.org/abs/2212.05404v1)|null|
+|**2022-12-11**|**How to Backdoor Diffusion Models?**|Sheng-Yen Chou et.al.|[2212.05400v1](http://arxiv.org/abs/2212.05400v1)|null|
+|**2022-12-10**|**MAGVIT: Masked Generative Video Transformer**|Lijun Yu et.al.|[2212.05199v1](http://arxiv.org/abs/2212.05199v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-09**|**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**|Weixi Feng et.al.|[2212.05032v1](http://arxiv.org/abs/2212.05032v1)|**[link](https://github.com/weixi-feng/structured-diffusion-guidance)**|
 |**2022-12-09**|**2D interfacial diffusion model of inhibitory synaptic receptor dynamics**|Paul C Bressloff et.al.|[2212.05010v1](http://arxiv.org/abs/2212.05010v1)|null|
@@ -106,6 +115,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
 |**2022-12-09**|**Neural Volume Super-Resolution**|Yuval Bahat et.al.|[2212.04666v1](http://arxiv.org/abs/2212.04666v1)|null|
 |**2022-12-08**|**Spatio-Temporal Super-Resolution of Dynamical Systems using Physics-Informed Deep-Learning**|Rajat Arora et.al.|[2212.04457v1](http://arxiv.org/abs/2212.04457v1)|null|
@@ -234,6 +244,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-11-16**|**SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution**|Yongjie Chen et.al.|[2211.08703v1](http://arxiv.org/abs/2211.08703v1)|null|
 |**2022-11-07**|**Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report**|Andrey Ignatov et.al.|[2211.05256v1](http://arxiv.org/abs/2211.05256v1)|null|
 |**2022-11-03**|**Temporal Consistency Learning of inter-frames for Video Super-Resolution**|Meiqin Liu et.al.|[2211.01639v1](http://arxiv.org/abs/2211.01639v1)|**[link](https://github.com/kimsure/tcnet-for-vsr)**|
@@ -381,6 +392,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-12**|**NFResNet: Multi-scale and U-shaped Networks for Deblurring**|Tanish Mittal et.al.|[2212.05909v1](http://arxiv.org/abs/2212.05909v1)|null|
 |**2022-12-09**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v1](http://arxiv.org/abs/2212.04711v1)|null|
 |**2022-12-08**|**Relationship Quantification of Image Degradations**|Wenxin Wang et.al.|[2212.04148v1](http://arxiv.org/abs/2212.04148v1)|null|
 |**2022-12-08**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v2](http://arxiv.org/abs/2212.02198v2)|null|
@@ -440,6 +452,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-11**|**Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction**|Wei Zhang et.al.|[2212.05503v1](http://arxiv.org/abs/2212.05503v1)|null|
 |**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-05**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v1](http://arxiv.org/abs/2212.02623v1)|**[link](https://github.com/microsoft/udop)**|
