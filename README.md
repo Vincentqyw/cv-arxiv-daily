@@ -33,12 +33,12 @@
 |**2022-12-12**|**Diff-Font: Diffusion Model for Robust One-Shot Font Generation**|Haibin He et.al.|[2212.05895v1](http://arxiv.org/abs/2212.05895v1)|null|
 |**2022-12-11**|**Modeling halo and central galaxy orientations on the SO(3) manifold with score-based generative models**|Yesukhei Jagvaral et.al.|[2212.05592v1](http://arxiv.org/abs/2212.05592v1)|null|
 |**2022-12-11**|**DiffAlign : Few-shot learning using diffusion based synthesis and alignment**|Aniket Roy et.al.|[2212.05404v1](http://arxiv.org/abs/2212.05404v1)|null|
-|**2022-12-11**|**How to Backdoor Diffusion Models?**|Sheng-Yen Chou et.al.|[2212.05400v1](http://arxiv.org/abs/2212.05400v1)|null|
+|**2022-12-11**|**How to Backdoor Diffusion Models?**|Sheng-Yen Chou et.al.|[2212.05400v1](http://arxiv.org/abs/2212.05400v1)|**[link](https://github.com/frankccccc/baddiffusion_code)**|
 |**2022-12-10**|**MAGVIT: Masked Generative Video Transformer**|Lijun Yu et.al.|[2212.05199v1](http://arxiv.org/abs/2212.05199v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-09**|**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**|Weixi Feng et.al.|[2212.05032v1](http://arxiv.org/abs/2212.05032v1)|**[link](https://github.com/weixi-feng/structured-diffusion-guidance)**|
 |**2022-12-09**|**2D interfacial diffusion model of inhibitory synaptic receptor dynamics**|Paul C Bressloff et.al.|[2212.05010v1](http://arxiv.org/abs/2212.05010v1)|null|
-|**2022-12-09**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v1](http://arxiv.org/abs/2212.04711v1)|null|
+|**2022-12-13**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v2](http://arxiv.org/abs/2212.04711v2)|null|
 |**2022-12-08**|**SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**|Yen-Chi Cheng et.al.|[2212.04493v1](http://arxiv.org/abs/2212.04493v1)|null|
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
 |**2022-12-09**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
@@ -393,7 +393,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-12-12**|**NFResNet: Multi-scale and U-shaped Networks for Deblurring**|Tanish Mittal et.al.|[2212.05909v1](http://arxiv.org/abs/2212.05909v1)|null|
-|**2022-12-09**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v1](http://arxiv.org/abs/2212.04711v1)|null|
+|**2022-12-13**|**ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal**|Lanqing Guo et.al.|[2212.04711v2](http://arxiv.org/abs/2212.04711v2)|null|
 |**2022-12-08**|**Relationship Quantification of Image Degradations**|Wenxin Wang et.al.|[2212.04148v1](http://arxiv.org/abs/2212.04148v1)|null|
 |**2022-12-08**|**Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**|Xudong Kang et.al.|[2212.02198v2](http://arxiv.org/abs/2212.02198v2)|null|
 |**2022-12-07**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v2](http://arxiv.org/abs/2212.00981v2)|**[link](https://github.com/VinAIResearch/QC-StyleGAN)**|
