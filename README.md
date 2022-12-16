@@ -443,6 +443,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**The Infinite Index: Information Retrieval on Generative Text-To-Image Models**|Niklas Deckers et.al.|[2212.07476v1](http://arxiv.org/abs/2212.07476v1)|null|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-12-08**|**Group Generalized Mean Pooling for Vision Transformer**|Byungsoo Ko et.al.|[2212.04114v1](http://arxiv.org/abs/2212.04114v1)|null|
 |**2022-12-12**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v3](http://arxiv.org/abs/2212.03860v3)|null|
@@ -715,9 +716,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**Learning Markerless Robot-Depth Camera Calibration and End-Effector Pose Estimation**|Bugra C. Sefercik et.al.|[2212.07567v1](http://arxiv.org/abs/2212.07567v1)|null|
 |**2022-12-08**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575v1](http://arxiv.org/abs/2212.04575v1)|null|
 |**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
-|**2022-12-07**|**Designing Feature Vector Representations: A case study from Chemistry**|Signe Sidwall Thygesen et.al.|[2212.03731v1](http://arxiv.org/abs/2212.03731v1)|null|
+|**2022-12-15**|**Designing Feature Vector Representations: A case study from Chemistry**|Signe Sidwall Thygesen et.al.|[2212.03731v2](http://arxiv.org/abs/2212.03731v2)|null|
 |**2022-12-09**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi et.al.|[2212.02796v2](http://arxiv.org/abs/2212.02796v2)|null|
 |**2022-12-05**|**Images Speak in Images: A Generalist Painter for In-Context Visual Learning**|Xinlong Wang et.al.|[2212.02499v1](http://arxiv.org/abs/2212.02499v1)|**[link](https://github.com/baaivision/painter)**|
 |**2022-12-06**|**R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**|Bai Zhu et.al.|[2212.02277v2](http://arxiv.org/abs/2212.02277v2)|null|
@@ -918,6 +920,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[link](https://github.com/cassiePython/NeRF-Art)**|
+|**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057v1](http://arxiv.org/abs/2212.08057v1)|null|
 |**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|null|
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|null|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
