@@ -23,6 +23,7 @@ keywords:
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching"]
+        filters: ["Image Matching", "Keypoint Matching", 
+                  "Line Segment Detection"]
     "NeRF":
         filters: ["NeRF"]
