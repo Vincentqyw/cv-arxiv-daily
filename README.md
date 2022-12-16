@@ -75,7 +75,7 @@
 |**2022-12-02**|**DiffRF: Rendering-Guided 3D Radiance Field Diffusion**|Norman Müller et.al.|[2212.01206v1](http://arxiv.org/abs/2212.01206v1)|null|
 |**2022-12-05**|**ObjectStitch: Generative Object Compositing**|Yizhi Song et.al.|[2212.00932v2](http://arxiv.org/abs/2212.00932v2)|null|
 |**2022-12-01**|**Diffusion Generative Models in Infinite Dimensions**|Gavin Kerrigan et.al.|[2212.00886v1](http://arxiv.org/abs/2212.00886v1)|null|
-|**2022-12-01**|**3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models**|Gimin Nam et.al.|[2212.00842v1](http://arxiv.org/abs/2212.00842v1)|null|
+|**2022-12-15**|**3D-LDM: Neural Implicit 3D Shape Generation with Latent Diffusion Models**|Gimin Nam et.al.|[2212.00842v2](http://arxiv.org/abs/2212.00842v2)|null|
 |**2022-12-01**|**Unite and Conquer: Cross Dataset Multimodal Synthesis using Diffusion Models**|Nithin Gopalakrishnan Nair et.al.|[2212.00793v1](http://arxiv.org/abs/2212.00793v1)|null|
 |**2022-12-04**|**SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction**|Zhizhuo Zhou et.al.|[2212.00792v2](http://arxiv.org/abs/2212.00792v2)|null|
 |**2022-12-01**|**Multi-Class Segmentation from Aerial Views using Recursive Noise Diffusion**|Benedikt Kolbeinsson et.al.|[2212.00787v1](http://arxiv.org/abs/2212.00787v1)|null|
@@ -466,7 +466,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-13**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v1](http://arxiv.org/abs/2212.06881v1)|null|
+|**2022-12-15**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v2](http://arxiv.org/abs/2212.06881v2)|null|
 |**2022-12-13**|**Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli**|Matteo Ferrante et.al.|[2212.06726v1](http://arxiv.org/abs/2212.06726v1)|**[link](https://github.com/matteoferrante/semantic-brain-decoding)**|
 |**2022-12-13**|**Report on the AAPM deep-learning spectral CT Grand Challenge**|Emil Y. Sidky et.al.|[2212.06718v1](http://arxiv.org/abs/2212.06718v1)|null|
 |**2022-12-13**|**Algorithms for Least-Squares Noncartesian MR Image Reconstruction**|Tobias C Wood et.al.|[2212.06471v1](http://arxiv.org/abs/2212.06471v1)|null|
@@ -531,7 +531,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-13**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v1](http://arxiv.org/abs/2212.06881v1)|null|
+|**2022-12-15**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v2](http://arxiv.org/abs/2212.06881v2)|null|
 |**2022-12-13**|**Single Cell Training on Architecture Search for Image Denoising**|Bokyeung Lee et.al.|[2212.06368v1](http://arxiv.org/abs/2212.06368v1)|null|
 |**2022-12-09**|**Noise2Contrast: Multi-Contrast Fusion Enables Self-Supervised Tomographic Image Denoising**|Fabian Wagner et.al.|[2212.04832v1](http://arxiv.org/abs/2212.04832v1)|null|
 |**2022-12-07**|**FSID: Fully Synthetic Image Denoising via Procedural Scene Generation**|Gyeongmin Choe et.al.|[2212.03961v1](http://arxiv.org/abs/2212.03961v1)|**[link](https://github.com/megvii-research/NAFNet)**|
