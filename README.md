@@ -26,6 +26,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**|Ziyi Chang et.al.|[2212.08526v1](http://arxiv.org/abs/2212.08526v1)|**[link](https://github.com/mrzzy2021/styledmotionsynthesis)**|
+|**2022-12-16**|**Text-to-speech synthesis based on latent variable conversion using diffusion probabilistic model and variational autoencoder**|Yusuke Yasuda et.al.|[2212.08329v1](http://arxiv.org/abs/2212.08329v1)|null|
+|**2022-12-16**|**SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation**|Jee Seok Yoon et.al.|[2212.08228v1](http://arxiv.org/abs/2212.08228v1)|null|
 |**2022-12-15**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yu et.al.|[2212.07599v1](http://arxiv.org/abs/2212.07599v1)|null|
 |**2022-12-14**|**Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors**|Kangfu Mei et.al.|[2212.07352v1](http://arxiv.org/abs/2212.07352v1)|null|
 |**2022-12-14**|**A Conservative Galerkin Solver for the Quasilinear Diffusion Model in Magnetized Plasmas**|Kun Huang et.al.|[2212.07229v1](http://arxiv.org/abs/2212.07229v1)|null|
@@ -124,6 +127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development**|Cristina Sainz Martinez et.al.|[2212.08165v1](http://arxiv.org/abs/2212.08165v1)|null|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-15**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v1](http://arxiv.org/abs/2212.07613v1)|null|
 |**2022-12-14**|**Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors**|Kangfu Mei et.al.|[2212.07352v1](http://arxiv.org/abs/2212.07352v1)|null|
@@ -473,6 +477,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**|Wenqi Huang et.al.|[2212.08479v1](http://arxiv.org/abs/2212.08479v1)|null|
+|**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
+|**2022-12-15**|**BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development**|Cristina Sainz Martinez et.al.|[2212.08165v1](http://arxiv.org/abs/2212.08165v1)|null|
 |**2022-12-15**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yu et.al.|[2212.07599v1](http://arxiv.org/abs/2212.07599v1)|null|
 |**2022-12-15**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v2](http://arxiv.org/abs/2212.06881v2)|null|
 |**2022-12-13**|**Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli**|Matteo Ferrante et.al.|[2212.06726v1](http://arxiv.org/abs/2212.06726v1)|**[link](https://github.com/matteoferrante/semantic-brain-decoding)**|
@@ -661,6 +668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**|Ziyi Chang et.al.|[2212.08526v1](http://arxiv.org/abs/2212.08526v1)|**[link](https://github.com/mrzzy2021/styledmotionsynthesis)**|
 |**2022-12-14**|**Mitigating Negative Style Transfer in Hybrid Dialogue System**|Shimin Li et.al.|[2212.07183v1](http://arxiv.org/abs/2212.07183v1)|**[link](https://github.com/whatissimondoing/his-dialog)**|
 |**2022-12-13**|**Deep Image Style Transfer from Freeform Text**|Tejas Santanam et.al.|[2212.06868v1](http://arxiv.org/abs/2212.06868v1)|null|
 |**2022-12-13**|**Style-Label-Free: Cross-Speaker Style Transfer by Quantized VAE and Speaker-wise Normalization in Speech Synthesis**|Chunyu Qiang et.al.|[2212.06397v1](http://arxiv.org/abs/2212.06397v1)|null|
