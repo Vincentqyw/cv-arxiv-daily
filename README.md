@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|null|
+|**2022-12-19**|**MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**|Ludan Ruan et.al.|[2212.09478v1](http://arxiv.org/abs/2212.09478v1)|**[link](https://github.com/researchmm/mm-diffusion)**|
+|**2022-12-19**|**Latent Diffusion for Language Generation**|Justin Lovelace et.al.|[2212.09462v1](http://arxiv.org/abs/2212.09462v1)|**[link](https://github.com/justinlovelace/latent-diffusion-for-language)**|
+|**2022-12-19**|**Difformer: Empowering Diffusion Model on Embedding Space for Text Generation**|Zhujin Gao et.al.|[2212.09412v1](http://arxiv.org/abs/2212.09412v1)|null|
+|**2022-12-17**|**DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models**|Gyeongnyeon Kim et.al.|[2212.08861v1](http://arxiv.org/abs/2212.08861v1)|null|
+|**2022-12-16**|**Point-E: A System for Generating 3D Point Clouds from Complex Prompts**|Alex Nichol et.al.|[2212.08751v1](http://arxiv.org/abs/2212.08751v1)|**[link](https://github.com/openai/point-e)**|
+|**2022-12-16**|**Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models**|Qiucheng Wu et.al.|[2212.08698v1](http://arxiv.org/abs/2212.08698v1)|**[link](https://github.com/ucsb-nlp-chang/diffusiondisentanglement)**|
 |**2022-12-16**|**Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**|Ziyi Chang et.al.|[2212.08526v1](http://arxiv.org/abs/2212.08526v1)|**[link](https://github.com/mrzzy2021/styledmotionsynthesis)**|
 |**2022-12-16**|**Text-to-speech synthesis based on latent variable conversion using diffusion probabilistic model and variational autoencoder**|Yusuke Yasuda et.al.|[2212.08329v1](http://arxiv.org/abs/2212.08329v1)|null|
 |**2022-12-16**|**SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation**|Jee Seok Yoon et.al.|[2212.08228v1](http://arxiv.org/abs/2212.08228v1)|null|
@@ -127,6 +134,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
+|**2022-12-15**|**NAWQ-SR: A Hybrid-Precision NPU Engine for Efficient On-Device Super-Resolution**|Stylianos I. Venieris et.al.|[2212.09501v1](http://arxiv.org/abs/2212.09501v1)|null|
+|**2022-12-19**|**Pixel super-resolution interference pattern sensing via the aliasing effect for laser frequency metrology**|Lipeng Wan et.al.|[2212.09373v1](http://arxiv.org/abs/2212.09373v1)|null|
+|**2022-12-19**|**AI Security for Geoscience and Remote Sensing: Challenges and Future Trends**|Yonghao Xu et.al.|[2212.09360v1](http://arxiv.org/abs/2212.09360v1)|null|
 |**2022-12-15**|**BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development**|Cristina Sainz Martinez et.al.|[2212.08165v1](http://arxiv.org/abs/2212.08165v1)|null|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-17**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v2](http://arxiv.org/abs/2212.07613v2)|null|
@@ -203,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-17**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v2](http://arxiv.org/abs/2212.07613v2)|null|
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
@@ -265,6 +277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
 |**2022-11-16**|**SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution**|Yongjie Chen et.al.|[2211.08703v1](http://arxiv.org/abs/2211.08703v1)|null|
@@ -477,6 +490,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-17**|**Comments on "DIRECT-Net: A unified mutual-domain material decomposition network for quantitative dual-energy CT Imaging'', Med. Phys. 2022, Vol. 49, pgs. 917-934**|Xiaochuan Pan et.al.|[2212.08953v1](http://arxiv.org/abs/2212.08953v1)|null|
 |**2022-12-16**|**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**|Wenqi Huang et.al.|[2212.08479v1](http://arxiv.org/abs/2212.08479v1)|null|
 |**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
 |**2022-12-15**|**BigBrain-MR: a new digital phantom with anatomically-realistic magnetic resonance properties at 100-μm resolution for magnetic resonance methods development**|Cristina Sainz Martinez et.al.|[2212.08165v1](http://arxiv.org/abs/2212.08165v1)|null|
@@ -546,6 +560,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Single Frame Laser Diode Photoacoustic Imaging: Denoising and Reconstruction**|Vincent Vousten et.al.|[2212.08706v1](http://arxiv.org/abs/2212.08706v1)|null|
 |**2022-12-15**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v2](http://arxiv.org/abs/2212.06881v2)|null|
 |**2022-12-13**|**Single Cell Training on Architecture Search for Image Denoising**|Bokyeung Lee et.al.|[2212.06368v1](http://arxiv.org/abs/2212.06368v1)|null|
 |**2022-12-09**|**Noise2Contrast: Multi-Contrast Fusion Enables Self-Supervised Tomographic Image Denoising**|Fabian Wagner et.al.|[2212.04832v1](http://arxiv.org/abs/2212.04832v1)|null|
@@ -611,6 +626,7 @@
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|**[link](https://github.com/fenglinglwb/sdm)**|
+|**2022-12-18**|**Laplacian Convolutional Representation for Traffic Time Series Imputation**|Xinyu Chen et.al.|[2212.01529v2](http://arxiv.org/abs/2212.01529v2)|**[link](https://github.com/xinychen/transdim)**|
 |**2022-12-01**|**Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery**|Yisi Luo et.al.|[2212.00262v1](http://arxiv.org/abs/2212.00262v1)|null|
 |**2022-11-25**|**Generative Modeling in Structural-Hankel Domain for Color Image Inpainting**|Zihao Li et.al.|[2211.13857v1](http://arxiv.org/abs/2211.13857v1)|null|
 |**2022-11-25**|**WSSL: Weighted Self-supervised Learning Framework For Image-inpainting**|Shubham Gupta et.al.|[2211.13856v1](http://arxiv.org/abs/2211.13856v1)|**[link](https://github.com/IamShubhamGupto/WSSL-Weighted-Self-Supervised-Learning-for-Image-Inpainting)**|
@@ -668,6 +684,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**StyleFlow: Disentangle Latent Representations via Normalizing Flow for Unsupervised Text Style Transfer**|Kangchen Zhu et.al.|[2212.09670v1](http://arxiv.org/abs/2212.09670v1)|null|
+|**2022-12-19**|**ColoristaNet for Photorealistic Video Style Transfer**|Xiaowen Qiu et.al.|[2212.09247v1](http://arxiv.org/abs/2212.09247v1)|null|
+|**2022-12-18**|**Face Generation and Editing with StyleGAN: A Survey**|Andrew Melnik et.al.|[2212.09102v1](http://arxiv.org/abs/2212.09102v1)|null|
+|**2022-12-18**|**Low-Resource Authorship Style Transfer with In-Context Learning**|Ajay Patel et.al.|[2212.08986v1](http://arxiv.org/abs/2212.08986v1)|null|
 |**2022-12-16**|**Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**|Ziyi Chang et.al.|[2212.08526v1](http://arxiv.org/abs/2212.08526v1)|**[link](https://github.com/mrzzy2021/styledmotionsynthesis)**|
 |**2022-12-14**|**Mitigating Negative Style Transfer in Hybrid Dialogue System**|Shimin Li et.al.|[2212.07183v1](http://arxiv.org/abs/2212.07183v1)|**[link](https://github.com/whatissimondoing/his-dialog)**|
 |**2022-12-13**|**Deep Image Style Transfer from Freeform Text**|Tejas Santanam et.al.|[2212.06868v1](http://arxiv.org/abs/2212.06868v1)|null|
