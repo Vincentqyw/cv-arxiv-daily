@@ -388,7 +388,7 @@ def demo(**config):
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        # update paper links
+        # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
@@ -400,7 +400,7 @@ def demo(**config):
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
-        # update paper links
+        # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
