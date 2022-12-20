@@ -15,6 +15,37 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 
+def load_config(config_file:str) -> dict:
+    '''
+    config_file: input config file path
+    return: a dict of configuration
+    '''
+    # make filters pretty
+    def pretty_filters(**config) -> dict:
+        keywords = dict()
+        EXCAPE = '\"'
+        QUOTA = '' # NO-USE
+        OR = 'OR' # TODO
+        def parse_filters(filters:list):
+            ret = ''
+            for idx in range(0,len(filters)):
+                filter = filters[idx]
+                if len(filter.split()) > 1:
+                    ret += (EXCAPE + filter + EXCAPE)  
+                else:
+                    ret += (QUOTA + filter + QUOTA)   
+                if idx != len(filters) - 1:
+                    ret += OR
+            return ret
+        for k,v in config['keywords'].items():
+            keywords[k] = parse_filters(v['filters'])
+        return keywords
+    with open(config_file,'r') as f:
+        config = yaml.load(f,Loader=yaml.FullLoader) 
+        config['kv'] = pretty_filters(**config)
+        logging.info(f'config = {config}')
+    return config 
+
 def get_authors(authors, first_author = False):
     output = str()
     if first_author == False:
@@ -129,7 +160,47 @@ def get_daily_papers(topic,query="slam", max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web 
 
-def update_json_file(filename,data_all):
+def update_paper_links(filename):
+    '''
+    weekly update paper links in json file 
+    '''
+    with open(filename,"r") as f:
+        content = f.read()
+        if not content:
+            m = {}
+        else:
+            m = json.loads(content)
+            
+        json_data = m.copy() 
+
+        for keywords,v in json_data.items():
+            logging.info(f'keywords = {keywords}')
+            for paper_id,contents in v.items():
+                contents = str(contents)
+
+                valid_link = False if '|null|' in contents else True
+                if valid_link:
+                    continue
+                try:
+                    code_url = base_url + paper_id #TODO
+                    r = requests.get(code_url).json()
+                    repo_url = None
+                    if "official" in r and r["official"]:
+                        repo_url = r["official"]["url"]
+                        if repo_url is not None:
+                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                            json_data[keywords][paper_id] = str(new_cont)
+                except Exception as e:
+                    logging.error(f"exception: {e} with id: {paper_id}")
+        # dump to json file
+        with open(filename,"w") as f:
+            json.dump(json_data,f)
+
+def update_json_file(filename,data_dict):
+    '''
+    daily update json file using data_dict
+    '''
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -140,7 +211,7 @@ def update_json_file(filename,data_all):
     json_data = m.copy() 
     
     # update papers in each keywords         
-    for data in data_all:
+    for data in data_dict:
         for keyword in data.keys():
             papers = data[keyword]
 
@@ -163,11 +234,6 @@ def json_to_md(filename,md_filename,
     @param md_filename: str
     @return None
     """
-    
-#     def pretty_math(line:str)-> str:
-#         # make latex pretty
-#         # "example$^2$title" -> "example $^2$ title"
-#         return re.sub(r"\$(.*?)\$", r" $\1$ ",line)
     def pretty_math(s:str) -> str:
         ret = ''
         match = re.search(r"\$.*\$", s)
@@ -290,81 +356,65 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
-    
-    logging.info(f"GET daily papers begin")
 
-    for topic, keyword in keywords.items():
-        logging.info(f"Keyword: {topic}")
-        data, data_web = get_daily_papers(topic, query = keyword,
-                                          max_results = max_results)
-        data_collector.append(data)
-        data_collector_web.append(data_web)
-        print("\n")
-    logging.info(f"GET daily papers end")
+    b_update = config['update_paper_links']
+    logging.info(f'Update Paper Link = {b_update}')
+    if config['update_paper_links'] == False:
+        logging.info(f"GET daily papers begin")
+        for topic, keyword in keywords.items():
+            logging.info(f"Keyword: {topic}")
+            data, data_web = get_daily_papers(topic, query = keyword,
+                                            max_results = max_results)
+            data_collector.append(data)
+            data_collector_web.append(data_web)
+            print("\n")
+        logging.info(f"GET daily papers end")
 
     # 1. update README.md file
     if publish_readme:
-        json_file = "./docs/cv-arxiv-daily.json" #"cv-arxiv-daily.json"
-        md_file   = "README.md"
-        # update json data
-        update_json_file(json_file,data_collector)
+        json_file = config['json_readme_path']
+        md_file   = config['md_readme_path']
+        # update paper links
+        if config['update_paper_links']:
+            update_paper_links(json_file)
+        else:    
+            # update json data
+            update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
-        json_file = "./docs/cv-arxiv-daily-web.json"
-        md_file   = "./docs/index.md"
-        update_json_file(json_file,data_collector)
+        json_file = config['json_gitpage_path']
+        md_file   = config['md_gitpage_path']
+        # update paper links
+        if config['update_paper_links']:
+            update_paper_links(json_file)
+        else:    
+            update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
-        json_file = "./docs/cv-arxiv-daily-wechat.json"
-        md_file   = "./docs/wechat.md"
-        update_json_file(json_file, data_collector_web)
+        json_file = config['json_wechat_path']
+        md_file   = config['md_wechat_path']
+        # update paper links
+        if config['update_paper_links']:
+            update_paper_links(json_file)
+        else:    
+            update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
-
-def load_config(config_file:str) -> dict:
-    '''
-    config_file: input config file path
-    return: a dict of configuration
-    '''
-    # make filters pretty
-    def pretty_filters(**config) -> dict:
-        keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        def parse_filters(filters:list):
-            ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
-                else:
-                    ret += (QUOTA + filter + QUOTA)   
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
-        for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
-        return keywords
-
-    with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader) 
-        config['kv'] = pretty_filters(**config)
-        logging.info(f'config = {config}')
-
-    return config 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
+    parser.add_argument('--update_paper_links', default=False,
+                        action="store_true",help='whether to update paper links etc.')                        
     args = parser.parse_args()
     config = load_config(args.config_path)
+    config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)

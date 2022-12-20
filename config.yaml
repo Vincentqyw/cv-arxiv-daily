@@ -11,6 +11,16 @@ publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
 keywords:
     "SLAM": 
         filters: ["SLAM"]
