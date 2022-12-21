@@ -441,7 +441,7 @@
 |**2022-11-25**|**Real-Time Under-Display Cameras Image Restoration and HDR on Mobile Devices**|Marcos V. Conde et.al.|[2211.14040v1](http://arxiv.org/abs/2211.14040v1)|null|
 |**2022-11-24**|**Cross Aggregation Transformer for Image Restoration**|Chen Zheng et.al.|[2211.13654v1](http://arxiv.org/abs/2211.13654v1)|**[link](https://github.com/zhengchen1999/cat)**|
 |**2022-11-22**|**Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring**|Lingshun Kong et.al.|[2211.12250v1](http://arxiv.org/abs/2211.12250v1)|null|
-|**2022-11-18**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v1](http://arxiv.org/abs/2211.10104v1)|null|
+|**2022-12-20**|**Stereo Image Rain Removal via Dual-View Mutual Attention**|Yanyan Wei et.al.|[2211.10104v2](http://arxiv.org/abs/2211.10104v2)|null|
 |**2022-11-17**|**Patch-Craft Self-Supervised Training for Correlated Image Denoising**|Gregory Vaksman et.al.|[2211.09919v1](http://arxiv.org/abs/2211.09919v1)|null|
 |**2022-11-15**|**Cross-Stitched Multi-task Dual Recursive Networks for Unified Single Image Deraining and Desnowing**|Sotiris Karavarsamis et.al.|[2211.08290v1](http://arxiv.org/abs/2211.08290v1)|null|
 |**2022-11-14**|**Self-Supervised Image Restoration with Blurry and Noisy Pairs**|Zhilu Zhang et.al.|[2211.07317v1](http://arxiv.org/abs/2211.07317v1)|**[link](https://github.com/cszhilu1998/selfir)**|
@@ -502,7 +502,7 @@
 |**2022-12-11**|**Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction**|Wei Zhang et.al.|[2212.05503v1](http://arxiv.org/abs/2212.05503v1)|null|
 |**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
-|**2022-12-05**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v1](http://arxiv.org/abs/2212.02623v1)|**[link](https://github.com/microsoft/udop)**|
+|**2022-12-20**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v2](http://arxiv.org/abs/2212.02623v2)|**[link](https://github.com/microsoft/udop)**|
 |**2022-12-05**|**Decoding natural image stimuli from fMRI data with a surface-based convolutional network**|Zijin Gu et.al.|[2212.02409v1](http://arxiv.org/abs/2212.02409v1)|**[link](https://github.com/zijin-gu/meshconv-decoding)**|
 |**2022-12-05**|**Offsets between X-ray and Radio Components in X-ray Jets: The AtlasX**|Karthik Reddy et.al.|[2212.02061v1](http://arxiv.org/abs/2212.02061v1)|null|
 |**2022-12-04**|**CloudBrain-ReconAI: An Online Platform for MRI Reconstruction and Image Quality Evaluation**|Yirong Zhou et.al.|[2212.01878v1](http://arxiv.org/abs/2212.01878v1)|null|
