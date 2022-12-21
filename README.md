@@ -26,7 +26,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|null|
+|**2022-12-20**|**SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**|Hongyi Yuan et.al.|[2212.10325v1](http://arxiv.org/abs/2212.10325v1)|null|
+|**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|**[link](https://github.com/facebookresearch/DiT)**|
 |**2022-12-19**|**MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**|Ludan Ruan et.al.|[2212.09478v1](http://arxiv.org/abs/2212.09478v1)|**[link](https://github.com/researchmm/mm-diffusion)**|
 |**2022-12-19**|**Latent Diffusion for Language Generation**|Justin Lovelace et.al.|[2212.09462v1](http://arxiv.org/abs/2212.09462v1)|**[link](https://github.com/justinlovelace/latent-diffusion-for-language)**|
 |**2022-12-19**|**Difformer: Empowering Diffusion Model on Embedding Space for Text Generation**|Zhujin Gao et.al.|[2212.09412v1](http://arxiv.org/abs/2212.09412v1)|null|
@@ -134,6 +135,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
+|**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**NAWQ-SR: A Hybrid-Precision NPU Engine for Efficient On-Device Super-Resolution**|Stylianos I. Venieris et.al.|[2212.09501v1](http://arxiv.org/abs/2212.09501v1)|null|
 |**2022-12-19**|**Pixel super-resolution interference pattern sensing via the aliasing effect for laser frequency metrology**|Lipeng Wan et.al.|[2212.09373v1](http://arxiv.org/abs/2212.09373v1)|null|
@@ -214,6 +217,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2022-12-17**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v2](http://arxiv.org/abs/2212.07613v2)|null|
@@ -502,7 +506,7 @@
 |**2022-12-11**|**Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction**|Wei Zhang et.al.|[2212.05503v1](http://arxiv.org/abs/2212.05503v1)|null|
 |**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
-|**2022-12-20**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v2](http://arxiv.org/abs/2212.02623v2)|**[link](https://github.com/microsoft/udop)**|
+|**2022-12-20**|**Unifying Vision, Text, and Layout for Universal Document Processing**|Zineng Tang et.al.|[2212.02623v2](http://arxiv.org/abs/2212.02623v2)|**[link](https://github.com/microsoft/i-code)**|
 |**2022-12-05**|**Decoding natural image stimuli from fMRI data with a surface-based convolutional network**|Zijin Gu et.al.|[2212.02409v1](http://arxiv.org/abs/2212.02409v1)|**[link](https://github.com/zijin-gu/meshconv-decoding)**|
 |**2022-12-05**|**Offsets between X-ray and Radio Components in X-ray Jets: The AtlasX**|Karthik Reddy et.al.|[2212.02061v1](http://arxiv.org/abs/2212.02061v1)|null|
 |**2022-12-04**|**CloudBrain-ReconAI: An Online Platform for MRI Reconstruction and Image Quality Evaluation**|Yirong Zhou et.al.|[2212.01878v1](http://arxiv.org/abs/2212.01878v1)|null|
@@ -684,6 +688,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-20**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v1](http://arxiv.org/abs/2212.10498v1)|null|
+|**2022-12-20**|**QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity**|Siyu Huang et.al.|[2212.10431v1](http://arxiv.org/abs/2212.10431v1)|null|
+|**2022-12-20**|**Pay Attention to Your Tone: Introducing a New Dataset for Polite Language Rewrite**|Xun Wang et.al.|[2212.10190v1](http://arxiv.org/abs/2212.10190v1)|null|
+|**2022-12-20**|**Human-Guided Fair Classification for Natural Language Processing**|Florian E. Dorner et.al.|[2212.10154v1](http://arxiv.org/abs/2212.10154v1)|null|
 |**2022-12-19**|**StyleFlow: Disentangle Latent Representations via Normalizing Flow for Unsupervised Text Style Transfer**|Kangchen Zhu et.al.|[2212.09670v1](http://arxiv.org/abs/2212.09670v1)|null|
 |**2022-12-19**|**ColoristaNet for Photorealistic Video Style Transfer**|Xiaowen Qiu et.al.|[2212.09247v1](http://arxiv.org/abs/2212.09247v1)|null|
 |**2022-12-18**|**Face Generation and Editing with StyleGAN: A Survey**|Andrew Melnik et.al.|[2212.09102v1](http://arxiv.org/abs/2212.09102v1)|null|
