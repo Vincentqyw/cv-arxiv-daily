@@ -26,6 +26,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|null|
+|**2022-12-21**|**Beyond Information Exchange: An Approach to Deploy Network Properties for Information Diffusion**|Soumita Das et.al.|[2212.10805v1](http://arxiv.org/abs/2212.10805v1)|null|
+|**2022-12-21**|**Hierarchically branched diffusion models for efficient and interpretable multi-class conditional generation**|Alex M. Tseng et.al.|[2212.10777v1](http://arxiv.org/abs/2212.10777v1)|null|
 |**2022-12-20**|**SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**|Hongyi Yuan et.al.|[2212.10325v1](http://arxiv.org/abs/2212.10325v1)|null|
 |**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|**[link](https://github.com/facebookresearch/DiT)**|
 |**2022-12-19**|**MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation**|Ludan Ruan et.al.|[2212.09478v1](http://arxiv.org/abs/2212.09478v1)|**[link](https://github.com/researchmm/mm-diffusion)**|
@@ -135,6 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
@@ -494,6 +498,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
+|**2022-12-21**|**Unsupervised Full-color Cellular Image Reconstruction through Disordered Optical Fiber**|Xiaowen Hu et.al.|[2212.10803v1](http://arxiv.org/abs/2212.10803v1)|null|
 |**2022-12-17**|**Comments on "DIRECT-Net: A unified mutual-domain material decomposition network for quantitative dual-energy CT Imaging'', Med. Phys. 2022, Vol. 49, pgs. 917-934**|Xiaochuan Pan et.al.|[2212.08953v1](http://arxiv.org/abs/2212.08953v1)|null|
 |**2022-12-16**|**Neural Implicit k-Space for Binning-free Non-Cartesian Cardiac MR Imaging**|Wenqi Huang et.al.|[2212.08479v1](http://arxiv.org/abs/2212.08479v1)|null|
 |**2022-12-16**|**Traffic sign detection and recognition using event camera image reconstruction**|Kamil Jeziorek et.al.|[2212.08387v1](http://arxiv.org/abs/2212.08387v1)|null|
