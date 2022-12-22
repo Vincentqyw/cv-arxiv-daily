@@ -676,7 +676,7 @@
 |**2022-10-24**|**Training and Inference on Any-Order Autoregressive Models the Right Way**|Andy Shih et.al.|[2205.13554v2](http://arxiv.org/abs/2205.13554v2)|**[link](https://github.com/andyshih12/mac)**|
 |**2022-05-24**|**Convolutional Neural Processes for Inpainting Satellite Images**|Alexander Pondaven et.al.|[2205.12407v1](http://arxiv.org/abs/2205.12407v1)|null|
 |**2022-05-21**|**Multi-feature Co-learning for Image Inpainting**|Jiayu Lin et.al.|[2205.10578v1](http://arxiv.org/abs/2205.10578v1)|**[link](https://github.com/gzhu-dvl/mfcl-inpainting)**|
-|**2022-05-20**|**Planning with Diffusion for Flexible Behavior Synthesis**|Michael Janner et.al.|[2205.09991v1](http://arxiv.org/abs/2205.09991v1)|**[link](https://github.com/jannerm/diffuser)**|
+|**2022-12-21**|**Planning with Diffusion for Flexible Behavior Synthesis**|Michael Janner et.al.|[2205.09991v2](http://arxiv.org/abs/2205.09991v2)|**[link](https://github.com/jannerm/diffuser)**|
 |**2022-05-19**|**Reconstruction of photospheric velocity fields from highly corrupted data**|Erico L. Rempel et.al.|[2205.09846v1](http://arxiv.org/abs/2205.09846v1)|null|
 |**2022-05-19**|**Towards Unified Keyframe Propagation Models**|Patrick Esser et.al.|[2205.09731v1](http://arxiv.org/abs/2205.09731v1)|**[link](https://github.com/runwayml/guided-inpainting)**|
 |**2022-05-15**|**GLaMa: Joint Spatial and Frequency Loss for General Image Inpainting**|Zeyu Lu et.al.|[2205.07162v1](http://arxiv.org/abs/2205.07162v1)|null|
@@ -693,7 +693,7 @@
 |**2022-12-20**|**Pay Attention to Your Tone: Introducing a New Dataset for Polite Language Rewrite**|Xun Wang et.al.|[2212.10190v1](http://arxiv.org/abs/2212.10190v1)|null|
 |**2022-12-20**|**Human-Guided Fair Classification for Natural Language Processing**|Florian E. Dorner et.al.|[2212.10154v1](http://arxiv.org/abs/2212.10154v1)|null|
 |**2022-12-19**|**StyleFlow: Disentangle Latent Representations via Normalizing Flow for Unsupervised Text Style Transfer**|Kangchen Zhu et.al.|[2212.09670v1](http://arxiv.org/abs/2212.09670v1)|null|
-|**2022-12-19**|**ColoristaNet for Photorealistic Video Style Transfer**|Xiaowen Qiu et.al.|[2212.09247v1](http://arxiv.org/abs/2212.09247v1)|null|
+|**2022-12-21**|**ColoristaNet for Photorealistic Video Style Transfer**|Xiaowen Qiu et.al.|[2212.09247v2](http://arxiv.org/abs/2212.09247v2)|null|
 |**2022-12-18**|**Face Generation and Editing with StyleGAN: A Survey**|Andrew Melnik et.al.|[2212.09102v1](http://arxiv.org/abs/2212.09102v1)|null|
 |**2022-12-18**|**Low-Resource Authorship Style Transfer with In-Context Learning**|Ajay Patel et.al.|[2212.08986v1](http://arxiv.org/abs/2212.08986v1)|null|
 |**2022-12-16**|**Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**|Ziyi Chang et.al.|[2212.08526v1](http://arxiv.org/abs/2212.08526v1)|**[link](https://github.com/mrzzy2021/styledmotionsynthesis)**|
