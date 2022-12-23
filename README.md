@@ -507,7 +507,7 @@
 |**2022-12-15**|**Universal Generative Modeling in Dual-domain for Dynamic MR Imaging**|Chuanming Yu et.al.|[2212.07599v1](http://arxiv.org/abs/2212.07599v1)|null|
 |**2022-12-15**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v2](http://arxiv.org/abs/2212.06881v2)|null|
 |**2022-12-13**|**Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli**|Matteo Ferrante et.al.|[2212.06726v1](http://arxiv.org/abs/2212.06726v1)|**[link](https://github.com/matteoferrante/semantic-brain-decoding)**|
-|**2022-12-13**|**Report on the AAPM deep-learning spectral CT Grand Challenge**|Emil Y. Sidky et.al.|[2212.06718v1](http://arxiv.org/abs/2212.06718v1)|null|
+|**2022-12-21**|**Report on the AAPM deep-learning spectral CT Grand Challenge**|Emil Y. Sidky et.al.|[2212.06718v2](http://arxiv.org/abs/2212.06718v2)|null|
 |**2022-12-13**|**Algorithms for Least-Squares Noncartesian MR Image Reconstruction**|Tobias C Wood et.al.|[2212.06471v1](http://arxiv.org/abs/2212.06471v1)|null|
 |**2022-12-11**|**Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction**|Wei Zhang et.al.|[2212.05503v1](http://arxiv.org/abs/2212.05503v1)|null|
 |**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
@@ -534,7 +534,7 @@
 |**2022-11-25**|**Superresolution Reconstruction of Single Image for Latent features**|Xin Wang et.al.|[2211.12845v2](http://arxiv.org/abs/2211.12845v2)|null|
 |**2022-11-23**|**Nonlinear Equivariant Imaging: Learning Multi-Parametric Tissue Mapping without Ground Truth for Compressive Quantitative MRI**|Ketan Fatania et.al.|[2211.12786v1](http://arxiv.org/abs/2211.12786v1)|null|
 |**2022-11-22**|**A Neural-Network-Based Convex Regularizer for Image Reconstruction**|Alexis Goujon et.al.|[2211.12461v1](http://arxiv.org/abs/2211.12461v1)|null|
-|**2022-11-22**|**EDICT: Exact Diffusion Inversion via Coupled Transformations**|Bram Wallace et.al.|[2211.12446v1](http://arxiv.org/abs/2211.12446v1)|null|
+|**2022-12-22**|**EDICT: Exact Diffusion Inversion via Coupled Transformations**|Bram Wallace et.al.|[2211.12446v2](http://arxiv.org/abs/2211.12446v2)|null|
 |**2022-11-22**|**Unsupervised Domain Adaptation GAN Inversion for Image Editing**|Siyu Xing et.al.|[2211.12123v1](http://arxiv.org/abs/2211.12123v1)|null|
 |**2022-11-22**|**Radon-based Image Reconstruction for MPI using a continuously rotating FFL**|Stephanie Blanke et.al.|[2211.11683v2](http://arxiv.org/abs/2211.11683v2)|null|
 |**2022-11-19**|**Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models**|Hyungjin Chung et.al.|[2211.10655v1](http://arxiv.org/abs/2211.10655v1)|null|
@@ -694,7 +694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-20**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v1](http://arxiv.org/abs/2212.10498v1)|null|
+|**2022-12-22**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v2](http://arxiv.org/abs/2212.10498v2)|null|
 |**2022-12-20**|**QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity**|Siyu Huang et.al.|[2212.10431v1](http://arxiv.org/abs/2212.10431v1)|null|
 |**2022-12-20**|**Pay Attention to Your Tone: Introducing a New Dataset for Polite Language Rewrite**|Xun Wang et.al.|[2212.10190v1](http://arxiv.org/abs/2212.10190v1)|null|
 |**2022-12-20**|**Human-Guided Fair Classification for Natural Language Processing**|Florian E. Dorner et.al.|[2212.10154v1](http://arxiv.org/abs/2212.10154v1)|null|
