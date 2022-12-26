@@ -351,7 +351,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-22**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v1](http://arxiv.org/abs/2212.11613v1)|null|
+|**2022-12-23**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v2](http://arxiv.org/abs/2212.11613v2)|null|
 |**2022-12-22**|**Generative Colorization of Structured Mobile Web Pages**|Kotaro Kikuchi et.al.|[2212.11541v1](http://arxiv.org/abs/2212.11541v1)|**[link](https://github.com/cyberagentailab/webcolor)**|
 |**2022-12-15**|**Interpretable ML for Imbalanced Data**|Damien A. Dablain et.al.|[2212.07743v1](http://arxiv.org/abs/2212.07743v1)|**[link](https://github.com/dd1github/xai_for_imbalanced_learning)**|
 |**2022-11-28**|**What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems**|Gilad Kutiel et.al.|[2211.15211v1](http://arxiv.org/abs/2211.15211v1)|null|
