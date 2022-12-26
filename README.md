@@ -144,6 +144,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
@@ -227,6 +228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
@@ -507,6 +509,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-23**|**PARALLELPROJ -- An open-source framework for fast calculation of projections in tomography**|Georg Schramm et.al.|[2212.12519v1](http://arxiv.org/abs/2212.12519v1)|null|
+|**2022-12-23**|**Generalized-Equiangular Geometry CT: Concept and Shift-Invariant FBP Algorithms**|Yingxian Xia et.al.|[2212.12143v1](http://arxiv.org/abs/2212.12143v1)|null|
 |**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng et.al.|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
 |**2022-12-22**|**Fully 3D Implementation of the End-to-end Deep Image Prior-based PET Image Reconstruction Using Block Iterative Algorithm**|Fumio Hashimoto et.al.|[2212.11844v1](http://arxiv.org/abs/2212.11844v1)|null|
 |**2022-12-21**|**The ngEHT Analysis Challenges**|Freek Roelofs et.al.|[2212.11355v1](http://arxiv.org/abs/2212.11355v1)|null|
@@ -646,6 +650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**Structure-guided Image Outpainting**|Xi Wang et.al.|[2212.12326v1](http://arxiv.org/abs/2212.12326v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
 |**2022-12-22**|**Group Sparse Coding for Image Denoising**|Luoyu Chen et.al.|[2212.11501v1](http://arxiv.org/abs/2212.11501v1)|null|
 |**2022-12-13**|**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting**|Su Wang et.al.|[2212.06909v1](http://arxiv.org/abs/2212.06909v1)|null|
@@ -709,6 +714,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Semantically-consistent Landsat 8 image to Sentinel-2 image translation for alpine areas**|M. Sokolov et.al.|[2212.12056v1](http://arxiv.org/abs/2212.12056v1)|null|
 |**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|null|
 |**2022-12-21**|**Artistic Arbitrary Style Transfer**|Weiting Li et.al.|[2212.11376v1](http://arxiv.org/abs/2212.11376v1)|null|
 |**2022-12-22**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v2](http://arxiv.org/abs/2212.10498v2)|null|
