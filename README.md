@@ -26,6 +26,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-25**|**Representations of Hecke algebras and Markov dualities for interacting particle systems**|Alexander Povolotsky et.al.|[2212.12944v1](http://arxiv.org/abs/2212.12944v1)|null|
+|**2022-12-23**|**Your diffusion model secretly knows the dimension of the data manifold**|Georgios Batzolis et.al.|[2212.12611v1](http://arxiv.org/abs/2212.12611v1)|null|
 |**2022-12-22**|**Scalable Adaptive Computation for Iterative Generation**|Allan Jabri et.al.|[2212.11972v1](http://arxiv.org/abs/2212.11972v1)|null|
 |**2022-12-22**|**StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation**|Jean-Marie Lemercier et.al.|[2212.11851v1](http://arxiv.org/abs/2212.11851v1)|null|
 |**2022-12-22**|**Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models**|Timo Dimitriadis et.al.|[2212.11833v1](http://arxiv.org/abs/2212.11833v1)|null|
@@ -144,6 +146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
@@ -171,9 +174,9 @@
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-06**|**Super-resolution Probabilistic Rain Prediction from Satellite Data Using 3D U-Nets and EarthFormers**|Yang Li et.al.|[2212.02998v1](http://arxiv.org/abs/2212.02998v1)|**[link](https://github.com/bugsuse/weather4cast-2022-stage2)**|
 |**2022-12-05**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|**[link](https://github.com/usnistgov/atomvision)**|
-|**2022-12-05**|**Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**|Taehyeon Kim et.al.|[2212.02059v1](http://arxiv.org/abs/2212.02059v1)|null|
+|**2022-12-05**|**Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**|Taehyeon Kim et.al.|[2212.02059v1](http://arxiv.org/abs/2212.02059v1)|**[link](https://github.com/hyeonjeong1/22-NeurIPS-Weather4Cast)**|
 |**2022-12-05**|**Double U-Net for Super-Resolution and Segmentation of Live Cell Images**|Mayur Bhandary et.al.|[2212.02028v1](http://arxiv.org/abs/2212.02028v1)|null|
-|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
+|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|**[link](https://github.com/arcananana/cdcn)**|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 |**2022-12-02**|**Downscaling Extreme Rainfall Using Physical-Statistical Generative Adversarial Learning**|Anamitra Saha et.al.|[2212.01446v1](http://arxiv.org/abs/2212.01446v1)|null|
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
@@ -228,6 +231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
@@ -236,7 +240,7 @@
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
 |**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
-|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|null|
+|**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|**[link](https://github.com/arcananana/cdcn)**|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
 |**2022-12-02**|**Global Learnable Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2212.01057v1](http://arxiv.org/abs/2212.01057v1)|**[link](https://github.com/laoyangui/dlsn)**|
 |**2022-12-07**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v2](http://arxiv.org/abs/2212.00490v2)|**[link](https://github.com/wyhuai/ddnm)**|
@@ -509,6 +513,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-26**|**Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**|Zijian Zhang et.al.|[2212.12990v1](http://arxiv.org/abs/2212.12990v1)|null|
+|**2022-12-26**|**Application of Unsupervised Domain Adaptation for Structural MRI Analysis**|Pranath Reddy et.al.|[2212.12986v1](http://arxiv.org/abs/2212.12986v1)|null|
+|**2022-12-25**|**A Lightweight Reconstruction Network for Surface Defect Inspection**|Chao Hu et.al.|[2212.12878v1](http://arxiv.org/abs/2212.12878v1)|null|
 |**2022-12-23**|**PARALLELPROJ -- An open-source framework for fast calculation of projections in tomography**|Georg Schramm et.al.|[2212.12519v1](http://arxiv.org/abs/2212.12519v1)|null|
 |**2022-12-23**|**Generalized-Equiangular Geometry CT: Concept and Shift-Invariant FBP Algorithms**|Yingxian Xia et.al.|[2212.12143v1](http://arxiv.org/abs/2212.12143v1)|null|
 |**2022-12-22**|**Coded Illumination for 3D Lensless Imaging**|Yucheng Zheng et.al.|[2212.11891v1](http://arxiv.org/abs/2212.11891v1)|null|
@@ -714,6 +721,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-24**|**Meta-Learning for Color-to-Infrared Cross-Modal Style Transfer**|Evelyn A. Stump et.al.|[2212.12824v1](http://arxiv.org/abs/2212.12824v1)|null|
 |**2022-12-22**|**Semantically-consistent Landsat 8 image to Sentinel-2 image translation for alpine areas**|M. Sokolov et.al.|[2212.12056v1](http://arxiv.org/abs/2212.12056v1)|null|
 |**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|null|
 |**2022-12-21**|**Artistic Arbitrary Style Transfer**|Weiting Li et.al.|[2212.11376v1](http://arxiv.org/abs/2212.11376v1)|null|
