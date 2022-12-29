@@ -26,6 +26,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**Exploring Vision Transformers as Diffusion Learners**|He Cao et.al.|[2212.13771v1](http://arxiv.org/abs/2212.13771v1)|null|
+|**2022-12-27**|**DiffFace: Diffusion-based Face Swapping with Facial Guidance**|Kihong Kim et.al.|[2212.13344v1](http://arxiv.org/abs/2212.13344v1)|null|
 |**2022-12-25**|**Representations of Hecke algebras and Markov dualities for interacting particle systems**|Alexander Povolotsky et.al.|[2212.12944v1](http://arxiv.org/abs/2212.12944v1)|null|
 |**2022-12-23**|**Your diffusion model secretly knows the dimension of the data manifold**|Georgios Batzolis et.al.|[2212.12611v1](http://arxiv.org/abs/2212.12611v1)|null|
 |**2022-12-22**|**Scalable Adaptive Computation for Iterative Generation**|Allan Jabri et.al.|[2212.11972v1](http://arxiv.org/abs/2212.11972v1)|null|
@@ -146,6 +148,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
+|**2022-12-28**|**Large-scale single-photon imaging**|Liheng Bian et.al.|[2212.13654v1](http://arxiv.org/abs/2212.13654v1)|null|
+|**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
@@ -231,6 +236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
 |**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
@@ -297,6 +303,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-14**|**Mitigating Artifacts in Real-World Video Super-Resolution Models**|Liangbin Xie et.al.|[2212.07339v1](http://arxiv.org/abs/2212.07339v1)|**[link](https://github.com/tencentarc/fastrealvsr)**|
 |**2022-12-10**|**Benchmark Dataset and Effective Inter-Frame Alignment for Real-World Video Super-Resolution**|Ruohao Wang et.al.|[2212.05342v1](http://arxiv.org/abs/2212.05342v1)|null|
@@ -513,7 +520,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-26**|**Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**|Zijian Zhang et.al.|[2212.12990v1](http://arxiv.org/abs/2212.12990v1)|null|
+|**2022-12-27**|**On Ambiguity in Linear Inverse Problems: Entrywise Bounds on Nearly Data-Consistent Solutions and Entrywise Condition Numbers**|Justin P. Haldar et.al.|[2212.13614v1](http://arxiv.org/abs/2212.13614v1)|null|
+|**2022-12-26**|**Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**|Zijian Zhang et.al.|[2212.12990v1](http://arxiv.org/abs/2212.12990v1)|**[link](https://github.com/ckczzj/pdae)**|
 |**2022-12-26**|**Application of Unsupervised Domain Adaptation for Structural MRI Analysis**|Pranath Reddy et.al.|[2212.12986v1](http://arxiv.org/abs/2212.12986v1)|null|
 |**2022-12-25**|**A Lightweight Reconstruction Network for Surface Defect Inspection**|Chao Hu et.al.|[2212.12878v1](http://arxiv.org/abs/2212.12878v1)|null|
 |**2022-12-23**|**PARALLELPROJ -- An open-source framework for fast calculation of projections in tomography**|Georg Schramm et.al.|[2212.12519v1](http://arxiv.org/abs/2212.12519v1)|**[link](https://github.com/gschramm/parallelproj)**|
@@ -721,6 +729,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-27**|**Scaling Painting Style Transfer**|Bruno Galerne et.al.|[2212.13459v1](http://arxiv.org/abs/2212.13459v1)|null|
 |**2022-12-24**|**Meta-Learning for Color-to-Infrared Cross-Modal Style Transfer**|Evelyn A. Stump et.al.|[2212.12824v1](http://arxiv.org/abs/2212.12824v1)|null|
 |**2022-12-22**|**Semantically-consistent Landsat 8 image to Sentinel-2 image translation for alpine areas**|M. Sokolov et.al.|[2212.12056v1](http://arxiv.org/abs/2212.12056v1)|null|
 |**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|null|
