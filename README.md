@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**Muse: Text-To-Image Generation via Masked Generative Transformers**|Huiwen Chang et.al.|[2301.00704v1](http://arxiv.org/abs/2301.00704v1)|null|
+|**2023-01-02**|**Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data**|Jumin Lee et.al.|[2301.00527v1](http://arxiv.org/abs/2301.00527v1)|**[link](https://github.com/zoomin-lee/scene-scale-diffusion)**|
+|**2023-01-01**|**Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation**|Han Huang et.al.|[2301.00427v1](http://arxiv.org/abs/2301.00427v1)|null|
+|**2023-01-01**|**Diffusion Model based Semi-supervised Learning on Brain Hemorrhage Images for Efficient Midline Shift Quantification**|Shizhan Gong et.al.|[2301.00409v1](http://arxiv.org/abs/2301.00409v1)|null|
+|**2022-12-31**|**Network localization strength regulates innovation diffusion with macro-level social influence**|Leyang Xue et.al.|[2301.00151v1](http://arxiv.org/abs/2301.00151v1)|null|
+|**2022-12-30**|**Describing NMR chemical exchange by effective phase diffusion approach**|Guoxing Lin et.al.|[2301.00059v1](http://arxiv.org/abs/2301.00059v1)|null|
 |**2022-12-28**|**Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**|Jiale Xu et.al.|[2212.14704v1](http://arxiv.org/abs/2212.14704v1)|null|
 |**2022-12-27**|**Exploring Transformer Backbones for Image Diffusion Models**|Princy Chahal et.al.|[2212.14678v1](http://arxiv.org/abs/2212.14678v1)|null|
 |**2022-12-30**|**ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**|Zehua Chen et.al.|[2212.14518v1](http://arxiv.org/abs/2212.14518v1)|null|
@@ -154,13 +160,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
+|**2023-01-02**|**Spectral Bandwidth Recovery of Optical Coherence Tomography Images using Deep Learning**|Timothy T. Yu et.al.|[2301.00504v1](http://arxiv.org/abs/2301.00504v1)|null|
+|**2022-12-31**|**DIVA: Deep Unfolded Network from Quantum Interactive Patches for Image Restoration**|Sayantan Dutta et.al.|[2301.00247v1](http://arxiv.org/abs/2301.00247v1)|null|
 |**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-27**|**Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**|Zhongwei Qiu et.al.|[2212.14046v1](http://arxiv.org/abs/2212.14046v1)|**[link](https://github.com/researchmm/ftvsr)**|
 |**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-28**|**Large-scale single-photon imaging**|Liheng Bian et.al.|[2212.13654v1](http://arxiv.org/abs/2212.13654v1)|null|
 |**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
-|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|**[link](https://github.com/yongsongh/infrared_image_sr_survey)**|
 |**2022-12-21**|**Continual Learning Approaches for Anomaly Detection**|Davide Dalle Pezze et.al.|[2212.11192v1](http://arxiv.org/abs/2212.11192v1)|null|
 |**2022-12-20**|**Super-resolution enhancement in bi-photon spatial mode demultiplexin**|Florence Grenapin et.al.|[2212.10468v1](http://arxiv.org/abs/2212.10468v1)|null|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
@@ -247,7 +256,7 @@
 |**2022-12-29**|**Efficient Image Super-Resolution with Feature Interaction Weighted Hybrid Network**|Wenjie Li et.al.|[2212.14181v1](http://arxiv.org/abs/2212.14181v1)|null|
 |**2022-12-28**|**Single-Image Super-Resolution Reconstruction based on the Differences of Neighboring Pixels**|Huipeng Zheng et.al.|[2212.13730v1](http://arxiv.org/abs/2212.13730v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
-|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|null|
+|**2022-12-22**|**Infrared Image Super-Resolution: Systematic Review, and Future Trends**|Yongsong Huang et.al.|[2212.12322v1](http://arxiv.org/abs/2212.12322v1)|**[link](https://github.com/yongsongh/infrared_image_sr_survey)**|
 |**2022-12-20**|**Multi-Reference Image Super-Resolution: A Posterior Fusion Approach**|Ke Zhao et.al.|[2212.09988v1](http://arxiv.org/abs/2212.09988v1)|null|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
@@ -312,6 +321,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**In-situ monitoring additive manufacturing process with AI edge computing**|Wenkang Zhu et.al.|[2301.00554v1](http://arxiv.org/abs/2301.00554v1)|null|
 |**2022-12-27**|**Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution**|Zhongwei Qiu et.al.|[2212.14046v1](http://arxiv.org/abs/2212.14046v1)|**[link](https://github.com/researchmm/ftvsr)**|
 |**2022-12-27**|**Cross-Resolution Flow Propagation for Foveated Video Super-Resolution**|Eugene Lee et.al.|[2212.13525v1](http://arxiv.org/abs/2212.13525v1)|**[link](https://github.com/eugenelet/crfp)**|
 |**2022-12-19**|**Reference-based Image and Video Super-Resolution via C2-Matching**|Yuming Jiang et.al.|[2212.09581v1](http://arxiv.org/abs/2212.09581v1)|**[link](https://github.com/yumingj/C2-Matching)**|
@@ -469,6 +479,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-31**|**DIVA: Deep Unfolded Network from Quantum Interactive Patches for Image Restoration**|Sayantan Dutta et.al.|[2301.00247v1](http://arxiv.org/abs/2301.00247v1)|null|
 |**2022-12-22**|**Restoring Vision in Hazy Weather with Hierarchical Contrastive Learning**|Tao Wang et.al.|[2212.11473v1](http://arxiv.org/abs/2212.11473v1)|null|
 |**2022-12-15**|**An efficient symmetric primal-dual algorithmic framework for saddle point problems**|Hongjin He et.al.|[2212.07587v1](http://arxiv.org/abs/2212.07587v1)|null|
 |**2022-12-13**|**Single Cell Training on Architecture Search for Image Denoising**|Bokyeung Lee et.al.|[2212.06368v1](http://arxiv.org/abs/2212.06368v1)|null|
@@ -532,7 +543,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-12-29**|**StyleRes: Transforming the Residuals for Real Image Editing with StyleGAN**|Hamza Pehlivan et.al.|[2212.14359v1](http://arxiv.org/abs/2212.14359v1)|null|
+|**2023-01-02**|**Volumetric and Simultaneous Photoacoustic and Ultrasound Imaging with a Conventional Linear Array in a Multiview Scanning Scheme**|Clément Linger et.al.|[2301.00706v1](http://arxiv.org/abs/2301.00706v1)|null|
+|**2022-12-29**|**StyleRes: Transforming the Residuals for Real Image Editing with StyleGAN**|Hamza Pehlivan et.al.|[2212.14359v1](http://arxiv.org/abs/2212.14359v1)|**[link](https://github.com/hamzapehlivan/styleres)**|
 |**2022-12-27**|**On Ambiguity in Linear Inverse Problems: Entrywise Bounds on Nearly Data-Consistent Solutions and Entrywise Condition Numbers**|Justin P. Haldar et.al.|[2212.13614v1](http://arxiv.org/abs/2212.13614v1)|null|
 |**2023-01-01**|**Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**|Zijian Zhang et.al.|[2212.12990v2](http://arxiv.org/abs/2212.12990v2)|**[link](https://github.com/ckczzj/pdae)**|
 |**2022-12-26**|**Application of Unsupervised Domain Adaptation for Structural MRI Analysis**|Pranath Reddy et.al.|[2212.12986v1](http://arxiv.org/abs/2212.12986v1)|null|
@@ -614,6 +626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**Task-specific Scene Structure Representations**|Jisu Shin et.al.|[2301.00555v1](http://arxiv.org/abs/2301.00555v1)|**[link](https://github.com/jsshin98/ssgnet)**|
 |**2022-12-22**|**Group Sparse Coding for Image Denoising**|Luoyu Chen et.al.|[2212.11501v1](http://arxiv.org/abs/2212.11501v1)|null|
 |**2022-12-16**|**Single Frame Laser Diode Photoacoustic Imaging: Denoising and Reconstruction**|Vincent Vousten et.al.|[2212.08706v1](http://arxiv.org/abs/2212.08706v1)|null|
 |**2022-12-15**|**Plug-and-Play image reconstruction is a convergent regularization method**|Andrea Ebner et.al.|[2212.06881v2](http://arxiv.org/abs/2212.06881v2)|null|
@@ -678,6 +691,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**Lightweight Image Inpainting by Stripe Window Transformer with Joint Attention to CNN**|Tsung-Jung Liu et.al.|[2301.00553v1](http://arxiv.org/abs/2301.00553v1)|**[link](https://github.com/bobo0303/LIGHTWEIGHT-IMAGE-INPAINTING-BY-STRIPE-WINDOW-TRANSFORMER-WITH-JOINT-ATTENTION-TO-CNN)**|
 |**2022-12-21**|**Structure-guided Image Outpainting**|Xi Wang et.al.|[2212.12326v1](http://arxiv.org/abs/2212.12326v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
 |**2022-12-22**|**Group Sparse Coding for Image Denoising**|Luoyu Chen et.al.|[2212.11501v1](http://arxiv.org/abs/2212.11501v1)|null|
@@ -742,6 +756,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-02**|**Interactive Control over Temporal-consistency while Stylizing Video Streams**|Sumit Shekhar et.al.|[2301.00750v1](http://arxiv.org/abs/2301.00750v1)|null|
+|**2023-01-02**|**Edge Enhanced Image Style Transfer via Transformers**|Chiyu Zhang et.al.|[2301.00592v1](http://arxiv.org/abs/2301.00592v1)|null|
 |**2022-12-27**|**Scaling Painting Style Transfer**|Bruno Galerne et.al.|[2212.13459v1](http://arxiv.org/abs/2212.13459v1)|null|
 |**2022-12-24**|**Meta-Learning for Color-to-Infrared Cross-Modal Style Transfer**|Evelyn A. Stump et.al.|[2212.12824v1](http://arxiv.org/abs/2212.12824v1)|null|
 |**2022-12-22**|**Semantically-consistent Landsat 8 image to Sentinel-2 image translation for alpine areas**|M. Sokolov et.al.|[2212.12056v1](http://arxiv.org/abs/2212.12056v1)|null|
