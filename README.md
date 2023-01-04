@@ -282,8 +282,8 @@
 |**2022-11-22**|**SRTGAN: Triplet Loss based Generative Adversarial Network for Real-World Super-Resolution**|Dhruv Patel et.al.|[2211.12180v1](http://arxiv.org/abs/2211.12180v1)|null|
 |**2022-11-21**|**General simulation method for quantum-sensing systems**|Felix Riexinger et.al.|[2211.11844v1](http://arxiv.org/abs/2211.11844v1)|null|
 |**2022-11-21**|**N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution**|Haram Choi et.al.|[2211.11436v1](http://arxiv.org/abs/2211.11436v1)|null|
-|**2022-11-19**|**Real-World Image Super Resolution via Unsupervised Bi-directional Cycle Domain Transfer Learning based Generative Adversarial Network**|Xiang Wang et.al.|[2211.10563v1](http://arxiv.org/abs/2211.10563v1)|null|
-|**2022-11-18**|**Semantic Encoder Guided Generative Adversarial Face Ultra-Resolution Network**|Xiang Wang et.al.|[2211.10532v1](http://arxiv.org/abs/2211.10532v1)|null|
+|**2023-01-03**|**Real-World Image Super Resolution via Unsupervised Bi-directional Cycle Domain Transfer Learning based Generative Adversarial Network**|Xiang Wang et.al.|[2211.10563v2](http://arxiv.org/abs/2211.10563v2)|null|
+|**2023-01-03**|**Semantic Encoder Guided Generative Adversarial Face Ultra-Resolution Network**|Xiang Wang et.al.|[2211.10532v2](http://arxiv.org/abs/2211.10532v2)|null|
 |**2022-11-17**|**RDRN: Recursively Defined Residual Network for Image Super-Resolution**|Alexander Panaetov et.al.|[2211.09462v1](http://arxiv.org/abs/2211.09462v1)|null|
 |**2022-11-10**|**Contrastive Learning for Climate Model Bias Correction and Super-Resolution**|Tristan Ballard et.al.|[2211.07555v1](http://arxiv.org/abs/2211.07555v1)|null|
 |**2022-11-14**|**CurvPnP: Plug-and-play Blind Image Restoration with Deep Curvature Denoiser**|Yutong Li et.al.|[2211.07286v1](http://arxiv.org/abs/2211.07286v1)|**[link](https://github.com/duanlab123/curvpnp)**|
