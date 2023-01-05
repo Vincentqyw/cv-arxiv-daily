@@ -719,7 +719,7 @@
 |**2022-10-12**|**Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image**|Zhaoxuan Zhang et.al.|[2210.05891v1](http://arxiv.org/abs/2210.05891v1)|null|
 |**2022-09-29**|**Spherical Image Inpainting with Frame Transformation and Data-driven Prior Deep Networks**|Jianfei Li et.al.|[2209.14604v1](http://arxiv.org/abs/2209.14604v1)|null|
 |**2022-09-29**|**Semantics-Guided Object Removal for Facial Images: with Broad Applicability and Robust Style Preservation**|Jookyung Song et.al.|[2209.14479v1](http://arxiv.org/abs/2209.14479v1)|null|
-|**2022-09-21**|**Progressive with Purpose: Guiding Progressive Inpainting DNNs through Context and Structure**|Kangdi Shi et.al.|[2209.10071v1](http://arxiv.org/abs/2209.10071v1)|null|
+|**2023-01-03**|**Progressive with Purpose: Guiding Progressive Inpainting DNNs through Context and Structure**|Kangdi Shi et.al.|[2209.10071v2](http://arxiv.org/abs/2209.10071v2)|null|
 |**2022-09-19**|**HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting**|Md Imran Hosen et.al.|[2209.08930v1](http://arxiv.org/abs/2209.08930v1)|**[link](https://github.com/mdhosen/himfr)**|
 |**2022-09-17**|**Delving Globally into Texture and Structure for Image Inpainting**|Haipeng Liu et.al.|[2209.08217v1](http://arxiv.org/abs/2209.08217v1)|**[link](https://github.com/htyjers/dgts-inpainting)**|
 |**2022-09-01**|**Visual Prompting via Image Inpainting**|Amir Bar et.al.|[2209.00647v1](http://arxiv.org/abs/2209.00647v1)|**[link](https://github.com/amirbar/visual_prompting)**|
