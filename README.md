@@ -55,7 +55,7 @@
 |**2022-12-22**|**StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation**|Jean-Marie Lemercier et.al.|[2212.11851v1](http://arxiv.org/abs/2212.11851v1)|null|
 |**2022-12-22**|**Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models**|Timo Dimitriadis et.al.|[2212.11833v1](http://arxiv.org/abs/2212.11833v1)|null|
 |**2022-12-22**|**GENIE: Large Scale Pre-training for Text Generation with Diffusion Model**|Zhenghao Lin et.al.|[2212.11685v1](http://arxiv.org/abs/2212.11685v1)|null|
-|**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|null|
+|**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|**[link](https://github.com/showlab/Tune-A-Video)**|
 |**2022-12-14**|**SPIRiT-Diffusion: SPIRiT-driven Score-Based Generative Modeling for Vessel Wall imaging**|Chentao Cao et.al.|[2212.11274v1](http://arxiv.org/abs/2212.11274v1)|null|
 |**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|null|
 |**2022-12-21**|**Beyond Information Exchange: An Approach to Deploy Network Properties for Information Diffusion**|Soumita Das et.al.|[2212.10805v1](http://arxiv.org/abs/2212.10805v1)|null|
@@ -788,7 +788,7 @@
 |**2022-12-27**|**Scaling Painting Style Transfer**|Bruno Galerne et.al.|[2212.13459v1](http://arxiv.org/abs/2212.13459v1)|null|
 |**2022-12-24**|**Meta-Learning for Color-to-Infrared Cross-Modal Style Transfer**|Evelyn A. Stump et.al.|[2212.12824v1](http://arxiv.org/abs/2212.12824v1)|null|
 |**2022-12-22**|**Semantically-consistent Landsat 8 image to Sentinel-2 image translation for alpine areas**|M. Sokolov et.al.|[2212.12056v1](http://arxiv.org/abs/2212.12056v1)|null|
-|**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|null|
+|**2022-12-22**|**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2212.11565v1](http://arxiv.org/abs/2212.11565v1)|**[link](https://github.com/showlab/Tune-A-Video)**|
 |**2022-12-21**|**Artistic Arbitrary Style Transfer**|Weiting Li et.al.|[2212.11376v1](http://arxiv.org/abs/2212.11376v1)|null|
 |**2022-12-22**|**SimpleStyle: An Adaptable Style Transfer Approach**|Elron Bandel et.al.|[2212.10498v2](http://arxiv.org/abs/2212.10498v2)|null|
 |**2022-12-20**|**QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity**|Siyu Huang et.al.|[2212.10431v1](http://arxiv.org/abs/2212.10431v1)|null|
