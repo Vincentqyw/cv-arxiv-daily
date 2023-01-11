@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis**|Shuai Shen et.al.|[2301.03786v1](http://arxiv.org/abs/2301.03786v1)|null|
 |**2023-01-06**|**Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation**|Michał Stypułkowski et.al.|[2301.03396v1](http://arxiv.org/abs/2301.03396v1)|null|
 |**2023-01-09**|**Enabling AI-Generated Content (AIGC) Services in Wireless Edge Networks**|Hongyang Du et.al.|[2301.03220v1](http://arxiv.org/abs/2301.03220v1)|null|
 |**2023-01-08**|**Annealed Score-Based Diffusion Model for MR Motion Artifact Reduction**|Gyutaek Oh et.al.|[2301.03027v1](http://arxiv.org/abs/2301.03027v1)|null|
@@ -169,6 +170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey**|Zhiqing Wei et.al.|[2301.03857v1](http://arxiv.org/abs/2301.03857v1)|null|
 |**2023-01-09**|**Label-free incoherent super-resolution optical microscopy**|Nikhil Jayakumar et.al.|[2301.03451v1](http://arxiv.org/abs/2301.03451v1)|null|
 |**2023-01-09**|**eFIN: Enhanced Fourier Imager Network for generalizable autofocusing and pixel super-resolution in holographic imaging**|Hanlong Chen et.al.|[2301.03162v1](http://arxiv.org/abs/2301.03162v1)|null|
 |**2023-01-05**|**DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution**|Xiang Li et.al.|[2301.02031v1](http://arxiv.org/abs/2301.02031v1)|null|
