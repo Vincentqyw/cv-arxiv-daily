@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-10**|**Speech Driven Video Editing via an Audio-Conditioned Diffusion Model**|Dan Bigioi et.al.|[2301.04474v1](http://arxiv.org/abs/2301.04474v1)|null|
+|**2023-01-12**|**Speech Driven Video Editing via an Audio-Conditioned Diffusion Model**|Dan Bigioi et.al.|[2301.04474v2](http://arxiv.org/abs/2301.04474v2)|null|
 |**2023-01-10**|**Diffusion Models For Stronger Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v1](http://arxiv.org/abs/2301.04218v1)|null|
 |**2023-01-10**|**DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis**|Shuai Shen et.al.|[2301.03786v1](http://arxiv.org/abs/2301.03786v1)|null|
 |**2023-01-06**|**Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation**|Michał Stypułkowski et.al.|[2301.03396v1](http://arxiv.org/abs/2301.03396v1)|null|
@@ -209,7 +209,7 @@
 |**2022-12-09**|**SupeRVol: Super-Resolution Shape and Reflectance Estimation in Inverse Volume Rendering**|Mohammed Brahimi et.al.|[2212.04968v1](http://arxiv.org/abs/2212.04968v1)|null|
 |**2022-12-09**|**Neural Volume Super-Resolution**|Yuval Bahat et.al.|[2212.04666v1](http://arxiv.org/abs/2212.04666v1)|null|
 |**2022-12-08**|**Spatio-Temporal Super-Resolution of Dynamical Systems using Physics-Informed Deep-Learning**|Rajat Arora et.al.|[2212.04457v1](http://arxiv.org/abs/2212.04457v1)|null|
-|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
+|**2023-01-12**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v2](http://arxiv.org/abs/2212.04362v2)|null|
 |**2022-12-08**|**On the Robustness of Normalizing Flows for Inverse Problems in Imaging**|Seongmin Hong et.al.|[2212.04319v1](http://arxiv.org/abs/2212.04319v1)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
 |**2022-12-07**|**RainUNet for Super-Resolution Rain Movie Prediction under Spatio-temporal Shifts**|Jinyoung Park et.al.|[2212.04005v1](http://arxiv.org/abs/2212.04005v1)|**[link](https://github.com/jinyxp/weather4cast-2022)**|
@@ -286,7 +286,7 @@
 |**2022-12-15**|**Meta-Learned Kernel For Blind Super-Resolution Kernel Estimation**|Royson Lee et.al.|[2212.07886v1](http://arxiv.org/abs/2212.07886v1)|null|
 |**2023-01-02**|**DCS-RISR: Dynamic Channel Splitting for Efficient Real-world Image Super-Resolution**|Junbo Qiao et.al.|[2212.07613v4](http://arxiv.org/abs/2212.07613v4)|null|
 |**2022-12-13**|**Source-Aware Spatial-Spectral-Integrated Double U-Net for Image Fusion**|Siran Peng et.al.|[2212.06466v1](http://arxiv.org/abs/2212.06466v1)|null|
-|**2022-12-08**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v1](http://arxiv.org/abs/2212.04362v1)|null|
+|**2023-01-12**|**CiaoSR: Continuous Implicit Attention-in-Attention Network for Arbitrary-Scale Image Super-Resolution**|Jiezhang Cao et.al.|[2212.04362v2](http://arxiv.org/abs/2212.04362v2)|null|
 |**2022-12-08**|**A Scale-Arbitrary Image Super-Resolution Network Using Frequency-domain Information**|Jing Fang et.al.|[2212.04314v1](http://arxiv.org/abs/2212.04314v1)|null|
 |**2022-12-03**|**Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**|Yixuan Wu et.al.|[2212.01628v1](http://arxiv.org/abs/2212.01628v1)|**[link](https://github.com/arcananana/cdcn)**|
 |**2022-12-03**|**Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**|Feng Li et.al.|[2212.01624v1](http://arxiv.org/abs/2212.01624v1)|**[link](https://github.com/arcananana/dssr)**|
@@ -427,7 +427,7 @@
 |**2022-05-30**|**Adaptive color transfer from images to terrain visualizations**|Mingguang Wu et.al.|[2205.14908v1](http://arxiv.org/abs/2205.14908v1)|null|
 |**2022-05-25**|**Image Colorization using U-Net with Skip Connections and Fusion Layer on Landscape Images**|Muhammad Hisyam Zayd et.al.|[2205.12867v1](http://arxiv.org/abs/2205.12867v1)|null|
 |**2022-10-14**|**UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes**|Alexander Kolesnikov et.al.|[2205.10337v3](http://arxiv.org/abs/2205.10337v3)|**[link](https://github.com/google-research/big_vision)**|
-|**2022-10-27**|**A New Spin on Color Quantization**|Samy Lakhal et.al.|[2204.12569v2](http://arxiv.org/abs/2204.12569v2)|null|
+|**2023-01-12**|**A New Spin on Color Quantization**|Samy Lakhal et.al.|[2204.12569v3](http://arxiv.org/abs/2204.12569v3)|null|
 |**2022-04-23**|**VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic Retail Checkout**|Md. Istiak Hossain Shihab et.al.|[2204.11024v1](http://arxiv.org/abs/2204.11024v1)|**[link](https://github.com/guglielmocamporese/hands-segmentation-pytorch)**|
 |**2022-05-28**|**Analysis of Different Losses for Deep Learning Image Colorization**|Coloma Ballester et.al.|[2204.02980v3](http://arxiv.org/abs/2204.02980v3)|null|
 |**2022-04-06**|**Influence of Color Spaces for Deep Learning Image Colorization**|Coloma Ballester et.al.|[2204.02850v1](http://arxiv.org/abs/2204.02850v1)|null|
@@ -514,7 +514,7 @@
 |**2022-12-07**|**QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**|Dat Viet Thanh Nguyen et.al.|[2212.00981v2](http://arxiv.org/abs/2212.00981v2)|**[link](https://github.com/VinAIResearch/QC-StyleGAN)**|
 |**2022-12-07**|**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**|Yinhuai Wang et.al.|[2212.00490v2](http://arxiv.org/abs/2212.00490v2)|**[link](https://github.com/wyhuai/ddnm)**|
 |**2022-11-28**|**Near-filed SAR Image Restoration with Deep Learning Inverse Technique: A Preliminary Study**|Xu Zhan et.al.|[2211.14990v1](http://arxiv.org/abs/2211.14990v1)|null|
-|**2022-11-27**|**A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images**|Wei Chen et.al.|[2211.14715v1](http://arxiv.org/abs/2211.14715v1)|**[link](https://github.com/lichen14/tower)**|
+|**2023-01-12**|**A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Biomedical Microscopy Images**|Wei Chen et.al.|[2211.14715v2](http://arxiv.org/abs/2211.14715v2)|**[link](https://github.com/lichen14/tower)**|
 |**2022-11-25**|**Real-Time Under-Display Cameras Image Restoration and HDR on Mobile Devices**|Marcos V. Conde et.al.|[2211.14040v1](http://arxiv.org/abs/2211.14040v1)|null|
 |**2022-11-24**|**Cross Aggregation Transformer for Image Restoration**|Chen Zheng et.al.|[2211.13654v1](http://arxiv.org/abs/2211.13654v1)|**[link](https://github.com/zhengchen1999/cat)**|
 |**2022-11-22**|**Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring**|Lingshun Kong et.al.|[2211.12250v1](http://arxiv.org/abs/2211.12250v1)|null|
