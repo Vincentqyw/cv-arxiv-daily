@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|null|
+|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|**[link](https://github.com/gligen/GLIGEN)**|
 |**2023-01-17**|**Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks**|Lars Lien Ankile et.al.|[2301.06871v1](http://arxiv.org/abs/2301.06871v1)|null|
 |**2023-01-16**|**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy**|Yongyi Shi et.al.|[2301.06604v1](http://arxiv.org/abs/2301.06604v1)|null|
 |**2023-01-16**|**From Exclusion to Slow and Fast Diffusion**|Patricia Gonçalves et.al.|[2301.06585v1](http://arxiv.org/abs/2301.06585v1)|null|
