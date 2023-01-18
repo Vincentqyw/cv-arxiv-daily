@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**GLIGEN: Open-Set Grounded Text-to-Image Generation**|Yuheng Li et.al.|[2301.07093v1](http://arxiv.org/abs/2301.07093v1)|null|
+|**2023-01-17**|**Denoising Diffusion Probabilistic Models as a Defense against Adversarial Attacks**|Lars Lien Ankile et.al.|[2301.06871v1](http://arxiv.org/abs/2301.06871v1)|null|
+|**2023-01-16**|**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy**|Yongyi Shi et.al.|[2301.06604v1](http://arxiv.org/abs/2301.06604v1)|null|
+|**2023-01-16**|**From Exclusion to Slow and Fast Diffusion**|Patricia Gonçalves et.al.|[2301.06585v1](http://arxiv.org/abs/2301.06585v1)|null|
+|**2023-01-16**|**Msanii: High Fidelity Music Synthesis on a Shoestring Budget**|Kinyugo Maina et.al.|[2301.06468v1](http://arxiv.org/abs/2301.06468v1)|**[link](https://github.com/kinyugo/msanii)**|
+|**2023-01-16**|**Limiting fragmentation in heavy-ion stopping?**|Johannes Hoelck et.al.|[2301.06465v1](http://arxiv.org/abs/2301.06465v1)|null|
+|**2023-01-15**|**Modeling Human Cognition with a Hybrid Deep Reinforcement Learning Agent**|Songlin Xu et.al.|[2301.06216v1](http://arxiv.org/abs/2301.06216v1)|null|
 |**2023-01-13**|**In BLOOM: Creativity and Affinity in Artificial Lyrics and Art**|Evan Crothers et.al.|[2301.05402v1](http://arxiv.org/abs/2301.05402v1)|**[link](https://github.com/ecrows/in-bloom)**|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
@@ -176,6 +183,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Super-Resolution Harmonic Retrieval of Non-Circular Signals**|Yu Zhang et.al.|[2301.06948v1](http://arxiv.org/abs/2301.06948v1)|null|
+|**2023-01-15**|**Deep Diversity-Enhanced Feature Representation of Hyperspectral Images**|Jinhui Hou et.al.|[2301.06132v1](http://arxiv.org/abs/2301.06132v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-11**|**Learning Continuous Mesh Representation with Spherical Implicit Surface**|Zhongpai Gao et.al.|[2301.04695v1](http://arxiv.org/abs/2301.04695v1)|**[link](https://github.com/gaozhongpai/sis-implicit)**|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
@@ -414,6 +423,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**An Energy-Efficient Reconfigurable Autoencoder Implementation on FPGA**|Murat Isik et.al.|[2301.07050v1](http://arxiv.org/abs/2301.07050v1)|null|
 |**2022-12-27**|**Semi-supervised Fashion Compatibility Prediction by Color Distortion Prediction**|Ling Xiao et.al.|[2212.14680v1](http://arxiv.org/abs/2212.14680v1)|null|
 |**2022-12-29**|**OrthoGAN:High-Precision Image Generation for Teeth Orthodontic Visualization**|Feihong Shen et.al.|[2212.14162v1](http://arxiv.org/abs/2212.14162v1)|null|
 |**2022-12-23**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v2](http://arxiv.org/abs/2212.11613v2)|null|
@@ -509,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-16**|**DarkVision: A Benchmark for Low-light Image/Video Perception**|Bo Zhang et.al.|[2301.06269v1](http://arxiv.org/abs/2301.06269v1)|null|
 |**2023-01-13**|**LVRNet: Lightweight Image Restoration for Aerial Images under Low Visibility**|Esha Pahwa et.al.|[2301.05434v1](http://arxiv.org/abs/2301.05434v1)|null|
 |**2022-12-31**|**DIVA: Deep Unfolded Network from Quantum Interactive Patches for Image Restoration**|Sayantan Dutta et.al.|[2301.00247v1](http://arxiv.org/abs/2301.00247v1)|null|
 |**2022-12-22**|**Restoring Vision in Hazy Weather with Hierarchical Contrastive Learning**|Tao Wang et.al.|[2212.11473v1](http://arxiv.org/abs/2212.11473v1)|null|
@@ -574,6 +585,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-17**|**Cross-domain Unsupervised Reconstruction with Equivariance for Photoacoustic Computed Tomography**|Hengrong Lan et.al.|[2301.06681v1](http://arxiv.org/abs/2301.06681v1)|null|
+|**2023-01-14**|**Learning Regularization Parameter-Maps for Variational Image Reconstruction using Deep Neural Networks and Algorithm Unrolling**|Andreas Kofler et.al.|[2301.05888v1](http://arxiv.org/abs/2301.05888v1)|null|
 |**2023-01-12**|**Centroid adapted frequency selective extrapolation for reconstruction of lost image areas**|Wolfgang Schnurrer et.al.|[2301.04840v1](http://arxiv.org/abs/2301.04840v1)|null|
 |**2023-01-11**|**Joint k-TE Space Image Reconstruction and Data Fitting for T2 Mapping**|Yan Dai et.al.|[2301.04682v1](http://arxiv.org/abs/2301.04682v1)|null|
 |**2023-01-09**|**eFIN: Enhanced Fourier Imager Network for generalizable autofocusing and pixel super-resolution in holographic imaging**|Hanlong Chen et.al.|[2301.03162v1](http://arxiv.org/abs/2301.03162v1)|null|
@@ -663,6 +676,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-09**|**A Hyper-weight Network for Hyperspectral Image Denoising**|Xiangyu Rui et.al.|[2301.06081v1](http://arxiv.org/abs/2301.06081v1)|null|
+|**2023-01-14**|**Learning Regularization Parameter-Maps for Variational Image Reconstruction using Deep Neural Networks and Algorithm Unrolling**|Andreas Kofler et.al.|[2301.05888v1](http://arxiv.org/abs/2301.05888v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-09**|**Image Denoising: The Deep Learning Revolution and Beyond -- A Survey Paper --**|Michael Elad et.al.|[2301.03362v1](http://arxiv.org/abs/2301.03362v1)|null|
 |**2023-01-17**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v2](http://arxiv.org/abs/2301.02240v2)|null|
