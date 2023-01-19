@@ -32,7 +32,7 @@
 |**2023-01-16**|**From Exclusion to Slow and Fast Diffusion**|Patricia Gonçalves et.al.|[2301.06585v1](http://arxiv.org/abs/2301.06585v1)|null|
 |**2023-01-16**|**Msanii: High Fidelity Music Synthesis on a Shoestring Budget**|Kinyugo Maina et.al.|[2301.06468v1](http://arxiv.org/abs/2301.06468v1)|**[link](https://github.com/kinyugo/msanii)**|
 |**2023-01-16**|**Limiting fragmentation in heavy-ion stopping?**|Johannes Hoelck et.al.|[2301.06465v1](http://arxiv.org/abs/2301.06465v1)|null|
-|**2023-01-15**|**Modeling Human Cognition with a Hybrid Deep Reinforcement Learning Agent**|Songlin Xu et.al.|[2301.06216v1](http://arxiv.org/abs/2301.06216v1)|null|
+|**2023-01-18**|**Modeling Human Cognition with a Hybrid Deep Reinforcement Learning Agent**|Songlin Xu et.al.|[2301.06216v2](http://arxiv.org/abs/2301.06216v2)|null|
 |**2023-01-13**|**In BLOOM: Creativity and Affinity in Artificial Lyrics and Art**|Evan Crothers et.al.|[2301.05402v1](http://arxiv.org/abs/2301.05402v1)|**[link](https://github.com/ecrows/in-bloom)**|
 |**2023-01-12**|**Guiding Text-to-Image Diffusion Model Towards Grounded Generation**|Ziyi Li et.al.|[2301.05221v1](http://arxiv.org/abs/2301.05221v1)|null|
 |**2023-01-12**|**Thompson Sampling with Diffusion Generative Prior**|Yu-Guan Hsieh et.al.|[2301.05182v1](http://arxiv.org/abs/2301.05182v1)|null|
