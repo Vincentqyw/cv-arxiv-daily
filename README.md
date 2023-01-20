@@ -589,7 +589,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-01-18**|**Targeted Image Reconstruction by Sampling Pre-trained Diffusion Model**|Jiageng Zheng et.al.|[2301.07557v1](http://arxiv.org/abs/2301.07557v1)|null|
-|**2023-01-18**|**A Synthetic Hyperspectral Array Video Database with Applications to Cross-Spectral Reconstruction and Hyperspectral Video Coding**|Frank Sippel et.al.|[2301.07551v1](http://arxiv.org/abs/2301.07551v1)|null|
+|**2023-01-19**|**A Synthetic Hyperspectral Array Video Database with Applications to Cross-Spectral Reconstruction and Hyperspectral Video Coding**|Frank Sippel et.al.|[2301.07551v2](http://arxiv.org/abs/2301.07551v2)|null|
 |**2023-01-18**|**The Dependence of Parallel Imaging with Linear Predictability on the Undersampling Direction**|Alex McManus et.al.|[2301.07256v1](http://arxiv.org/abs/2301.07256v1)|null|
 |**2023-01-17**|**Cross-domain Unsupervised Reconstruction with Equivariance for Photoacoustic Computed Tomography**|Hengrong Lan et.al.|[2301.06681v1](http://arxiv.org/abs/2301.06681v1)|null|
 |**2023-01-14**|**Learning Regularization Parameter-Maps for Variational Image Reconstruction using Deep Neural Networks and Algorithm Unrolling**|Andreas Kofler et.al.|[2301.05888v1](http://arxiv.org/abs/2301.05888v1)|null|
