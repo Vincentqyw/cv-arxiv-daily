@@ -198,7 +198,7 @@
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-11**|**Learning Continuous Mesh Representation with Spherical Implicit Surface**|Zhongpai Gao et.al.|[2301.04695v1](http://arxiv.org/abs/2301.04695v1)|**[link](https://github.com/gaozhongpai/sis-implicit)**|
 |**2023-01-11**|**Deep Residual Axial Networks**|Nazmul Shahadat et.al.|[2301.04631v1](http://arxiv.org/abs/2301.04631v1)|null|
-|**2023-01-11**|**Deep Learning Model with Attention Mechanism for Super-resolution of Wireless Channel Characteristics**|Haoyang Zhang et.al.|[2301.04479v1](http://arxiv.org/abs/2301.04479v1)|null|
+|**2023-01-21**|**Super-resolution of Ray-tracing Channel Simulation via Attention Mechanism based Deep Learning Model**|Haoyang Zhang et.al.|[2301.04479v2](http://arxiv.org/abs/2301.04479v2)|null|
 |**2023-01-10**|**Integrated Sensing and Communication Signals Towards 5G-A and 6G: A Survey**|Zhiqing Wei et.al.|[2301.03857v1](http://arxiv.org/abs/2301.03857v1)|null|
 |**2023-01-09**|**Label-free incoherent super-resolution optical microscopy**|Nikhil Jayakumar et.al.|[2301.03451v1](http://arxiv.org/abs/2301.03451v1)|null|
 |**2023-01-09**|**eFIN: Enhanced Fourier Imager Network for generalizable autofocusing and pixel super-resolution in holographic imaging**|Hanlong Chen et.al.|[2301.03162v1](http://arxiv.org/abs/2301.03162v1)|null|
@@ -437,7 +437,7 @@
 |**2022-12-27**|**Semi-supervised Fashion Compatibility Prediction by Color Distortion Prediction**|Ling Xiao et.al.|[2212.14680v1](http://arxiv.org/abs/2212.14680v1)|null|
 |**2022-12-29**|**OrthoGAN:High-Precision Image Generation for Teeth Orthodontic Visualization**|Feihong Shen et.al.|[2212.14162v1](http://arxiv.org/abs/2212.14162v1)|null|
 |**2022-12-23**|**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**|Xiaoyang Kang et.al.|[2212.11613v2](http://arxiv.org/abs/2212.11613v2)|null|
-|**2022-12-22**|**Generative Colorization of Structured Mobile Web Pages**|Kotaro Kikuchi et.al.|[2212.11541v1](http://arxiv.org/abs/2212.11541v1)|**[link](https://github.com/cyberagentailab/webcolor)**|
+|**2023-01-23**|**Generative Colorization of Structured Mobile Web Pages**|Kotaro Kikuchi et.al.|[2212.11541v2](http://arxiv.org/abs/2212.11541v2)|**[link](https://github.com/cyberagentailab/webcolor)**|
 |**2022-12-15**|**Interpretable ML for Imbalanced Data**|Damien A. Dablain et.al.|[2212.07743v1](http://arxiv.org/abs/2212.07743v1)|**[link](https://github.com/dd1github/xai_for_imbalanced_learning)**|
 |**2022-11-28**|**What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems**|Gilad Kutiel et.al.|[2211.15211v1](http://arxiv.org/abs/2211.15211v1)|null|
 |**2022-11-25**|**ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision**|Jingwang Ling et.al.|[2211.14086v1](http://arxiv.org/abs/2211.14086v1)|null|
