@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-22**|**Improving Autonomous Vehicle Mapping and Navigation in Work Zones Using Crowdsourcing Vehicle Trajectories**|Hanlin Chen et.al.|[2301.09194v1](http://arxiv.org/abs/2301.09194v1)|null|
+|**2023-01-21**|**Dense RGB SLAM with Neural Implicit Maps**|Heng Li et.al.|[2301.08930v1](http://arxiv.org/abs/2301.08930v1)|null|
 |**2023-01-18**|**Extended FastSLAM Using Cellular Multipath Component Delays and Angular Information**|Junshi Chen et.al.|[2301.07560v1](http://arxiv.org/abs/2301.07560v1)|null|
 |**2023-01-17**|**COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM**|Manthan Patel et.al.|[2301.07147v1](http://arxiv.org/abs/2301.07147v1)|null|
 |**2023-01-16**|**Swarm-SLAM : Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems**|Pierre-Yves Lajoie et.al.|[2301.06230v1](http://arxiv.org/abs/2301.06230v1)|**[link](https://github.com/mistlab/swarm-slam)**|
@@ -764,6 +766,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-21**|**Vision Aided Environment Semantics Extraction and Its Application in mmWave Beam Selection**|Feiyang Wen et.al.|[2301.08973v1](http://arxiv.org/abs/2301.08973v1)|null|
 |**2023-01-18**|**OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models**|Xingyi He et.al.|[2301.07673v1](http://arxiv.org/abs/2301.07673v1)|null|
 |**2023-01-12**|**Towards High Performance One-Stage Human Pose Estimation**|Ling Li et.al.|[2301.04842v1](http://arxiv.org/abs/2301.04842v1)|null|
 |**2022-12-31**|**Rethinking Rotation Invariance with Point Cloud Registration**|Jianhui Yu et.al.|[2301.00149v1](http://arxiv.org/abs/2301.00149v1)|null|
@@ -985,6 +988,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
+|**2023-01-22**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v1](http://arxiv.org/abs/2301.09060v1)|null|
 |**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
 |**2023-01-19**|**RecolorNeRF: Layer Decomposed Radiance Field for Efficient Color Editing of 3D Scenes**|Bingchen Gong et.al.|[2301.07958v1](http://arxiv.org/abs/2301.07958v1)|null|
 |**2023-01-18**|**Behind the Scenes: Density Fields for Single View Reconstruction**|Felix Wimbauer et.al.|[2301.07668v1](http://arxiv.org/abs/2301.07668v1)|null|
