@@ -36,7 +36,7 @@
 |**2023-01-24**|**Thermal capillary waves on bounded nanoscale thin films**|Jingbang Liu et.al.|[2301.09798v1](http://arxiv.org/abs/2301.09798v1)|null|
 |**2023-01-22**|**DiffSDS: A language diffusion model for protein backbone inpainting under geometric conditions and constraints**|Zhangyang Gao et.al.|[2301.09642v1](http://arxiv.org/abs/2301.09642v1)|null|
 |**2023-01-23**|**LEGO-Net: Learning Regular Rearrangements of Objects in Rooms**|Qiuhong Anna Wei et.al.|[2301.09629v1](http://arxiv.org/abs/2301.09629v1)|null|
-|**2023-01-23**|**Evaluation of Light Collection from Highly Scattering Media using Wavelength-Shifting Fibers**|Andrew Wilhelm et.al.|[2301.09608v1](http://arxiv.org/abs/2301.09608v1)|null|
+|**2023-01-26**|**Evaluation of Light Collection from Highly Scattering Media using Wavelength-Shifting Fibers**|Andrew Wilhelm et.al.|[2301.09608v2](http://arxiv.org/abs/2301.09608v2)|null|
 |**2023-01-23**|**StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis**|Axel Sauer et.al.|[2301.09515v1](http://arxiv.org/abs/2301.09515v1)|**[link](https://github.com/autonomousvision/stylegan-t)**|
 |**2023-01-23**|**DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion**|Qitian Wu et.al.|[2301.09474v1](http://arxiv.org/abs/2301.09474v1)|null|
 |**2023-01-23**|**RainDiffusion:When Unsupervised Learning Meets Diffusion Models for Real-world Image Deraining**|Mingqiang Wei et.al.|[2301.09430v1](http://arxiv.org/abs/2301.09430v1)|null|
