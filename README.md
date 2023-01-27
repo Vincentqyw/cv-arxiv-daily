@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-25**|**On the Mathematics of Diffusion Models**|David McAllester et.al.|[2301.11108v1](http://arxiv.org/abs/2301.11108v1)|null|
+|**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
+|**2023-01-26**|**Additive Eigenvector Analysis of Diffusion: Wave-function Phase as Optimal Reaction Coordinate**|Sergei V. Krivov et.al.|[2301.11070v1](http://arxiv.org/abs/2301.11070v1)|null|
+|**2023-01-26**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|[2301.10972v1](http://arxiv.org/abs/2301.10972v1)|null|
 |**2023-01-25**|**Separate And Diffuse: Using a Pretrained Diffusion Model for Improving Source Separation**|Shahar Lutati et.al.|[2301.10752v1](http://arxiv.org/abs/2301.10752v1)|null|
 |**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|null|
 |**2023-01-24**|**Score Matching via Differentiable Physics**|Benjamin J. Holzschuh et.al.|[2301.10250v1](http://arxiv.org/abs/2301.10250v1)|null|
@@ -209,6 +213,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**|Tomasz Tarasiewicz et.al.|[2301.11154v1](http://arxiv.org/abs/2301.11154v1)|null|
+|**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
+|**2023-01-26**|**Super-Resolution Analysis via Machine Learning: A Survey for Fluid Flows**|Kai Fukami et.al.|[2301.10937v1](http://arxiv.org/abs/2301.10937v1)|null|
 |**2023-01-25**|**Trainable Loss Weights in Super-Resolution**|Arash Chaichi Mellatshahi et.al.|[2301.10575v1](http://arxiv.org/abs/2301.10575v1)|null|
 |**2023-01-25**|**Role played by port drains in a Maxwell fisheye lens**|Q. Shen et.al.|[2301.10390v1](http://arxiv.org/abs/2301.10390v1)|null|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
@@ -620,6 +627,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**Super-Resolution Analysis via Machine Learning: A Survey for Fluid Flows**|Kai Fukami et.al.|[2301.10937v1](http://arxiv.org/abs/2301.10937v1)|null|
 |**2023-01-25**|**Data Consistent Deep Rigid MRI Motion Correction**|Nalini M. Singh et.al.|[2301.10365v1](http://arxiv.org/abs/2301.10365v1)|**[link](https://github.com/nalinimsingh/neuromoco)**|
 |**2023-01-24**|**A Simple Adaptive Unfolding Network for Hyperspectral Image Reconstruction**|Junyu Wang et.al.|[2301.10208v1](http://arxiv.org/abs/2301.10208v1)|**[link](https://github.com/hustvl/saunet)**|
 |**2023-01-23**|**Correction of high-order phase variation effects in dynamic field monitoring**|Paul I. Dubovan et.al.|[2301.09726v1](http://arxiv.org/abs/2301.09726v1)|null|
@@ -869,6 +877,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-26**|**ITstyler: Image-optimized Text-based Style Transfer**|Yunpeng Bai et.al.|[2301.10916v1](http://arxiv.org/abs/2301.10916v1)|null|
 |**2023-01-25**|**BDMMT: Backdoor Sample Detection for Language Models through Model Mutation Testing**|Jiali Wei et.al.|[2301.10412v1](http://arxiv.org/abs/2301.10412v1)|null|
 |**2023-01-24**|**Audience-Centric Natural Language Generation via Style Infusion**|Samraj Moorjani et.al.|[2301.10283v1](http://arxiv.org/abs/2301.10283v1)|**[link](https://github.com/crowddynamicslab/styleinfusion)**|
 |**2023-01-19**|**Exploiting Style Transfer-based Task Augmentation for Cross-Domain Few-Shot Learning**|Shuzhen Rao et.al.|[2301.07927v1](http://arxiv.org/abs/2301.07927v1)|null|
