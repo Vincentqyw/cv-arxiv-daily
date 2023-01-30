@@ -29,7 +29,7 @@
 |**2023-01-25**|**On the Mathematics of Diffusion Models**|David McAllester et.al.|[2301.11108v1](http://arxiv.org/abs/2301.11108v1)|null|
 |**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
 |**2023-01-26**|**Additive Eigenvector Analysis of Diffusion: Wave-function Phase as Optimal Reaction Coordinate**|Sergei V. Krivov et.al.|[2301.11070v1](http://arxiv.org/abs/2301.11070v1)|null|
-|**2023-01-26**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|[2301.10972v1](http://arxiv.org/abs/2301.10972v1)|null|
+|**2023-01-27**|**On the Importance of Noise Scheduling for Diffusion Models**|Ting Chen et.al.|[2301.10972v2](http://arxiv.org/abs/2301.10972v2)|null|
 |**2023-01-25**|**Separate And Diffuse: Using a Pretrained Diffusion Model for Improving Source Separation**|Shahar Lutati et.al.|[2301.10752v1](http://arxiv.org/abs/2301.10752v1)|null|
 |**2023-01-25**|**Imitating Human Behaviour with Diffusion Models**|Tim Pearce et.al.|[2301.10677v1](http://arxiv.org/abs/2301.10677v1)|null|
 |**2023-01-24**|**Score Matching via Differentiable Physics**|Benjamin J. Holzschuh et.al.|[2301.10250v1](http://arxiv.org/abs/2301.10250v1)|null|
