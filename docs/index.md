@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**HDPV-SLAM: Hybrid Depth-augmented Panoramic Visual SLAM for Mobile Mapping System with Tilted LiDAR and Panoramic Visual Camera**|Mostafa Ahmadi et.al.|[2301.11823v1](http://arxiv.org/abs/2301.11823v1)|null|
 |**2023-01-26**|**Distributed Optimization Methods for Multi-Robot Systems: Part I -- A Tutorial**|Ola Shorinwa et.al.|[2301.11313v1](http://arxiv.org/abs/2301.11313v1)|null|
 |**2023-01-24**|**Generalized Object Search**|Kaiyu Zheng et.al.|[2301.10121v1](http://arxiv.org/abs/2301.10121v1)|null|
 |**2023-01-22**|**Improving Autonomous Vehicle Mapping and Navigation in Work Zones Using Crowdsourcing Vehicle Trajectories**|Hanlin Chen et.al.|[2301.09194v1](http://arxiv.org/abs/2301.09194v1)|null|
@@ -886,6 +887,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee et.al.|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
 |**2023-01-24**|**Feature-based Image Matching for Identifying Individual Kākā**|Fintan O'Sullivan et.al.|[2301.06678v2](http://arxiv.org/abs/2301.06678v2)|null|
 |**2023-01-18**|**Instance Segmentation Based Graph Extraction for Handwritten Circuit Diagram Images**|Johannes Bayer et.al.|[2301.03155v2](http://arxiv.org/abs/2301.03155v2)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong et.al.|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
@@ -991,6 +993,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-27**|**HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**|Adam Kania et.al.|[2301.11631v1](http://arxiv.org/abs/2301.11631v1)|null|
+|**2023-01-27**|**A Comparison of Tiny-nerf versus Spatial Representations for 3d Reconstruction**|Saulo Abraham Gante et.al.|[2301.11522v1](http://arxiv.org/abs/2301.11522v1)|null|
+|**2023-01-27**|**SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning**|Dongseok Shim et.al.|[2301.11520v1](http://arxiv.org/abs/2301.11520v1)|null|
 |**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
 |**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|[2301.10941v1](http://arxiv.org/abs/2301.10941v1)|null|
 |**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
