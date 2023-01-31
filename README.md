@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
+|**2023-01-30**|**Shape-aware Text-driven Layered Video Editing**|Yao-Chih Lee et.al.|[2301.13173v1](http://arxiv.org/abs/2301.13173v1)|null|
+|**2023-01-30**|**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**|Ming Tao et.al.|[2301.12959v1](http://arxiv.org/abs/2301.12959v1)|**[link](https://github.com/tobran/galip)**|
+|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v1](http://arxiv.org/abs/2301.12935v1)|null|
+|**2023-01-30**|**PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks**|Arian Bakhtiarnia et.al.|[2301.12914v1](http://arxiv.org/abs/2301.12914v1)|null|
+|**2023-01-30**|**GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Inverse Problems with Denoising Diffusion Restoration**|Naoki Murata et.al.|[2301.12686v1](http://arxiv.org/abs/2301.12686v1)|null|
+|**2023-01-30**|**Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**|Rongjie Huang et.al.|[2301.12661v1](http://arxiv.org/abs/2301.12661v1)|null|
+|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|**[link](https://github.com/haoheliu/audioldm_eval)**|
+|**2023-01-29**|**G-fractional diffusion on bounded domains in  $\mathbb{R}^d$ **|L. Angelani et.al.|[2301.12501v1](http://arxiv.org/abs/2301.12501v1)|null|
+|**2023-01-29**|**Don't Play Favorites: Minority Guidance for Diffusion Models**|Soobin Um et.al.|[2301.12334v1](http://arxiv.org/abs/2301.12334v1)|null|
+|**2023-01-28**|**SEGA: Instructing Diffusion using Semantic Dimensions**|Manuel Brack et.al.|[2301.12247v1](http://arxiv.org/abs/2301.12247v1)|null|
+|**2023-01-28**|**Physics-Inspired Protein Encoder Pre-Training via Siamese Sequence-Structure Diffusion Trajectory Prediction**|Zuobai Zhang et.al.|[2301.12068v1](http://arxiv.org/abs/2301.12068v1)|null|
+|**2023-01-27**|**Minimizing Trajectory Curvature of ODE-based Generative Models**|Sangyun Lee et.al.|[2301.12003v1](http://arxiv.org/abs/2301.12003v1)|**[link](https://github.com/sangyun884/fast-ode)**|
 |**2023-01-27**|**Gas Diffusion in Cement Pastes: An Analysis using a Fluctuating Diffusivity Model**|Fumiaki Nakai et.al.|[2301.11834v1](http://arxiv.org/abs/2301.11834v1)|null|
 |**2023-01-19**|**MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer**|Junde Wu et.al.|[2301.11798v1](http://arxiv.org/abs/2301.11798v1)|**[link](https://github.com/wujunde/medsegdiff)**|
 |**2023-01-30**|**Moûsai: Text-to-Music Generation with Long-Context Latent Diffusion**|Flavio Schneider et.al.|[2301.11757v2](http://arxiv.org/abs/2301.11757v2)|**[link](https://github.com/archinetai/audio-diffusion-pytorch)**|
@@ -576,6 +589,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-29**|**Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on Image Restoration**|Peng Qiao et.al.|[2301.12332v1](http://arxiv.org/abs/2301.12332v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-26**|**Improving Cross-modal Alignment for Text-Guided Image Inpainting**|Yucheng Zhou et.al.|[2301.11362v1](http://arxiv.org/abs/2301.11362v1)|null|
 |**2023-01-22**|**Face Generation from Textual Features using Conditionally Trained Inputs to Generative Adversarial Networks**|Sandeep Shinde et.al.|[2301.09123v1](http://arxiv.org/abs/2301.09123v1)|null|
@@ -645,6 +659,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-27**|**On the Feasibility of Machine Learning Augmented Magnetic Resonance for Point-of-Care Identification of Disease**|Raghav Singhal et.al.|[2301.11962v1](http://arxiv.org/abs/2301.11962v1)|null|
 |**2023-01-04**|**Biomedical Image Reconstruction: A Survey**|Samuel Cahyawijaya et.al.|[2301.11813v1](http://arxiv.org/abs/2301.11813v1)|null|
 |**2023-01-26**|**Super-Resolution Analysis via Machine Learning: A Survey for Fluid Flows**|Kai Fukami et.al.|[2301.10937v1](http://arxiv.org/abs/2301.10937v1)|null|
 |**2023-01-25**|**Data Consistent Deep Rigid MRI Motion Correction**|Nalini M. Singh et.al.|[2301.10365v1](http://arxiv.org/abs/2301.10365v1)|**[link](https://github.com/nalinimsingh/neuromoco)**|
@@ -828,7 +843,7 @@
 |**2023-01-25**|**Efficient Flow-Guided Multi-frame De-fencing**|Stavros Tsogkas et.al.|[2301.10759v1](http://arxiv.org/abs/2301.10759v1)|null|
 |**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|null|
 |**2023-01-20**|**DIFAI: Diverse Facial Inpainting using StyleGAN Inversion**|Dongsik Yoon et.al.|[2301.08443v1](http://arxiv.org/abs/2301.08443v1)|null|
-|**2023-01-19**|**Reference Guided Image Inpainting using Facial Attributes**|Dongsik Yoon et.al.|[2301.08044v1](http://arxiv.org/abs/2301.08044v1)|null|
+|**2023-01-19**|**Reference Guided Image Inpainting using Facial Attributes**|Dongsik Yoon et.al.|[2301.08044v1](http://arxiv.org/abs/2301.08044v1)|**[link](https://github.com/Stillrot/RGINP)**|
 |**2023-01-13**|**Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization**|Chao-Chen Gao et.al.|[2301.05624v1](http://arxiv.org/abs/2301.05624v1)|null|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-10**|**Adapting to Skew: Imputing Spatiotemporal Urban Data with 3D Partial Convolutions and Biased Masking**|Bin Han et.al.|[2301.04233v1](http://arxiv.org/abs/2301.04233v1)|null|
@@ -898,6 +913,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|**[link](https://github.com/haoheliu/audioldm_eval)**|
+|**2023-01-27**|**Prompt-Based Editing for Text Style Transfer**|Guoqing Luo et.al.|[2301.11997v1](http://arxiv.org/abs/2301.11997v1)|null|
 |**2023-01-26**|**ITstyler: Image-optimized Text-based Style Transfer**|Yunpeng Bai et.al.|[2301.10916v1](http://arxiv.org/abs/2301.10916v1)|null|
 |**2023-01-25**|**BDMMT: Backdoor Sample Detection for Language Models through Model Mutation Testing**|Jiali Wei et.al.|[2301.10412v1](http://arxiv.org/abs/2301.10412v1)|null|
 |**2023-01-24**|**Audience-Centric Natural Language Generation via Style Infusion**|Samraj Moorjani et.al.|[2301.10283v1](http://arxiv.org/abs/2301.10283v1)|**[link](https://github.com/crowddynamicslab/styleinfusion)**|
