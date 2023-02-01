@@ -29,8 +29,8 @@
 |**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
 |**2023-01-30**|**Shape-aware Text-driven Layered Video Editing**|Yao-Chih Lee et.al.|[2301.13173v1](http://arxiv.org/abs/2301.13173v1)|null|
 |**2023-01-30**|**GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis**|Ming Tao et.al.|[2301.12959v1](http://arxiv.org/abs/2301.12959v1)|**[link](https://github.com/tobran/galip)**|
-|**2023-01-30**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v1](http://arxiv.org/abs/2301.12935v1)|null|
-|**2023-01-30**|**PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks**|Arian Bakhtiarnia et.al.|[2301.12914v1](http://arxiv.org/abs/2301.12914v1)|null|
+|**2023-01-31**|**ERA-Solver: Error-Robust Adams Solver for Fast Sampling of Diffusion Probabilistic Models**|Shengmeng Li et.al.|[2301.12935v2](http://arxiv.org/abs/2301.12935v2)|null|
+|**2023-01-31**|**PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks**|Arian Bakhtiarnia et.al.|[2301.12914v2](http://arxiv.org/abs/2301.12914v2)|null|
 |**2023-01-30**|**GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Inverse Problems with Denoising Diffusion Restoration**|Naoki Murata et.al.|[2301.12686v1](http://arxiv.org/abs/2301.12686v1)|null|
 |**2023-01-30**|**Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models**|Rongjie Huang et.al.|[2301.12661v1](http://arxiv.org/abs/2301.12661v1)|null|
 |**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|**[link](https://github.com/haoheliu/audioldm_eval)**|
