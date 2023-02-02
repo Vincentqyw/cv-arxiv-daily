@@ -54,7 +54,7 @@
 |**2023-01-30**|**Threshold dynamics of a nonlocal dispersal SIS epidemic model with free boundaries**|Yachun Tong et.al.|[2301.11567v2](http://arxiv.org/abs/2301.11567v2)|null|
 |**2023-01-27**|**Accelerating Guided Diffusion Sampling with Splitting Numerical Methods**|Suttisak Wizadwongsa et.al.|[2301.11558v1](http://arxiv.org/abs/2301.11558v1)|**[link](https://github.com/swizad/split-diffusion)**|
 |**2023-01-27**|**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion**|Chin-Yi Cheng et.al.|[2301.11529v1](http://arxiv.org/abs/2301.11529v1)|null|
-|**2023-01-26**|**3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models**|Biao Zhang et.al.|[2301.11445v1](http://arxiv.org/abs/2301.11445v1)|null|
+|**2023-02-01**|**3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models**|Biao Zhang et.al.|[2301.11445v2](http://arxiv.org/abs/2301.11445v2)|null|
 |**2023-01-25**|**On the Mathematics of Diffusion Models**|David McAllester et.al.|[2301.11108v1](http://arxiv.org/abs/2301.11108v1)|null|
 |**2023-01-26**|**simple diffusion: End-to-end diffusion for high resolution images**|Emiel Hoogeboom et.al.|[2301.11093v1](http://arxiv.org/abs/2301.11093v1)|null|
 |**2023-01-26**|**Additive Eigenvector Analysis of Diffusion: Wave-function Phase as Optimal Reaction Coordinate**|Sergei V. Krivov et.al.|[2301.11070v1](http://arxiv.org/abs/2301.11070v1)|null|
