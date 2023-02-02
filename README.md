@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**Stable Target Field for Reduced Variance Score Estimation in Diffusion Models**|Yilun Xu et.al.|[2302.00670v1](http://arxiv.org/abs/2302.00670v1)|**[link](https://github.com/newbeeer/stf)**|
+|**2023-02-01**|**Two for One: Diffusion Models and Force Fields for Coarse-Grained Molecular Dynamics**|Marloes Arts et.al.|[2302.00600v1](http://arxiv.org/abs/2302.00600v1)|null|
+|**2023-02-01**|**Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport**|Alexander Tong et.al.|[2302.00482v1](http://arxiv.org/abs/2302.00482v1)|null|
+|**2023-02-01**|**Diffusion Models for High-Resolution Solar Forecasts**|Yusuke Hatanaka et.al.|[2302.00170v1](http://arxiv.org/abs/2302.00170v1)|null|
 |**2023-01-31**|**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models**|Hila Chefer et.al.|[2301.13826v1](http://arxiv.org/abs/2301.13826v1)|**[link](https://github.com/AttendAndExcite/Attend-and-Excite)**|
 |**2023-01-31**|**DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models**|Haomin Wen et.al.|[2301.13629v1](http://arxiv.org/abs/2301.13629v1)|null|
 |**2023-01-31**|**Learning Data Representations with Joint Diffusion Models**|Kamil Deja et.al.|[2301.13622v1](http://arxiv.org/abs/2301.13622v1)|null|
@@ -670,6 +674,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**The geometry of hidden representations of large transformer models**|Lucrezia Valeriani et.al.|[2302.00294v1](http://arxiv.org/abs/2302.00294v1)|null|
 |**2023-01-31**|**Calculating Point Spread Functions: Methods, Pitfalls and Solutions**|Ratsimandresy Holinirina Dina Miora et.al.|[2301.13515v1](http://arxiv.org/abs/2301.13515v1)|null|
 |**2023-01-27**|**On the Feasibility of Machine Learning Augmented Magnetic Resonance for Point-of-Care Identification of Disease**|Raghav Singhal et.al.|[2301.11962v1](http://arxiv.org/abs/2301.11962v1)|null|
 |**2023-01-04**|**Biomedical Image Reconstruction: A Survey**|Samuel Cahyawijaya et.al.|[2301.11813v1](http://arxiv.org/abs/2301.11813v1)|null|
@@ -927,6 +932,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-01**|**Efficient Scopeformer: Towards Scalable and Rich Feature Extraction for Intracranial Hemorrhage Detection**|Yassine Barhoumi et.al.|[2302.00220v1](http://arxiv.org/abs/2302.00220v1)|null|
 |**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|**[link](https://github.com/haoheliu/audioldm_eval)**|
 |**2023-01-27**|**Prompt-Based Editing for Text Style Transfer**|Guoqing Luo et.al.|[2301.11997v1](http://arxiv.org/abs/2301.11997v1)|null|
 |**2023-01-26**|**ITstyler: Image-optimized Text-based Style Transfer**|Yunpeng Bai et.al.|[2301.10916v1](http://arxiv.org/abs/2301.10916v1)|null|
