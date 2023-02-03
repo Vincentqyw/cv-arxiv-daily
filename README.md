@@ -34,7 +34,7 @@
 |**2023-01-31**|**DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models**|Haomin Wen et.al.|[2301.13629v1](http://arxiv.org/abs/2301.13629v1)|null|
 |**2023-01-31**|**Learning Data Representations with Joint Diffusion Models**|Kamil Deja et.al.|[2301.13622v1](http://arxiv.org/abs/2301.13622v1)|null|
 |**2023-01-31**|**Zero3D: Semantic-Driven Multi-Category 3D Shape Generation**|Bo Han et.al.|[2301.13591v1](http://arxiv.org/abs/2301.13591v1)|null|
-|**2023-01-31**|**Optimizing DDPM Sampling with Shortcut Fine-Tuning**|Ying Fan et.al.|[2301.13362v1](http://arxiv.org/abs/2301.13362v1)|null|
+|**2023-02-01**|**Optimizing DDPM Sampling with Shortcut Fine-Tuning**|Ying Fan et.al.|[2301.13362v2](http://arxiv.org/abs/2301.13362v2)|null|
 |**2023-01-30**|**ArchiSound: Audio Generation with Diffusion**|Flavio Schneider et.al.|[2301.13267v1](http://arxiv.org/abs/2301.13267v1)|**[link](https://github.com/archinetai/audio-diffusion-pytorch)**|
 |**2023-01-30**|**Extracting Training Data from Diffusion Models**|Nicholas Carlini et.al.|[2301.13188v1](http://arxiv.org/abs/2301.13188v1)|null|
 |**2023-01-30**|**Shape-aware Text-driven Layered Video Editing**|Yao-Chih Lee et.al.|[2301.13173v1](http://arxiv.org/abs/2301.13173v1)|null|
@@ -68,7 +68,7 @@
 |**2023-01-24**|**Score Matching via Differentiable Physics**|Benjamin J. Holzschuh et.al.|[2301.10250v1](http://arxiv.org/abs/2301.10250v1)|null|
 |**2023-01-29**|**MTTN: Multi-Pair Text to Text Narratives for Prompt Generation**|Archan Ghosh et.al.|[2301.10172v2](http://arxiv.org/abs/2301.10172v2)|**[link](https://github.com/mttn2023/mttn)**|
 |**2023-01-24**|**Bipartite Graph Diffusion Model for Human Interaction Generation**|Baptiste Chopin et.al.|[2301.10134v1](http://arxiv.org/abs/2301.10134v1)|null|
-|**2023-01-24**|**DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model**|Fan Zhang et.al.|[2301.10047v1](http://arxiv.org/abs/2301.10047v1)|**[link](https://github.com/zf223669/DiffMotion.github.io)**|
+|**2023-02-02**|**DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model**|Fan Zhang et.al.|[2301.10047v2](http://arxiv.org/abs/2301.10047v2)|**[link](https://github.com/zf223669/DiffMotion.github.io)**|
 |**2023-01-24**|**Membership Inference of Diffusion Models**|Hailong Hu et.al.|[2301.09956v1](http://arxiv.org/abs/2301.09956v1)|null|
 |**2023-01-24**|**Thermal capillary waves on bounded nanoscale thin films**|Jingbang Liu et.al.|[2301.09798v1](http://arxiv.org/abs/2301.09798v1)|null|
 |**2023-01-22**|**DiffSDS: A language diffusion model for protein backbone inpainting under geometric conditions and constraints**|Zhangyang Gao et.al.|[2301.09642v1](http://arxiv.org/abs/2301.09642v1)|null|
@@ -676,7 +676,7 @@
 |---|---|---|---|---|
 |**2023-02-01**|**The geometry of hidden representations of large transformer models**|Lucrezia Valeriani et.al.|[2302.00294v1](http://arxiv.org/abs/2302.00294v1)|null|
 |**2023-01-31**|**Calculating Point Spread Functions: Methods, Pitfalls and Solutions**|Ratsimandresy Holinirina Dina Miora et.al.|[2301.13515v1](http://arxiv.org/abs/2301.13515v1)|null|
-|**2023-01-27**|**On the Feasibility of Machine Learning Augmented Magnetic Resonance for Point-of-Care Identification of Disease**|Raghav Singhal et.al.|[2301.11962v1](http://arxiv.org/abs/2301.11962v1)|null|
+|**2023-02-02**|**On the Feasibility of Machine Learning Augmented Magnetic Resonance for Point-of-Care Identification of Disease**|Raghav Singhal et.al.|[2301.11962v2](http://arxiv.org/abs/2301.11962v2)|null|
 |**2023-01-04**|**Biomedical Image Reconstruction: A Survey**|Samuel Cahyawijaya et.al.|[2301.11813v1](http://arxiv.org/abs/2301.11813v1)|null|
 |**2023-01-26**|**Super-Resolution Analysis via Machine Learning: A Survey for Fluid Flows**|Kai Fukami et.al.|[2301.10937v1](http://arxiv.org/abs/2301.10937v1)|null|
 |**2023-01-25**|**Data Consistent Deep Rigid MRI Motion Correction**|Nalini M. Singh et.al.|[2301.10365v1](http://arxiv.org/abs/2301.10365v1)|**[link](https://github.com/nalinimsingh/neuromoco)**|
