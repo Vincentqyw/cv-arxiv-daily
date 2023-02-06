@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners**|Zhixuan Liang et.al.|[2302.01877v1](http://arxiv.org/abs/2302.01877v1)|null|
+|**2023-02-03**|**TEXTure: Text-Guided Texturing of 3D Shapes**|Elad Richardson et.al.|[2302.01721v1](http://arxiv.org/abs/2302.01721v1)|**[link](https://github.com/TEXTurePaper/TEXTurePaper)**|
+|**2023-02-03**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2302.01714v1](http://arxiv.org/abs/2302.01714v1)|null|
+|**2023-02-03**|**A Lipschitz Bandits Approach for Continuous Hyperparameter Optimization**|Yasong Feng et.al.|[2302.01539v1](http://arxiv.org/abs/2302.01539v1)|null|
+|**2023-01-26**|**Understanding and contextualising diffusion models**|Stefano Scotta et.al.|[2302.01394v1](http://arxiv.org/abs/2302.01394v1)|null|
 |**2023-02-02**|**Dreamix: Video Diffusion Models are General Video Editors**|Eyal Molad et.al.|[2302.01329v1](http://arxiv.org/abs/2302.01329v1)|null|
 |**2023-02-02**|**Are Diffusion Models Vulnerable to Membership Inference Attacks?**|Jinhao Duan et.al.|[2302.01316v1](http://arxiv.org/abs/2302.01316v1)|null|
 |**2023-02-02**|**Interventional and Counterfactual Inference with Diffusion Models**|Patrick Chao et.al.|[2302.00860v1](http://arxiv.org/abs/2302.00860v1)|null|
@@ -249,6 +254,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
+|**2023-02-02**|**Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition**|Franziska Schirrmacher et.al.|[2302.01427v1](http://arxiv.org/abs/2302.01427v1)|null|
+|**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
 |**2023-02-02**|**An Operator Theory for Analyzing the Resolution of Multi-illumination Imaging Modalities**|Ping Liu et.al.|[2302.01033v1](http://arxiv.org/abs/2302.01033v1)|null|
 |**2023-01-31**|**Millimetre-wave Radar for Low-Cost 3D Imaging: A Performance Study**|Han Cui et.al.|[2301.13553v1](http://arxiv.org/abs/2301.13553v1)|null|
 |**2023-01-31**|**Recurrent Structure Attention Guidance for Depth Super-Resolution**|Jiayi Yuan et.al.|[2301.13419v1](http://arxiv.org/abs/2301.13419v1)|null|
@@ -374,6 +382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
 |**2023-01-20**|**CSwin2SR: Circular Swin2SR for Compressed Image Super-Resolution**|Honggui Li et.al.|[2301.08749v1](http://arxiv.org/abs/2301.08749v1)|null|
@@ -606,6 +615,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
 |**2023-01-31**|**A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser**|Samuel Hurault et.al.|[2301.13731v1](http://arxiv.org/abs/2301.13731v1)|null|
 |**2023-01-31**|**Hierarchical Disentangled Representation for Invertible Image Denoising and Beyond**|Wenchao Du et.al.|[2301.13358v1](http://arxiv.org/abs/2301.13358v1)|null|
 |**2023-01-29**|**Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on Image Restoration**|Peng Qiao et.al.|[2301.12332v1](http://arxiv.org/abs/2301.12332v1)|null|
@@ -678,6 +688,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Transcending shift-invariance in the paraxial regime via end-to-end inverse design of freeform nanophotonics**|William F. Li et.al.|[2302.01712v1](http://arxiv.org/abs/2302.01712v1)|null|
+|**2023-02-03**|**Improving the Timing Resolution of Positron Emission Tomography Detectors using Boosted Learning -- A Residual Physics Approach**|Stephan Naunheim et.al.|[2302.01681v1](http://arxiv.org/abs/2302.01681v1)|null|
 |**2023-02-01**|**The geometry of hidden representations of large transformer models**|Lucrezia Valeriani et.al.|[2302.00294v1](http://arxiv.org/abs/2302.00294v1)|null|
 |**2023-01-31**|**Calculating Point Spread Functions: Methods, Pitfalls and Solutions**|Ratsimandresy Holinirina Dina Miora et.al.|[2301.13515v1](http://arxiv.org/abs/2301.13515v1)|null|
 |**2023-02-02**|**On the Feasibility of Machine Learning Augmented Magnetic Resonance for Point-of-Care Identification of Disease**|Raghav Singhal et.al.|[2301.11962v2](http://arxiv.org/abs/2301.11962v2)|null|
