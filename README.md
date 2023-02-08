@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
+|**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
+|**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
+|**2023-02-07**|**Graph Generation with Destination-Driven Diffusion Mixture**|Jaehyeong Jo et.al.|[2302.03596v1](http://arxiv.org/abs/2302.03596v1)|null|
+|**2023-02-07**|**A Nonlocal diffusion model with  $H^1$  convergence for Dirichlet Boundary**|Tangjun Wang et.al.|[2302.03441v1](http://arxiv.org/abs/2302.03441v1)|null|
+|**2023-02-07**|**Boosting Zero-shot Classification with Synthetic Data Diversity via Stable Diffusion**|Jordan Shipard et.al.|[2302.03298v1](http://arxiv.org/abs/2302.03298v1)|null|
+|**2023-02-07**|**Membership Inference Attacks against Diffusion Models**|Tomoya Matsumoto et.al.|[2302.03262v1](http://arxiv.org/abs/2302.03262v1)|null|
 |**2023-02-06**|**Zero-shot Image-to-Image Translation**|Gaurav Parmar et.al.|[2302.03027v1](http://arxiv.org/abs/2302.03027v1)|null|
 |**2023-02-06**|**DDM $^2$ : Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models**|Tiange Xiang et.al.|[2302.03018v1](http://arxiv.org/abs/2302.03018v1)|null|
 |**2023-02-06**|**Structure and Content-Guided Video Synthesis with Diffusion Models**|Patrick Esser et.al.|[2302.03011v1](http://arxiv.org/abs/2302.03011v1)|null|
@@ -269,6 +276,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
+|**2023-02-07**|**High-Resolution GAN Inversion for Degraded Images in Large Diverse Datasets**|Yanbo Wang et.al.|[2302.03406v1](http://arxiv.org/abs/2302.03406v1)|**[link](https://github.com/booooooooooo/cri)**|
 |**2023-02-06**|**An Unsupervised Framework for Joint MRI Super Resolution and Gibbs Artifact Removal**|Yikang Liu et.al.|[2302.02849v1](http://arxiv.org/abs/2302.02849v1)|null|
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-02-02**|**Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition**|Franziska Schirrmacher et.al.|[2302.01427v1](http://arxiv.org/abs/2302.01427v1)|null|
@@ -398,6 +407,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
 |**2023-01-30**|**Image Restoration with Mean-Reverting Stochastic Differential Equations**|Ziwei Luo et.al.|[2301.11699v2](http://arxiv.org/abs/2301.11699v2)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-01-24**|**Image Super-Resolution using Efficient Striped Window Transformer**|Jinpeng Shi et.al.|[2301.09869v1](http://arxiv.org/abs/2301.09869v1)|**[link](https://github.com/fried-rice-lab/friedricelab)**|
@@ -704,6 +714,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**Improving CT Image Segmentation Accuracy Using StyleGAN Driven Data Augmentation**|Soham Bhosale et.al.|[2302.03285v1](http://arxiv.org/abs/2302.03285v1)|null|
+|**2023-02-06**|**Investigating Pulse-Echo Sound Speed Estimation in Breast Ultrasound with Deep Learning**|Walter A. Simson et.al.|[2302.03064v1](http://arxiv.org/abs/2302.03064v1)|null|
 |**2023-02-07**|**OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing**|Wenhui Zhu et.al.|[2302.03003v2](http://arxiv.org/abs/2302.03003v2)|null|
 |**2023-02-06**|**TOF MLEM Adaptation for the Total-Body J-PET with a Realistic Analytical System Response Matrix**|R. Y. Shopa et.al.|[2302.02967v1](http://arxiv.org/abs/2302.02967v1)|null|
 |**2023-02-06**|**Moving Least Squares Approximation using Variably Scaled Discontinuous Weight Function**|Mohammad Karimnejad Esfahani et.al.|[2302.02707v1](http://arxiv.org/abs/2302.02707v1)|null|
@@ -973,6 +985,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-07**|**Improving CT Image Segmentation Accuracy Using StyleGAN Driven Data Augmentation**|Soham Bhosale et.al.|[2302.03285v1](http://arxiv.org/abs/2302.03285v1)|null|
 |**2023-02-01**|**Efficient Scopeformer: Towards Scalable and Rich Feature Extraction for Intracranial Hemorrhage Detection**|Yassine Barhoumi et.al.|[2302.00220v1](http://arxiv.org/abs/2302.00220v1)|null|
 |**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|**[link](https://github.com/haoheliu/audioldm_eval)**|
 |**2023-01-27**|**Prompt-Based Editing for Text Style Transfer**|Guoqing Luo et.al.|[2301.11997v1](http://arxiv.org/abs/2301.11997v1)|null|
