@@ -485,6 +485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-06**|**Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval**|Kuniaki Saito et.al.|[2302.03084v1](http://arxiv.org/abs/2302.03084v1)|null|
 |**2023-02-06**|**Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs**|Michael Kirchhof et.al.|[2302.02865v1](http://arxiv.org/abs/2302.02865v1)|**[link](https://github.com/mkirchhof/probabilistic_contrastive_learning)**|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-02-04**|**Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**|Frederik Warburg et.al.|[2302.01332v2](http://arxiv.org/abs/2302.01332v2)|**[link](https://github.com/frederikwarburg/bayesian-metric-learning)**|
@@ -1005,7 +1006,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-04**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v1](http://arxiv.org/abs/2302.02088v1)|null|
+|**2023-02-07**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
 |**2023-02-03**|**Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field**|Tianxiang Ma et.al.|[2302.01579v1](http://arxiv.org/abs/2302.01579v1)|null|
 |**2023-02-03**|**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**|Hwan Heo et.al.|[2302.01571v1](http://arxiv.org/abs/2302.01571v1)|null|
 |**2023-02-03**|**INV: Towards Streaming Incremental Neural Videos**|Shengze Wang et.al.|[2302.01532v1](http://arxiv.org/abs/2302.01532v1)|null|
