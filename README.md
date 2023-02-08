@@ -33,7 +33,7 @@
 |**2023-02-06**|**Generative Diffusion Models on Graphs: Methods and Applications**|Wenqi Fan et.al.|[2302.02591v1](http://arxiv.org/abs/2302.02591v1)|null|
 |**2023-02-05**|**Mixture of Diffusers for scene composition and high resolution image generation**|Álvaro Barbero Jiménez et.al.|[2302.02412v1](http://arxiv.org/abs/2302.02412v1)|null|
 |**2023-02-05**|**Diffusion Model for Generative Image Denoising**|Yutong Xie et.al.|[2302.02398v1](http://arxiv.org/abs/2302.02398v1)|null|
-|**2023-02-05**|**Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion**|Zuopeng Yang et.al.|[2302.02394v1](http://arxiv.org/abs/2302.02394v1)|null|
+|**2023-02-07**|**Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle Diffusion**|Zuopeng Yang et.al.|[2302.02394v2](http://arxiv.org/abs/2302.02394v2)|null|
 |**2023-02-05**|**ShiftDDPMs: Exploring Conditional Diffusion Models by Shifting Diffusion Trajectories**|Zijian Zhang et.al.|[2302.02373v1](http://arxiv.org/abs/2302.02373v1)|null|
 |**2023-02-05**|**ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval**|Kexun Zhang et.al.|[2302.02285v1](http://arxiv.org/abs/2302.02285v1)|null|
 |**2023-02-05**|**Design Booster: A Text-Guided Diffusion Model for Image Translation with Spatial Layout Preservation**|Shiqi Sun et.al.|[2302.02284v1](http://arxiv.org/abs/2302.02284v1)|null|
@@ -704,7 +704,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-06**|**OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing**|Wenhui Zhu et.al.|[2302.03003v1](http://arxiv.org/abs/2302.03003v1)|null|
+|**2023-02-07**|**OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing**|Wenhui Zhu et.al.|[2302.03003v2](http://arxiv.org/abs/2302.03003v2)|null|
 |**2023-02-06**|**TOF MLEM Adaptation for the Total-Body J-PET with a Realistic Analytical System Response Matrix**|R. Y. Shopa et.al.|[2302.02967v1](http://arxiv.org/abs/2302.02967v1)|null|
 |**2023-02-06**|**Moving Least Squares Approximation using Variably Scaled Discontinuous Weight Function**|Mohammad Karimnejad Esfahani et.al.|[2302.02707v1](http://arxiv.org/abs/2302.02707v1)|null|
 |**2023-02-06**|**Accelerated Dynamic Magnetic Resonance Imaging from Spatial-Subspace Reconstructions (SPARS)**|Alexander J. Mertens et.al.|[2302.02564v1](http://arxiv.org/abs/2302.02564v1)|null|
@@ -723,7 +723,7 @@
 |**2023-01-23**|**DELTA-MRI: Direct deformation Estimation from LongiTudinally Acquired k-space data**|Jens Renders et.al.|[2301.09455v1](http://arxiv.org/abs/2301.09455v1)|null|
 |**2023-01-23**|**A Tale of Two Latent Flows: Learning Latent Space Normalizing Flow with Short-run Langevin Flow for Approximate Inference**|Jianwen Xie et.al.|[2301.09300v1](http://arxiv.org/abs/2301.09300v1)|null|
 |**2023-01-20**|**A Deep Learning Approach for SAR Tomographic Imaging of Forested Areas**|Zoé Berenger et.al.|[2301.08605v1](http://arxiv.org/abs/2301.08605v1)|null|
-|**2023-01-20**|**FG-Depth: Flow-Guided Unsupervised Monocular Depth Estimation**|Junyu Zhu et.al.|[2301.08414v1](http://arxiv.org/abs/2301.08414v1)|null|
+|**2023-02-07**|**FG-Depth: Flow-Guided Unsupervised Monocular Depth Estimation**|Junyu Zhu et.al.|[2301.08414v2](http://arxiv.org/abs/2301.08414v2)|null|
 |**2023-01-19**|**Position Regression for Unsupervised Anomaly Detection**|Florentin Bieder et.al.|[2301.08064v1](http://arxiv.org/abs/2301.08064v1)|null|
 |**2023-01-19**|**Quantitative phase imaging (QPI) through random diffusers using a diffractive optical network**|Yuhang Li et.al.|[2301.07908v1](http://arxiv.org/abs/2301.07908v1)|null|
 |**2023-01-18**|**A forward model incorporating elevation-focused transducer properties for 3D full-waveform inversion in ultrasound computed tomography**|Fu Li et.al.|[2301.07787v1](http://arxiv.org/abs/2301.07787v1)|null|
