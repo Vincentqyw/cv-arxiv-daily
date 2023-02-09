@@ -31,7 +31,7 @@
 |**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
 |**2023-02-07**|**Graph Generation with Destination-Driven Diffusion Mixture**|Jaehyeong Jo et.al.|[2302.03596v1](http://arxiv.org/abs/2302.03596v1)|null|
 |**2023-02-07**|**A Nonlocal diffusion model with  $H^1$  convergence for Dirichlet Boundary**|Tangjun Wang et.al.|[2302.03441v1](http://arxiv.org/abs/2302.03441v1)|null|
-|**2023-02-07**|**Boosting Zero-shot Classification with Synthetic Data Diversity via Stable Diffusion**|Jordan Shipard et.al.|[2302.03298v1](http://arxiv.org/abs/2302.03298v1)|null|
+|**2023-02-08**|**Boosting Zero-shot Classification with Synthetic Data Diversity via Stable Diffusion**|Jordan Shipard et.al.|[2302.03298v2](http://arxiv.org/abs/2302.03298v2)|null|
 |**2023-02-07**|**Membership Inference Attacks against Diffusion Models**|Tomoya Matsumoto et.al.|[2302.03262v1](http://arxiv.org/abs/2302.03262v1)|null|
 |**2023-02-06**|**Zero-shot Image-to-Image Translation**|Gaurav Parmar et.al.|[2302.03027v1](http://arxiv.org/abs/2302.03027v1)|null|
 |**2023-02-06**|**DDM $^2$ : Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models**|Tiange Xiang et.al.|[2302.03018v1](http://arxiv.org/abs/2302.03018v1)|**[link](https://github.com/stanfordmimi/ddm2)**|
@@ -46,7 +46,7 @@
 |**2023-02-05**|**Design Booster: A Text-Guided Diffusion Model for Image Translation with Spatial Layout Preservation**|Shiqi Sun et.al.|[2302.02284v1](http://arxiv.org/abs/2302.02284v1)|null|
 |**2023-02-05**|**SE(3) diffusion model with application to protein backbone generation**|Jason Yim et.al.|[2302.02277v1](http://arxiv.org/abs/2302.02277v1)|null|
 |**2023-02-05**|**Divide and Compose with Score Based Generative Models**|Sandesh Ghimire et.al.|[2302.02272v1](http://arxiv.org/abs/2302.02272v1)|null|
-|**2023-02-04**|**Multi-Source Diffusion Models for Simultaneous Music Generation and Separation**|Giorgio Mariani et.al.|[2302.02257v1](http://arxiv.org/abs/2302.02257v1)|null|
+|**2023-02-07**|**Multi-Source Diffusion Models for Simultaneous Music Generation and Separation**|Giorgio Mariani et.al.|[2302.02257v2](http://arxiv.org/abs/2302.02257v2)|null|
 |**2023-02-04**|**Semantic-Guided Image Augmentation with Pre-trained Models**|Bohan Li et.al.|[2302.02070v1](http://arxiv.org/abs/2302.02070v1)|null|
 |**2023-02-03**|**AdaptDiffuser: Diffusion Models as Adaptive Self-evolving Planners**|Zhixuan Liang et.al.|[2302.01877v1](http://arxiv.org/abs/2302.01877v1)|null|
 |**2023-02-03**|**TEXTure: Text-Guided Texturing of 3D Shapes**|Elad Richardson et.al.|[2302.01721v1](http://arxiv.org/abs/2302.01721v1)|**[link](https://github.com/TEXTurePaper/TEXTurePaper)**|
@@ -880,7 +880,7 @@
 |**2022-10-20**|**Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**|Marcos V. Conde et.al.|[2210.11153v1](http://arxiv.org/abs/2210.11153v1)|**[link](https://github.com/mv-lab/AISP)**|
 |**2022-10-08**|**LW-ISP: A Lightweight Model with ISP and Deep Learning**|Hongyang Chen et.al.|[2210.03904v1](http://arxiv.org/abs/2210.03904v1)|null|
 |**2022-09-28**|**Denoising of 3D MR images using a voxel-wise hybrid residual MLP-CNN model to improve small lesion diagnostic confidence**|Haibo Yang et.al.|[2209.13818v1](http://arxiv.org/abs/2209.13818v1)|**[link](https://github.com/laowangbobo/residual_mlp_cnn_mixer)**|
-|**2022-09-27**|**The Proximal Map of the Weighted Mean Absolute Error**|Lukas Baumgärtner et.al.|[2209.13545v1](http://arxiv.org/abs/2209.13545v1)|**[link](https://github.com/scoop-group/prox_wmae)**|
+|**2023-02-08**|**The Proximal Map of the Weighted Mean Absolute Error**|Lukas Baumgärtner et.al.|[2209.13545v2](http://arxiv.org/abs/2209.13545v2)|**[link](https://github.com/scoop-group/prox_wmae)**|
 |**2022-09-27**|**Scaling Laws For Deep Learning Based Image Reconstruction**|Tobit Klug et.al.|[2209.13435v1](http://arxiv.org/abs/2209.13435v1)|**[link](https://github.com/mli-lab/scaling_laws_for_deep_learning_based_image_reconstruction)**|
 |**2022-09-26**|**Self-supervised Denoising via Low-rank Tensor Approximated Convolutional Neural Network**|Chenyin Gao et.al.|[2209.12715v1](http://arxiv.org/abs/2209.12715v1)|null|
 |**2022-10-03**|**Multi-stage image denoising with the wavelet transform**|Chunwei Tian et.al.|[2209.12394v3](http://arxiv.org/abs/2209.12394v3)|**[link](https://github.com/hellloxiaotian/mwdcnn)**|
