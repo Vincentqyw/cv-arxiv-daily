@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**PFGM++: Unlocking the Potential of Physics-Inspired Generative Models**|Yilun Xu et.al.|[2302.04265v1](http://arxiv.org/abs/2302.04265v1)|**[link](https://github.com/newbeeer/pfgmpp)**|
+|**2023-02-08**|**GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models**|Shawn Shan et.al.|[2302.04222v1](http://arxiv.org/abs/2302.04222v1)|null|
+|**2023-02-08**|**Noise2Music: Text-conditioned Music Generation with Diffusion Models**|Qingqing Huang et.al.|[2302.03917v1](http://arxiv.org/abs/2302.03917v1)|null|
+|**2023-02-08**|**Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models**|Hyeonho Jeong et.al.|[2302.03900v1](http://arxiv.org/abs/2302.03900v1)|null|
+|**2023-02-07**|**Information-Theoretic Diffusion**|Xianghao Kong et.al.|[2302.03792v1](http://arxiv.org/abs/2302.03792v1)|null|
+|**2023-02-07**|**How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control**|Jacopo Teneggi et.al.|[2302.03791v1](http://arxiv.org/abs/2302.03791v1)|null|
+|**2023-02-07**|**GraphGUIDE: interpretable and controllable conditional graph generation with discrete Bernoulli diffusion**|Alex M. Tseng et.al.|[2302.03790v1](http://arxiv.org/abs/2302.03790v1)|null|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
 |**2023-02-07**|**HumanMAC: Masked Motion Completion for Human Motion Prediction**|Ling-Hao Chen et.al.|[2302.03665v1](http://arxiv.org/abs/2302.03665v1)|**[link](https://github.com/linghaochan/humanmac)**|
@@ -276,6 +283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**A Systematic Performance Analysis of Deep Perceptual Loss Networks Breaks Transfer Learning Conventions**|Gustav Grund Pihlgren et.al.|[2302.04032v1](http://arxiv.org/abs/2302.04032v1)|null|
 |**2023-02-07**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v1](http://arxiv.org/abs/2302.03453v1)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-07**|**High-Resolution GAN Inversion for Degraded Images in Large Diverse Datasets**|Yanbo Wang et.al.|[2302.03406v1](http://arxiv.org/abs/2302.03406v1)|**[link](https://github.com/booooooooooo/cri)**|
 |**2023-02-06**|**An Unsupervised Framework for Joint MRI Super Resolution and Gibbs Artifact Removal**|Yikang Liu et.al.|[2302.02849v1](http://arxiv.org/abs/2302.02849v1)|null|
@@ -833,6 +841,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**QS-ADN: Quasi-Supervised Artifact Disentanglement Network for Low-Dose CT Image Denoising by Local Similarity Among Unpaired Data**|Yuhui Ruan et.al.|[2302.03916v1](http://arxiv.org/abs/2302.03916v1)|**[link](https://github.com/ruanyuhui/adn-qsdl)**|
+|**2023-02-07**|**How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control**|Jacopo Teneggi et.al.|[2302.03791v1](http://arxiv.org/abs/2302.03791v1)|null|
 |**2023-02-05**|**Diffusion Model for Generative Image Denoising**|Yutong Xie et.al.|[2302.02398v1](http://arxiv.org/abs/2302.02398v1)|null|
 |**2023-01-31**|**NoiseTransfer: Image Noise Generation with Contrastive Embeddings**|Seunghwan Lee et.al.|[2301.13554v1](http://arxiv.org/abs/2301.13554v1)|**[link](https://github.com/shlee0/noisetransfer)**|
 |**2023-01-31**|**Hierarchical Disentangled Representation for Invertible Image Denoising and Beyond**|Wenchao Du et.al.|[2301.13358v1](http://arxiv.org/abs/2301.13358v1)|null|
@@ -985,6 +995,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**Neural Artistic Style Transfer with Conditional Adversaria**|P. N. Deelaka et.al.|[2302.03875v1](http://arxiv.org/abs/2302.03875v1)|**[link](https://github.com/nipdep/STGAN)**|
+|**2023-02-08**|**Controlling Personality Style in Dialogue with Zero-Shot Prompt-Based Learning**|Angela Ramirez et.al.|[2302.03848v1](http://arxiv.org/abs/2302.03848v1)|null|
 |**2023-02-07**|**Improving CT Image Segmentation Accuracy Using StyleGAN Driven Data Augmentation**|Soham Bhosale et.al.|[2302.03285v1](http://arxiv.org/abs/2302.03285v1)|null|
 |**2023-02-01**|**Efficient Scopeformer: Towards Scalable and Rich Feature Extraction for Intracranial Hemorrhage Detection**|Yassine Barhoumi et.al.|[2302.00220v1](http://arxiv.org/abs/2302.00220v1)|null|
 |**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|**[link](https://github.com/haoheliu/audioldm_eval)**|
