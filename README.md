@@ -538,7 +538,7 @@
 |**2022-05-17**|**Accelerating the Training of Video Super-Resolution Models**|Lijian Lin et.al.|[2205.05069v2](http://arxiv.org/abs/2205.05069v2)|null|
 |**2022-04-21**|**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**|Hassan Imani et.al.|[2204.10039v1](http://arxiv.org/abs/2204.10039v1)|**[link](https://github.com/h-deep/trans-svsr)**|
 |**2023-02-04**|**Progressive Training of A Two-Stage Framework for Video Restoration**|Meisong Zheng et.al.|[2204.09924v2](http://arxiv.org/abs/2204.09924v2)|**[link](https://github.com/ryanxingql/winner-ntire22-vqe)**|
-|**2022-04-14**|**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**|Takashi Isobe et.al.|[2204.07114v1](http://arxiv.org/abs/2204.07114v1)|null|
+|**2022-04-14**|**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**|Takashi Isobe et.al.|[2204.07114v1](http://arxiv.org/abs/2204.07114v1)|**[link](https://github.com/junpan19/ETDM)**|
 |**2022-06-19**|**On the Generalization of BasicVSR++ to Video Deblurring and Denoising**|Kelvin C. K. Chan et.al.|[2204.05308v2](http://arxiv.org/abs/2204.05308v2)|**[link](https://github.com/ckkelvinchan/basicvsr_plusplus)**|
 |**2022-04-20**|**Learning Trajectory-Aware Transformer for Video Super-Resolution**|Chengxu Liu et.al.|[2204.04216v3](http://arxiv.org/abs/2204.04216v3)|**[link](https://github.com/researchmm/TTVSR)**|
 |**2022-03-28**|**Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**|Junyong Lee et.al.|[2203.14537v1](http://arxiv.org/abs/2203.14537v1)|**[link](https://github.com/codeslake/RefVSR)**|
