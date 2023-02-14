@@ -53,7 +53,7 @@
 |**2023-02-06**|**Zero-shot Image-to-Image Translation**|Gaurav Parmar et.al.|[2302.03027v1](http://arxiv.org/abs/2302.03027v1)|null|
 |**2023-02-06**|**DDM $^2$ : Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models**|Tiange Xiang et.al.|[2302.03018v1](http://arxiv.org/abs/2302.03018v1)|**[link](https://github.com/stanfordmimi/ddm2)**|
 |**2023-02-06**|**Structure and Content-Guided Video Synthesis with Diffusion Models**|Patrick Esser et.al.|[2302.03011v1](http://arxiv.org/abs/2302.03011v1)|null|
-|**2023-02-06**|**Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design**|Lyle Regenwetter et.al.|[2302.02913v1](http://arxiv.org/abs/2302.02913v1)|null|
+|**2023-02-11**|**Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design**|Lyle Regenwetter et.al.|[2302.02913v2](http://arxiv.org/abs/2302.02913v2)|null|
 |**2023-02-06**|**Generative Diffusion Models on Graphs: Methods and Applications**|Wenqi Fan et.al.|[2302.02591v1](http://arxiv.org/abs/2302.02591v1)|null|
 |**2023-02-05**|**Mixture of Diffusers for scene composition and high resolution image generation**|Álvaro Barbero Jiménez et.al.|[2302.02412v1](http://arxiv.org/abs/2302.02412v1)|**[link](https://github.com/albarji/mixture-of-diffusers)**|
 |**2023-02-05**|**Diffusion Model for Generative Image Denoising**|Yutong Xie et.al.|[2302.02398v1](http://arxiv.org/abs/2302.02398v1)|null|
@@ -61,7 +61,7 @@
 |**2023-02-05**|**ShiftDDPMs: Exploring Conditional Diffusion Models by Shifting Diffusion Trajectories**|Zijian Zhang et.al.|[2302.02373v1](http://arxiv.org/abs/2302.02373v1)|null|
 |**2023-02-05**|**ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval**|Kexun Zhang et.al.|[2302.02285v1](http://arxiv.org/abs/2302.02285v1)|null|
 |**2023-02-05**|**Design Booster: A Text-Guided Diffusion Model for Image Translation with Spatial Layout Preservation**|Shiqi Sun et.al.|[2302.02284v1](http://arxiv.org/abs/2302.02284v1)|null|
-|**2023-02-05**|**SE(3) diffusion model with application to protein backbone generation**|Jason Yim et.al.|[2302.02277v1](http://arxiv.org/abs/2302.02277v1)|null|
+|**2023-02-11**|**SE(3) diffusion model with application to protein backbone generation**|Jason Yim et.al.|[2302.02277v2](http://arxiv.org/abs/2302.02277v2)|null|
 |**2023-02-05**|**Divide and Compose with Score Based Generative Models**|Sandesh Ghimire et.al.|[2302.02272v1](http://arxiv.org/abs/2302.02272v1)|null|
 |**2023-02-07**|**Multi-Source Diffusion Models for Simultaneous Music Generation and Separation**|Giorgio Mariani et.al.|[2302.02257v2](http://arxiv.org/abs/2302.02257v2)|null|
 |**2023-02-04**|**Semantic-Guided Image Augmentation with Pre-trained Models**|Bohan Li et.al.|[2302.02070v1](http://arxiv.org/abs/2302.02070v1)|null|
