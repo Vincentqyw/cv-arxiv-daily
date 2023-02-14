@@ -12,8 +12,8 @@ publish_gitpage: False
 publish_wechat: False
 
 keywords:
-    "360° Super-Resolution":
-        filters: [ "360° Super-Resolution", "360 Super-Resolution" ]
+    "360 Super-Resolution":
+        filters: [ "omnidirectional Super-Resolution", "omnidirectional Image Super-Resolution", "omnidirectional Video Super-Resolution" ]
     "Diffusion-Models":
         filters: ["Diffusion Models"]
     "Super-Resolution":
