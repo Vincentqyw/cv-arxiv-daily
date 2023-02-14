@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Raising the Cost of Malicious AI-Powered Image Editing**|Hadi Salman et.al.|[2302.06588v1](http://arxiv.org/abs/2302.06588v1)|**[link](https://github.com/madrylab/photoguard)**|
+|**2023-02-09**|**Thermodynamic AI and the fluctuation frontier**|Patrick J. Coles et.al.|[2302.06584v1](http://arxiv.org/abs/2302.06584v1)|null|
+|**2023-02-12**|**Single Motion Diffusion**|Sigal Raab et.al.|[2302.05905v1](http://arxiv.org/abs/2302.05905v1)|**[link](https://github.com/sinmdm/sinmdm)**|
+|**2023-02-12**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v1](http://arxiv.org/abs/2302.05872v1)|null|
+|**2023-02-12**|**NephroNet: A Novel Program for Identifying Renal Cell Carcinoma and Generating Synthetic Training Images with Convolutional Neural Networks and Diffusion Models**|Yashvir Sabharwal et.al.|[2302.05830v1](http://arxiv.org/abs/2302.05830v1)|null|
+|**2023-02-11**|**A Reparameterized Discrete Diffusion Model for Text Generation**|Lin Zheng et.al.|[2302.05737v1](http://arxiv.org/abs/2302.05737v1)|**[link](https://github.com/hkunlp/reparam-discrete-diffusion)**|
+|**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
+|**2023-02-10**|**Adding Conditional Control to Text-to-Image Diffusion Models**|Lvmin Zhang et.al.|[2302.05543v1](http://arxiv.org/abs/2302.05543v1)|**[link](https://github.com/lllyasviel/controlnet)**|
 |**2023-02-10**|**Example-Based Sampling with Diffusion Models**|Bastien Doignies et.al.|[2302.05116v1](http://arxiv.org/abs/2302.05116v1)|null|
 |**2023-02-12**|**UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models**|Wenliang Zhao et.al.|[2302.04867v2](http://arxiv.org/abs/2302.04867v2)|**[link](https://github.com/wl-zhao/unipc)**|
 |**2023-02-09**|**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation**|Anton Voronov et.al.|[2302.04841v1](http://arxiv.org/abs/2302.04841v1)|**[link](https://github.com/yandex-research/dvar)**|
@@ -41,7 +49,7 @@
 |**2023-02-08**|**Noise2Music: Text-conditioned Music Generation with Diffusion Models**|Qingqing Huang et.al.|[2302.03917v1](http://arxiv.org/abs/2302.03917v1)|null|
 |**2023-02-08**|**Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models**|Hyeonho Jeong et.al.|[2302.03900v1](http://arxiv.org/abs/2302.03900v1)|null|
 |**2023-02-07**|**Information-Theoretic Diffusion**|Xianghao Kong et.al.|[2302.03792v1](http://arxiv.org/abs/2302.03792v1)|null|
-|**2023-02-07**|**How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control**|Jacopo Teneggi et.al.|[2302.03791v1](http://arxiv.org/abs/2302.03791v1)|null|
+|**2023-02-07**|**How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control**|Jacopo Teneggi et.al.|[2302.03791v1](http://arxiv.org/abs/2302.03791v1)|**[link](https://github.com/sulam-group/k-rcps)**|
 |**2023-02-07**|**GraphGUIDE: interpretable and controllable conditional graph generation with discrete Bernoulli diffusion**|Alex M. Tseng et.al.|[2302.03790v1](http://arxiv.org/abs/2302.03790v1)|**[link](https://github.com/genentech/graphguide)**|
 |**2023-02-07**|**Long Horizon Temperature Scaling**|Andy Shih et.al.|[2302.03686v1](http://arxiv.org/abs/2302.03686v1)|**[link](https://github.com/andyshih12/longhorizontemperaturescaling)**|
 |**2023-02-07**|**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**|Yuxin Wen et.al.|[2302.03668v1](http://arxiv.org/abs/2302.03668v1)|**[link](https://github.com/YuxinWenRick/hard-prompts-made-easy)**|
@@ -61,7 +69,7 @@
 |**2023-02-05**|**ShiftDDPMs: Exploring Conditional Diffusion Models by Shifting Diffusion Trajectories**|Zijian Zhang et.al.|[2302.02373v1](http://arxiv.org/abs/2302.02373v1)|null|
 |**2023-02-05**|**ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval**|Kexun Zhang et.al.|[2302.02285v1](http://arxiv.org/abs/2302.02285v1)|null|
 |**2023-02-05**|**Design Booster: A Text-Guided Diffusion Model for Image Translation with Spatial Layout Preservation**|Shiqi Sun et.al.|[2302.02284v1](http://arxiv.org/abs/2302.02284v1)|null|
-|**2023-02-11**|**SE(3) diffusion model with application to protein backbone generation**|Jason Yim et.al.|[2302.02277v2](http://arxiv.org/abs/2302.02277v2)|null|
+|**2023-02-11**|**SE(3) diffusion model with application to protein backbone generation**|Jason Yim et.al.|[2302.02277v2](http://arxiv.org/abs/2302.02277v2)|**[link](https://github.com/jasonkyuyim/se3_diffusion)**|
 |**2023-02-05**|**Divide and Compose with Score Based Generative Models**|Sandesh Ghimire et.al.|[2302.02272v1](http://arxiv.org/abs/2302.02272v1)|null|
 |**2023-02-07**|**Multi-Source Diffusion Models for Simultaneous Music Generation and Separation**|Giorgio Mariani et.al.|[2302.02257v2](http://arxiv.org/abs/2302.02257v2)|null|
 |**2023-02-04**|**Semantic-Guided Image Augmentation with Pre-trained Models**|Bohan Li et.al.|[2302.02070v1](http://arxiv.org/abs/2302.02070v1)|null|
@@ -83,6 +91,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance**|Zeqiang Lai et.al.|[2302.06298v1](http://arxiv.org/abs/2302.06298v1)|null|
+|**2023-02-13**|**Variational Mixture of HyperGenerators for Learning Distributions Over Functions**|Batuhan Koyuncu et.al.|[2302.06223v1](http://arxiv.org/abs/2302.06223v1)|null|
+|**2023-02-12**|**On the accuracy of Prony's method for recovery of exponential sums with closely spaced exponents**|Rami Katz et.al.|[2302.05883v1](http://arxiv.org/abs/2302.05883v1)|null|
+|**2023-02-12**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v1](http://arxiv.org/abs/2302.05872v1)|null|
+|**2023-02-11**|**A flexible Expectation-Maximization framework for fast, scalable and high-fidelity multi-frame astronomical image deconvolution**|Yashil Sukurdeep et.al.|[2302.05804v1](http://arxiv.org/abs/2302.05804v1)|null|
 |**2023-02-09**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959v1](http://arxiv.org/abs/2302.04959v1)|null|
 |**2023-02-08**|**A Systematic Performance Analysis of Deep Perceptual Loss Networks Breaks Transfer Learning Conventions**|Gustav Grund Pihlgren et.al.|[2302.04032v1](http://arxiv.org/abs/2302.04032v1)|null|
 |**2023-02-09**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v2](http://arxiv.org/abs/2302.03453v2)|**[link](https://github.com/fanghua-yu/osrt)**|
@@ -140,6 +153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance**|Zeqiang Lai et.al.|[2302.06298v1](http://arxiv.org/abs/2302.06298v1)|null|
 |**2023-02-09**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959v1](http://arxiv.org/abs/2302.04959v1)|null|
 |**2023-02-09**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v2](http://arxiv.org/abs/2302.03453v2)|**[link](https://github.com/fanghua-yu/osrt)**|
 |**2023-02-03**|**A statistically constrained internal method for single image super-resolution**|Pierrick Chatillon et.al.|[2302.01648v1](http://arxiv.org/abs/2302.01648v1)|null|
@@ -344,6 +358,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-12**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v1](http://arxiv.org/abs/2302.05872v1)|null|
 |**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
 |**2023-01-31**|**A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser**|Samuel Hurault et.al.|[2301.13731v1](http://arxiv.org/abs/2301.13731v1)|null|
 |**2023-01-31**|**Hierarchical Disentangled Representation for Invertible Image Denoising and Beyond**|Wenchao Du et.al.|[2301.13358v1](http://arxiv.org/abs/2301.13358v1)|null|
@@ -401,6 +416,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Imaging the inner astronomical unit of Herbig Be star HD 190073**|Nour Ibrahim et.al.|[2302.06500v1](http://arxiv.org/abs/2302.06500v1)|null|
+|**2023-02-13**|**Exact sinogram: an analytical approach to the Radon transform of phantoms**|Monica Dessole et.al.|[2302.06283v1](http://arxiv.org/abs/2302.06283v1)|null|
+|**2023-02-12**|**Vector Quantized Wasserstein Auto-Encoder**|Tung-Long Vuong et.al.|[2302.05917v1](http://arxiv.org/abs/2302.05917v1)|null|
 |**2023-02-09**|**Ringing Artifact Reduction Method for Ultrasound Reconstruction Using Multi-Agent Consensus Equilibrium**|Abdulrahman M. Alanazi et.al.|[2302.04918v1](http://arxiv.org/abs/2302.04918v1)|null|
 |**2023-02-07**|**Improving CT Image Segmentation Accuracy Using StyleGAN Driven Data Augmentation**|Soham Bhosale et.al.|[2302.03285v1](http://arxiv.org/abs/2302.03285v1)|null|
 |**2023-02-06**|**Investigating Pulse-Echo Sound Speed Estimation in Breast Ultrasound with Deep Learning**|Walter A. Simson et.al.|[2302.03064v1](http://arxiv.org/abs/2302.03064v1)|null|
@@ -461,7 +479,7 @@
 |**2023-02-10**|**A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks**|Ahmad Ali Rafiee et.al.|[2302.05435v1](http://arxiv.org/abs/2302.05435v1)|**[link](https://github.com/AliRafiee7/SeConvNet)**|
 |**2023-02-10**|**A Non-gradient DG method for second-order Elliptic Equations in the Non-divergence Form**|Weifeng Qiu et.al.|[2302.05014v1](http://arxiv.org/abs/2302.05014v1)|null|
 |**2023-02-08**|**QS-ADN: Quasi-Supervised Artifact Disentanglement Network for Low-Dose CT Image Denoising by Local Similarity Among Unpaired Data**|Yuhui Ruan et.al.|[2302.03916v1](http://arxiv.org/abs/2302.03916v1)|**[link](https://github.com/ruanyuhui/adn-qsdl)**|
-|**2023-02-07**|**How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control**|Jacopo Teneggi et.al.|[2302.03791v1](http://arxiv.org/abs/2302.03791v1)|null|
+|**2023-02-07**|**How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control**|Jacopo Teneggi et.al.|[2302.03791v1](http://arxiv.org/abs/2302.03791v1)|**[link](https://github.com/sulam-group/k-rcps)**|
 |**2023-02-05**|**Diffusion Model for Generative Image Denoising**|Yutong Xie et.al.|[2302.02398v1](http://arxiv.org/abs/2302.02398v1)|null|
 |**2023-01-31**|**NoiseTransfer: Image Noise Generation with Contrastive Embeddings**|Seunghwan Lee et.al.|[2301.13554v1](http://arxiv.org/abs/2301.13554v1)|**[link](https://github.com/shlee0/noisetransfer)**|
 |**2023-01-31**|**Hierarchical Disentangled Representation for Invertible Image Denoising and Beyond**|Wenchao Du et.al.|[2301.13358v1](http://arxiv.org/abs/2301.13358v1)|null|
@@ -515,6 +533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Learning to Scale Temperature in Masked Self-Attention for Image Inpainting**|Xiang Zhou et.al.|[2302.06130v1](http://arxiv.org/abs/2302.06130v1)|null|
 |**2023-02-10**|**Leveraging Inpainting for Single-Image Shadow Removal**|Xiaoguang Li et.al.|[2302.05361v1](http://arxiv.org/abs/2302.05361v1)|null|
 |**2023-02-06**|**Generative Diffusion Models on Graphs: Methods and Applications**|Wenqi Fan et.al.|[2302.02591v1](http://arxiv.org/abs/2302.02591v1)|null|
 |**2023-02-04**|**Guaranteed Tensor Recovery Fused Low-rankness and Smoothness**|Hailin Wang et.al.|[2302.02155v1](http://arxiv.org/abs/2302.02155v1)|**[link](https://github.com/wanghailin97/Guaranteed-Tensor-Recovery-Fused-Low-rankness-and-Smoothness)**|
@@ -572,6 +591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-12**|**Single Motion Diffusion**|Sigal Raab et.al.|[2302.05905v1](http://arxiv.org/abs/2302.05905v1)|**[link](https://github.com/sinmdm/sinmdm)**|
 |**2023-02-10**|**Unified Vision-Language Representation Modeling for E-Commerce Same-Style Products Retrieval**|Ben Chen et.al.|[2302.05093v1](http://arxiv.org/abs/2302.05093v1)|null|
 |**2023-02-08**|**Neural Artistic Style Transfer with Conditional Adversaria**|P. N. Deelaka et.al.|[2302.03875v1](http://arxiv.org/abs/2302.03875v1)|**[link](https://github.com/nipdep/STGAN)**|
 |**2023-02-08**|**Controlling Personality Style in Dialogue with Zero-Shot Prompt-Based Learning**|Angela Ramirez et.al.|[2302.03848v1](http://arxiv.org/abs/2302.03848v1)|null|
