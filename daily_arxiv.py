@@ -276,11 +276,12 @@ def json_to_md(filename,md_filename,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n\n")
+            f.write("## Updated on " + DateNow + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n\n")
+            f.write("> Updated on " + DateNow + "\n")
+
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#installation)")
+        f.write("> Usage instructions: [here](./docs/README.md#installation)\n\n")
 
         #Add: table of contents
         if use_tc == True:
