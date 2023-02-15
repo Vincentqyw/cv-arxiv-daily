@@ -9,19 +9,7 @@ layout: default
 
 ## Updated on 2023.02.15
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#SLAM>SLAM</a></li>
-    <li><a href=#SFM>SFM</a></li>
-    <li><a href=#Visual-Localization>Visual Localization</a></li>
-    <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
-    <li><a href=#Image-Matching>Image Matching</a></li>
-    <li><a href=#NeRF>NeRF</a></li>
-  </ol>
-</details>
-
-## SLAM
+> Usage instructions: [here](./docs/README.md#installation)## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1019,6 +1007,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
