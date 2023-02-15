@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions**|Raghav Singhal et.al.|[2302.07261v1](http://arxiv.org/abs/2302.07261v1)|null|
+|**2023-02-14**|**Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data**|Minshuo Chen et.al.|[2302.07194v1](http://arxiv.org/abs/2302.07194v1)|null|
+|**2023-02-14**|**Universal Guidance for Diffusion Models**|Arpit Bansal et.al.|[2302.07121v1](http://arxiv.org/abs/2302.07121v1)|**[link](https://github.com/arpitbansal297/universal-guided-diffusion)**|
+|**2023-02-14**|**Direct numerical simulations of the Taylor-Green Vortex interacting with a hydrogen diffusion flame: Reynolds number and non-unity Lewis number effects**|Yifan Xu et.al.|[2302.07006v1](http://arxiv.org/abs/2302.07006v1)|null|
+|**2023-02-14**|**DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided Latent Diffusion Model**|Yichen Peng et.al.|[2302.06908v1](http://arxiv.org/abs/2302.06908v1)|null|
+|**2023-02-14**|**Text-Guided Scene Sketch-to-Photo Synthesis**|AprilPyone MaungMaung et.al.|[2302.06883v1](http://arxiv.org/abs/2302.06883v1)|null|
+|**2023-02-14**|**DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**|Shidong Cao et.al.|[2302.06826v1](http://arxiv.org/abs/2302.06826v1)|**[link](https://github.com/rem105-210/difffashion)**|
+|**2023-02-13**|**Symbolic Discovery of Optimization Algorithms**|Xiangning Chen et.al.|[2302.06675v1](http://arxiv.org/abs/2302.06675v1)|null|
 |**2023-02-13**|**Raising the Cost of Malicious AI-Powered Image Editing**|Hadi Salman et.al.|[2302.06588v1](http://arxiv.org/abs/2302.06588v1)|**[link](https://github.com/madrylab/photoguard)**|
 |**2023-02-09**|**Thermodynamic AI and the fluctuation frontier**|Patrick J. Coles et.al.|[2302.06584v1](http://arxiv.org/abs/2302.06584v1)|null|
 |**2023-02-12**|**Single Motion Diffusion**|Sigal Raab et.al.|[2302.05905v1](http://arxiv.org/abs/2302.05905v1)|**[link](https://github.com/sinmdm/sinmdm)**|
@@ -91,6 +99,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**Atomic physics on a 50 nm scale: Realization of a bilayer system of dipolar atoms**|Li Du et.al.|[2302.07209v1](http://arxiv.org/abs/2302.07209v1)|null|
 |**2023-02-13**|**Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance**|Zeqiang Lai et.al.|[2302.06298v1](http://arxiv.org/abs/2302.06298v1)|null|
 |**2023-02-13**|**Variational Mixture of HyperGenerators for Learning Distributions Over Functions**|Batuhan Koyuncu et.al.|[2302.06223v1](http://arxiv.org/abs/2302.06223v1)|null|
 |**2023-02-12**|**On the accuracy of Prony's method for recovery of exponential sums with closely spaced exponents**|Rami Katz et.al.|[2302.05883v1](http://arxiv.org/abs/2302.05883v1)|null|
@@ -358,6 +367,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Robust Unsupervised StyleGAN Image Restoration**|Yohan Poirier-Ginter et.al.|[2302.06733v1](http://arxiv.org/abs/2302.06733v1)|null|
 |**2023-02-12**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v1](http://arxiv.org/abs/2302.05872v1)|null|
 |**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
 |**2023-01-31**|**A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser**|Samuel Hurault et.al.|[2301.13731v1](http://arxiv.org/abs/2301.13731v1)|null|
@@ -416,6 +426,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**Convergence of Successive Linear Programming Algorithms for Noisy Functions**|Christoph Hansknecht et.al.|[2302.07205v1](http://arxiv.org/abs/2302.07205v1)|null|
 |**2023-02-13**|**Imaging the inner astronomical unit of Herbig Be star HD 190073**|Nour Ibrahim et.al.|[2302.06500v1](http://arxiv.org/abs/2302.06500v1)|null|
 |**2023-02-13**|**Exact sinogram: an analytical approach to the Radon transform of phantoms**|Monica Dessole et.al.|[2302.06283v1](http://arxiv.org/abs/2302.06283v1)|null|
 |**2023-02-12**|**Vector Quantized Wasserstein Auto-Encoder**|Tung-Long Vuong et.al.|[2302.05917v1](http://arxiv.org/abs/2302.05917v1)|null|
@@ -591,6 +602,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-14**|**DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**|Shidong Cao et.al.|[2302.06826v1](http://arxiv.org/abs/2302.06826v1)|**[link](https://github.com/rem105-210/difffashion)**|
 |**2023-02-12**|**Single Motion Diffusion**|Sigal Raab et.al.|[2302.05905v1](http://arxiv.org/abs/2302.05905v1)|**[link](https://github.com/sinmdm/sinmdm)**|
 |**2023-02-10**|**Unified Vision-Language Representation Modeling for E-Commerce Same-Style Products Retrieval**|Ben Chen et.al.|[2302.05093v1](http://arxiv.org/abs/2302.05093v1)|null|
 |**2023-02-08**|**Neural Artistic Style Transfer with Conditional Adversaria**|P. N. Deelaka et.al.|[2302.03875v1](http://arxiv.org/abs/2302.03875v1)|**[link](https://github.com/nipdep/STGAN)**|
