@@ -226,7 +226,8 @@ def json_to_md(filename,md_filename,
                to_web = False, 
                use_title = True, 
                use_tc = True,
-               show_badge = True):
+               show_badge = True,
+               use_b2t = True):
     """
     @param filename: str
     @param md_filename: str
@@ -321,10 +322,11 @@ def json_to_md(filename,md_filename,
             f.write(f"\n")
             
             #Add: back to top
-            top_info = f"#Updated on {DateNow}"
-            top_info = top_info.replace(' ','-').replace('.','')
-            f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
-        
+            if use_b2t:
+                top_info = f"#Updated on {DateNow}"
+                top_info = top_info.replace(' ','-').replace('.','')
+                f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+            
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
@@ -395,7 +397,8 @@ def demo(**config):
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, use_tc=False)
+            to_web = True, show_badge = show_badge, \
+            use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
