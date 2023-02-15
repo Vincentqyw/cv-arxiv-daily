@@ -279,7 +279,9 @@ def json_to_md(filename,md_filename,
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
-        
+        # TODO: add usage
+        f.write("> Usage instructions: [here](./docs/README.md#installation)")
+
         #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
@@ -392,7 +394,7 @@ def demo(**config):
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge)
+            to_web = True, show_badge = show_badge, use_tc=False)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:

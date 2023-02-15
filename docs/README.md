@@ -16,7 +16,7 @@ This codebase is composed of the following parts:
 - `daily_arxiv.py`: main scripts to processing given configurations
 - `config.yaml`: configuration file of papers' keywords etc.
 
-## Installation
+## Usage
 
 <details>
   <summary>Table of Contents</summary>
