@@ -4,8 +4,9 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2023.02.15
+> Usage instructions: [here](./docs/README.md#installation)
 
-> Usage instructions: [here](./docs/README.md#installation)<details>
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#SLAM>SLAM</a></li>
