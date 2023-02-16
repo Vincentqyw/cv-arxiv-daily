@@ -282,7 +282,7 @@ def json_to_md(filename,md_filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#installation)\n\n")
+        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         #Add: table of contents
         if use_tc == True:
