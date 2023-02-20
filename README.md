@@ -35,7 +35,7 @@
 |**2023-02-16**|**Boundary Guided Mixing Trajectory for Semantic Control with Diffusion Models**|Ye Zhu et.al.|[2302.08357v1](http://arxiv.org/abs/2302.08357v1)|null|
 |**2023-02-16**|**Forward Backward SDEs Systems for Utility Maximization in Jump Diffusion Models**|Marina Santacroce et.al.|[2302.08253v1](http://arxiv.org/abs/2302.08253v1)|null|
 |**2023-02-16**|**DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization**|Zhiqing Sun et.al.|[2302.08224v1](http://arxiv.org/abs/2302.08224v1)|**[link](https://github.com/edward-sun/difusco)**|
-|**2023-02-16**|**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation**|Omer Bar-Tal et.al.|[2302.08113v1](http://arxiv.org/abs/2302.08113v1)|null|
+|**2023-02-16**|**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation**|Omer Bar-Tal et.al.|[2302.08113v1](http://arxiv.org/abs/2302.08113v1)|**[link](https://github.com/omerbt/MultiDiffusion)**|
 |**2023-02-16**|**Understanding the Distillation Process from Deep Generative Models to Tractable Probabilistic Circuits**|Xuejie Liu et.al.|[2302.08086v1](http://arxiv.org/abs/2302.08086v1)|null|
 |**2023-02-15**|**PRedItOR: Text Guided Image Editing with Diffusion Prior**|Hareesh Ravi et.al.|[2302.07979v1](http://arxiv.org/abs/2302.07979v1)|null|
 |**2023-02-07**|**Effective Data Augmentation With Diffusion Models**|Brandon Trabucco et.al.|[2302.07944v1](http://arxiv.org/abs/2302.07944v1)|null|
