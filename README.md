@@ -120,7 +120,7 @@
 |---|---|---|---|---|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
 |**2023-02-17**|**Kernelized Back-Projection Networks for Blind Super Resolution**|Tomoki Yoshida et.al.|[2302.08478v2](http://arxiv.org/abs/2302.08478v2)|null|
-|**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
+|**2023-02-18**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v2](http://arxiv.org/abs/2302.08058v2)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
@@ -190,7 +190,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
-|**2023-02-16**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v1](http://arxiv.org/abs/2302.08058v1)|**[link](https://github.com/zhengyuliang24/epit)**|
+|**2023-02-18**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v2](http://arxiv.org/abs/2302.08058v2)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
@@ -492,7 +492,7 @@
 |**2023-01-19**|**Quantitative phase imaging (QPI) through random diffusers using a diffractive optical network**|Yuhang Li et.al.|[2301.07908v1](http://arxiv.org/abs/2301.07908v1)|null|
 |**2023-01-18**|**A forward model incorporating elevation-focused transducer properties for 3D full-waveform inversion in ultrasound computed tomography**|Fu Li et.al.|[2301.07787v1](http://arxiv.org/abs/2301.07787v1)|null|
 |**2023-01-18**|**Targeted Image Reconstruction by Sampling Pre-trained Diffusion Model**|Jiageng Zheng et.al.|[2301.07557v1](http://arxiv.org/abs/2301.07557v1)|null|
-|**2023-01-19**|**A Synthetic Hyperspectral Array Video Database with Applications to Cross-Spectral Reconstruction and Hyperspectral Video Coding**|Frank Sippel et.al.|[2301.07551v2](http://arxiv.org/abs/2301.07551v2)|**[link](https://github.com/fau-lms/hyvid)**|
+|**2023-02-20**|**Synthetic Hyperspectral Array Video Database with Applications to Cross-Spectral Reconstruction and Hyperspectral Video Coding**|Frank Sippel et.al.|[2301.07551v3](http://arxiv.org/abs/2301.07551v3)|**[link](https://github.com/fau-lms/hyvid)**|
 |**2023-01-18**|**The Dependence of Parallel Imaging with Linear Predictability on the Undersampling Direction**|Alex McManus et.al.|[2301.07256v1](http://arxiv.org/abs/2301.07256v1)|null|
 |**2023-01-17**|**Cross-domain Unsupervised Reconstruction with Equivariance for Photoacoustic Computed Tomography**|Hengrong Lan et.al.|[2301.06681v1](http://arxiv.org/abs/2301.06681v1)|null|
 |**2023-01-14**|**Learning Regularization Parameter-Maps for Variational Image Reconstruction using Deep Neural Networks and Algorithm Unrolling**|Andreas Kofler et.al.|[2301.05888v1](http://arxiv.org/abs/2301.05888v1)|null|
@@ -644,7 +644,7 @@
 |**2023-02-16**|**Conversation Style Transfer using Few-Shot Learning**|Shamik Roy et.al.|[2302.08362v1](http://arxiv.org/abs/2302.08362v1)|null|
 |**2023-02-14**|**DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**|Shidong Cao et.al.|[2302.06826v1](http://arxiv.org/abs/2302.06826v1)|**[link](https://github.com/rem105-210/difffashion)**|
 |**2023-02-12**|**Single Motion Diffusion**|Sigal Raab et.al.|[2302.05905v1](http://arxiv.org/abs/2302.05905v1)|**[link](https://github.com/sinmdm/sinmdm)**|
-|**2023-02-10**|**Unified Vision-Language Representation Modeling for E-Commerce Same-Style Products Retrieval**|Ben Chen et.al.|[2302.05093v1](http://arxiv.org/abs/2302.05093v1)|null|
+|**2023-02-20**|**Unified Vision-Language Representation Modeling for E-Commerce Same-Style Products Retrieval**|Ben Chen et.al.|[2302.05093v2](http://arxiv.org/abs/2302.05093v2)|null|
 |**2023-02-08**|**Neural Artistic Style Transfer with Conditional Adversaria**|P. N. Deelaka et.al.|[2302.03875v1](http://arxiv.org/abs/2302.03875v1)|**[link](https://github.com/nipdep/STGAN)**|
 |**2023-02-08**|**Controlling Personality Style in Dialogue with Zero-Shot Prompt-Based Learning**|Angela Ramirez et.al.|[2302.03848v1](http://arxiv.org/abs/2302.03848v1)|null|
 |**2023-02-07**|**Improving CT Image Segmentation Accuracy Using StyleGAN Driven Data Augmentation**|Soham Bhosale et.al.|[2302.03285v1](http://arxiv.org/abs/2302.03285v1)|null|
