@@ -415,7 +415,7 @@
 |---|---|---|---|---|
 |**2023-02-20**|**Bilevel learning of regularization models and their discretization for image deblurring and super-resolution**|Tatiana A. Bubba et.al.|[2302.10056v1](http://arxiv.org/abs/2302.10056v1)|null|
 |**2023-02-20**|**Simulating analogue film damage to analyse and improve artefact restoration on high-resolution scans**|Daniela Ivanova et.al.|[2302.10004v1](http://arxiv.org/abs/2302.10004v1)|null|
-|**2023-02-19**|**Mixed Hierarchy Network for Image Restoration**|Hu Gao et.al.|[2302.09554v1](http://arxiv.org/abs/2302.09554v1)|**[link](https://github.com/tombs98/mhnet)**|
+|**2023-02-21**|**Mixed Hierarchy Network for Image Restoration**|Hu Gao et.al.|[2302.09554v2](http://arxiv.org/abs/2302.09554v2)|**[link](https://github.com/tombs98/mhnet)**|
 |**2023-02-13**|**Robust Unsupervised StyleGAN Image Restoration**|Yohan Poirier-Ginter et.al.|[2302.06733v1](http://arxiv.org/abs/2302.06733v1)|null|
 |**2023-02-12**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v1](http://arxiv.org/abs/2302.05872v1)|null|
 |**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
@@ -661,7 +661,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-17**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v1](http://arxiv.org/abs/2302.09119v1)|null|
+|**2023-02-21**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v2](http://arxiv.org/abs/2302.09119v2)|null|
 |**2023-02-17**|**Paint it Black: Generating paintings from text descriptions**|Mahnoor Shahid et.al.|[2302.08808v1](http://arxiv.org/abs/2302.08808v1)|null|
 |**2023-02-16**|**Conversation Style Transfer using Few-Shot Learning**|Shamik Roy et.al.|[2302.08362v1](http://arxiv.org/abs/2302.08362v1)|null|
 |**2023-02-14**|**DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**|Shidong Cao et.al.|[2302.06826v1](http://arxiv.org/abs/2302.06826v1)|**[link](https://github.com/rem105-210/difffashion)**|
