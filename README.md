@@ -662,13 +662,13 @@
 |**2022-11-22**|**SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2211.12254v1](http://arxiv.org/abs/2211.12254v1)|null|
 |**2022-12-06**|**Coarse-to-fine Task-driven Inpainting for Geoscience Images**|Huiming Sun et.al.|[2211.11059v3](http://arxiv.org/abs/2211.11059v3)|null|
 |**2022-11-12**|**Line Drawing Guided Progressive Inpainting of Mural Damages**|Luxi Li et.al.|[2211.06649v1](http://arxiv.org/abs/2211.06649v1)|**[link](https://github.com/qinnzou/mural-image-inpainting)**|
-|**2022-11-12**|**Data-driven Approach for Automatically Correcting Faulty Road Maps**|Soojung Hong et.al.|[2211.06544v1](http://arxiv.org/abs/2211.06544v1)|null|
+|**2023-02-23**|**Data-driven Approach for Automatically Correcting Faulty Road Maps**|Soojung Hong et.al.|[2211.06544v2](http://arxiv.org/abs/2211.06544v2)|null|
 |**2022-11-09**|**3DFill:Reference-guided Image Inpainting by Self-supervised 3D Image Alignment**|Liang Zhao et.al.|[2211.04831v1](http://arxiv.org/abs/2211.04831v1)|null|
 |**2022-11-04**|**Contrastive Learning for Diverse Disentangled Foreground Generation**|Yuheng Li et.al.|[2211.02707v1](http://arxiv.org/abs/2211.02707v1)|null|
 |**2022-10-31**|**A General Decomposition Method for a Convex Problem Related to Total Variation Minimization**|Stephan Hilb et.al.|[2211.00101v1](http://arxiv.org/abs/2211.00101v1)|null|
 |**2022-10-28**|**Thermal Infrared Image Inpainting via Edge-Aware Guidance**|Zeyu Wang et.al.|[2210.16000v1](http://arxiv.org/abs/2210.16000v1)|null|
 |**2022-10-23**|**Facial De-occlusion Network for Virtual Telepresence Systems**|Surabhi Gupta et.al.|[2210.12622v1](http://arxiv.org/abs/2210.12622v1)|null|
-|**2022-10-12**|**ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors**|Chenjie Cao et.al.|[2210.05950v1](http://arxiv.org/abs/2210.05950v1)|null|
+|**2023-02-23**|**ZITS++: Image Inpainting by Improving the Incremental Transformer on Structural Priors**|Chenjie Cao et.al.|[2210.05950v2](http://arxiv.org/abs/2210.05950v2)|null|
 |**2022-10-12**|**Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image**|Zhaoxuan Zhang et.al.|[2210.05891v1](http://arxiv.org/abs/2210.05891v1)|null|
 |**2022-09-29**|**Spherical Image Inpainting with Frame Transformation and Data-driven Prior Deep Networks**|Jianfei Li et.al.|[2209.14604v1](http://arxiv.org/abs/2209.14604v1)|null|
 |**2022-09-29**|**Semantics-Guided Object Removal for Facial Images: with Broad Applicability and Robust Style Preservation**|Jookyung Song et.al.|[2209.14479v1](http://arxiv.org/abs/2209.14479v1)|null|
