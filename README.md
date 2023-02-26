@@ -76,7 +76,7 @@
 |**2023-02-14**|**Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data**|Minshuo Chen et.al.|[2302.07194v1](http://arxiv.org/abs/2302.07194v1)|null|
 |**2023-02-14**|**Universal Guidance for Diffusion Models**|Arpit Bansal et.al.|[2302.07121v1](http://arxiv.org/abs/2302.07121v1)|**[link](https://github.com/arpitbansal297/universal-guided-diffusion)**|
 |**2023-02-14**|**Direct numerical simulations of the Taylor-Green Vortex interacting with a hydrogen diffusion flame: Reynolds number and non-unity Lewis number effects**|Yifan Xu et.al.|[2302.07006v1](http://arxiv.org/abs/2302.07006v1)|null|
-|**2023-02-14**|**DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided Latent Diffusion Model**|Yichen Peng et.al.|[2302.06908v1](http://arxiv.org/abs/2302.06908v1)|null|
+|**2023-02-14**|**DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided Latent Diffusion Model**|Yichen Peng et.al.|[2302.06908v1](http://arxiv.org/abs/2302.06908v1)|**[link](https://github.com/puckikk1202/difffacesketch2023)**|
 |**2023-02-14**|**Text-Guided Scene Sketch-to-Photo Synthesis**|AprilPyone MaungMaung et.al.|[2302.06883v1](http://arxiv.org/abs/2302.06883v1)|null|
 |**2023-02-14**|**DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**|Shidong Cao et.al.|[2302.06826v1](http://arxiv.org/abs/2302.06826v1)|**[link](https://github.com/rem105-210/difffashion)**|
 |**2023-02-17**|**Symbolic Discovery of Optimization Algorithms**|Xiangning Chen et.al.|[2302.06675v2](http://arxiv.org/abs/2302.06675v2)|**[link](https://github.com/google/automl/tree/master/lion)**|
