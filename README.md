@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-23**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v1](http://arxiv.org/abs/2302.12244v1)|null|
+|**2023-02-24**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v2](http://arxiv.org/abs/2302.12244v2)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
 |**2023-02-23**|**Designing an Encoder for Fast Personalization of Text-to-Image Models**|Rinon Gal et.al.|[2302.12228v1](http://arxiv.org/abs/2302.12228v1)|null|
 |**2023-02-23**|**Region-Aware Diffusion for Zero-shot Text-driven Image Editing**|Nisha Huang et.al.|[2302.11797v1](http://arxiv.org/abs/2302.11797v1)|**[link](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)**|
