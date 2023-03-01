@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-23**|**Electrostatic effect due to patch potentials between closely spaced surfaces**|Jun Ke et.al.|[2302.14826v1](http://arxiv.org/abs/2302.14826v1)|null|
+|**2023-02-28**|**Monocular Depth Estimation using Diffusion Models**|Saurabh Saxena et.al.|[2302.14816v1](http://arxiv.org/abs/2302.14816v1)|null|
+|**2023-02-28**|**Dissolving Is Amplifying: Towards Fine-Grained Anomaly Detection**|Jian Shi et.al.|[2302.14696v1](http://arxiv.org/abs/2302.14696v1)|null|
+|**2023-02-28**|**Synthesizing Mixed-type Electronic Health Records using Diffusion Models**|Taha Ceritli et.al.|[2302.14679v1](http://arxiv.org/abs/2302.14679v1)|null|
+|**2023-02-28**|**Towards Enhanced Controllability of Diffusion Models**|Wonwoong Cho et.al.|[2302.14368v1](http://arxiv.org/abs/2302.14368v1)|null|
 |**2023-02-27**|**Electric Vehicle Sales Forecasting Model Considering Green Premium: A Chinese Market-based Perspective**|Zhi Li et.al.|[2302.13893v1](http://arxiv.org/abs/2302.13893v1)|null|
 |**2023-02-27**|**Differentially Private Diffusion Models Generate Useful Synthetic Images**|Sahra Ghalebikesabi et.al.|[2302.13861v1](http://arxiv.org/abs/2302.13861v1)|null|
 |**2023-02-27**|**Denoising Diffusion Samplers**|Francisco Vargas et.al.|[2302.13834v1](http://arxiv.org/abs/2302.13834v1)|null|
@@ -155,6 +160,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
+|**2023-02-28**|**GRAN: Ghost Residual Attention Network for Single Image Super Resolution**|Axi Niu et.al.|[2302.14557v1](http://arxiv.org/abs/2302.14557v1)|null|
+|**2023-02-28**|**BrainBERT: Self-supervised representation learning for intracranial recordings**|Christopher Wang et.al.|[2302.14367v1](http://arxiv.org/abs/2302.14367v1)|null|
+|**2023-02-27**|**Scalable precision wide-field imaging in radio interferometry: I. uSARA validated on ASKAP data**|Amanda G. Wilber et.al.|[2302.14148v1](http://arxiv.org/abs/2302.14148v1)|null|
 |**2023-01-27**|**Elastostatics with multi-layer metamaterial structures and an algebraic framework for polariton resonances**|Youjun Deng et.al.|[2302.13983v1](http://arxiv.org/abs/2302.13983v1)|null|
 |**2023-02-27**|**Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution**|Long Sun et.al.|[2302.13800v1](http://arxiv.org/abs/2302.13800v1)|**[link](https://github.com/sunny2109/safmn)**|
 |**2023-02-27**|**Learning to Super-Resolve Blurry Images with Events**|Lei Yu et.al.|[2302.13766v1](http://arxiv.org/abs/2302.13766v1)|**[link](https://github.com/shinywang33/esl-net-plusplus)**|
@@ -244,6 +253,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
+|**2023-02-28**|**GRAN: Ghost Residual Attention Network for Single Image Super Resolution**|Axi Niu et.al.|[2302.14557v1](http://arxiv.org/abs/2302.14557v1)|null|
 |**2023-02-27**|**Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution**|Long Sun et.al.|[2302.13800v1](http://arxiv.org/abs/2302.13800v1)|**[link](https://github.com/sunny2109/safmn)**|
 |**2023-02-14**|**CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution**|Axi Niu et.al.|[2302.12831v1](http://arxiv.org/abs/2302.12831v1)|null|
 |**2023-02-22**|**On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**|Ngoc Long Nguyen et.al.|[2302.11494v1](http://arxiv.org/abs/2302.11494v1)|null|
@@ -374,6 +385,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-01-17**|**An Energy-Efficient Reconfigurable Autoencoder Implementation on FPGA**|Murat Isik et.al.|[2301.07050v1](http://arxiv.org/abs/2301.07050v1)|null|
 |**2022-12-27**|**Semi-supervised Fashion Compatibility Prediction by Color Distortion Prediction**|Ling Xiao et.al.|[2212.14680v1](http://arxiv.org/abs/2212.14680v1)|null|
 |**2022-12-29**|**OrthoGAN:High-Precision Image Generation for Teeth Orthodontic Visualization**|Feihong Shen et.al.|[2212.14162v1](http://arxiv.org/abs/2212.14162v1)|null|
@@ -464,6 +476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-02-27**|**Self-Supervised Pre-Training for Deep Image Prior-Based Robust PET Image Denoising**|Yuya Onishi et.al.|[2302.13546v1](http://arxiv.org/abs/2302.13546v1)|null|
 |**2023-02-24**|**RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection**|Shancong Mou et.al.|[2302.12464v1](http://arxiv.org/abs/2302.12464v1)|null|
 |**2023-02-23**|**Smaller Is Bigger: Rethinking the Embedding Rate of Deep Hiding**|Han Li et.al.|[2302.11918v1](http://arxiv.org/abs/2302.11918v1)|null|
@@ -532,6 +545,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**Feasibility of the J-PET to monitor range of therapeutic proton beams**|Jakub Baran et.al.|[2302.14359v1](http://arxiv.org/abs/2302.14359v1)|null|
+|**2023-02-28**|**Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes**|Jihyun Lee et.al.|[2302.14348v1](http://arxiv.org/abs/2302.14348v1)|**[link](https://github.com/jyunlee/im2hands)**|
 |**2023-02-26**|**Robust Cross-domain CT Image Reconstruction via Bayesian Noise Uncertainty Alignment**|Kecheng Chen et.al.|[2302.13251v1](http://arxiv.org/abs/2302.13251v1)|null|
 |**2023-02-25**|**Self-Supervised and Supervised Deep Learning for PET Image Reconstruction**|Andrew J. Reader et.al.|[2302.13086v1](http://arxiv.org/abs/2302.13086v1)|null|
 |**2023-02-28**|**Raw Image Reconstruction with Learned Compact Metadata**|Yufei Wang et.al.|[2302.12995v2](http://arxiv.org/abs/2302.12995v2)|null|
@@ -668,6 +683,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
 |**2023-02-24**|**RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection**|Shancong Mou et.al.|[2302.12464v1](http://arxiv.org/abs/2302.12464v1)|null|
 |**2023-02-20**|**Simulating analogue film damage to analyse and improve artefact restoration on high-resolution scans**|Daniela Ivanova et.al.|[2302.10004v1](http://arxiv.org/abs/2302.10004v1)|null|
 |**2023-02-15**|**Road Redesign Technique Achieving Enhanced Road Safety by Inpainting with a Diffusion Model**|Sumit Mishra et.al.|[2302.07440v1](http://arxiv.org/abs/2302.07440v1)|null|
@@ -729,6 +745,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-24**|**Example Forgetting: A Novel Approach to Explain and Interpret Deep Neural Networks in Seismic Interpretation**|Ryan Benkert et.al.|[2302.14644v1](http://arxiv.org/abs/2302.14644v1)|null|
+|**2023-02-28**|**Towards Enhanced Controllability of Diffusion Models**|Wonwoong Cho et.al.|[2302.14368v1](http://arxiv.org/abs/2302.14368v1)|null|
 |**2023-02-27**|**Cross-modal Face- and Voice-style Transfer**|Naoya Takahashi et.al.|[2302.13838v1](http://arxiv.org/abs/2302.13838v1)|null|
 |**2023-02-21**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v2](http://arxiv.org/abs/2302.09119v2)|null|
 |**2023-02-17**|**Paint it Black: Generating paintings from text descriptions**|Mahnoor Shahid et.al.|[2302.08808v1](http://arxiv.org/abs/2302.08808v1)|null|
