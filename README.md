@@ -534,7 +534,7 @@
 |---|---|---|---|---|
 |**2023-02-26**|**Robust Cross-domain CT Image Reconstruction via Bayesian Noise Uncertainty Alignment**|Kecheng Chen et.al.|[2302.13251v1](http://arxiv.org/abs/2302.13251v1)|null|
 |**2023-02-25**|**Self-Supervised and Supervised Deep Learning for PET Image Reconstruction**|Andrew J. Reader et.al.|[2302.13086v1](http://arxiv.org/abs/2302.13086v1)|null|
-|**2023-02-25**|**Raw Image Reconstruction with Learned Compact Metadata**|Yufei Wang et.al.|[2302.12995v1](http://arxiv.org/abs/2302.12995v1)|null|
+|**2023-02-28**|**Raw Image Reconstruction with Learned Compact Metadata**|Yufei Wang et.al.|[2302.12995v2](http://arxiv.org/abs/2302.12995v2)|null|
 |**2023-02-25**|**BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI**|Yulong Liu et.al.|[2302.12971v1](http://arxiv.org/abs/2302.12971v1)|null|
 |**2023-02-15**|**Plug-and-Play Deep Energy Model for Inverse problems**|Jyothi Rikabh Chand et.al.|[2302.11570v1](http://arxiv.org/abs/2302.11570v1)|null|
 |**2023-02-21**|**LMPDNet: TOF-PET list-mode image reconstruction using model-based deep learning method**|Chenxu Li et.al.|[2302.10481v1](http://arxiv.org/abs/2302.10481v1)|null|
