@@ -546,7 +546,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-28**|**Feasibility of the J-PET to monitor range of therapeutic proton beams**|Jakub Baran et.al.|[2302.14359v1](http://arxiv.org/abs/2302.14359v1)|null|
-|**2023-02-28**|**Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes**|Jihyun Lee et.al.|[2302.14348v1](http://arxiv.org/abs/2302.14348v1)|**[link](https://github.com/jyunlee/im2hands)**|
+|**2023-03-01**|**Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes**|Jihyun Lee et.al.|[2302.14348v2](http://arxiv.org/abs/2302.14348v2)|**[link](https://github.com/jyunlee/im2hands)**|
 |**2023-02-26**|**Robust Cross-domain CT Image Reconstruction via Bayesian Noise Uncertainty Alignment**|Kecheng Chen et.al.|[2302.13251v1](http://arxiv.org/abs/2302.13251v1)|null|
 |**2023-02-25**|**Self-Supervised and Supervised Deep Learning for PET Image Reconstruction**|Andrew J. Reader et.al.|[2302.13086v1](http://arxiv.org/abs/2302.13086v1)|null|
 |**2023-02-28**|**Raw Image Reconstruction with Learned Compact Metadata**|Yufei Wang et.al.|[2302.12995v2](http://arxiv.org/abs/2302.12995v2)|null|
@@ -747,7 +747,7 @@
 |---|---|---|---|---|
 |**2023-02-24**|**Example Forgetting: A Novel Approach to Explain and Interpret Deep Neural Networks in Seismic Interpretation**|Ryan Benkert et.al.|[2302.14644v1](http://arxiv.org/abs/2302.14644v1)|null|
 |**2023-02-28**|**Towards Enhanced Controllability of Diffusion Models**|Wonwoong Cho et.al.|[2302.14368v1](http://arxiv.org/abs/2302.14368v1)|null|
-|**2023-02-27**|**Cross-modal Face- and Voice-style Transfer**|Naoya Takahashi et.al.|[2302.13838v1](http://arxiv.org/abs/2302.13838v1)|null|
+|**2023-03-01**|**Cross-modal Face- and Voice-style Transfer**|Naoya Takahashi et.al.|[2302.13838v2](http://arxiv.org/abs/2302.13838v2)|null|
 |**2023-02-21**|**A Review on Generative Adversarial Networks for Data Augmentation in Person Re-Identification Systems**|Victor Uc-Cetina et.al.|[2302.09119v2](http://arxiv.org/abs/2302.09119v2)|null|
 |**2023-02-17**|**Paint it Black: Generating paintings from text descriptions**|Mahnoor Shahid et.al.|[2302.08808v1](http://arxiv.org/abs/2302.08808v1)|null|
 |**2023-02-16**|**Conversation Style Transfer using Few-Shot Learning**|Shamik Roy et.al.|[2302.08362v1](http://arxiv.org/abs/2302.08362v1)|null|
