@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.02
+## Updated on 2023.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -50,7 +50,7 @@ layout: default
 |**2022-12-19**|**Mu $^{2}$ SLAM: Multitask, Multilingual Speech and Language Models**|Yong Cheng et.al.|[2212.09553v1](http://arxiv.org/abs/2212.09553v1)|null|
 |**2022-12-16**|**Cartographer_glass: 2D Graph SLAM Framework using LiDAR for Glass Environments**|Lasitha Weerakoon et.al.|[2212.08633v1](http://arxiv.org/abs/2212.08633v1)|null|
 |**2022-12-16**|**rWiFiSLAM: Effective WiFi Ranging based SLAM System in Ambient Environments**|Bo Wei et.al.|[2212.08418v1](http://arxiv.org/abs/2212.08418v1)|null|
-|**2022-12-15**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v1](http://arxiv.org/abs/2212.07595v1)|**[link](https://github.com/xukuanHIT/AirVO)**|
+|**2023-03-02**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595v2](http://arxiv.org/abs/2212.07595v2)|**[link](https://github.com/xukuanHIT/AirVO)**|
 |**2022-12-14**|**Autonomous Vehicle Navigation with LIDAR using Path Planning**|Rahul M K et.al.|[2212.07155v1](http://arxiv.org/abs/2212.07155v1)|null|
 |**2022-12-14**|**RIS-Enabled and Access-Point-Free Simultaneous Radio Localization and Mapping**|Hyowon Kim et.al.|[2212.07141v1](http://arxiv.org/abs/2212.07141v1)|null|
 |**2022-12-13**|**Know What You Don't Know: Consistency in Sliding Window Filtering with Unobservable States Applied to Visual-Inertial SLAM (Extended Version)**|Daniil Lisus et.al.|[2212.06923v1](http://arxiv.org/abs/2212.06923v1)|null|
