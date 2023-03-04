@@ -14,6 +14,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
+arxiv_url = "http://arxiv.org/"
 
 def load_config(config_file:str) -> dict:
     '''
@@ -120,7 +121,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id
         else:
             paper_key = paper_id[0:ver_pos]    
-
+        paper_url = arxiv_url + 'abs/' + paper_key
+        
         try:
             # source code link    
             r = requests.get(code_url).json()
@@ -134,13 +136,13 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #        repo_url = get_code_link(paper_key)
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
+                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url)
+                       update_time,paper_title,paper_first_author,paper_key,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
