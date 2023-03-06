@@ -187,7 +187,7 @@
 |**2023-02-14**|**CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution**|Axi Niu et.al.|[2302.12831v1](http://arxiv.org/abs/2302.12831v1)|null|
 |**2023-02-27**|**Joint Learning of Blind Super-Resolution and Crack Segmentation for Realistic Degraded Images**|Yuki Kondo et.al.|[2302.12491v2](http://arxiv.org/abs/2302.12491v2)|null|
 |**2023-02-22**|**On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**|Ngoc Long Nguyen et.al.|[2302.11494v1](http://arxiv.org/abs/2302.11494v1)|null|
-|**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
+|**2023-03-03**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v2](http://arxiv.org/abs/2302.11184v2)|null|
 |**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
 |**2023-02-21**|**Posterior Annealing: Fast Calibrated Uncertainty for Regression**|Uddeshya Upadhyay et.al.|[2302.11012v1](http://arxiv.org/abs/2302.11012v1)|null|
 |**2023-02-21**|**LIT-Former: Linking In-plane and Through-plane Transformers for Simultaneous CT Image Denoising and Deblurring**|Zhihao Chen et.al.|[2302.10630v1](http://arxiv.org/abs/2302.10630v1)|null|
@@ -273,7 +273,7 @@
 |**2023-02-27**|**Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution**|Long Sun et.al.|[2302.13800v1](http://arxiv.org/abs/2302.13800v1)|**[link](https://github.com/sunny2109/safmn)**|
 |**2023-02-14**|**CDPMSR: Conditional Diffusion Probabilistic Models for Single Image Super-Resolution**|Axi Niu et.al.|[2302.12831v1](http://arxiv.org/abs/2302.12831v1)|null|
 |**2023-02-22**|**On The Role of Alias and Band-Shift for Sentinel-2 Super-Resolution**|Ngoc Long Nguyen et.al.|[2302.11494v1](http://arxiv.org/abs/2302.11494v1)|null|
-|**2023-02-22**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v1](http://arxiv.org/abs/2302.11184v1)|null|
+|**2023-03-03**|**A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning**|Jin Zhu et.al.|[2302.11184v2](http://arxiv.org/abs/2302.11184v2)|null|
 |**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
 |**2023-02-21**|**Posterior Annealing: Fast Calibrated Uncertainty for Regression**|Uddeshya Upadhyay et.al.|[2302.11012v1](http://arxiv.org/abs/2302.11012v1)|null|
 |**2023-02-21**|**Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network**|Shipeng Zhu et.al.|[2302.10414v1](http://arxiv.org/abs/2302.10414v1)|**[link](https://github.com/jdfxzzy/dpmn)**|
