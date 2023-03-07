@@ -30,7 +30,7 @@
 |**2023-03-03**|**Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion**|Shaheer U. Saeed et.al.|[2303.02094v1](http://arxiv.org/abs/2303.02094v1)|null|
 |**2023-03-03**|**AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing**|Hongyang Du et.al.|[2303.01896v1](http://arxiv.org/abs/2303.01896v1)|null|
 |**2023-03-03**|**Diffusion Models are Minimax Optimal Distribution Estimators**|Kazusato Oko et.al.|[2303.01861v1](http://arxiv.org/abs/2303.01861v1)|null|
-|**2023-03-03**|**Word-As-Image for Semantic Typography**|Shir Iluz et.al.|[2303.01818v1](http://arxiv.org/abs/2303.01818v1)|null|
+|**2023-03-06**|**Word-As-Image for Semantic Typography**|Shir Iluz et.al.|[2303.01818v2](http://arxiv.org/abs/2303.01818v2)|null|
 |**2023-03-03**|**A chemotaxis reaction-diffusion model for Multiple Sclerosis with Allee effect**|Marzia Bisi et.al.|[2303.01764v1](http://arxiv.org/abs/2303.01764v1)|null|
 |**2023-03-02**|**Defending against Adversarial Audio via Diffusion Model**|Shutong Wu et.al.|[2303.01507v1](http://arxiv.org/abs/2303.01507v1)|**[link](https://github.com/cychomatica/audiopure)**|
 |**2023-03-02**|**Consistency Models**|Yang Song et.al.|[2303.01469v1](http://arxiv.org/abs/2303.01469v1)|null|
@@ -60,7 +60,7 @@
 |**2023-02-23**|**Modeling Molecular Structures with Intrinsic Diffusion Models**|Gabriele Corso et.al.|[2302.12255v1](http://arxiv.org/abs/2302.12255v1)|**[link](https://github.com/gcorso/diffdock)**|
 |**2023-02-24**|**To the Noise and Back: Diffusion for Shared Autonomy**|Takuma Yoneda et.al.|[2302.12244v2](http://arxiv.org/abs/2302.12244v2)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
-|**2023-02-26**|**Designing an Encoder for Fast Personalization of Text-to-Image Models**|Rinon Gal et.al.|[2302.12228v2](http://arxiv.org/abs/2302.12228v2)|null|
+|**2023-03-05**|**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models**|Rinon Gal et.al.|[2302.12228v3](http://arxiv.org/abs/2302.12228v3)|null|
 |**2023-02-23**|**Region-Aware Diffusion for Zero-shot Text-driven Image Editing**|Nisha Huang et.al.|[2302.11797v1](http://arxiv.org/abs/2302.11797v1)|**[link](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)**|
 |**2023-02-23**|**Controlled and Conditional Text to Image Generation with Diffusion Prior**|Pranav Aggarwal et.al.|[2302.11710v1](http://arxiv.org/abs/2302.11710v1)|null|
 |**2023-02-22**|**Uncovering Bias in Face Generation Models**|Cristian Muñoz et.al.|[2302.11562v1](http://arxiv.org/abs/2302.11562v1)|null|
