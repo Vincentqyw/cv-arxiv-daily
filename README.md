@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-08**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v1](http://arxiv.org/abs/2303.04803v1)|null|
+|**2023-03-09**|**Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models**|Jiarui Xu et.al.|[2303.04803v2](http://arxiv.org/abs/2303.04803v2)|null|
 |**2023-03-08**|**Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation**|Paul Hagemann et.al.|[2303.04772v1](http://arxiv.org/abs/2303.04772v1)|null|
 |**2023-03-08**|**Video-P2P: Video Editing with Cross-attention Control**|Shaoteng Liu et.al.|[2303.04761v1](http://arxiv.org/abs/2303.04761v1)|null|
 |**2023-03-08**|**Diffusing Gaussian Mixtures for Generating Categorical Data**|Florence Regol et.al.|[2303.04635v1](http://arxiv.org/abs/2303.04635v1)|null|
