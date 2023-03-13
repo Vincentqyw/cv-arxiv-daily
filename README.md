@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**EEG Synthetic Data Generation Using Probabilistic Diffusion Models**|Giulio Tosato et.al.|[2303.06068v1](http://arxiv.org/abs/2303.06068v1)|null|
+|**2023-03-10**|**Importance of Aligning Training Strategy with Evaluation for Diffusion Models in 3D Multiclass Segmentation**|Yunguan Fu et.al.|[2303.06040v1](http://arxiv.org/abs/2303.06040v1)|**[link](https://github.com/mathpluscode/imgx-diffseg)**|
+|**2023-03-10**|**GECCO: Geometrically-Conditioned Point Diffusion Models**|Michał J. Tyszkiewicz et.al.|[2303.05916v1](http://arxiv.org/abs/2303.05916v1)|null|
+|**2023-03-10**|**TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets**|Weixin Chen et.al.|[2303.05762v1](http://arxiv.org/abs/2303.05762v1)|**[link](https://github.com/chenweixin107/trojdiff)**|
+|**2023-03-10**|**Fast Diffusion Sampler for Inverse Problems by Geometric Decomposition**|Hyungjin Chung et.al.|[2303.05754v1](http://arxiv.org/abs/2303.05754v1)|null|
+|**2023-03-10**|**EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models**|Hongyi Yuan et.al.|[2303.05656v1](http://arxiv.org/abs/2303.05656v1)|**[link](https://github.com/sczzz3/ehrdiff)**|
+|**2023-03-09**|**General relativistic precession and the long-term stability of the solar system**|Garett Brown et.al.|[2303.05567v1](http://arxiv.org/abs/2303.05567v1)|null|
 |**2023-03-09**|**Scaling up GANs for Text-to-Image Synthesis**|Minguk Kang et.al.|[2303.05511v1](http://arxiv.org/abs/2303.05511v1)|null|
 |**2023-03-09**|**PC-JeDi: Diffusion for Particle Cloud Generation in High Energy Physics**|Matthew Leigh et.al.|[2303.05376v1](http://arxiv.org/abs/2303.05376v1)|**[link](https://github.com/rodem-hep/pc-jedi)**|
 |**2023-03-09**|**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**|Anchit Gupta et.al.|[2303.05371v1](http://arxiv.org/abs/2303.05371v1)|null|
@@ -203,6 +210,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-10**|**StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces**|Shuai Yang et.al.|[2303.06146v1](http://arxiv.org/abs/2303.06146v1)|**[link](https://github.com/williamyang1991/styleganex)**|
+|**2023-03-10**|**Handheld Burst Super-Resolution Meets Multi-Exposure Satellite Imagery**|Jamy Lafenetre et.al.|[2303.05879v1](http://arxiv.org/abs/2303.05879v1)|null|
+|**2023-03-10**|**Generalized Diffusion MRI Denoising and Super-Resolution using Swin Transformers**|Amir Sadikov et.al.|[2303.05686v1](http://arxiv.org/abs/2303.05686v1)|**[link](https://github.com/ucsfncl/dmri-swin)**|
+|**2023-03-09**|**EfficientTempNet: Temporal Super-Resolution of Radar Rainfall**|Bekir Z Demiray et.al.|[2303.05552v1](http://arxiv.org/abs/2303.05552v1)|null|
 |**2023-03-09**|**Local Implicit Normalizing Flow for Arbitrary-Scale Image Super-Resolution**|Jie-En Yao et.al.|[2303.05156v1](http://arxiv.org/abs/2303.05156v1)|null|
 |**2023-03-09**|**LMR: A Large-Scale Multi-Reference Dataset for Reference-based Super-Resolution**|Lin Zhang et.al.|[2303.04970v1](http://arxiv.org/abs/2303.04970v1)|**[link](https://github.com/wdmwhh/MRefSR)**|
 |**2023-03-10**|**Quantum Microscopy of Cancer Cells at the Heisenberg Limit**|Zhe He et.al.|[2303.04948v2](http://arxiv.org/abs/2303.04948v2)|null|
