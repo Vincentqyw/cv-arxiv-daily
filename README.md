@@ -259,7 +259,7 @@
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
 |**2023-02-15**|**LiveHand: Real-time and Photorealistic Neural Hand Rendering**|Akshay Mundra et.al.|[2302.07672v1](http://arxiv.org/abs/2302.07672v1)|null|
-|**2023-02-15**|**Enhancing Biogenic Emission Maps Using Deep Learning**|Antonio Giganti et.al.|[2302.07570v1](http://arxiv.org/abs/2302.07570v1)|null|
+|**2023-03-13**|**Super-Resolution of BVOC Maps by Adapting Deep Learning Methods**|Antonio Giganti et.al.|[2302.07570v2](http://arxiv.org/abs/2302.07570v2)|null|
 |**2023-02-14**|**Atomic physics on a 50 nm scale: Realization of a bilayer system of dipolar atoms**|Li Du et.al.|[2302.07209v1](http://arxiv.org/abs/2302.07209v1)|null|
 |**2023-02-13**|**Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance**|Zeqiang Lai et.al.|[2302.06298v1](http://arxiv.org/abs/2302.06298v1)|null|
 |**2023-02-13**|**Variational Mixture of HyperGenerators for Learning Distributions Over Functions**|Batuhan Koyuncu et.al.|[2302.06223v1](http://arxiv.org/abs/2302.06223v1)|null|
@@ -344,7 +344,7 @@
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
 |**2023-02-16**|**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**|Keyan Chen et.al.|[2302.08046v1](http://arxiv.org/abs/2302.08046v1)|**[link](https://github.com/KyanChen/FunSR)**|
 |**2023-02-15**|**Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild**|Hshmat Sahak et.al.|[2302.07864v1](http://arxiv.org/abs/2302.07864v1)|null|
-|**2023-02-15**|**Enhancing Biogenic Emission Maps Using Deep Learning**|Antonio Giganti et.al.|[2302.07570v1](http://arxiv.org/abs/2302.07570v1)|null|
+|**2023-03-13**|**Super-Resolution of BVOC Maps by Adapting Deep Learning Methods**|Antonio Giganti et.al.|[2302.07570v2](http://arxiv.org/abs/2302.07570v2)|null|
 |**2023-02-13**|**Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance**|Zeqiang Lai et.al.|[2302.06298v1](http://arxiv.org/abs/2302.06298v1)|null|
 |**2023-02-17**|**Hypernetworks build Implicit Neural Representations of Sounds**|Filip Szatkowski et.al.|[2302.04959v2](http://arxiv.org/abs/2302.04959v2)|null|
 |**2023-02-09**|**OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer**|Fanghua Yu et.al.|[2302.03453v2](http://arxiv.org/abs/2302.03453v2)|**[link](https://github.com/fanghua-yu/osrt)**|
@@ -901,7 +901,7 @@
 |**2022-12-13**|**Deep Image Style Transfer from Freeform Text**|Tejas Santanam et.al.|[2212.06868v1](http://arxiv.org/abs/2212.06868v1)|null|
 |**2022-12-13**|**Style-Label-Free: Cross-Speaker Style Transfer by Quantized VAE and Speaker-wise Normalization in Speech Synthesis**|Chunyu Qiang et.al.|[2212.06397v1](http://arxiv.org/abs/2212.06397v1)|null|
 |**2022-12-08**|**All-to-key Attention for Arbitrary Style Transfer**|Mingrui Zhu et.al.|[2212.04105v1](http://arxiv.org/abs/2212.04105v1)|null|
-|**2022-12-06**|**PØDA: Prompt-driven Zero-shot Domain Adaptation**|Mohammad Fahes et.al.|[2212.03241v1](http://arxiv.org/abs/2212.03241v1)|**[link](https://github.com/astra-vision/poda)**|
+|**2023-03-13**|**PØDA: Prompt-driven Zero-shot Domain Adaptation**|Mohammad Fahes et.al.|[2212.03241v2](http://arxiv.org/abs/2212.03241v2)|**[link](https://github.com/astra-vision/poda)**|
 |**2022-12-06**|**Front-door Adjustment via Style Transfer for Out-of-distribution Generalisation**|Toan Nguyen et.al.|[2212.03063v1](http://arxiv.org/abs/2212.03063v1)|null|
 |**2022-12-06**|**Style transfer and classification in hebrew news items**|Nir Weingarten et.al.|[2212.03019v1](http://arxiv.org/abs/2212.03019v1)|null|
 |**2023-01-24**|**Using Decoupled Features for Photo-realistic Style Transfer**|Trevor D. Canham et.al.|[2212.02953v2](http://arxiv.org/abs/2212.02953v2)|**[link](https://github.com/trevorcanham/dcoupst)**|
