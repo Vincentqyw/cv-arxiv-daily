@@ -26,6 +26,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137v1](http://arxiv.org/abs/2303.08137v1)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
+|**2023-03-14**|**MeshDiffusion: Score-based Generative 3D Mesh Modeling**|Zhen Liu et.al.|[2303.08133v1](http://arxiv.org/abs/2303.08133v1)|null|
+|**2023-03-14**|**Editing Implicit Assumptions in Text-to-Image Diffusion Models**|Hadas Orgad et.al.|[2303.08084v1](http://arxiv.org/abs/2303.08084v1)|**[link](https://github.com/bahjat-kawar/time-diffusion)**|
+|**2023-03-14**|**Interpretable ODE-style Generative Diffusion Model via Force Field Construction**|Weiyang Jin et.al.|[2303.08063v1](http://arxiv.org/abs/2303.08063v1)|null|
+|**2023-03-14**|**Point Cloud Diffusion Models for Automatic Implant Generation**|Paul Friedrich et.al.|[2303.08061v1](http://arxiv.org/abs/2303.08061v1)|null|
+|**2023-03-14**|**Controllable Mesh Generation Through Sparse Latent Point Diffusion Models**|Zhaoyang Lyu et.al.|[2303.07938v1](http://arxiv.org/abs/2303.07938v1)|null|
+|**2023-03-14**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v1](http://arxiv.org/abs/2303.07937v1)|null|
+|**2023-03-14**|**Text-to-image Diffusion Model in Generative AI: A Survey**|Chenshuang Zhang et.al.|[2303.07909v1](http://arxiv.org/abs/2303.07909v1)|null|
+|**2023-03-14**|**Generalised Scale-Space Properties for Probabilistic Diffusion Models**|Pascal Peter et.al.|[2303.07900v1](http://arxiv.org/abs/2303.07900v1)|null|
+|**2023-03-14**|**DiffuseRoll: Multi-track multi-category music generation based on diffusion model**|Hongfei Wang et.al.|[2303.07794v1](http://arxiv.org/abs/2303.07794v1)|null|
+|**2023-03-14**|**Front propagation and global bifurcations in a multi-variable reaction-diffusion model**|Edgar Knobloch et.al.|[2303.07788v1](http://arxiv.org/abs/2303.07788v1)|null|
+|**2023-03-14**|**Existence of spiky stationary solutions to a mass-conserved reaction-diffusion model**|Yoshihisa Morita et.al.|[2303.07636v1](http://arxiv.org/abs/2303.07636v1)|null|
+|**2023-03-14**|**Diffusion Models in NLP: A Survey**|Yuansong Zhu et.al.|[2303.07576v1](http://arxiv.org/abs/2303.07576v1)|null|
 |**2023-03-13**|**Erasing Concepts from Diffusion Models**|Rohit Gandikota et.al.|[2303.07345v1](http://arxiv.org/abs/2303.07345v1)|**[link](https://github.com/rohitgandikota/erasing)**|
 |**2023-03-14**|**Parallel Vertex Diffusion for Unified Visual Grounding**|Zesen Cheng et.al.|[2303.07216v2](http://arxiv.org/abs/2303.07216v2)|null|
 |**2023-03-13**|**DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**|Zixiang Zhao et.al.|[2303.06840v1](http://arxiv.org/abs/2303.06840v1)|null|
@@ -660,6 +673,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-14**|**An optimal transport regularized model to image reconstruction problems**|Yiming Gao et.al.|[2303.07713v1](http://arxiv.org/abs/2303.07713v1)|null|
 |**2023-03-13**|**Multi PILOT: Learned Feasible Multiple Acquisition Trajectories for Dynamic MRI**|Tamir Shor et.al.|[2303.07150v1](http://arxiv.org/abs/2303.07150v1)|**[link](https://github.com/tamirshor7/multipilot)**|
 |**2023-03-12**|**Improving Masked Autoencoders by Learning Where to Mask**|Haijian Chen et.al.|[2303.06583v1](http://arxiv.org/abs/2303.06583v1)|null|
 |**2023-03-14**|**Recursive Generalization Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2303.06373v2](http://arxiv.org/abs/2303.06373v2)|null|
@@ -891,6 +905,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-14**|**Improving Prosody for Cross-Speaker Style Transfer by Semi-Supervised Style Extractor and Hierarchical Modeling in Speech Synthesis**|Chunyu Qiang et.al.|[2303.07711v1](http://arxiv.org/abs/2303.07711v1)|null|
+|**2023-03-14**|**3D Face Arbitrary Style Transfer**|Xiangwen Deng et.al.|[2303.07709v1](http://arxiv.org/abs/2303.07709v1)|null|
 |**2023-03-11**|**SEM-CS: Semantic CLIPStyler for Text-Based Image Style Transfer**|Chanda G Kamra et.al.|[2303.06334v1](http://arxiv.org/abs/2303.06334v1)|null|
 |**2023-03-07**|**End-to-end Face-swapping via Adaptive Latent Representation Learning**|Chenhao Lin et.al.|[2303.04186v1](http://arxiv.org/abs/2303.04186v1)|null|
 |**2023-03-06**|**Neural Style Transfer for Vector Graphics**|Valeria Efimova et.al.|[2303.03405v1](http://arxiv.org/abs/2303.03405v1)|null|
