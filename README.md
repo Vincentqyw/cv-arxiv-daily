@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**A Recipe for Watermarking Diffusion Models**|Yunqing Zhao et.al.|[2303.10137v1](http://arxiv.org/abs/2303.10137v1)|**[link](https://github.com/yunqing-me/watermarkdm)**|
+|**2023-03-17**|**Data-Centric Learning from Unlabeled Graphs with Diffusion Model**|Gang Liu et.al.|[2303.10108v1](http://arxiv.org/abs/2303.10108v1)|null|
+|**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073v1](http://arxiv.org/abs/2303.10073v1)|null|
+|**2023-03-17**|**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**|Can Qin et.al.|[2303.10056v1](http://arxiv.org/abs/2303.10056v1)|null|
+|**2023-03-17**|**Adversarial Counterfactual Visual Explanations**|Guillaume Jeanneret et.al.|[2303.09962v1](http://arxiv.org/abs/2303.09962v1)|null|
+|**2023-03-17**|**DiffusionRet: Generative Text-Video Retrieval with Diffusion Model**|Peng Jin et.al.|[2303.09867v1](http://arxiv.org/abs/2303.09867v1)|null|
+|**2023-03-17**|**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model**|Jiwen Yu et.al.|[2303.09833v1](http://arxiv.org/abs/2303.09833v1)|**[link](https://github.com/vvictoryuki/freedom)**|
+|**2023-03-17**|**DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery**|Chaofan Ma et.al.|[2303.09813v1](http://arxiv.org/abs/2303.09813v1)|null|
+|**2023-03-17**|**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**|Weilai Xiang et.al.|[2303.09769v1](http://arxiv.org/abs/2303.09769v1)|null|
+|**2023-03-17**|**Diffusing the Optimal Topology: A Generative Optimization Approach**|Giorgio Giannone et.al.|[2303.09760v1](http://arxiv.org/abs/2303.09760v1)|null|
+|**2023-03-16**|**SUD $^2$ : Supervision by Denoising Diffusion Models for Image Reconstruction**|Matthew A. Chan et.al.|[2303.09642v1](http://arxiv.org/abs/2303.09642v1)|null|
+|**2023-03-16**|**Denoising Diffusion Post-Processing for Low-Light Image Enhancement**|Savvas Panagiotou et.al.|[2303.09627v1](http://arxiv.org/abs/2303.09627v1)|**[link](https://github.com/savvaki/lpdm)**|
+|**2023-03-16**|**HIVE: Harnessing Human Feedback for Instructional Visual Editing**|Shu Zhang et.al.|[2303.09618v1](http://arxiv.org/abs/2303.09618v1)|null|
+|**2023-03-16**|**DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion**|Maham Tanveer et.al.|[2303.09604v1](http://arxiv.org/abs/2303.09604v1)|null|
 |**2023-03-16**|**Efficient Diffusion Training via Min-SNR Weighting Strategy**|Tiankai Hang et.al.|[2303.09556v1](http://arxiv.org/abs/2303.09556v1)|null|
 |**2023-03-16**|**Diffusion-HPC: Generating Synthetic Images with Realistic Humans**|Zhenzhen Weng et.al.|[2303.09541v1](http://arxiv.org/abs/2303.09541v1)|**[link](https://github.com/zzweng/diffusion_hpc)**|
 |**2023-03-16**|** $P+$ : Extended Textual Conditioning in Text-to-Image Generation**|Andrey Voynov et.al.|[2303.09522v1](http://arxiv.org/abs/2303.09522v1)|null|
@@ -255,6 +269,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Toward Super-Resolution for Appearance-Based Gaze Estimation**|Galen O'Shea et.al.|[2303.10151v1](http://arxiv.org/abs/2303.10151v1)|null|
+|**2023-03-17**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v1](http://arxiv.org/abs/2303.09826v1)|null|
+|**2023-03-17**|**SRFormer: Permuted Self-Attention for Single Image Super-Resolution**|Yupeng Zhou et.al.|[2303.09735v1](http://arxiv.org/abs/2303.09735v1)|null|
+|**2023-03-16**|**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**|Jiamian Wang et.al.|[2303.09650v1](http://arxiv.org/abs/2303.09650v1)|null|
 |**2023-03-16**|**Depth Super-Resolution from Explicit and Implicit High-Frequency Features**|Xin Qiao et.al.|[2303.09307v1](http://arxiv.org/abs/2303.09307v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
 |**2023-03-16**|**Mimic3D: Thriving 3D-Aware GANs via 3D-to-2D Imitation**|Xingyu Chen et.al.|[2303.09036v1](http://arxiv.org/abs/2303.09036v1)|null|
@@ -389,6 +407,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**SRFormer: Permuted Self-Attention for Single Image Super-Resolution**|Yupeng Zhou et.al.|[2303.09735v1](http://arxiv.org/abs/2303.09735v1)|null|
+|**2023-03-16**|**Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution**|Jiamian Wang et.al.|[2303.09650v1](http://arxiv.org/abs/2303.09650v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
 |**2023-03-16**|**ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution**|Shuyao Shang et.al.|[2303.08714v2](http://arxiv.org/abs/2303.08714v2)|null|
 |**2023-03-13**|**Synthesizing Realistic Image Restoration Training Pairs: A Diffusion Approach**|Tao Yang et.al.|[2303.06994v1](http://arxiv.org/abs/2303.06994v1)|null|
@@ -475,6 +495,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution**|Zixi Tuo et.al.|[2303.09826v1](http://arxiv.org/abs/2303.09826v1)|null|
 |**2023-03-15**|**DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation**|Chen Song et.al.|[2303.08977v1](http://arxiv.org/abs/2303.08977v1)|**[link](https://github.com/chensong1995/deblursr)**|
 |**2023-03-15**|**Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting**|Gen Li et.al.|[2303.08331v1](http://arxiv.org/abs/2303.08331v1)|null|
 |**2023-03-01**|**Online Video Streaming Super-Resolution with Adaptive Look-Up Table Fusion**|Guanghao Yin et.al.|[2303.00334v1](http://arxiv.org/abs/2303.00334v1)|null|
@@ -629,6 +650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction**|Jiawei Mao et.al.|[2303.09988v1](http://arxiv.org/abs/2303.09988v1)|null|
 |**2023-03-16**|**DiffIR: Efficient Diffusion Model for Image Restoration**|Bin Xia et.al.|[2303.09472v1](http://arxiv.org/abs/2303.09472v1)|null|
 |**2023-03-16**|**A Framework for Real-time Object Detection and Image Restoration**|Rui-Yang Ju et.al.|[2303.09190v1](http://arxiv.org/abs/2303.09190v1)|**[link](https://github.com/rubbbbbbbbby/swinoir)**|
 |**2023-03-16**|**Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**|Shirui Huang et.al.|[2303.09101v1](http://arxiv.org/abs/2303.09101v1)|**[link](https://github.com/huang-shirui/semi-uir)**|
@@ -713,6 +735,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Revisiting Image Reconstruction for Semi-supervised Semantic Segmentation**|Yuhao Lin et.al.|[2303.09794v1](http://arxiv.org/abs/2303.09794v1)|null|
+|**2023-03-16**|**SUD $^2$ : Supervision by Denoising Diffusion Models for Image Reconstruction**|Matthew A. Chan et.al.|[2303.09642v1](http://arxiv.org/abs/2303.09642v1)|null|
 |**2023-03-16**|**Fast 3D Volumetric Image Reconstruction from 2D MRI Slices by Parallel Processing**|Somoballi Ghoshal et.al.|[2303.09523v1](http://arxiv.org/abs/2303.09523v1)|null|
 |**2023-03-16**|**Stochastic gradient descent for linear inverse problems in variable exponent Lebesgue spaces**|Marta Lazzaretti et.al.|[2303.09182v1](http://arxiv.org/abs/2303.09182v1)|null|
 |**2023-03-15**|**Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels**|Jan Oscar Cross-Zamirski et.al.|[2303.08863v1](http://arxiv.org/abs/2303.08863v1)|null|
@@ -817,6 +841,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**SUD $^2$ : Supervision by Denoising Diffusion Models for Image Reconstruction**|Matthew A. Chan et.al.|[2303.09642v1](http://arxiv.org/abs/2303.09642v1)|null|
 |**2023-03-16**|**Learned Discretization Schemes for the Second-Order Total Generalized Variation**|Lea Bogensperger et.al.|[2303.09349v1](http://arxiv.org/abs/2303.09349v1)|null|
 |**2023-03-16**|**Hybrid Spectral Denoising Transformer with Learnable Query**|Zeqiang Lai et.al.|[2303.09040v1](http://arxiv.org/abs/2303.09040v1)|**[link](https://github.com/zeqiang-lai/hsdt)**|
 |**2023-03-11**|**Xformer: Hybrid X-Shaped Transformer for Image Denoising**|Jiale Zhang et.al.|[2303.06440v1](http://arxiv.org/abs/2303.06440v1)|null|
@@ -952,11 +977,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**DialogPaint: A Dialog-based Image Editing Model**|Jingxuan Wei et.al.|[2303.10073v1](http://arxiv.org/abs/2303.10073v1)|null|
+|**2023-03-17**|**Style Transfer for 2D Talking Head Animation**|Trong-Thang Pham et.al.|[2303.09799v1](http://arxiv.org/abs/2303.09799v1)|null|
 |**2023-03-16**|**3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI**|Xuzhe Zhang et.al.|[2303.09373v1](http://arxiv.org/abs/2303.09373v1)|null|
 |**2023-03-16**|**SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective**|Zipeng Xu et.al.|[2303.09270v1](http://arxiv.org/abs/2303.09270v1)|null|
 |**2023-03-16**|**StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model**|Zipeng Xu et.al.|[2303.09268v1](http://arxiv.org/abs/2303.09268v1)|null|
 |**2023-03-16**|**Generative Adversarial Network for Personalized Art Therapy in Melanoma Disease Management**|Lennart Jütte et.al.|[2303.09232v1](http://arxiv.org/abs/2303.09232v1)|null|
-|**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170v2](http://arxiv.org/abs/2303.09170v2)|null|
+|**2023-03-17**|**NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer**|Yaosen Chen et.al.|[2303.09170v2](http://arxiv.org/abs/2303.09170v2)|**[link](https://github.com/semchan/NLUT)**|
 |**2023-03-15**|**Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels**|Jan Oscar Cross-Zamirski et.al.|[2303.08863v1](http://arxiv.org/abs/2303.08863v1)|null|
 |**2023-03-15**|**Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer**|Serin Yang et.al.|[2303.08622v1](http://arxiv.org/abs/2303.08622v1)|null|
 |**2023-03-14**|**Improving Prosody for Cross-Speaker Style Transfer by Semi-Supervised Style Extractor and Hierarchical Modeling in Speech Synthesis**|Chunyu Qiang et.al.|[2303.07711v1](http://arxiv.org/abs/2303.07711v1)|null|
