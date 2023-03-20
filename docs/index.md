@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -825,7 +825,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-15**|**Descriptor Distillation for Efficient Multi-Robot SLAM**|Xiyue Guo et.al.|[2303.08420](http://arxiv.org/abs/2303.08420)|null|
 |**2023-03-15**|**From Local Binary Patterns to Pixel Difference Networks for Efficient Visual Representation Learning**|Zhuo Su et.al.|[2303.08414](http://arxiv.org/abs/2303.08414)|null|
-|**2023-03-09**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Pose Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
+|**2023-03-16**|**KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**|Yiye Chen et.al.|[2303.05617](http://arxiv.org/abs/2303.05617)|null|
 |**2023-03-07**|**External Camera-based Mobile Robot Pose Estimation for Collaborative Perception with Smart Edge Sensors**|Simon Bultmann et.al.|[2303.03797](http://arxiv.org/abs/2303.03797)|null|
 |**2023-02-26**|**PaRK-Detect: Towards Efficient Multi-Task Satellite Imagery Road Extraction via Patch-Wise Keypoints Detection**|Shenwei Xie et.al.|[2302.13263](http://arxiv.org/abs/2302.13263)|null|
 |**2023-02-24**|**Hybrid machine-learned homogenization: Bayesian data mining and convolutional neural networks**|Julian Lißner et.al.|[2302.12545](http://arxiv.org/abs/2302.12545)|null|
@@ -1072,7 +1072,7 @@ layout: default
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554](http://arxiv.org/abs/2303.09554)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553](http://arxiv.org/abs/2303.09553)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431](http://arxiv.org/abs/2303.09431)|null|
-|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412](http://arxiv.org/abs/2303.09412)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
+|**2023-03-17**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412](http://arxiv.org/abs/2303.09412)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153](http://arxiv.org/abs/2303.09153)|null|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808](http://arxiv.org/abs/2303.08808)|null|
 |**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717](http://arxiv.org/abs/2303.08717)|null|
