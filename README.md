@@ -34,7 +34,7 @@
 |**2023-03-23**|**Fourier Diffusion Models: A Method to Control MTF and NPS in Score-Based Stochastic Image Generation**|Matthew Tivnan et.al.|[2303.13285v1](http://arxiv.org/abs/2303.13285v1)|null|
 |**2023-03-23**|**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models**|Jing Zhao et.al.|[2303.13126v1](http://arxiv.org/abs/2303.13126v1)|null|
 |**2023-03-23**|**DiffPattern: Layout Pattern Generation via Discrete Diffusion**|Zixiao Wang et.al.|[2303.13060v1](http://arxiv.org/abs/2303.13060v1)|null|
-|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|null|
+|**2023-03-23**|**Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks**|Hongyang Du et.al.|[2303.13052v1](http://arxiv.org/abs/2303.13052v1)|**[link](https://github.com/lizonghang/agod)**|
 |**2023-03-23**|**Controllable Inversion of Black-Box Face-Recognition Models via Diffusion**|Manuel Kansy et.al.|[2303.13006v1](http://arxiv.org/abs/2303.13006v1)|null|
 |**2023-03-22**|**Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models**|Yasiru Ranasinghe et.al.|[2303.12790v1](http://arxiv.org/abs/2303.12790v1)|**[link](https://github.com/dylran/diffusedenoisecount)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
@@ -491,7 +491,7 @@
 |**2023-02-22**|**DISCO: Distributed Inference with Sparse Communications**|Minghai Qin et.al.|[2302.11180v1](http://arxiv.org/abs/2302.11180v1)|null|
 |**2023-02-21**|**Posterior Annealing: Fast Calibrated Uncertainty for Regression**|Uddeshya Upadhyay et.al.|[2302.11012v1](http://arxiv.org/abs/2302.11012v1)|null|
 |**2023-02-21**|**Improving Scene Text Image Super-Resolution via Dual Prior Modulation Network**|Shipeng Zhu et.al.|[2302.10414v1](http://arxiv.org/abs/2302.10414v1)|**[link](https://github.com/jdfxzzy/dpmn)**|
-|**2023-01-23**|**Is Autoencoder Truly Applicable for 3D CT Super-Resolution?**|Weixun Luo et.al.|[2302.10272v1](http://arxiv.org/abs/2302.10272v1)|null|
+|**2023-01-23**|**Is Autoencoder Truly Applicable for 3D CT Super-Resolution?**|Weixun Luo et.al.|[2302.10272v1](http://arxiv.org/abs/2302.10272v1)|**[link](https://github.com/roldbach/autoencoder-3d-ct-sisr)**|
 |**2023-02-17**|**Algorithmic Hallucinations of Near-Surface Winds: Statistical Downscaling with Generative Adversarial Networks to Convection-Permitting Scales**|Nicolaas J. Annau et.al.|[2302.08720v1](http://arxiv.org/abs/2302.08720v1)|null|
 |**2023-02-18**|**Learning Non-Local Spatial-Angular Correlation for Light Field Image Super-Resolution**|Zhengyu Liang et.al.|[2302.08058v2](http://arxiv.org/abs/2302.08058v2)|**[link](https://github.com/zhengyuliang24/epit)**|
 |**2023-02-16**|**TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation**|Yunliang Jiang et.al.|[2302.08047v1](http://arxiv.org/abs/2302.08047v1)|null|
@@ -942,7 +942,7 @@
 |**2023-01-27**|**Mixed Attention Network for Hyperspectral Image Denoising**|Zeqiang Lai et.al.|[2301.11525v1](http://arxiv.org/abs/2301.11525v1)|**[link](https://github.com/zeqiang-lai/man)**|
 |**2023-01-18**|**Representing Noisy Image Without Denoising**|Shuren Qi et.al.|[2301.07409v1](http://arxiv.org/abs/2301.07409v1)|**[link](https://github.com/shurenqi/fmr)**|
 |**2022-12-09**|**A Hyper-weight Network for Hyperspectral Image Denoising**|Xiangyu Rui et.al.|[2301.06081v1](http://arxiv.org/abs/2301.06081v1)|null|
-|**2023-01-14**|**Learning Regularization Parameter-Maps for Variational Image Reconstruction using Deep Neural Networks and Algorithm Unrolling**|Andreas Kofler et.al.|[2301.05888v1](http://arxiv.org/abs/2301.05888v1)|null|
+|**2023-01-14**|**Learning Regularization Parameter-Maps for Variational Image Reconstruction using Deep Neural Networks and Algorithm Unrolling**|Andreas Kofler et.al.|[2301.05888v1](http://arxiv.org/abs/2301.05888v1)|**[link](https://github.com/koflera/learningregularizationparametermaps)**|
 |**2023-01-05**|**WIRE: Wavelet Implicit Neural Representations**|Vishwanath Saragadam et.al.|[2301.05187v1](http://arxiv.org/abs/2301.05187v1)|null|
 |**2023-01-09**|**Image Denoising: The Deep Learning Revolution and Beyond -- A Survey Paper --**|Michael Elad et.al.|[2301.03362v1](http://arxiv.org/abs/2301.03362v1)|null|
 |**2023-01-17**|**Skip-Attention: Improving Vision Transformers by Paying Less Attention**|Shashanka Venkataramanan et.al.|[2301.02240v2](http://arxiv.org/abs/2301.02240v2)|null|
