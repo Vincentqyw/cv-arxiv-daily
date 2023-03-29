@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Your Diffusion Model is Secretly a Zero-Shot Classifier**|Alexander C. Li et.al.|[2303.16203v1](http://arxiv.org/abs/2303.16203v1)|**[link](https://github.com/diffusion-classifier/diffusion-classifier)**|
+|**2023-03-28**|**Visual Chain-of-Thought Diffusion Models**|William Harvey et.al.|[2303.16187v1](http://arxiv.org/abs/2303.16187v1)|null|
+|**2023-03-28**|**Cellular EXchange Imaging (CEXI): Evaluation of a diffusion model including water exchange in cells using numerical phantoms of permeable spheres**|Rémy Gardier et.al.|[2303.16112v1](http://arxiv.org/abs/2303.16112v1)|null|
+|**2023-03-28**|**Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion**|Hiromichi Kamata et.al.|[2303.15780v1](http://arxiv.org/abs/2303.15780v1)|null|
+|**2023-03-28**|**DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding**|Xiaoyue Li et.al.|[2303.15770v1](http://arxiv.org/abs/2303.15770v1)|null|
+|**2023-03-28**|**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing**|Senmao Li et.al.|[2303.15649v1](http://arxiv.org/abs/2303.15649v1)|null|
 |**2023-03-27**|**The Stable Signature: Rooting Watermarks in Latent Diffusion Models**|Pierre Fernandez et.al.|[2303.15435v1](http://arxiv.org/abs/2303.15435v1)|null|
 |**2023-03-27**|**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**|Thanh Van Le et.al.|[2303.15433v1](http://arxiv.org/abs/2303.15433v1)|**[link](https://github.com/vinairesearch/anti-dreambooth)**|
 |**2023-03-27**|**Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D Generation**|Susung Hong et.al.|[2303.15413v1](http://arxiv.org/abs/2303.15413v1)|null|
@@ -752,6 +758,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Make the Most Out of Your Net: Alternating Between Canonical and Hard Datasets for Improved Image Demosaicing**|Yuval Becker et.al.|[2303.15792v1](http://arxiv.org/abs/2303.15792v1)|null|
 |**2023-03-27**|**CLIDiM: Contrastive Learning for Image Denoising in Microscopy**|Felix Fuentes-Hurtado et.al.|[2303.15214v1](http://arxiv.org/abs/2303.15214v1)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
 |**2023-03-25**|**Toward DNN of LUTs: Learning Efficient Image Restoration with Multiple Look-Up Tables**|Jiacheng Li et.al.|[2303.14506v1](http://arxiv.org/abs/2303.14506v1)|**[link](https://github.com/ddlee-cn/mulut)**|
 |**2023-03-25**|**DiracDiffusion: Denoising and Incremental Reconstruction with Assured Data-Consistency**|Zalan Fabian et.al.|[2303.14353v1](http://arxiv.org/abs/2303.14353v1)|null|
@@ -843,6 +850,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|**[link](https://github.com/guillaumerochette/humanviewsynthesis)**|
+|**2023-03-28**|**SVD-DIP: Overcoming the Overfitting Problem in DIP-based CT Reconstruction**|Marco Nittscher et.al.|[2303.15748v1](http://arxiv.org/abs/2303.15748v1)|**[link](https://github.com/educating-dip/svd_dip)**|
 |**2023-03-27**|**AIR-DA: Adversarial Image Reconstruction for Unsupervised Domain Adaptive Object Detection**|Kunyang Sun et.al.|[2303.15377v1](http://arxiv.org/abs/2303.15377v1)|null|
 |**2023-03-27**|**Joint Multi-Echo/Respiratory Motion-Resolved Compressed Sensing Reconstruction of Free-Breathing Non-Cartesian Abdominal MRI**|Youngwook Kee et.al.|[2303.15144v1](http://arxiv.org/abs/2303.15144v1)|null|
 |**2023-03-26**|**Conditional Score-Based Reconstructions for Multi-contrast MRI**|Brett Levac et.al.|[2303.14795v1](http://arxiv.org/abs/2303.14795v1)|null|
@@ -962,6 +971,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**Whole-body PET image denoising for reduced acquisition time**|Ivan Kruzhilov et.al.|[2303.16085v1](http://arxiv.org/abs/2303.16085v1)|null|
 |**2023-03-27**|**CLIDiM: Contrastive Learning for Image Denoising in Microscopy**|Felix Fuentes-Hurtado et.al.|[2303.15214v1](http://arxiv.org/abs/2303.15214v1)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
 |**2023-03-27**|**Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising**|Junyi Li et.al.|[2303.14934v1](http://arxiv.org/abs/2303.14934v1)|**[link](https://github.com/nagejacob/spatiallyadaptivessid)**|
 |**2023-03-23**|**Masked Image Training for Generalizable Deep Image Denoising**|Haoyu Chen et.al.|[2303.13132v1](http://arxiv.org/abs/2303.13132v1)|**[link](https://github.com/haoyuc/maskeddenoising)**|
