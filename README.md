@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**|Ruixiang Jiang et.al.|[2303.17606v1](http://arxiv.org/abs/2303.17606v1)|null|
+|**2023-03-30**|**Token Merging for Fast Stable Diffusion**|Daniel Bolya et.al.|[2303.17604v1](http://arxiv.org/abs/2303.17604v1)|**[link](https://github.com/dbolya/tomesd)**|
+|**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599v1](http://arxiv.org/abs/2303.17599v1)|**[link](https://github.com/baaivision/vid2vid-zero)**|
+|**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
+|**2023-03-30**|**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**|Eric Zhang et.al.|[2303.17591v1](http://arxiv.org/abs/2303.17591v1)|**[link](https://github.com/shi-labs/forget-me-not)**|
+|**2023-03-30**|**DDP: Diffusion Model for Dense Visual Prediction**|Yuanfeng Ji et.al.|[2303.17559v1](http://arxiv.org/abs/2303.17559v1)|null|
+|**2023-03-30**|**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models**|Vidit Goel et.al.|[2303.17546v1](http://arxiv.org/abs/2303.17546v1)|**[link](https://github.com/picsart-ai-research/pair-diffusion)**|
+|**2023-03-30**|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|Guangcong Zheng et.al.|[2303.17189v1](http://arxiv.org/abs/2303.17189v1)|**[link](https://github.com/zgctroy/layoutdiffusion)**|
+|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|**[link](https://github.com/idansc/discriminative_class_tokens)**|
+|**2023-03-30**|**Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study**|Yinqiu Liu et.al.|[2303.17114v1](http://arxiv.org/abs/2303.17114v1)|null|
+|**2023-03-30**|**DiffCollage: Parallel Generation of Large Content with Diffusion Models**|Qinsheng Zhang et.al.|[2303.17076v1](http://arxiv.org/abs/2303.17076v1)|null|
+|**2023-03-29**|**HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion**|Ziya Erkoç et.al.|[2303.17015v1](http://arxiv.org/abs/2303.17015v1)|null|
 |**2023-03-29**|**Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos**|Kun Su et.al.|[2303.16897v1](http://arxiv.org/abs/2303.16897v1)|null|
 |**2023-03-29**|**Diffusion Schrödinger Bridge Matching**|Yuyang Shi et.al.|[2303.16852v1](http://arxiv.org/abs/2303.16852v1)|null|
 |**2023-03-29**|**4D Facial Expression Diffusion Model**|Kaifeng Zou et.al.|[2303.16611v1](http://arxiv.org/abs/2303.16611v1)|**[link](https://github.com/zoukaifeng/4dfm)**|
@@ -682,6 +694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**SARGAN: Spatial Attention-based Residuals for Facial Expression Manipulation**|Arbish Akram et.al.|[2303.17212v1](http://arxiv.org/abs/2303.17212v1)|null|
 |**2023-03-11**|**AI-Enhanced Intensive Care Unit: Revolutionizing Patient Care with Pervasive Sensing**|Subhash Nerella et.al.|[2303.06252v1](http://arxiv.org/abs/2303.06252v1)|null|
 |**2023-03-01**|**Has the Virtualization of the Face Changed Facial Perception? A Study of the Impact of Augmented Reality on Facial Perception**|Louisa Conwill et.al.|[2303.00612v1](http://arxiv.org/abs/2303.00612v1)|null|
 |**2023-02-28**|**TextIR: A Simple Framework for Text-based Editable Image Restoration**|Yunpeng Bai et.al.|[2302.14736v1](http://arxiv.org/abs/2302.14736v1)|null|
@@ -870,6 +883,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Human from Blur: Human Pose Tracking from Blurry Images**|Yiming Zhao et.al.|[2303.17209v1](http://arxiv.org/abs/2303.17209v1)|null|
 |**2023-03-29**|**SC-VAE: Sparse Coding-based Variational Autoencoder**|Pan Xiao et.al.|[2303.16666v1](http://arxiv.org/abs/2303.16666v1)|null|
 |**2023-03-28**|**Novel View Synthesis of Humans using Differentiable Rendering**|Guillaume Rochette et.al.|[2303.15880v1](http://arxiv.org/abs/2303.15880v1)|**[link](https://github.com/guillaumerochette/humanviewsynthesis)**|
 |**2023-03-28**|**SVD-DIP: Overcoming the Overfitting Problem in DIP-based CT Reconstruction**|Marco Nittscher et.al.|[2303.15748v1](http://arxiv.org/abs/2303.15748v1)|**[link](https://github.com/educating-dip/svd_dip)**|
@@ -992,6 +1006,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference**|Aytac Özkan et.al.|[2303.17409v1](http://arxiv.org/abs/2303.17409v1)|null|
+|**2023-03-30**|**Masked Autoencoders as Image Processors**|Huiyu Duan et.al.|[2303.17316v1](http://arxiv.org/abs/2303.17316v1)|**[link](https://github.com/duanhuiyu/maeip_csformer)**|
+|**2023-03-30**|**HDR Imaging with Spatially Varying Signal-to-Noise Ratios**|Yiheng Chi et.al.|[2303.17253v1](http://arxiv.org/abs/2303.17253v1)|null|
 |**2023-03-27**|**Pushing The Limits of the Wiener Filter in Image Denoising**|Clément Bled et.al.|[2303.16640v1](http://arxiv.org/abs/2303.16640v1)|**[link](https://github.com/mrbled/icicp_2023_wiener)**|
 |**2023-03-29**|**Real-time Controllable Denoising for Image and Video**|Zhaoyang Zhang et.al.|[2303.16425v1](http://arxiv.org/abs/2303.16425v1)|null|
 |**2023-03-29**|**Unlocking Masked Autoencoders as Loss Function for Image and Video Restoration**|Man Zhou et.al.|[2303.16411v1](http://arxiv.org/abs/2303.16411v1)|null|
@@ -1141,6 +1158,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Semantic Image Translation for Repairing the Texture Defects of Building Models**|Qisen Shang et.al.|[2303.17418v1](http://arxiv.org/abs/2303.17418v1)|null|
 |**2023-03-27**|**Training-free Style Transfer Emerges from h-space in Diffusion models**|Jaeseok Jeong et.al.|[2303.15403v1](http://arxiv.org/abs/2303.15403v1)|null|
 |**2023-02-14**|**The Exploration and Evaluation of Generating Affective 360 $^\circ$  Panoramic VR Environments Through Neural Style Transfer**|Yanheng Li et.al.|[2303.13535v1](http://arxiv.org/abs/2303.13535v1)|null|
 |**2023-03-24**|**Neural Preset for Color Style Transfer**|Zhanghan Ke et.al.|[2303.13511v2](http://arxiv.org/abs/2303.13511v2)|**[link](https://github.com/ZHKKKe/NeuralPreset)**|
