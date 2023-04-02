@@ -34,7 +34,7 @@
 |**2023-03-30**|**DDP: Diffusion Model for Dense Visual Prediction**|Yuanfeng Ji et.al.|[2303.17559v1](http://arxiv.org/abs/2303.17559v1)|null|
 |**2023-03-30**|**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models**|Vidit Goel et.al.|[2303.17546v1](http://arxiv.org/abs/2303.17546v1)|**[link](https://github.com/picsart-ai-research/pair-diffusion)**|
 |**2023-03-30**|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|Guangcong Zheng et.al.|[2303.17189v1](http://arxiv.org/abs/2303.17189v1)|**[link](https://github.com/zgctroy/layoutdiffusion)**|
-|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|**[link](https://github.com/idansc/discriminative_class_tokens)**|
+|**2023-03-30**|**Discriminative Class Tokens for Text-to-Image Diffusion Models**|Idan Schwartz et.al.|[2303.17155v1](http://arxiv.org/abs/2303.17155v1)|null|
 |**2023-03-30**|**Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study**|Yinqiu Liu et.al.|[2303.17114v1](http://arxiv.org/abs/2303.17114v1)|null|
 |**2023-03-30**|**DiffCollage: Parallel Generation of Large Content with Diffusion Models**|Qinsheng Zhang et.al.|[2303.17076v1](http://arxiv.org/abs/2303.17076v1)|null|
 |**2023-03-29**|**HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion**|Ziya Erkoç et.al.|[2303.17015v1](http://arxiv.org/abs/2303.17015v1)|null|
@@ -663,7 +663,7 @@
 |**2022-10-09**|**Rethinking Alignment in Video Super-Resolution Transformers**|Shuwei Shi et.al.|[2207.08494v2](http://arxiv.org/abs/2207.08494v2)|**[link](https://github.com/xpixelgroup/rethinkvsralignment)**|
 |**2022-07-13**|**You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution**|Mengshun Hu et.al.|[2207.06345v1](http://arxiv.org/abs/2207.06345v1)|null|
 |**2022-12-01**|**Deep Parametric 3D Filters for Joint Video Denoising and Illumination Enhancement in Video Super Resolution**|Xiaogang Xu et.al.|[2207.01797v2](http://arxiv.org/abs/2207.01797v2)|**[link](https://github.com/xiaogang00/dp3df)**|
-|**2023-03-25**|**Structured Sparsity Learning for Efficient Video Super-Resolution**|Bin Xia et.al.|[2206.07687v3](http://arxiv.org/abs/2206.07687v3)|null|
+|**2023-03-25**|**Structured Sparsity Learning for Efficient Video Super-Resolution**|Bin Xia et.al.|[2206.07687v3](http://arxiv.org/abs/2206.07687v3)|**[link](https://github.com/zj-binxia/ssl)**|
 |**2023-01-17**|**AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos**|Yanze Wu et.al.|[2206.07038v3](http://arxiv.org/abs/2206.07038v3)|**[link](https://github.com/tencentarc/animesr)**|
 |**2022-06-09**|**VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution**|Zeyuan Chen et.al.|[2206.04647v1](http://arxiv.org/abs/2206.04647v1)|**[link](https://github.com/picsart-ai-research/videoinr-continuous-space-time-super-resolution)**|
 |**2022-11-12**|**Recurrent Video Restoration Transformer with Guided Deformable Attention**|Jingyun Liang et.al.|[2206.02146v3](http://arxiv.org/abs/2206.02146v3)|**[link](https://github.com/jingyunliang/rvrt)**|
