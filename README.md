@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182v1](http://arxiv.org/abs/2304.01182v1)|null|
+|**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116v1](http://arxiv.org/abs/2304.01116v1)|null|
+|**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053v1](http://arxiv.org/abs/2304.01053v1)|null|
+|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
+|**2023-04-03**|**AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**|Yuancheng Wang et.al.|[2304.00830v1](http://arxiv.org/abs/2304.00830v1)|null|
+|**2023-04-03**|**DiffuRec: A Diffusion Model for Sequential Recommendation**|Zihao Li et.al.|[2304.00686v1](http://arxiv.org/abs/2304.00686v1)|null|
+|**2023-04-02**|**Textile Pattern Generation Using Diffusion Models**|Halil Faruk Karagoz et.al.|[2304.00520v1](http://arxiv.org/abs/2304.00520v1)|null|
+|**2023-04-02**|**Parents and Children: Distinguishing Multimodal DeepFakes from Natural Images**|Roberto Amoroso et.al.|[2304.00500v1](http://arxiv.org/abs/2304.00500v1)|null|
 |**2023-03-31**|** $\infty$ -Diff: Infinite Resolution Diffusion with Subsampled Mollified States**|Sam Bond-Taylor et.al.|[2303.18242v1](http://arxiv.org/abs/2303.18242v1)|**[link](https://github.com/samb-t/infty-diff)**|
 |**2023-03-31**|**A Closer Look at Parameter-Efficient Tuning in Diffusion Models**|Chendong Xiang et.al.|[2303.18181v1](http://arxiv.org/abs/2303.18181v1)|null|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080v1](http://arxiv.org/abs/2303.18080v1)|null|
@@ -371,6 +379,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
+|**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
+|**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
+|**2023-04-03**|**AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models**|Yuancheng Wang et.al.|[2304.00830v1](http://arxiv.org/abs/2304.00830v1)|null|
+|**2023-04-03**|**Acceleration-Based Kalman Tracking for Super-Resolution Ultrasound Imaging in vivo**|Biao Huang et.al.|[2304.00819v1](http://arxiv.org/abs/2304.00819v1)|null|
+|**2023-04-03**|**CG-3DSRGAN: A classification guided 3D generative adversarial network for image quality recovery from low-dose PET images**|Yuxin Xue et.al.|[2304.00725v1](http://arxiv.org/abs/2304.00725v1)|null|
 |**2023-03-31**|**SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer**|Yuang Ai et.al.|[2303.17783v1](http://arxiv.org/abs/2303.17783v1)|null|
 |**2023-03-30**|**Loss compensation and super-resolution with excitations at complex frequencies**|Seunghwi Kim et.al.|[2303.17699v1](http://arxiv.org/abs/2303.17699v1)|null|
 |**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|**[link](https://github.com/yukiyasuda2718/3d-sr-micrometeorology)**|
@@ -539,6 +553,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-03-31**|**SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer**|Yuang Ai et.al.|[2303.17783v1](http://arxiv.org/abs/2303.17783v1)|null|
 |**2023-03-29**|**Operational Neural Networks for Efficient Hyperspectral Single-Image Super-Resolution**|Alexander Ulrichsen et.al.|[2303.16636v1](http://arxiv.org/abs/2303.16636v1)|null|
 |**2023-03-29**|**Implicit Diffusion Models for Continuous Super-Resolution**|Sicheng Gao et.al.|[2303.16491v1](http://arxiv.org/abs/2303.16491v1)|**[link](https://github.com/ree1s/idm)**|
@@ -800,6 +815,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
+|**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
 |**2023-03-28**|**Make the Most Out of Your Net: Alternating Between Canonical and Hard Datasets for Improved Image Demosaicing**|Yuval Becker et.al.|[2303.15792v1](http://arxiv.org/abs/2303.15792v1)|null|
 |**2023-03-29**|**Generalizable Denoising of Microscopy Images using Generative Adversarial Networks and Contrastive Learning**|Felix Fuentes-Hurtado et.al.|[2303.15214v2](http://arxiv.org/abs/2303.15214v2)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
@@ -835,7 +852,7 @@
 |**2023-02-20**|**Simulating analogue film damage to analyse and improve artefact restoration on high-resolution scans**|Daniela Ivanova et.al.|[2302.10004v1](http://arxiv.org/abs/2302.10004v1)|**[link](https://github.com/daniela997/filmdamagesimulator)**|
 |**2023-02-21**|**Mixed Hierarchy Network for Image Restoration**|Hu Gao et.al.|[2302.09554v2](http://arxiv.org/abs/2302.09554v2)|**[link](https://github.com/tombs98/mhnet)**|
 |**2023-02-13**|**Robust Unsupervised StyleGAN Image Restoration**|Yohan Poirier-Ginter et.al.|[2302.06733v1](http://arxiv.org/abs/2302.06733v1)|null|
-|**2023-04-01**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v2](http://arxiv.org/abs/2302.05872v2)|null|
+|**2023-04-01**|**I $^2$ SB: Image-to-Image Schrödinger Bridge**|Guan-Horng Liu et.al.|[2302.05872v2](http://arxiv.org/abs/2302.05872v2)|**[link](https://github.com/nvlabs/i2sb)**|
 |**2023-02-02**|**Energy-Inspired Self-Supervised Pretraining for Vision Models**|Ze Wang et.al.|[2302.01384v1](http://arxiv.org/abs/2302.01384v1)|null|
 |**2023-01-31**|**A relaxed proximal gradient descent algorithm for convergent plug-and-play with proximal denoiser**|Samuel Hurault et.al.|[2301.13731v1](http://arxiv.org/abs/2301.13731v1)|null|
 |**2023-01-31**|**Hierarchical Disentangled Representation for Invertible Image Denoising and Beyond**|Wenchao Du et.al.|[2301.13358v1](http://arxiv.org/abs/2301.13358v1)|null|
@@ -893,6 +910,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
+|**2023-04-03**|**Mapped Variably Scaled Kernels: Applications to Solar Imaging**|Francesco Marchetti et.al.|[2304.00975v1](http://arxiv.org/abs/2304.00975v1)|null|
+|**2023-04-01**|**4D-image reconstruction directly from limited-angular-range data in continuous-wave electron paramagnetic resonance imaging**|Zheng Zhang et.al.|[2304.00209v1](http://arxiv.org/abs/2304.00209v1)|null|
 |**2023-03-31**|**Single-ended Recovery of Optical fiber Transmission Matrices using Neural Networks**|Yijie Zheng et.al.|[2303.17883v1](http://arxiv.org/abs/2303.17883v1)|null|
 |**2023-03-30**|**Human from Blur: Human Pose Tracking from Blurry Images**|Yiming Zhao et.al.|[2303.17209v1](http://arxiv.org/abs/2303.17209v1)|null|
 |**2023-03-29**|**SC-VAE: Sparse Coding-based Variational Autoencoder**|Pan Xiao et.al.|[2303.16666v1](http://arxiv.org/abs/2303.16666v1)|null|
@@ -1017,6 +1037,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
+|**2023-04-03**|**Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising**|Miaoyu Li et.al.|[2304.00844v1](http://arxiv.org/abs/2304.00844v1)|null|
 |**2023-03-30**|**Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference**|Aytac Özkan et.al.|[2303.17409v1](http://arxiv.org/abs/2303.17409v1)|null|
 |**2023-03-30**|**Masked Autoencoders as Image Processors**|Huiyu Duan et.al.|[2303.17316v1](http://arxiv.org/abs/2303.17316v1)|**[link](https://github.com/duanhuiyu/maeip_csformer)**|
 |**2023-03-30**|**HDR Imaging with Spatially Varying Signal-to-Noise Ratios**|Yiheng Chi et.al.|[2303.17253v1](http://arxiv.org/abs/2303.17253v1)|null|
@@ -1169,6 +1191,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
+|**2023-04-02**|**Learning Dynamic Style Kernels for Artistic Style Transfer**|Xu Wenju et.al.|[2304.00414v1](http://arxiv.org/abs/2304.00414v1)|null|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080v1](http://arxiv.org/abs/2303.18080v1)|null|
 |**2023-03-31**|**CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer**|Linfeng Wen et.al.|[2303.17867v1](http://arxiv.org/abs/2303.17867v1)|null|
 |**2023-04-01**|**Semantic Image Translation for Repairing the Texture Defects of Building Models**|Qisen Shang et.al.|[2303.17418v2](http://arxiv.org/abs/2303.17418v2)|null|
