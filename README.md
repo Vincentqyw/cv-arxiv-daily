@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**viz2viz: Prompt-driven stylized visualization generation using a diffusion model**|Jiaqi Wu et.al.|[2304.01919v1](http://arxiv.org/abs/2304.01919v1)|null|
+|**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900v1](http://arxiv.org/abs/2304.01900v1)|null|
+|**2023-04-04**|**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**|Davis Rempe et.al.|[2304.01893v1](http://arxiv.org/abs/2304.01893v1)|null|
+|**2023-04-04**|**CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization**|Qi Gao et.al.|[2304.01814v1](http://arxiv.org/abs/2304.01814v1)|null|
+|**2023-04-04**|**Denoising Diffusion Probabilistic Models to Predict the Density of Molecular Clouds**|Duo Xu et.al.|[2304.01670v1](http://arxiv.org/abs/2304.01670v1)|null|
+|**2023-04-04**|**A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material**|Mengchun Zhang et.al.|[2304.01565v1](http://arxiv.org/abs/2304.01565v1)|null|
+|**2023-04-03**|**Fast Point Cloud Generation with Diffusion Models in High Energy Physics**|Vinicius Mikuni et.al.|[2304.01266v1](http://arxiv.org/abs/2304.01266v1)|null|
 |**2023-04-03**|**Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models**|Carolina Higuera et.al.|[2304.01182v1](http://arxiv.org/abs/2304.01182v1)|**[link](https://github.com/carolinahiguera/tactile-diffusion)**|
 |**2023-04-03**|**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**|Mingyuan Zhang et.al.|[2304.01116v1](http://arxiv.org/abs/2304.01116v1)|null|
 |**2023-04-03**|**ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis**|Xuan Xu et.al.|[2304.01053v1](http://arxiv.org/abs/2304.01053v1)|null|
@@ -379,6 +386,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian Moser et.al.|[2304.01994v1](http://arxiv.org/abs/2304.01994v1)|null|
+|**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247v1](http://arxiv.org/abs/2304.01247v1)|null|
+|**2023-04-03**|**CoReFusion: Contrastive Regularized Fusion for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2304.01243v1](http://arxiv.org/abs/2304.01243v1)|**[link](https://github.com/kasliwal17/corefusion)**|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
@@ -553,6 +563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian Moser et.al.|[2304.01994v1](http://arxiv.org/abs/2304.01994v1)|null|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-03-31**|**SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer**|Yuang Ai et.al.|[2303.17783v1](http://arxiv.org/abs/2303.17783v1)|null|
 |**2023-03-29**|**Operational Neural Networks for Efficient Hyperspectral Single-Image Super-Resolution**|Alexander Ulrichsen et.al.|[2303.16636v1](http://arxiv.org/abs/2303.16636v1)|null|
@@ -815,6 +826,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247v1](http://arxiv.org/abs/2304.01247v1)|null|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|null|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-03-29**|**Random Weights Networks Work as Loss Prior Constraint for Image Restoration**|Man Zhou et.al.|[2303.16438v1](http://arxiv.org/abs/2303.16438v1)|null|
@@ -910,6 +922,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Model-corrected learned primal-dual models for fast limited-view photoacoustic tomography**|Andreas Hauptmann et.al.|[2304.01963v1](http://arxiv.org/abs/2304.01963v1)|null|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-04-03**|**Mapped Variably Scaled Kernels: Applications to Solar Imaging**|Francesco Marchetti et.al.|[2304.00975v1](http://arxiv.org/abs/2304.00975v1)|null|
 |**2023-04-01**|**4D-image reconstruction directly from limited-angular-range data in continuous-wave electron paramagnetic resonance imaging**|Zheng Zhang et.al.|[2304.00209v1](http://arxiv.org/abs/2304.00209v1)|null|
@@ -1037,6 +1050,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training**|Haram Choi et.al.|[2304.01805v1](http://arxiv.org/abs/2304.01805v1)|**[link](https://github.com/rami0205/lwdn)**|
+|**2023-04-04**|**Self-Supervised Image Denoising for Real-World Images with Context-aware Transformer**|Dan Zhang et.al.|[2304.01627v1](http://arxiv.org/abs/2304.01627v1)|null|
+|**2023-04-04**|**Image Blind Denoising Using Dual Convolutional Neural Network with Skip Connection**|Wencong Wu et.al.|[2304.01620v1](http://arxiv.org/abs/2304.01620v1)|**[link](https://github.com/WenCongWu/DCBDNet)**|
+|**2023-04-04**|**MM-BSN: Self-Supervised Image Denoising for Real-World with Multi-Mask based on Blind-Spot Network**|Dan Zhang et.al.|[2304.01598v1](http://arxiv.org/abs/2304.01598v1)|**[link](https://github.com/dannie125/mm-bsn)**|
+|**2023-04-04**|**DCANet: Dual Convolutional Neural Network with Attention for Image Blind Denoising**|Wencong Wu et.al.|[2304.01498v1](http://arxiv.org/abs/2304.01498v1)|**[link](https://github.com/WenCongWu/DCANet)**|
 |**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
 |**2023-04-03**|**Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising**|Miaoyu Li et.al.|[2304.00844v1](http://arxiv.org/abs/2304.00844v1)|**[link](https://github.com/myuli/sert)**|
 |**2023-03-30**|**Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference**|Aytac Özkan et.al.|[2303.17409v1](http://arxiv.org/abs/2303.17409v1)|null|
@@ -1191,6 +1209,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011v1](http://arxiv.org/abs/2304.02011v1)|**[link](https://gitlab.com/deepet/faket)**|
 |**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
 |**2023-04-02**|**Learning Dynamic Style Kernels for Artistic Style Transfer**|Xu Wenju et.al.|[2304.00414v1](http://arxiv.org/abs/2304.00414v1)|null|
 |**2023-03-31**|**One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models**|Yasser Benigmim et.al.|[2303.18080v1](http://arxiv.org/abs/2303.18080v1)|**[link](https://github.com/yasserben/datum)**|
