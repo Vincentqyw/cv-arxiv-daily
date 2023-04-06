@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models**|Xuhui Jia et.al.|[2304.02642v1](http://arxiv.org/abs/2304.02642v1)|null|
+|**2023-04-05**|**GenPhys: From Physical Processes to Generative Models**|Ziming Liu et.al.|[2304.02637v1](http://arxiv.org/abs/2304.02637v1)|null|
+|**2023-04-05**|**Detection of extended gamma-ray emission around the Geminga pulsar with H.E.S.S**|H. E. S. S. Collaboration et.al.|[2304.02631v1](http://arxiv.org/abs/2304.02631v1)|null|
+|**2023-04-05**|**Generative Novel View Synthesis with 3D-Aware Diffusion Models**|Eric R. Chan et.al.|[2304.02602v1](http://arxiv.org/abs/2304.02602v1)|null|
+|**2023-04-05**|**Goal-Conditioned Imitation Learning using Score-based Diffusion Policies**|Moritz Reuss et.al.|[2304.02532v1](http://arxiv.org/abs/2304.02532v1)|null|
+|**2023-04-05**|**JPEG Compressed Images Can Bypass Protections Against AI Editing**|Pedro Sandoval-Segura et.al.|[2304.02234v1](http://arxiv.org/abs/2304.02234v1)|null|
+|**2023-04-05**|**EigenFold: Generative Protein Structure Prediction with Diffusion Models**|Bowen Jing et.al.|[2304.02198v1](http://arxiv.org/abs/2304.02198v1)|**[link](https://github.com/bjing2016/eigenfold)**|
+|**2023-04-05**|**A Diffusion-based Method for Multi-turn Compositional Image Generation**|Chao Wang et.al.|[2304.02192v1](http://arxiv.org/abs/2304.02192v1)|null|
+|**2023-04-04**|**Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2304.02051v1](http://arxiv.org/abs/2304.02051v1)|**[link](https://github.com/aimagelab/multimodal-garment-designer)**|
 |**2023-04-04**|**viz2viz: Prompt-driven stylized visualization generation using a diffusion model**|Jiaqi Wu et.al.|[2304.01919v1](http://arxiv.org/abs/2304.01919v1)|null|
 |**2023-04-04**|**PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**|Gwanghyun Kim et.al.|[2304.01900v1](http://arxiv.org/abs/2304.01900v1)|null|
 |**2023-04-04**|**Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion**|Davis Rempe et.al.|[2304.01893v1](http://arxiv.org/abs/2304.01893v1)|null|
