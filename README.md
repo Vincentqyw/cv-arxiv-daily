@@ -57,7 +57,7 @@
 |**2023-03-31**|**Pay Attention: Accuracy Versus Interpretability Trade-off in Fine-tuned Diffusion Models**|Mischa Dombrowski et.al.|[2303.17908v1](http://arxiv.org/abs/2303.17908v1)|null|
 |**2023-03-31**|**3D-aware Image Generation using 2D Diffusion Models**|Jianfeng Xiang et.al.|[2303.17905v1](http://arxiv.org/abs/2303.17905v1)|null|
 |**2023-03-31**|**CrossLoc3D: Aerial-Ground Cross-Source 3D Place Recognition**|Tianrui Guan et.al.|[2303.17778v1](http://arxiv.org/abs/2303.17778v1)|null|
-|**2023-03-30**|**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**|Ruixiang Jiang et.al.|[2303.17606v1](http://arxiv.org/abs/2303.17606v1)|null|
+|**2023-03-30**|**AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control**|Ruixiang Jiang et.al.|[2303.17606v1](http://arxiv.org/abs/2303.17606v1)|**[link](https://github.com/songrise/AvatarCraft)**|
 |**2023-03-30**|**Token Merging for Fast Stable Diffusion**|Daniel Bolya et.al.|[2303.17604v1](http://arxiv.org/abs/2303.17604v1)|**[link](https://github.com/dbolya/tomesd)**|
 |**2023-03-30**|**Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models**|Wen Wang et.al.|[2303.17599v1](http://arxiv.org/abs/2303.17599v1)|**[link](https://github.com/baaivision/vid2vid-zero)**|
 |**2023-03-30**|**Consistent View Synthesis with Pose-Guided Diffusion Models**|Hung-Yu Tseng et.al.|[2303.17598v1](http://arxiv.org/abs/2303.17598v1)|null|
