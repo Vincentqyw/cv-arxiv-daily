@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models**|Eslam Mohamed Bakr et.al.|[2304.05390v1](http://arxiv.org/abs/2304.05390v1)|**[link](https://github.com/eslambakr/HRS_benchmark)**|
+|**2023-04-11**|**Diffusion Models for Constrained Domains**|Nic Fishman et.al.|[2304.05364v1](http://arxiv.org/abs/2304.05364v1)|null|
+|**2023-04-11**|**Optimal Asset Allocation in a High Inflation Regime: a Leverage-feasible Neural Network Approach**|Chendi Ni et.al.|[2304.05297v1](http://arxiv.org/abs/2304.05297v1)|null|
+|**2023-04-11**|**Multi-scale Fusion Fault Diagnosis Method Based on Two-Dimensionaliztion Sequence in Complex Scenarios**|Weiyang Jin et.al.|[2304.05198v1](http://arxiv.org/abs/2304.05198v1)|null|
+|**2023-04-11**|**Modeling and design of heterogeneous hierarchical bioinspired spider web structures using generative deep learning and additive manufacturing**|Wei Lu et.al.|[2304.05137v1](http://arxiv.org/abs/2304.05137v1)|null|
+|**2023-04-11**|**SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI**|Zhuo-Xu Cui et.al.|[2304.05060v1](http://arxiv.org/abs/2304.05060v1)|null|
+|**2023-04-11**|**Diffusion Recommender Model**|Wenjie Wang et.al.|[2304.04971v1](http://arxiv.org/abs/2304.04971v1)|**[link](https://github.com/yiyanxu/diffrec)**|
+|**2023-04-11**|**Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond**|Mohammadreza Armandpour et.al.|[2304.04968v1](http://arxiv.org/abs/2304.04968v1)|null|
+|**2023-04-10**|**Binary Latent Diffusion**|Ze Wang et.al.|[2304.04820v1](http://arxiv.org/abs/2304.04820v1)|null|
+|**2023-04-10**|**DDRF: Denoising Diffusion Model for Remote Sensing Image Fusion**|ZiHan Cao et.al.|[2304.04774v1](http://arxiv.org/abs/2304.04774v1)|null|
 |**2023-04-10**|**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**|Jiaao Chen et.al.|[2304.04746v1](http://arxiv.org/abs/2304.04746v1)|**[link](https://github.com/amazon-science/masked-diffusion-lm)**|
 |**2023-04-10**|**Ambiguous Medical Image Segmentation using Diffusion Models**|Aimon Rahman et.al.|[2304.04745v1](http://arxiv.org/abs/2304.04745v1)|**[link](https://github.com/aimansnigdha/ambiguous-medical-image-segmentation-using-diffusion-models)**|
 |**2023-04-10**|**Reflected Diffusion Models**|Aaron Lou et.al.|[2304.04740v1](http://arxiv.org/abs/2304.04740v1)|null|
@@ -969,6 +979,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**SFT-KD-Recon: Learning a Student-friendly Teacher for Knowledge Distillation in Magnetic Resonance Image Reconstruction**|Matcha Naga Gayathri et.al.|[2304.05057v1](http://arxiv.org/abs/2304.05057v1)|null|
 |**2023-04-07**|**Fast Marching based Tissue Adaptive Delay Estimation for Aberration Corrected Delay and Sum Beamforming in Ultrasound Imaging**|Asif M S et.al.|[2304.03614v1](http://arxiv.org/abs/2304.03614v1)|null|
 |**2023-04-07**|**mcLARO: Multi-Contrast Learned Acquisition and Reconstruction Optimization for simultaneous quantitative multi-parametric mapping**|Jinwei Zhang et.al.|[2304.03458v1](http://arxiv.org/abs/2304.03458v1)|null|
 |**2023-04-06**|**Mask Detection and Classification in Thermal Face Images**|Natalia Kowalczyk et.al.|[2304.02931v1](http://arxiv.org/abs/2304.02931v1)|**[link](https://github.com/natkowalczyk/thermal-mask-classification-and-detection)**|
@@ -1193,6 +1204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Iterative Singular Tube Hard Thresholding Algorithms for Tensor Completion**|Rachel Grotheer et.al.|[2304.04860v1](http://arxiv.org/abs/2304.04860v1)|null|
 |**2023-04-06**|**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models**|Guanhua Zhang et.al.|[2304.03322v1](http://arxiv.org/abs/2304.03322v1)|**[link](https://github.com/ucsb-nlp-chang/copaint)**|
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
 |**2023-04-06**|**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models**|Ahmet Burak Yildirim et.al.|[2304.03246v1](http://arxiv.org/abs/2304.03246v1)|**[link](https://github.com/abyildirim/inst-inpaint)**|
@@ -1264,6 +1276,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139v1](http://arxiv.org/abs/2304.05139v1)|**[link](https://github.com/danruta/neat)**|
+|**2023-04-10**|**DDRF: Denoising Diffusion Model for Remote Sensing Image Fusion**|ZiHan Cao et.al.|[2304.04774v1](http://arxiv.org/abs/2304.04774v1)|null|
 |**2023-04-10**|**Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer**|Agus Gunawan et.al.|[2304.04461v1](http://arxiv.org/abs/2304.04461v1)|null|
 |**2023-04-10**|**ITportrait: Image-Text Coupled 3D Portrait Domain Adaptation**|Xiangwen Deng et.al.|[2304.04364v1](http://arxiv.org/abs/2304.04364v1)|null|
 |**2023-04-04**|**FakET: Simulating Cryo-Electron Tomograms with Neural Style Transfer**|Pavol Harar et.al.|[2304.02011v1](http://arxiv.org/abs/2304.02011v1)|**[link](https://gitlab.com/deepet/faket)**|
