@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
+|**2023-04-17**|**Synthetic Data from Diffusion Models Improves ImageNet Classification**|Shekoofeh Azizi et.al.|[2304.08466v1](http://arxiv.org/abs/2304.08466v1)|null|
+|**2023-04-17**|**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**|Mingdeng Cao et.al.|[2304.08465v1](http://arxiv.org/abs/2304.08465v1)|**[link](https://github.com/tencentarc/masactrl)**|
+|**2023-04-17**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446v1](http://arxiv.org/abs/2304.08446v1)|null|
+|**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291v1](http://arxiv.org/abs/2304.08291v1)|**[link](https://github.com/algolzw/image-restoration-sde)**|
+|**2023-04-14**|**Text-Conditional Contextualized Avatars For Zero-Shot Personalization**|Samaneh Azadi et.al.|[2304.07410v1](http://arxiv.org/abs/2304.07410v1)|null|
 |**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132v1](http://arxiv.org/abs/2304.07132v1)|null|
 |**2023-04-14**|**Delta Denoising Score**|Amir Hertz et.al.|[2304.07090v1](http://arxiv.org/abs/2304.07090v1)|null|
 |**2023-04-14**|**DCFace: Synthetic Face Generation with Dual Condition Diffusion Model**|Minchul Kim et.al.|[2304.07060v1](http://arxiv.org/abs/2304.07060v1)|**[link](https://github.com/mk-minchul/dcface)**|
@@ -452,6 +458,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v1](http://arxiv.org/abs/2304.08477v1)|null|
+|**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291v1](http://arxiv.org/abs/2304.08291v1)|**[link](https://github.com/algolzw/image-restoration-sde)**|
+|**2023-04-17**|**360 $^\circ$  High-Resolution Depth Estimation via Uncertainty-aware Structural Knowledge Transfer**|Zidong Cao et.al.|[2304.07967v1](http://arxiv.org/abs/2304.07967v1)|null|
+|**2023-04-16**|**Predicting unavailable parameters from existing velocity fields of turbulent flows using a GAN-based model**|Linqi Yu et.al.|[2304.07762v1](http://arxiv.org/abs/2304.07762v1)|null|
+|**2023-04-16**|**Arbitrary Reduction of MRI Inter-slice Spacing Using Hierarchical Feature Conditional Diffusion**|Xin Wang et.al.|[2304.07756v1](http://arxiv.org/abs/2304.07756v1)|null|
 |**2023-04-14**|**DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**|Lei Yu et.al.|[2304.07018v1](http://arxiv.org/abs/2304.07018v1)|null|
 |**2023-04-17**|**L1BSR: Exploiting Detector Overlap for Self-Supervised Single-Image Super-Resolution of Sentinel-2 L1B Imagery**|Ngoc Long Nguyen et.al.|[2304.06871v2](http://arxiv.org/abs/2304.06871v2)|null|
 |**2023-04-13**|**Gated Multi-Resolution Transfer Network for Burst Restoration and Enhancement**|Nancy Mehta et.al.|[2304.06703v1](http://arxiv.org/abs/2304.06703v1)|null|
@@ -915,6 +926,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Multiscale hierarchical decomposition methods for ill-posed problems**|Stefan Kindermann et.al.|[2304.08332v1](http://arxiv.org/abs/2304.08332v1)|null|
+|**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291v1](http://arxiv.org/abs/2304.08291v1)|**[link](https://github.com/algolzw/image-restoration-sde)**|
 |**2023-04-14**|**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**|Wenyang Liu et.al.|[2304.06976v1](http://arxiv.org/abs/2304.06976v1)|**[link](https://github.com/wenyang001/two-acir)**|
 |**2023-04-13**|**Moment-based space-variant Shack-Hartmann wavefront reconstruction**|Fan Feng et.al.|[2304.06283v1](http://arxiv.org/abs/2304.06283v1)|null|
 |**2023-04-12**|**Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera**|Ruicheng Feng et.al.|[2304.06019v1](http://arxiv.org/abs/2304.06019v1)|**[link](https://github.com/jnjaby/alignformer)**|
@@ -1016,6 +1029,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-15**|**Model-based Federated Learning for Accurate MR Image Reconstruction from Undersampled k-space Data**|Ruoyou Wu et.al.|[2304.07502v1](http://arxiv.org/abs/2304.07502v1)|null|
 |**2023-04-14**|**Repeatability of image quality in very low field MRI**|Pavan Poojar Kunal Aggarwal et.al.|[2304.07267v1](http://arxiv.org/abs/2304.07267v1)|null|
 |**2023-04-14**|**Uncertainty-Aware Null Space Networks for Data-Consistent Image Reconstruction**|Christoph Angermann et.al.|[2304.06955v1](http://arxiv.org/abs/2304.06955v1)|**[link](https://github.com/anger-man/cascaded-null-space-learning)**|
 |**2023-04-14**|**Machine Perception-Driven Image Compression: A Layered Generative Approach**|Yuefeng Zhang et.al.|[2304.06896v1](http://arxiv.org/abs/2304.06896v1)|null|
@@ -1158,6 +1172,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Unsupervised Image Denoising with Score Function**|Yutong Xie et.al.|[2304.08384v1](http://arxiv.org/abs/2304.08384v1)|null|
+|**2023-04-15**|**Anti-scattering medium computational ghost imaging with modified Hadamard patterns**|Li-Xing Lin et.al.|[2304.07495v1](http://arxiv.org/abs/2304.07495v1)|null|
 |**2023-04-13**|**A Nonsmooth Augmented Lagrangian Method and its Application to Poisson Denoising and Sparse Control**|Christian Kanzow et.al.|[2304.06434v1](http://arxiv.org/abs/2304.06434v1)|null|
 |**2023-04-13**|**DDT: Dual-branch Deformable Transformer for Image Denoising**|Kangliang Liu et.al.|[2304.06346v1](http://arxiv.org/abs/2304.06346v1)|**[link](https://github.com/merenguelkl/ddt)**|
 |**2023-04-13**|**EWT: Efficient Wavelet-Transformer for Single Image Denoising**|Juncheng Li et.al.|[2304.06274v1](http://arxiv.org/abs/2304.06274v1)|null|
@@ -1254,6 +1270,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**NF-ULA: Langevin Monte Carlo with Normalizing Flow Prior for Imaging Inverse Problems**|Ziruo Cai et.al.|[2304.08342v1](http://arxiv.org/abs/2304.08342v1)|null|
 |**2023-04-13**|**Inpaint Anything: Segment Anything Meets Image Inpainting**|Tao Yu et.al.|[2304.06790v1](http://arxiv.org/abs/2304.06790v1)|**[link](https://github.com/geekyutao/inpaint-anything)**|
 |**2023-04-10**|**Iterative Singular Tube Hard Thresholding Algorithms for Tensor Completion**|Rachel Grotheer et.al.|[2304.04860v1](http://arxiv.org/abs/2304.04860v1)|null|
 |**2023-04-06**|**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models**|Guanhua Zhang et.al.|[2304.03322v1](http://arxiv.org/abs/2304.03322v1)|**[link](https://github.com/ucsb-nlp-chang/copaint)**|
