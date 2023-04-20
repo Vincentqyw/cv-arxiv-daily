@@ -26,6 +26,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models**|Seung Wook Kim et.al.|[2304.09787v1](http://arxiv.org/abs/2304.09787v1)|null|
+|**2023-04-17**|**Attributing Image Generative Models using Latent Fingerprints**|Guangyu Nie et.al.|[2304.09752v1](http://arxiv.org/abs/2304.09752v1)|**[link](https://github.com/guangyunie/watermarking-through-style-space-edition)**|
+|**2023-04-19**|**Realistic Data Enrichment for Robust Image Segmentation in Histopathology**|Sarah Cechnicka et.al.|[2304.09534v1](http://arxiv.org/abs/2304.09534v1)|null|
+|**2023-04-19**|**Latent Semantic Diffusion-based Channel Adaptive De-Noising SemCom for Future 6G Systems**|Bingxuan Xu et.al.|[2304.09420v1](http://arxiv.org/abs/2304.09420v1)|null|
 |**2023-04-18**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116v1](http://arxiv.org/abs/2304.09116v1)|null|
 |**2023-04-18**|**Look ATME: The Discriminator Mean Entropy Needs Attention**|Edgardo Solano-Carrillo et.al.|[2304.09024v1](http://arxiv.org/abs/2304.09024v1)|**[link](https://github.com/dlr-mi/atme)**|
 |**2023-04-18**|**UPGPT: Universal Diffusion Model for Person Image Generation, Editing and Pose Transfer**|Soon Yau Cheong et.al.|[2304.08870v1](http://arxiv.org/abs/2304.08870v1)|null|
@@ -465,6 +469,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Passive superresolution imaging of incoherent objects**|Jernej Frank et.al.|[2304.09773v1](http://arxiv.org/abs/2304.09773v1)|null|
+|**2023-04-19**|**StyleDEM: a Versatile Model for Authoring Terrains**|Simon Perche et.al.|[2304.09626v1](http://arxiv.org/abs/2304.09626v1)|null|
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818v1](http://arxiv.org/abs/2304.08818v1)|null|
 |**2023-04-18**|**Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation**|Jie An et.al.|[2304.08477v2](http://arxiv.org/abs/2304.08477v2)|null|
@@ -1040,6 +1046,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Towards a muon scattering tomography system for both low-Z and high-Z materials**|Jiahui Chen et.al.|[2304.09489v1](http://arxiv.org/abs/2304.09489v1)|null|
+|**2023-04-18**|**FastMRI Prostate: A Publicly Available, Biparametric MRI Dataset to Advance Machine Learning for Prostate Cancer Imaging**|Radhika Tibrewala et.al.|[2304.09254v1](http://arxiv.org/abs/2304.09254v1)|null|
 |**2023-04-18**|**Fast Neural Scene Flow**|Xueqian Li et.al.|[2304.09121v1](http://arxiv.org/abs/2304.09121v1)|null|
 |**2023-04-17**|**On taxicab distance mean functions and their geometric applications: methods, implementations and examples**|Csaba Vincze et.al.|[2304.08626v1](http://arxiv.org/abs/2304.08626v1)|null|
 |**2023-04-15**|**Model-based Federated Learning for Accurate MR Image Reconstruction from Undersampled k-space Data**|Ruoyou Wu et.al.|[2304.07502v1](http://arxiv.org/abs/2304.07502v1)|null|
@@ -1185,7 +1193,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-18**|**A Comparison of Image Denoising Methods**|Zhaoming Kong et.al.|[2304.08990v1](http://arxiv.org/abs/2304.08990v1)|null|
+|**2023-04-19**|**Self-supervised Image Denoising with Downsampled Invariance Loss and Conditional Blind-Spot Network**|Yeong Il Jang et.al.|[2304.09507v1](http://arxiv.org/abs/2304.09507v1)|null|
+|**2023-04-19**|**Multi-scale Adaptive Fusion Network for Hyperspectral Image Denoising**|Haodong Pan et.al.|[2304.09373v1](http://arxiv.org/abs/2304.09373v1)|**[link](https://github.com/summitgao/mafnet)**|
+|**2023-04-18**|**A Comparison of Image Denoising Methods**|Zhaoming Kong et.al.|[2304.08990v1](http://arxiv.org/abs/2304.08990v1)|**[link](https://github.com/ZhaomingKong/Denoising-Comparison)**|
 |**2023-04-17**|**Unsupervised Image Denoising with Score Function**|Yutong Xie et.al.|[2304.08384v1](http://arxiv.org/abs/2304.08384v1)|null|
 |**2023-04-15**|**Anti-scattering medium computational ghost imaging with modified Hadamard patterns**|Li-Xing Lin et.al.|[2304.07495v1](http://arxiv.org/abs/2304.07495v1)|null|
 |**2023-04-13**|**A Nonsmooth Augmented Lagrangian Method and its Application to Poisson Denoising and Sparse Control**|Christian Kanzow et.al.|[2304.06434v1](http://arxiv.org/abs/2304.06434v1)|null|
@@ -1284,6 +1294,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v1](http://arxiv.org/abs/2304.09677v1)|null|
 |**2023-04-17**|**NF-ULA: Langevin Monte Carlo with Normalizing Flow Prior for Imaging Inverse Problems**|Ziruo Cai et.al.|[2304.08342v1](http://arxiv.org/abs/2304.08342v1)|null|
 |**2023-04-13**|**Inpaint Anything: Segment Anything Meets Image Inpainting**|Tao Yu et.al.|[2304.06790v1](http://arxiv.org/abs/2304.06790v1)|**[link](https://github.com/geekyutao/inpaint-anything)**|
 |**2023-04-10**|**Iterative Singular Tube Hard Thresholding Algorithms for Tensor Completion**|Rachel Grotheer et.al.|[2304.04860v1](http://arxiv.org/abs/2304.04860v1)|null|
@@ -1358,6 +1369,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Any-to-Any Style Transfer**|Songhua Liu et.al.|[2304.09728v1](http://arxiv.org/abs/2304.09728v1)|**[link](https://github.com/huage001/transfer-any-style)**|
 |**2023-04-12**|**ALADIN-NST: Self-supervised disentangled representation learning of artistic style through Neural Style Transfer**|Dan Ruta et.al.|[2304.05755v1](http://arxiv.org/abs/2304.05755v1)|**[link](https://github.com/danruta/aladin-nst)**|
 |**2023-04-12**|**Improving Diffusion Models for Scene Text Editing with Dual Encoders**|Jiabao Ji et.al.|[2304.05568v1](http://arxiv.org/abs/2304.05568v1)|**[link](https://github.com/ucsb-nlp-chang/diffste)**|
 |**2023-04-11**|**NeAT: Neural Artistic Tracing for Beautiful Style Transfer**|Dan Ruta et.al.|[2304.05139v1](http://arxiv.org/abs/2304.05139v1)|**[link](https://github.com/danruta/neat)**|
