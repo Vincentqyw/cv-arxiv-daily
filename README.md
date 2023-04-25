@@ -479,7 +479,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-24**|**Ultra Sharp : Study of Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v2](http://arxiv.org/abs/2304.10870v2)|null|
+|**2023-04-24**|**Ultra Sharp : Study of Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v2](http://arxiv.org/abs/2304.10870v2)|**[link](https://github.com/karthickpgunasekaran/superresolutionwithrdn)**|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
@@ -509,7 +509,7 @@
 |**2023-04-06**|**Super-Resolving Face Image by Facial Parsing Information**|Chenyang Wang et.al.|[2304.02923v1](http://arxiv.org/abs/2304.02923v1)|**[link](https://github.com/wcy-cs/fishfsrnet)**|
 |**2023-04-05**|**Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution**|Brian Moser et.al.|[2304.01994v2](http://arxiv.org/abs/2304.01994v2)|**[link](https://github.com/brian-moser/diwa)**|
 |**2023-04-03**|**Generative Diffusion Prior for Unified Image Restoration and Enhancement**|Ben Fei et.al.|[2304.01247v1](http://arxiv.org/abs/2304.01247v1)|null|
-|**2023-04-03**|**CoReFusion: Contrastive Regularized Fusion for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2304.01243v1](http://arxiv.org/abs/2304.01243v1)|**[link](https://github.com/kasliwal17/corefusion)**|
+|**2023-04-24**|**CoReFusion: Contrastive Regularized Fusion for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2304.01243v2](http://arxiv.org/abs/2304.01243v2)|**[link](https://github.com/kasliwal17/corefusion)**|
 |**2023-04-03**|**Burstormer: Burst Image Restoration and Enhancement Transformer**|Akshay Dudhane et.al.|[2304.01194v1](http://arxiv.org/abs/2304.01194v1)|**[link](https://github.com/akshaydudhane16/burstormer)**|
 |**2023-04-03**|**HyperThumbnail: Real-time 6K Image Rescaling with Rate-distortion Optimization**|Chenyang Qi et.al.|[2304.01064v1](http://arxiv.org/abs/2304.01064v1)|**[link](https://github.com/abnervictor/hyperthumbnail)**|
 |**2023-04-03**|**Tunable Convolutions with Parametric Multi-Loss Optimization**|Matteo Maggioni et.al.|[2304.00898v1](http://arxiv.org/abs/2304.00898v1)|null|
@@ -684,7 +684,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-04-24**|**Ultra Sharp : Study of Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v2](http://arxiv.org/abs/2304.10870v2)|null|
+|**2023-04-24**|**Ultra Sharp : Study of Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v2](http://arxiv.org/abs/2304.10870v2)|**[link](https://github.com/karthickpgunasekaran/superresolutionwithrdn)**|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
 |**2023-04-24**|**Omni Aggregation Networks for Lightweight Image Super-Resolution**|Hang Wang et.al.|[2304.10244v2](http://arxiv.org/abs/2304.10244v2)|**[link](https://github.com/francis0625/omni-sr)**|
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
