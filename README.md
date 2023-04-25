@@ -26,6 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Approximation of Optimal Control Surfaces for the Bass Model with Stochastic Dynamics**|Gabriel Nicolosi et.al.|[2304.12265v1](http://arxiv.org/abs/2304.12265v1)|null|
+|**2023-04-20**|**A 2D Graph-Based Generative Approach For Exploring Transition States Using Diffusion Model**|Seonghwan Kim et.al.|[2304.12233v1](http://arxiv.org/abs/2304.12233v1)|null|
+|**2023-04-24**|**Variational Diffusion Auto-encoder: Deep Latent Variable Model with Unconditional Diffusion Prior**|Georgios Batzolis et.al.|[2304.12141v1](http://arxiv.org/abs/2304.12141v1)|null|
+|**2023-04-24**|**Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models**|Zhenyi Wang et.al.|[2304.12076v1](http://arxiv.org/abs/2304.12076v1)|null|
+|**2023-04-24**|**Hierarchical Diffusion Autoencoders and Disentangled Image Manipulation**|Zeyu Lu et.al.|[2304.11829v1](http://arxiv.org/abs/2304.11829v1)|null|
+|**2023-04-23**|**Score-Based Diffusion Models as Principled Priors for Inverse Imaging**|Berthy T. Feng et.al.|[2304.11751v1](http://arxiv.org/abs/2304.11751v1)|null|
+|**2023-04-23**|**DiffVoice: Text-to-Speech with Latent Diffusion**|Zhijun Liu et.al.|[2304.11750v1](http://arxiv.org/abs/2304.11750v1)|null|
+|**2023-04-23**|**DiffESM: Conditional Emulation of Earth System Models with Diffusion Models**|Seth Bassetti et.al.|[2304.11699v1](http://arxiv.org/abs/2304.11699v1)|null|
+|**2023-04-23**|**LaMD: Latent Motion Diffusion for Video Generation**|Yaosi Hu et.al.|[2304.11603v1](http://arxiv.org/abs/2304.11603v1)|null|
+|**2023-04-23**|**Diffusion Model for GPS Trajectory Generation**|Yuanshao Zhu et.al.|[2304.11582v1](http://arxiv.org/abs/2304.11582v1)|null|
+|**2023-04-22**|**Conditional Denoising Diffusion for Sequential Recommendation**|Yu Wang et.al.|[2304.11433v1](http://arxiv.org/abs/2304.11433v1)|null|
+|**2023-04-22**|**On Accelerating Diffusion-Based Sampling Process via Improved Integration Approximation**|Guoqiang Zhang et.al.|[2304.11328v1](http://arxiv.org/abs/2304.11328v1)|null|
+|**2023-04-21**|**Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations**|Yu-Hui Chen et.al.|[2304.11267v1](http://arxiv.org/abs/2304.11267v1)|null|
+|**2023-04-17**|**An open-source pipeline for solving continuous reaction-diffusion models in image-based geometries of porous media**|Justina Stark et.al.|[2304.11165v1](http://arxiv.org/abs/2304.11165v1)|null|
 |**2023-04-21**|**BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis**|Angela Castillo et.al.|[2304.11118v1](http://arxiv.org/abs/2304.11118v1)|null|
 |**2023-04-21**|**Optimal control of a reaction-diffusion model related to the spread of COVID-19**|Pierluigi Colli et.al.|[2304.11114v1](http://arxiv.org/abs/2304.11114v1)|null|
 |**2023-04-21**|**Improved Diffusion-based Image Colorization via Piggybacked Models**|Hanyuan Liu et.al.|[2304.11105v1](http://arxiv.org/abs/2304.11105v1)|null|
@@ -479,6 +493,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Reconstructing Turbulent Flows Using Physics-Aware Spatio-Temporal Dynamics and Test-Time Refinement**|Shengyu Chen et.al.|[2304.12130v1](http://arxiv.org/abs/2304.12130v1)|null|
 |**2023-04-24**|**Ultra Sharp : Study of Single Image Super Resolution using Residual Dense Network**|Karthick Prasad Gunasekaran et.al.|[2304.10870v2](http://arxiv.org/abs/2304.10870v2)|**[link](https://github.com/karthickpgunasekaran/superresolutionwithrdn)**|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536v1](http://arxiv.org/abs/2304.10536v1)|null|
 |**2023-04-20**|**NTIRE 2023 Challenge on Light Field Image Super-Resolution: Dataset, Methods and Results**|Yingqian Wang et.al.|[2304.10415v1](http://arxiv.org/abs/2304.10415v1)|**[link](https://github.com/zhengyuliang24/basiclfsr)**|
@@ -863,6 +878,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v1](http://arxiv.org/abs/2304.11993v1)|null|
 |**2023-04-21**|**Improved Diffusion-based Image Colorization via Piggybacked Models**|Hanyuan Liu et.al.|[2304.11105v1](http://arxiv.org/abs/2304.11105v1)|null|
 |**2023-04-20**|**Edge-Aware Image Color Appearance and Difference Modeling**|Abhinau K. Venkataramanan et.al.|[2304.10669v1](http://arxiv.org/abs/2304.10669v1)|null|
 |**2023-04-14**|**Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration**|Wenyang Liu et.al.|[2304.06976v1](http://arxiv.org/abs/2304.06976v1)|**[link](https://github.com/wenyang001/two-acir)**|
@@ -963,6 +979,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**A Data-Driven Approach for Bayesian Uncertainty Quantification in Imaging**|Michael Tang et.al.|[2304.11200v1](http://arxiv.org/abs/2304.11200v1)|null|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-17**|**Multiscale hierarchical decomposition methods for ill-posed problems**|Stefan Kindermann et.al.|[2304.08332v1](http://arxiv.org/abs/2304.08332v1)|null|
 |**2023-04-17**|**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models**|Ziwei Luo et.al.|[2304.08291v1](http://arxiv.org/abs/2304.08291v1)|**[link](https://github.com/algolzw/image-restoration-sde)**|
@@ -1067,6 +1084,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Parameterized Learning and Distillation with Vortex-encoded Spectral Correlations**|Altai Perry et.al.|[2304.12172v1](http://arxiv.org/abs/2304.12172v1)|null|
+|**2023-04-24**|**Hierarchical Diffusion Autoencoders and Disentangled Image Manipulation**|Zeyu Lu et.al.|[2304.11829v1](http://arxiv.org/abs/2304.11829v1)|null|
+|**2023-04-23**|**Score-Based Diffusion Models as Principled Priors for Inverse Imaging**|Berthy T. Feng et.al.|[2304.11751v1](http://arxiv.org/abs/2304.11751v1)|null|
+|**2023-04-23**|**A complementary  $\ell^1$ -TV reconstruction algorithm for limited data CT**|Simon Göppel et.al.|[2304.11599v1](http://arxiv.org/abs/2304.11599v1)|null|
+|**2023-04-22**|**Fast MRI Reconstruction via Edge Attention**|Hanhui Yang et.al.|[2304.11400v1](http://arxiv.org/abs/2304.11400v1)|null|
 |**2023-04-21**|**Multi-frame-based Cross-domain Image Denoising for Low-dose Computed Tomography**|Yucheng Lu et.al.|[2304.10839v1](http://arxiv.org/abs/2304.10839v1)|null|
 |**2023-04-19**|**Towards a muon scattering tomography system for both low-Z and high-Z materials**|Jiahui Chen et.al.|[2304.09489v1](http://arxiv.org/abs/2304.09489v1)|null|
 |**2023-04-18**|**FastMRI Prostate: A Publicly Available, Biparametric MRI Dataset to Advance Machine Learning for Prostate Cancer Imaging**|Radhika Tibrewala et.al.|[2304.09254v1](http://arxiv.org/abs/2304.09254v1)|null|
@@ -1215,6 +1237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-22**|**The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**|Yilin Liu et.al.|[2304.11409v1](http://arxiv.org/abs/2304.11409v1)|null|
 |**2023-04-21**|**H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization**|Jiayi Li et.al.|[2304.11141v1](http://arxiv.org/abs/2304.11141v1)|null|
 |**2023-04-21**|**Multi-frame-based Cross-domain Image Denoising for Low-dose Computed Tomography**|Yucheng Lu et.al.|[2304.10839v1](http://arxiv.org/abs/2304.10839v1)|null|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
@@ -1319,6 +1342,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**GRIG: Few-Shot Generative Residual Image Inpainting**|Wanglong Lu et.al.|[2304.12035v1](http://arxiv.org/abs/2304.12035v1)|null|
+|**2023-04-23**|**Segment Anything in Non-Euclidean Domains: Challenges and Opportunities**|Yongcheng Jing et.al.|[2304.11595v1](http://arxiv.org/abs/2304.11595v1)|null|
 |**2023-04-20**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-17**|**NF-ULA: Langevin Monte Carlo with Normalizing Flow Prior for Imaging Inverse Problems**|Ziruo Cai et.al.|[2304.08342v1](http://arxiv.org/abs/2304.08342v1)|null|
 |**2023-04-13**|**Inpaint Anything: Segment Anything Meets Image Inpainting**|Tao Yu et.al.|[2304.06790v1](http://arxiv.org/abs/2304.06790v1)|**[link](https://github.com/geekyutao/inpaint-anything)**|
@@ -1394,6 +1419,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer**|Hao Tang et.al.|[2304.11818v1](http://arxiv.org/abs/2304.11818v1)|null|
+|**2023-04-22**|**Two Birds, One Stone: A Unified Framework for Joint Learning of Image and Video Style Transfers**|Bohai Gu et.al.|[2304.11335v1](http://arxiv.org/abs/2304.11335v1)|null|
 |**2023-04-19**|**Affective social anthropomorphic intelligent system**|Md. Adyelullahil Mamun et.al.|[2304.11046v1](http://arxiv.org/abs/2304.11046v1)|null|
 |**2023-04-20**|**A Plug-and-Play Defensive Perturbation for Copyright Protection of DNN-based Applications**|Donghua Wang et.al.|[2304.10679v1](http://arxiv.org/abs/2304.10679v1)|null|
 |**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|null|
