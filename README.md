@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Putting People in Their Place: Affordance-Aware Human Insertion into Scenes**|Sumith Kulal et.al.|[2304.14406v1](http://arxiv.org/abs/2304.14406v1)|**[link](https://github.com/adobe-research/affordance-insertion)**|
+|**2023-04-27**|**Motion-Conditioned Diffusion Model for Controllable Video Synthesis**|Tsai-Shien Chen et.al.|[2304.14404v1](http://arxiv.org/abs/2304.14404v1)|null|
+|**2023-04-27**|**Modeling diffusion in ionic, crystalline solids with internal stress gradients**|Benjamin L. Hess et.al.|[2304.14330v1](http://arxiv.org/abs/2304.14330v1)|null|
+|**2023-04-26**|**Multimodal Composite Association Score: Measuring Gender Bias in Generative Multimodal Models**|Abhishek Mandal et.al.|[2304.13855v1](http://arxiv.org/abs/2304.13855v1)|null|
+|**2023-04-24**|**Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model**|Deepanway Ghosal et.al.|[2304.13731v1](http://arxiv.org/abs/2304.13731v1)|**[link](https://github.com/declare-lab/tango)**|
 |**2023-04-26**|**Training-Free Location-Aware Text-to-Image Synthesis**|Jiafeng Mao et.al.|[2304.13427v1](http://arxiv.org/abs/2304.13427v1)|null|
 |**2023-04-26**|**DiffuseExpand: Expanding dataset for 2D medical image segmentation using diffusion models**|Shitong Shao et.al.|[2304.13416v1](http://arxiv.org/abs/2304.13416v1)|null|
 |**2023-04-26**|**Score-based Generative Modeling Through Backward Stochastic Differential Equations: Inversion and Generation**|Zihao Wang et.al.|[2304.13224v1](http://arxiv.org/abs/2304.13224v1)|null|
@@ -506,6 +511,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Synthetic aperture phase imaging of second harmonic generation field with computational adaptive optics**|Jungho Moon et.al.|[2304.14018v1](http://arxiv.org/abs/2304.14018v1)|null|
 |**2023-04-26**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518v1](http://arxiv.org/abs/2304.13518v1)|null|
 |**2023-04-26**|**OPDN: Omnidirectional Position-aware Deformable Network for Omnidirectional Image Super-Resolution**|Xiaopeng Sun et.al.|[2304.13471v1](http://arxiv.org/abs/2304.13471v1)|null|
 |**2023-04-25**|**On the Use of Singular Value Decomposition as a Clutter Filter for Ultrasound Flow Imaging**|Kai Riemer et.al.|[2304.12783v1](http://arxiv.org/abs/2304.12783v1)|null|
@@ -1107,6 +1113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**A method for accelerating projection-based magnetic particle imaging**|Kenya Murase et.al.|[2304.14085v1](http://arxiv.org/abs/2304.14085v1)|null|
 |**2023-04-26**|**IML FISTA: Inexact MuLtilevel FISTA for Image Restoration**|Guillaume Lauga et.al.|[2304.13329v1](http://arxiv.org/abs/2304.13329v1)|null|
 |**2023-04-25**|**MRI Recovery with Self-Calibrated Denoisers without Fully-Sampled Data**|Sizhuo Liu et.al.|[2304.12890v1](http://arxiv.org/abs/2304.12890v1)|**[link](https://github.com/sizhuoliu/reside)**|
 |**2023-04-25**|**Learning Task-Specific Strategies for Accelerated MRI**|Zihui Wu et.al.|[2304.12507v1](http://arxiv.org/abs/2304.12507v1)|null|
