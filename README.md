@@ -26,6 +26,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594v1](http://arxiv.org/abs/2305.02594v1)|null|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567v1](http://arxiv.org/abs/2305.02567v1)|null|
+|**2023-05-03**|**Shap-E: Generating Conditional 3D Implicit Functions**|Heewoo Jun et.al.|[2305.02463v1](http://arxiv.org/abs/2305.02463v1)|**[link](https://github.com/openai/shap-e)**|
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855v1](http://arxiv.org/abs/2305.01855v1)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822v1](http://arxiv.org/abs/2305.01822v1)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 |**2023-05-02**|**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**|Haopeng Zhang et.al.|[2305.01735v1](http://arxiv.org/abs/2305.01735v1)|null|
@@ -41,7 +44,7 @@
 |**2023-04-30**|**Towards Computational Architecture of Liberty: A Comprehensive Survey on Deep Learning for Generating Virtual Architecture in the Metaverse**|Anqi Wang et.al.|[2305.00510v1](http://arxiv.org/abs/2305.00510v1)|null|
 |**2023-05-02**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359v2](http://arxiv.org/abs/2305.00359v2)|null|
 |**2023-04-28**|**Unsupervised Discovery of 3D Hierarchical Structure with Generative Diffusion Features**|Nurislam Tursynbek et.al.|[2305.00067v1](http://arxiv.org/abs/2305.00067v1)|null|
-|**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632v1](http://arxiv.org/abs/2304.14632v1)|null|
+|**2023-04-28**|**Simplified models of diffusion in radially-symmetric geometries**|Luke P. Filippini et.al.|[2304.14632v1](http://arxiv.org/abs/2304.14632v1)|**[link](https://github.com/lukefilippini/filippini_2023)**|
 |**2023-04-28**|**SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis**|Azade Farshad et.al.|[2304.14573v1](http://arxiv.org/abs/2304.14573v1)|null|
 |**2023-04-27**|**It is all about where you start: Text-to-image generation with seed selection**|Dvir Samuel et.al.|[2304.14530v1](http://arxiv.org/abs/2304.14530v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
@@ -530,6 +533,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
+|**2023-05-04**|**Unsupervised Domain Adaptation for Neuron Membrane Segmentation based on Structural Features**|Yuxiang An et.al.|[2305.02569v1](http://arxiv.org/abs/2305.02569v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
 |**2023-05-03**|**Efficient CNN-based Super Resolution Algorithms for mmWave Mobile Radar Imaging**|Christos Vasileiou et.al.|[2305.02092v1](http://arxiv.org/abs/2305.02092v1)|null|
 |**2023-05-03**|**A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution**|Josiah Smith et.al.|[2305.02074v1](http://arxiv.org/abs/2305.02074v1)|null|
@@ -874,6 +879,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
 |**2023-04-29**|**An Implicit Alignment for Video Super-Resolution**|Kai Xu et.al.|[2305.00163v1](http://arxiv.org/abs/2305.00163v1)|**[link](https://github.com/kai422/iart)**|
 |**2023-04-18**|**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**|Andreas Blattmann et.al.|[2304.08818v1](http://arxiv.org/abs/2304.08818v1)|null|
 |**2023-04-10**|**Local-Global Temporal Difference Learning for Satellite Video Super-Resolution**|Yi Xiao et.al.|[2304.04421v1](http://arxiv.org/abs/2304.04421v1)|**[link](https://github.com/xy-boy/tdmvsr)**|
@@ -1153,6 +1159,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Conditional and Residual Methods in Scalable Coding for Humans and Machines**|Anderson de Andrade et.al.|[2305.02562v1](http://arxiv.org/abs/2305.02562v1)|**[link](https://github.com/adeandrade/research)**|
+|**2023-05-04**|**Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder**|Xinmiao Lin et.al.|[2305.02541v1](http://arxiv.org/abs/2305.02541v1)|null|
+|**2023-05-04**|**Meta-Learning Enabled Score-Based Generative Model for 1.5T-Like Image Reconstruction from 0.5T MRI**|Zhuo-Xu Cui et.al.|[2305.02509v1](http://arxiv.org/abs/2305.02509v1)|null|
 |**2023-05-03**|**Efficient 3-D Near-Field MIMO-SAR Imaging for Irregular Scanning Geometries**|Josiah Smith et.al.|[2305.02064v1](http://arxiv.org/abs/2305.02064v1)|null|
 |**2023-05-03**|**Near-Field MIMO-ISAR Millimeter-Wave Imaging**|Josiah W. Smith et.al.|[2305.02030v1](http://arxiv.org/abs/2305.02030v1)|null|
 |**2023-05-02**|**Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data**|Asad Aali et.al.|[2305.01166v1](http://arxiv.org/abs/2305.01166v1)|null|
