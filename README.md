@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Conditional Diffusion Feature Refinement for Continuous Sign Language Recognition**|Leming Guo et.al.|[2305.03614v1](http://arxiv.org/abs/2305.03614v1)|null|
+|**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610v1](http://arxiv.org/abs/2305.03610v1)|null|
+|**2023-05-05**|**Iterative  $α$ -(de)Blending: a Minimalist Deterministic Diffusion Model**|Eric Heitz et.al.|[2305.03486v1](http://arxiv.org/abs/2305.03486v1)|null|
+|**2023-05-05**|**Generative Steganography Diffusion**|Ping Wei et.al.|[2305.03472v1](http://arxiv.org/abs/2305.03472v1)|null|
+|**2023-05-05**|**Guided Image Synthesis via Initial Image Editing in Diffusion Model**|Jiafeng Mao et.al.|[2305.03382v1](http://arxiv.org/abs/2305.03382v1)|null|
+|**2023-05-05**|**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation**|Hong Chen et.al.|[2305.03374v1](http://arxiv.org/abs/2305.03374v1)|null|
 |**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594v1](http://arxiv.org/abs/2305.02594v1)|null|
 |**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567v1](http://arxiv.org/abs/2305.02567v1)|null|
 |**2023-05-03**|**Shap-E: Generating Conditional 3D Implicit Functions**|Heewoo Jun et.al.|[2305.02463v1](http://arxiv.org/abs/2305.02463v1)|**[link](https://github.com/openai/shap-e)**|
@@ -533,6 +539,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Steered Mixture-of-Experts Autoencoder Design for Real-Time Image Modelling and Denoising**|Elvira Fleig et.al.|[2305.03485v1](http://arxiv.org/abs/2305.03485v1)|null|
+|**2023-05-05**|**AsConvSR: Fast and Lightweight Super-Resolution Network with Assembled Convolutions**|Jiaming Guo et.al.|[2305.03387v1](http://arxiv.org/abs/2305.03387v1)|null|
+|**2023-05-05**|**Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**|Hyojoon Park et.al.|[2305.03216v1](http://arxiv.org/abs/2305.03216v1)|null|
+|**2023-05-02**|**Deep Learning-Assisted Simultaneous Targets Sensing and Super-Resolution Imaging**|Jin Zhao et.al.|[2305.03177v1](http://arxiv.org/abs/2305.03177v1)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
 |**2023-05-04**|**Unsupervised Domain Adaptation for Neuron Membrane Segmentation based on Structural Features**|Yuxiang An et.al.|[2305.02569v1](http://arxiv.org/abs/2305.02569v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
@@ -1159,6 +1169,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Challenging interferometric imaging: Machine learning-based source localization from uv-plane observations**|O. Taran et.al.|[2305.03533v1](http://arxiv.org/abs/2305.03533v1)|null|
+|**2023-05-05**|**Solution existence, uniqueness, and stability of discrete basis sinograms in multispectral CT**|Yu Gao et.al.|[2305.03330v1](http://arxiv.org/abs/2305.03330v1)|null|
+|**2023-05-05**|**Heavy-ball-based optimal thresholding algorithms for sparse linear inverse problems**|Zhong-Feng Sun et.al.|[2305.03247v1](http://arxiv.org/abs/2305.03247v1)|null|
 |**2023-05-04**|**Conditional and Residual Methods in Scalable Coding for Humans and Machines**|Anderson de Andrade et.al.|[2305.02562v1](http://arxiv.org/abs/2305.02562v1)|**[link](https://github.com/adeandrade/research)**|
 |**2023-05-04**|**Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder**|Xinmiao Lin et.al.|[2305.02541v1](http://arxiv.org/abs/2305.02541v1)|null|
 |**2023-05-04**|**Meta-Learning Enabled Score-Based Generative Model for 1.5T-Like Image Reconstruction from 0.5T MRI**|Zhuo-Xu Cui et.al.|[2305.02509v1](http://arxiv.org/abs/2305.02509v1)|null|
@@ -1326,6 +1339,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**A Multimodal Dynamical Variational Autoencoder for Audiovisual Speech Representation Learning**|Samir Sadok et.al.|[2305.03582v1](http://arxiv.org/abs/2305.03582v1)|null|
 |**2023-04-28**|**Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening**|Mingsong Li et.al.|[2304.14612v1](http://arxiv.org/abs/2304.14612v1)|**[link](https://github.com/lms-07/lgteun)**|
 |**2023-04-22**|**The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**|Yilin Liu et.al.|[2304.11409v1](http://arxiv.org/abs/2304.11409v1)|null|
 |**2023-04-21**|**H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization**|Jiayi Li et.al.|[2304.11141v1](http://arxiv.org/abs/2304.11141v1)|null|
@@ -1510,6 +1524,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Towards Applying Powerful Large AI Models in Classroom Teaching: Opportunities, Challenges and Prospects**|Kehui Tan et.al.|[2305.03433v1](http://arxiv.org/abs/2305.03433v1)|null|
 |**2023-04-26**|**Multidimensional Evaluation for Text Style Transfer Using ChatGPT**|Huiyuan Lai et.al.|[2304.13462v1](http://arxiv.org/abs/2304.13462v1)|**[link](https://github.com/laihuiyuan/eval-formality-transfer)**|
 |**2023-04-24**|**Unsupervised Style-based Explicit 3D Face Reconstruction from Single Image**|Heng Yu et.al.|[2304.12455v1](http://arxiv.org/abs/2304.12455v1)|null|
 |**2023-04-24**|**Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer**|Hao Tang et.al.|[2304.11818v1](http://arxiv.org/abs/2304.11818v1)|null|
