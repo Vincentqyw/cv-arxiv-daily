@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919v1](http://arxiv.org/abs/2305.04919v1)|null|
+|**2023-05-08**|**CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation**|Erik Buhmann et.al.|[2305.04847v1](http://arxiv.org/abs/2305.04847v1)|null|
+|**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651v1](http://arxiv.org/abs/2305.04651v1)|null|
+|**2023-05-08**|**Three-Dimensional Dust Stirring by a Giant Planet Embedded in a Protoplanetary Disk**|Fabian Binkert et.al.|[2305.04549v1](http://arxiv.org/abs/2305.04549v1)|null|
+|**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517v1](http://arxiv.org/abs/2305.04517v1)|null|
+|**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465v1](http://arxiv.org/abs/2305.04465v1)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
+|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461v1](http://arxiv.org/abs/2305.04461v1)|null|
+|**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457v1](http://arxiv.org/abs/2305.04457v1)|null|
+|**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441v1](http://arxiv.org/abs/2305.04441v1)|null|
+|**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391v1](http://arxiv.org/abs/2305.04391v1)|null|
+|**2023-05-07**|**Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning**|Shengfang Zhai et.al.|[2305.04175v1](http://arxiv.org/abs/2305.04175v1)|null|
+|**2023-05-06**|**A Latent Diffusion Model for Protein Structure Generation**|Cong Fu et.al.|[2305.04120v1](http://arxiv.org/abs/2305.04120v1)|null|
+|**2023-05-06**|**Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling**|Xiaohui Chen et.al.|[2305.04111v1](http://arxiv.org/abs/2305.04111v1)|**[link](https://github.com/tufts-ml/graph-generation-edge)**|
+|**2023-05-06**|**Exploring One-shot Semi-supervised Federated Learning with A Pre-trained Diffusion Model**|Mingzhao Yang et.al.|[2305.04063v1](http://arxiv.org/abs/2305.04063v1)|null|
+|**2023-05-06**|**Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation**|Kun Zhou et.al.|[2305.04044v1](http://arxiv.org/abs/2305.04044v1)|null|
+|**2023-05-06**|**AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion**|Seungwoo Lee et.al.|[2305.04001v1](http://arxiv.org/abs/2305.04001v1)|null|
+|**2023-05-06**|**LEO: Generative Latent Image Animator for Human Video Synthesis**|Yaohui Wang et.al.|[2305.03989v1](http://arxiv.org/abs/2305.03989v1)|null|
+|**2023-05-06**|**Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework**|Ruijia Wu et.al.|[2305.03980v1](http://arxiv.org/abs/2305.03980v1)|null|
+|**2023-05-06**|**Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs**|Kaiwen Zheng et.al.|[2305.03935v1](http://arxiv.org/abs/2305.03935v1)|null|
+|**2023-05-06**|**DocDiff: Document Enhancement via Residual Diffusion Models**|Zongyuan Yang et.al.|[2305.03892v1](http://arxiv.org/abs/2305.03892v1)|**[link](https://github.com/Royalvice/DocDiff)**|
 |**2023-05-05**|**Conditional Diffusion Feature Refinement for Continuous Sign Language Recognition**|Leming Guo et.al.|[2305.03614v1](http://arxiv.org/abs/2305.03614v1)|null|
 |**2023-05-05**|**Data Curation for Image Captioning with Text-to-Image Generative Models**|Wenyan Li et.al.|[2305.03610v1](http://arxiv.org/abs/2305.03610v1)|null|
 |**2023-05-05**|**Iterative  $α$ -(de)Blending: a Minimalist Deterministic Diffusion Model**|Eric Heitz et.al.|[2305.03486v1](http://arxiv.org/abs/2305.03486v1)|null|
@@ -539,6 +559,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Compressed Video Quality Assessment for Super-Resolution: a Benchmark and a Quality Metric**|Evgeney Bogatyrev et.al.|[2305.04844v1](http://arxiv.org/abs/2305.04844v1)|**[link](https://github.com/evgeneybogatyrev/super-resolution-metric)**|
+|**2023-05-05**|**Neural Architecture Search for Intel Movidius VPU**|Qian Xu et.al.|[2305.03739v1](http://arxiv.org/abs/2305.03739v1)|null|
 |**2023-05-05**|**Steered Mixture-of-Experts Autoencoder Design for Real-Time Image Modelling and Denoising**|Elvira Fleig et.al.|[2305.03485v1](http://arxiv.org/abs/2305.03485v1)|null|
 |**2023-05-05**|**AsConvSR: Fast and Lightweight Super-Resolution Network with Assembled Convolutions**|Jiaming Guo et.al.|[2305.03387v1](http://arxiv.org/abs/2305.03387v1)|null|
 |**2023-05-05**|**Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**|Hyojoon Park et.al.|[2305.03216v1](http://arxiv.org/abs/2305.03216v1)|null|
@@ -1058,6 +1080,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-07**|**A Variational Perspective on Solving Inverse Problems with Diffusion Models**|Morteza Mardani et.al.|[2305.04391v1](http://arxiv.org/abs/2305.04391v1)|null|
+|**2023-05-06**|**Unlocking Low-Light-Rainy Image Restoration by Pairwise Degradation Feature Vector Guidance**|Xin Lin et.al.|[2305.03997v1](http://arxiv.org/abs/2305.03997v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
 |**2023-05-03**|**Bio-Inspired Simple Neural Network for Low-Light Image Restoration: A Minimalist Approach**|Junjie Ye et.al.|[2305.01844v1](http://arxiv.org/abs/2305.01844v1)|null|
 |**2023-04-30**|**An optimal transport analogue of the Rudin Osher Fatemi model and its corresponding multiscale theory**|Tristan Milne et.al.|[2305.00580v1](http://arxiv.org/abs/2305.00580v1)|null|
@@ -1169,6 +1193,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-06**|**SST-ReversibleNet: Reversible-prior-based Spectral-Spatial Transformer for Efficient Hyperspectral Image Reconstruction**|Zeyu Cai et.al.|[2305.04054v1](http://arxiv.org/abs/2305.04054v1)|**[link](https://github.com/caizeyu1992/sst)**|
 |**2023-05-05**|**Challenging interferometric imaging: Machine learning-based source localization from uv-plane observations**|O. Taran et.al.|[2305.03533v1](http://arxiv.org/abs/2305.03533v1)|null|
 |**2023-05-05**|**Solution existence, uniqueness, and stability of discrete basis sinograms in multispectral CT**|Yu Gao et.al.|[2305.03330v1](http://arxiv.org/abs/2305.03330v1)|null|
 |**2023-05-05**|**Heavy-ball-based optimal thresholding algorithms for sparse linear inverse problems**|Zhong-Feng Sun et.al.|[2305.03247v1](http://arxiv.org/abs/2305.03247v1)|null|
@@ -1339,6 +1364,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457v1](http://arxiv.org/abs/2305.04457v1)|null|
+|**2023-05-07**|**Dual Residual Attention Network for Image Denoising**|Wencong Wu et.al.|[2305.04269v1](http://arxiv.org/abs/2305.04269v1)|**[link](https://github.com/WenCongWu/DRANet)**|
+|**2023-05-06**|**Degradation-Noise-Aware Deep Unfolding Transformer for Hyperspectral Image Denoising**|Haijin Zeng et.al.|[2305.04047v1](http://arxiv.org/abs/2305.04047v1)|null|
 |**2023-05-05**|**A Multimodal Dynamical Variational Autoencoder for Audiovisual Speech Representation Learning**|Samir Sadok et.al.|[2305.03582v1](http://arxiv.org/abs/2305.03582v1)|null|
 |**2023-04-28**|**Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening**|Mingsong Li et.al.|[2304.14612v1](http://arxiv.org/abs/2304.14612v1)|**[link](https://github.com/lms-07/lgteun)**|
 |**2023-04-22**|**The Devil is in the Upsampling: Architectural Decisions Made Simpler for Denoising with Deep Image Prior**|Yilin Liu et.al.|[2304.11409v1](http://arxiv.org/abs/2304.11409v1)|null|
