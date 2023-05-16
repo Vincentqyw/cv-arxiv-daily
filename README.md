@@ -26,6 +26,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
+|**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
+|**2023-05-15**|**A Reproducible Extraction of Training Images from Diffusion Models**|Ryan Webster et.al.|[2305.08694v1](http://arxiv.org/abs/2305.08694v1)|**[link](https://github.com/ryanwebster90/onestep-extraction)**|
+|**2023-05-15**|**Higher-order Maxwell-Stefan model of diffusion**|Bérénice Grec et.al.|[2305.08412v1](http://arxiv.org/abs/2305.08412v1)|null|
+|**2023-05-15**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379v1](http://arxiv.org/abs/2305.08379v1)|null|
+|**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192v1](http://arxiv.org/abs/2305.08192v1)|**[link](https://github.com/windvchen/diffattack)**|
+|**2023-05-14**|**Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures**|Wei Yuan et.al.|[2305.08183v1](http://arxiv.org/abs/2305.08183v1)|null|
+|**2023-05-14**|**Meta-DM: Applications of Diffusion Models on Few-Shot Learning**|Wentao Hu et.al.|[2305.08092v1](http://arxiv.org/abs/2305.08092v1)|null|
+|**2023-05-14**|**On enhancing the robustness of Vision Transformers: Defensive Diffusion**|Raza Imam et.al.|[2305.08031v1](http://arxiv.org/abs/2305.08031v1)|**[link](https://github.com/muhammad-huzaifaa/defensive_diffusion)**|
+|**2023-05-12**|**AWFSD: Accelerated Wirtinger Flow with Score-based Diffusion Image Prior for Poisson-Gaussian Holographic Phase Retrieval**|Zongyu Li et.al.|[2305.07712v1](http://arxiv.org/abs/2305.07712v1)|null|
+|**2023-05-11**|**LatentPINNs: Generative physics-informed neural networks via a latent representation learning**|Mohammad H. Taufik et.al.|[2305.07671v1](http://arxiv.org/abs/2305.07671v1)|null|
 |**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644v1](http://arxiv.org/abs/2305.07644v1)|null|
 |**2023-05-11**|**MolDiff: Addressing the Atom-Bond Inconsistency Problem in 3D Molecule Diffusion Generation**|Xingang Peng et.al.|[2305.07508v1](http://arxiv.org/abs/2305.07508v1)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
@@ -580,6 +591,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
+|**2023-05-15**|**Screentone-Aware Manga Super-Resolution Using DeepLearning**|Chih-Yuan Yao et.al.|[2305.08325v1](http://arxiv.org/abs/2305.08325v1)|null|
+|**2023-05-15**|**First-principles study of the optical properties of BaMoO3/SrHfO3 hyperbolic metamaterials**|Jonathan Gjerde et.al.|[2305.08282v1](http://arxiv.org/abs/2305.08282v1)|null|
+|**2023-05-12**|**PanFlowNet: A Flow-Based Deep Network for Pan-sharpening**|Gang Yang et.al.|[2305.07774v1](http://arxiv.org/abs/2305.07774v1)|null|
 |**2023-05-12**|**Joint MR sequence optimization beats pure neural network approaches for spin-echo MRI super-resolution**|Hoai Nam Dang et.al.|[2305.07524v1](http://arxiv.org/abs/2305.07524v1)|null|
 |**2023-05-12**|**Sensing User's Channel and Location with Terahertz Extra-Large Reconfigurable Intelligent Surface under Hybrid-Field Beam Squint Effect**|Zhuoran Li et.al.|[2305.07184v1](http://arxiv.org/abs/2305.07184v1)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
@@ -1012,6 +1027,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**PLIP: Language-Image Pre-training for Person Representation Learning**|Jialong Zuo et.al.|[2305.08386v1](http://arxiv.org/abs/2305.08386v1)|**[link](https://github.com/zplusdragon/plip)**|
+|**2023-05-13**|**Temporal Consistent Automatic Video Colorization via Semantic Correspondence**|Yu Zhang et.al.|[2305.07904v1](http://arxiv.org/abs/2305.07904v1)|**[link](https://github.com/bupt-ai-cz/tcvc)**|
 |**2023-05-02**|**A new sample of transient ultraluminous X-ray sources serendipitously discovered by Swift/XRT**|Murray Brightman et.al.|[2305.01693v1](http://arxiv.org/abs/2305.01693v1)|null|
 |**2023-04-25**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v2](http://arxiv.org/abs/2304.11993v2)|null|
 |**2023-04-21**|**Improved Diffusion-based Image Colorization via Piggybacked Models**|Hanyuan Liu et.al.|[2304.11105v1](http://arxiv.org/abs/2304.11105v1)|null|
@@ -1079,6 +1096,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-13**|**Temporal Consistent Automatic Video Colorization via Semantic Correspondence**|Yu Zhang et.al.|[2305.07904v1](http://arxiv.org/abs/2305.07904v1)|**[link](https://github.com/bupt-ai-cz/tcvc)**|
 |**2023-03-27**|**Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency**|Siqi Chen et.al.|[2303.15081v1](http://arxiv.org/abs/2303.15081v1)|null|
 |**2023-03-21**|**SVCNet: Scribble-based Video Colorization Network with Temporal Aggregation**|Yuzhi Zhao et.al.|[2303.11591v1](http://arxiv.org/abs/2303.11591v1)|**[link](https://github.com/zhaoyuzhi/svcnet)**|
 |**2022-12-05**|**BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization**|Yixin Yang et.al.|[2212.02268v1](http://arxiv.org/abs/2212.02268v1)|null|
@@ -1114,6 +1132,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
+|**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979v1](http://arxiv.org/abs/2305.07979v1)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 |**2023-05-10**|**Mobile Image Restoration via Prior Quantization**|Shiqi Chen et.al.|[2305.05899v1](http://arxiv.org/abs/2305.05899v1)|null|
 |**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385v1](http://arxiv.org/abs/2305.05385v1)|null|
 |**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
@@ -1231,6 +1251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Refining Amortized Posterior Approximations using Gradient-Based Summary Statistics**|Rafael Orozco et.al.|[2305.08733v1](http://arxiv.org/abs/2305.08733v1)|null|
+|**2023-05-14**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265v1](http://arxiv.org/abs/2305.08265v1)|null|
 |**2023-05-12**|**Uncertainty Estimation for Deep Learning Image Reconstruction using a Local Lipschitz Metric**|Danyal F. Bhutto et.al.|[2305.07618v1](http://arxiv.org/abs/2305.07618v1)|null|
 |**2023-05-10**|**Coil Sketching for computationally-efficient MR iterative reconstruction**|Julio A. Oscanoa et.al.|[2305.06482v1](http://arxiv.org/abs/2305.06482v1)|null|
 |**2023-05-10**|**Fluorescence Molecular Tomography for Quantum Yield and Lifetime**|Wenxiang Cong et.al.|[2305.06216v1](http://arxiv.org/abs/2305.06216v1)|null|
@@ -1254,6 +1276,7 @@
 |**2023-04-25**|**MRI Recovery with Self-Calibrated Denoisers without Fully-Sampled Data**|Sizhuo Liu et.al.|[2304.12890v1](http://arxiv.org/abs/2304.12890v1)|**[link](https://github.com/sizhuoliu/reside)**|
 |**2023-04-25**|**Learning Task-Specific Strategies for Accelerated MRI**|Zihui Wu et.al.|[2304.12507v1](http://arxiv.org/abs/2304.12507v1)|null|
 |**2023-04-24**|**Parameterized Learning and Distillation with Vortex-encoded Spectral Correlations**|Altai Perry et.al.|[2304.12172v1](http://arxiv.org/abs/2304.12172v1)|**[link](https://github.com/altaiperry/reconstruction22_perry)**|
+|**2023-05-13**|**Using multiobjective optimization to reconstruct interferometric data (I)**|Hendrik Müller et.al.|[2304.12107v3](http://arxiv.org/abs/2304.12107v3)|null|
 |**2023-04-25**|**Hierarchical Diffusion Autoencoders and Disentangled Image Manipulation**|Zeyu Lu et.al.|[2304.11829v2](http://arxiv.org/abs/2304.11829v2)|null|
 |**2023-04-23**|**Score-Based Diffusion Models as Principled Priors for Inverse Imaging**|Berthy T. Feng et.al.|[2304.11751v1](http://arxiv.org/abs/2304.11751v1)|null|
 |**2023-04-23**|**A complementary  $\ell^1$ -TV reconstruction algorithm for limited data CT**|Simon Göppel et.al.|[2304.11599v1](http://arxiv.org/abs/2304.11599v1)|null|
@@ -1406,6 +1429,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-13**|**Fast robust location and scatter estimation: a depth-based method**|Maoyu Zhang et.al.|[2305.07813v1](http://arxiv.org/abs/2305.07813v1)|null|
 |**2023-05-11**|**Dyadic partition-based training schemes for TV/TGV denoising**|Elisa Davoli et.al.|[2305.07150v1](http://arxiv.org/abs/2305.07150v1)|null|
 |**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651v1](http://arxiv.org/abs/2305.05651v1)|null|
 |**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457v1](http://arxiv.org/abs/2305.04457v1)|null|
@@ -1518,6 +1542,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-13**|**Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion**|Tanmay Kumar Sinha et.al.|[2305.07976v1](http://arxiv.org/abs/2305.07976v1)|null|
+|**2023-05-13**|**AURA : Automatic Mask Generator using Randomized Input Sampling for Object Removal**|Changsuk Oh et.al.|[2305.07857v1](http://arxiv.org/abs/2305.07857v1)|null|
 |**2023-05-12**|**T-former: An Efficient Transformer for Image Inpainting**|Ye Deng et.al.|[2305.07239v1](http://arxiv.org/abs/2305.07239v1)|**[link](https://github.com/dengyecode/t-former_image_inpainting)**|
 |**2023-05-10**|**Multi-stage Progressive Reasoning for Dunhuang Murals Inpainting**|Wenjie Liu et.al.|[2305.05902v1](http://arxiv.org/abs/2305.05902v1)|null|
 |**2023-05-09**|**Trans-Inpainter: A Transformer Model for High Accuracy Image Inpainting from Channel State Information**|Cheng Chen et.al.|[2305.05385v1](http://arxiv.org/abs/2305.05385v1)|null|
