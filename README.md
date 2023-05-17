@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662v1](http://arxiv.org/abs/2305.09662v1)|null|
+|**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605v1](http://arxiv.org/abs/2305.09605v1)|null|
+|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515v1](http://arxiv.org/abs/2305.09515v1)|null|
+|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447v1](http://arxiv.org/abs/2305.09447v1)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401v1](http://arxiv.org/abs/2305.09401v1)|null|
+|**2023-05-16**|**AMD Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381v1](http://arxiv.org/abs/2305.09381v1)|null|
+|**2023-05-16**|**Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples**|Wan Jiang et.al.|[2305.09241v1](http://arxiv.org/abs/2305.09241v1)|null|
+|**2023-05-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Communications**|Tong Wu et.al.|[2305.09161v1](http://arxiv.org/abs/2305.09161v1)|null|
+|**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995v1](http://arxiv.org/abs/2305.08995v1)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854v1](http://arxiv.org/abs/2305.08854v1)|null|
 |**2023-05-15**|**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts**|Yuyang Zhao et.al.|[2305.08850v1](http://arxiv.org/abs/2305.08850v1)|null|
 |**2023-05-15**|**A Reproducible Extraction of Training Images from Diffusion Models**|Ryan Webster et.al.|[2305.08694v1](http://arxiv.org/abs/2305.08694v1)|**[link](https://github.com/ryanwebster90/onestep-extraction)**|
@@ -591,6 +600,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Plasmonic photoconductive terahertz focal-plane array with pixel super-resolution**|Xurong Li et.al.|[2305.09225v1](http://arxiv.org/abs/2305.09225v1)|null|
+|**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995v1](http://arxiv.org/abs/2305.08995v1)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
 |**2023-05-15**|**Screentone-Aware Manga Super-Resolution Using DeepLearning**|Chih-Yuan Yao et.al.|[2305.08325v1](http://arxiv.org/abs/2305.08325v1)|null|
 |**2023-05-15**|**First-principles study of the optical properties of BaMoO3/SrHfO3 hyperbolic metamaterials**|Jonathan Gjerde et.al.|[2305.08282v1](http://arxiv.org/abs/2305.08282v1)|null|
@@ -851,7 +862,7 @@
 |**2023-04-18**|**Quantum Annealing for Single Image Super-Resolution**|Han Yao Choong et.al.|[2304.08924v1](http://arxiv.org/abs/2304.08924v1)|null|
 |**2023-04-14**|**DIPNet: Efficiency Distillation and Iterative Pruning for Image Super-Resolution**|Lei Yu et.al.|[2304.07018v1](http://arxiv.org/abs/2304.07018v1)|null|
 |**2023-04-17**|**L1BSR: Exploiting Detector Overlap for Self-Supervised Single-Image Super-Resolution of Sentinel-2 L1B Imagery**|Ngoc Long Nguyen et.al.|[2304.06871v2](http://arxiv.org/abs/2304.06871v2)|null|
-|**2023-04-13**|**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**|Senmao Tian et.al.|[2304.06454v1](http://arxiv.org/abs/2304.06454v1)|null|
+|**2023-04-13**|**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**|Senmao Tian et.al.|[2304.06454v1](http://arxiv.org/abs/2304.06454v1)|**[link](https://github.com/Sheldon04/CABM-pytorch)**|
 |**2023-04-13**|**Cross-View Hierarchy Network for Stereo Image Super-Resolution**|Wenbin Zou et.al.|[2304.06236v1](http://arxiv.org/abs/2304.06236v1)|null|
 |**2023-04-20**|**Hyperspectral Image Super-Resolution via Dual-domain Network Based on Hybrid Convolution**|Tingting Liu et.al.|[2304.04589v4](http://arxiv.org/abs/2304.04589v4)|null|
 |**2023-04-07**|**Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution**|Xuhai Chen et.al.|[2304.03542v1](http://arxiv.org/abs/2304.03542v1)|null|
@@ -1132,6 +1143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995v1](http://arxiv.org/abs/2305.08995v1)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
 |**2023-05-15**|**Toward Moiré-Free and Detail-Preserving Demosaicking**|Xuanchen Li et.al.|[2305.08585v1](http://arxiv.org/abs/2305.08585v1)|null|
 |**2023-05-13**|**A Two-Stage Real Image Deraining Method for GT-RAIN Challenge CVPR 2023 Workshop UG $^{\textbf{2}}$ + Track 3**|Yun Guo et.al.|[2305.07979v1](http://arxiv.org/abs/2305.07979v1)|**[link](https://github.com/yunguo224/ug2_deraining)**|
 |**2023-05-10**|**Mobile Image Restoration via Prior Quantization**|Shiqi Chen et.al.|[2305.05899v1](http://arxiv.org/abs/2305.05899v1)|null|
@@ -1251,6 +1263,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Image Reconstruction using Superpixel Clustering and Tensor Completion**|Maame G. Asante-Mensah et.al.|[2305.09564v1](http://arxiv.org/abs/2305.09564v1)|null|
+|**2023-05-16**|**A Conditional Denoising Diffusion Probabilistic Model for Radio Interferometric Image Reconstruction**|Ruoqi Wang et.al.|[2305.09121v1](http://arxiv.org/abs/2305.09121v1)|null|
+|**2023-05-14**|**Model-driven CT reconstruction algorithm for nano-resolution X-ray phase contrast imaging**|Xuebao Cai et.al.|[2305.08882v1](http://arxiv.org/abs/2305.08882v1)|null|
 |**2023-05-15**|**Refining Amortized Posterior Approximations using Gradient-Based Summary Statistics**|Rafael Orozco et.al.|[2305.08733v1](http://arxiv.org/abs/2305.08733v1)|null|
 |**2023-05-14**|**Vehicle Detection and Classification without Residual Calculation: Accelerating HEVC Image Decoding with Random Perturbation Injection**|Muhammet Sebul Beratoğlu et.al.|[2305.08265v1](http://arxiv.org/abs/2305.08265v1)|null|
 |**2023-05-12**|**Uncertainty Estimation for Deep Learning Image Reconstruction using a Local Lipschitz Metric**|Danyal F. Bhutto et.al.|[2305.07618v1](http://arxiv.org/abs/2305.07618v1)|null|
@@ -1429,6 +1444,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Seismic Coherent Noise Removal with Residual Network and Synthetic Seismic Simples**|Xiao Ma et.al.|[2305.09136v1](http://arxiv.org/abs/2305.09136v1)|null|
 |**2023-05-13**|**Fast robust location and scatter estimation: a depth-based method**|Maoyu Zhang et.al.|[2305.07813v1](http://arxiv.org/abs/2305.07813v1)|null|
 |**2023-05-11**|**Dyadic partition-based training schemes for TV/TGV denoising**|Elisa Davoli et.al.|[2305.07150v1](http://arxiv.org/abs/2305.07150v1)|null|
 |**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651v1](http://arxiv.org/abs/2305.05651v1)|null|
@@ -1625,6 +1641,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Style Transfer Enabled Sim2Real Framework for Efficient Learning of Robotic Ultrasound Image Analysis Using Simulated Data**|Keyu Li et.al.|[2305.09169v1](http://arxiv.org/abs/2305.09169v1)|null|
 |**2023-05-12**|**Color Deconvolution applied to Domain Adaptation in HER2 histopathological images**|David Anglada-Rotger et.al.|[2305.07404v1](http://arxiv.org/abs/2305.07404v1)|null|
 |**2023-05-11**|**Realization RGBD Image Stylization**|Bhavya Sehgal et.al.|[2305.06565v1](http://arxiv.org/abs/2305.06565v1)|null|
 |**2023-05-10**|**Adapter-TST: A Parameter Efficient Method for Multiple-Attribute Text Style Transfer**|Zhiqiang Hu et.al.|[2305.05945v1](http://arxiv.org/abs/2305.05945v1)|null|
