@@ -26,6 +26,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147v1](http://arxiv.org/abs/2305.11147v1)|null|
+|**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089v1](http://arxiv.org/abs/2305.11089v1)|**[link](https://github.com/lanl/blackout-diffusion)**|
+|**2023-05-18**|**Inspecting the Geographical Representativeness of Images from Text-to-Image Models**|Abhipsa Basu et.al.|[2305.11080v1](http://arxiv.org/abs/2305.11080v1)|null|
+|**2023-05-16**|**Generating coherent comic with rich story using ChatGPT and Stable Diffusion**|Ze Jin et.al.|[2305.11067v1](http://arxiv.org/abs/2305.11067v1)|null|
+|**2023-05-18**|**Unsupervised Pansharpening via Low-rank Diffusion Model**|Xiangyu Rui et.al.|[2305.10925v1](http://arxiv.org/abs/2305.10925v1)|**[link](https://github.com/xyrui/plrdiff)**|
+|**2023-05-18**|**Structural Pruning for Diffusion Models**|Gongfan Fang et.al.|[2305.10924v1](http://arxiv.org/abs/2305.10924v1)|**[link](https://github.com/vainf/diff-pruning)**|
+|**2023-05-18**|**Diffusion-Based Mel-Spectrogram Enhancement for Personalized Speech Synthesis with Found Data**|Yusheng Tian et.al.|[2305.10891v1](http://arxiv.org/abs/2305.10891v1)|null|
+|**2023-05-18**|**TextDiffuser: Diffusion Models as Text Painters**|Jingye Chen et.al.|[2305.10855v1](http://arxiv.org/abs/2305.10855v1)|**[link](https://github.com/microsoft/unilm/tree/master/textdiffuser)**|
+|**2023-05-18**|**LDM3D: Latent Diffusion Model for 3D**|Gabriela Ben Melech Stan et.al.|[2305.10853v1](http://arxiv.org/abs/2305.10853v1)|null|
+|**2023-05-18**|**X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models**|Yixiong Chen et.al.|[2305.10843v1](http://arxiv.org/abs/2305.10843v1)|null|
+|**2023-05-18**|**GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework**|Ang Lv et.al.|[2305.10841v1](http://arxiv.org/abs/2305.10841v1)|null|
+|**2023-05-18**|**DiffUTE: Universal Text Editing Diffusion Model**|Chen et.al.|[2305.10825v1](http://arxiv.org/abs/2305.10825v1)|**[link](https://github.com/chenhaoxing/DiffUTE)**|
+|**2023-05-18**|**Democratized Diffusion Language Model**|Nikita Balagansky et.al.|[2305.10818v1](http://arxiv.org/abs/2305.10818v1)|null|
+|**2023-05-18**|**Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis**|Qiankun Zuo et.al.|[2305.10754v1](http://arxiv.org/abs/2305.10754v1)|null|
+|**2023-05-18**|**Discriminative Diffusion Models as Few-shot Vision and Language Learners**|Xuehai He et.al.|[2305.10722v1](http://arxiv.org/abs/2305.10722v1)|null|
+|**2023-05-18**|**Zero-Day Backdoor Attack against Text-to-Image Diffusion Models via Personalization**|Yihao Huang et.al.|[2305.10701v1](http://arxiv.org/abs/2305.10701v1)|null|
+|**2023-05-18**|**Dirichlet Diffusion Score Model for Biological Sequence Generation**|Pavel Avdeyev et.al.|[2305.10699v1](http://arxiv.org/abs/2305.10699v1)|null|
+|**2023-05-18**|**Option pricing under jump diffusion model**|Qian Li et.al.|[2305.10678v1](http://arxiv.org/abs/2305.10678v1)|null|
+|**2023-05-18**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657v1](http://arxiv.org/abs/2305.10657v1)|null|
+|**2023-05-17**|**Jet Diffusion versus JetGPT -- Modern Networks for the LHC**|Anja Butter et.al.|[2305.10475v1](http://arxiv.org/abs/2305.10475v1)|null|
+|**2023-05-17**|**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models**|Songwei Ge et.al.|[2305.10474v1](http://arxiv.org/abs/2305.10474v1)|null|
 |**2023-05-17**|**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention**|Guangxuan Xiao et.al.|[2305.10431v1](http://arxiv.org/abs/2305.10431v1)|**[link](https://github.com/mit-han-lab/fastcomposer)**|
 |**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399v1](http://arxiv.org/abs/2305.10399v1)|null|
 |**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388v1](http://arxiv.org/abs/2305.10388v1)|null|
@@ -608,6 +629,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra**|Chenhao Shuai et.al.|[2305.11104v1](http://arxiv.org/abs/2305.11104v1)|**[link](https://github.com/neoncloud/mdctgan)**|
+|**2023-05-18**|**Far-field Super-resolution Chemical Microscopy**|Mingwei Tang et.al.|[2305.10658v1](http://arxiv.org/abs/2305.10658v1)|null|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
 |**2023-05-17**|**Super-Resolution Imaging via Angular Magnification**|Yi Zhou et.al.|[2305.10011v1](http://arxiv.org/abs/2305.10011v1)|null|
 |**2023-05-16**|**Plasmonic photoconductive terahertz focal-plane array with pixel super-resolution**|Xurong Li et.al.|[2305.09225v1](http://arxiv.org/abs/2305.09225v1)|null|
@@ -1276,6 +1299,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v1](http://arxiv.org/abs/2305.11120v1)|null|
+|**2023-05-18**|**Accelerated MR Fingerprinting with Low-Rank and Generative Subspace Modeling**|Hengfa Lu et.al.|[2305.10651v1](http://arxiv.org/abs/2305.10651v1)|null|
 |**2023-05-17**|**Binarized Spectral Compressive Imaging**|Yuanhao Cai et.al.|[2305.10299v1](http://arxiv.org/abs/2305.10299v1)|**[link](https://github.com/caiyuanhao1998/MST)**|
 |**2023-05-16**|**Image Reconstruction using Superpixel Clustering and Tensor Completion**|Maame G. Asante-Mensah et.al.|[2305.09564v1](http://arxiv.org/abs/2305.09564v1)|null|
 |**2023-05-16**|**A Conditional Denoising Diffusion Probabilistic Model for Radio Interferometric Image Reconstruction**|Ruoqi Wang et.al.|[2305.09121v1](http://arxiv.org/abs/2305.09121v1)|null|
@@ -1458,6 +1483,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**NODE-ImgNet: a PDE-informed effective and robust model for image denoising**|Xinheng Xie et.al.|[2305.11049v1](http://arxiv.org/abs/2305.11049v1)|null|
 |**2023-05-17**|**CS-PCN: Context-Space Progressive Collaborative Network for Image Denoising**|Yuqi Jiang et.al.|[2305.10146v1](http://arxiv.org/abs/2305.10146v1)|null|
 |**2023-05-17**|**Adaptive aggregation of Monte Carlo augmented decomposed filters for efficient group-equivariant convolutional neural network**|Wenzhao Zhao et.al.|[2305.10110v1](http://arxiv.org/abs/2305.10110v1)|null|
 |**2023-05-17**|**SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity**|Young-Joo Han et.al.|[2305.09890v1](http://arxiv.org/abs/2305.09890v1)|**[link](https://github.com/youngjoohan/ss-bsn)**|
@@ -1575,6 +1601,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**|Shuang Chen et.al.|[2305.10589v1](http://arxiv.org/abs/2305.10589v1)|null|
 |**2023-05-13**|**Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion**|Tanmay Kumar Sinha et.al.|[2305.07976v1](http://arxiv.org/abs/2305.07976v1)|null|
 |**2023-05-13**|**AURA : Automatic Mask Generator using Randomized Input Sampling for Object Removal**|Changsuk Oh et.al.|[2305.07857v1](http://arxiv.org/abs/2305.07857v1)|null|
 |**2023-05-12**|**T-former: An Efficient Transformer for Image Inpainting**|Ye Deng et.al.|[2305.07239v1](http://arxiv.org/abs/2305.07239v1)|**[link](https://github.com/dengyecode/t-former_image_inpainting)**|
@@ -1658,6 +1685,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883v1](http://arxiv.org/abs/2305.10883v1)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
+|**2023-05-18**|**BrutePrint: Expose Smartphone Fingerprint Authentication to Brute-force Attack**|Yu Chen et.al.|[2305.10791v1](http://arxiv.org/abs/2305.10791v1)|null|
 |**2023-05-16**|**Style Transfer Enabled Sim2Real Framework for Efficient Learning of Robotic Ultrasound Image Analysis Using Simulated Data**|Keyu Li et.al.|[2305.09169v1](http://arxiv.org/abs/2305.09169v1)|null|
 |**2023-05-12**|**Color Deconvolution applied to Domain Adaptation in HER2 histopathological images**|David Anglada-Rotger et.al.|[2305.07404v1](http://arxiv.org/abs/2305.07404v1)|null|
 |**2023-05-11**|**Realization RGBD Image Stylization**|Bhavya Sehgal et.al.|[2305.06565v1](http://arxiv.org/abs/2305.06565v1)|null|
