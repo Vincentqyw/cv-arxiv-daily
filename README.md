@@ -26,6 +26,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
+|**2023-05-19**|**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**|Zijiao Chen et.al.|[2305.11675v1](http://arxiv.org/abs/2305.11675v1)|null|
+|**2023-05-19**|**Few-shot 3D Shape Generation**|Jingyuan Zhu et.al.|[2305.11664v1](http://arxiv.org/abs/2305.11664v1)|null|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
+|**2023-05-19**|**Efficient Cross-Lingual Transfer for Chinese Stable Diffusion with Images as Pivots**|Jinyi Hu et.al.|[2305.11540v1](http://arxiv.org/abs/2305.11540v1)|null|
+|**2023-05-19**|**Late-Constraint Diffusion Guidance for Controllable Image Synthesis**|Chang Liu et.al.|[2305.11520v1](http://arxiv.org/abs/2305.11520v1)|null|
+|**2023-05-19**|**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**|Chao-Hong Tan et.al.|[2305.11517v1](http://arxiv.org/abs/2305.11517v1)|null|
+|**2023-05-19**|**Incomplete Multi-view Clustering via Diffusion Completion**|Sifan Fang et.al.|[2305.11489v1](http://arxiv.org/abs/2305.11489v1)|null|
+|**2023-05-19**|**A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model**|Ibrahim Malik et.al.|[2305.11413v1](http://arxiv.org/abs/2305.11413v1)|null|
+|**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281v1](http://arxiv.org/abs/2305.11281v1)|null|
+|**2023-05-18**|**Information-Ordered Bottlenecks for Adaptive Semantic Compression**|Matthew Ho et.al.|[2305.11213v1](http://arxiv.org/abs/2305.11213v1)|null|
 |**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147v1](http://arxiv.org/abs/2305.11147v1)|null|
 |**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089v1](http://arxiv.org/abs/2305.11089v1)|**[link](https://github.com/lanl/blackout-diffusion)**|
 |**2023-05-18**|**Inspecting the Geographical Representativeness of Images from Text-to-Image Models**|Abhipsa Basu et.al.|[2305.11080v1](http://arxiv.org/abs/2305.11080v1)|null|
@@ -629,6 +641,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|null|
+|**2023-05-19**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v1](http://arxiv.org/abs/2305.11474v1)|null|
+|**2023-05-19**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v1](http://arxiv.org/abs/2305.11403v1)|**[link](https://github.com/fried-rice-lab/emt)**|
 |**2023-05-19**|**mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra**|Chenhao Shuai et.al.|[2305.11104v2](http://arxiv.org/abs/2305.11104v2)|**[link](https://github.com/neoncloud/mdctgan)**|
 |**2023-05-18**|**Far-field Super-resolution Chemical Microscopy**|Mingwei Tang et.al.|[2305.10658v1](http://arxiv.org/abs/2305.10658v1)|null|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
@@ -881,6 +896,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v1](http://arxiv.org/abs/2305.11403v1)|**[link](https://github.com/fried-rice-lab/emt)**|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015v1](http://arxiv.org/abs/2305.07015v1)|null|
 |**2023-05-09**|**Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution**|Ming Cheng et.al.|[2305.05177v1](http://arxiv.org/abs/2305.05177v1)|null|
 |**2023-05-03**|**Bicubic++: Slim, Slimmer, Slimmest -- Designing an Industry-Grade Super-Resolution Network**|Bahri Batuhan Bilecen et.al.|[2305.02126v1](http://arxiv.org/abs/2305.02126v1)|null|
@@ -1177,6 +1193,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v1](http://arxiv.org/abs/2305.11474v1)|null|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
 |**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996v1](http://arxiv.org/abs/2305.09996v1)|**[link](https://github.com/jeasco/rahc)**|
 |**2023-05-15**|**Denoising Diffusion Models for Plug-and-Play Image Restoration**|Yuanzhi Zhu et.al.|[2305.08995v1](http://arxiv.org/abs/2305.08995v1)|**[link](https://github.com/yuanzhi-zhu/diffpir)**|
@@ -1299,6 +1316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
 |**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v2](http://arxiv.org/abs/2305.11120v2)|null|
 |**2023-05-18**|**Accelerated MR Fingerprinting with Low-Rank and Generative Subspace Modeling**|Hengfa Lu et.al.|[2305.10651v1](http://arxiv.org/abs/2305.10651v1)|null|
 |**2023-05-17**|**Binarized Spectral Compressive Imaging**|Yuanhao Cai et.al.|[2305.10299v1](http://arxiv.org/abs/2305.10299v1)|**[link](https://github.com/caiyuanhao1998/MST)**|
@@ -1601,6 +1619,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|null|
 |**2023-05-17**|**INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**|Shuang Chen et.al.|[2305.10589v1](http://arxiv.org/abs/2305.10589v1)|null|
 |**2023-05-13**|**Nonnegative Low-Rank Tensor Completion via Dual Formulation with Applications to Image and Video Completion**|Tanmay Kumar Sinha et.al.|[2305.07976v1](http://arxiv.org/abs/2305.07976v1)|null|
 |**2023-05-13**|**AURA : Automatic Mask Generator using Randomized Input Sampling for Object Removal**|Changsuk Oh et.al.|[2305.07857v1](http://arxiv.org/abs/2305.07857v1)|null|
@@ -1685,6 +1704,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
+|**2023-05-19**|**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**|Guankun Wang et.al.|[2305.11686v1](http://arxiv.org/abs/2305.11686v1)|null|
+|**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
 |**2023-05-18**|**Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs**|Guankun Wang et.al.|[2305.10883v1](http://arxiv.org/abs/2305.10883v1)|**[link](https://github.com/gkw0010/eisost-sim2real-dataset-release)**|
 |**2023-05-18**|**BrutePrint: Expose Smartphone Fingerprint Authentication to Brute-force Attack**|Yu Chen et.al.|[2305.10791v1](http://arxiv.org/abs/2305.10791v1)|null|
 |**2023-05-16**|**Style Transfer Enabled Sim2Real Framework for Efficient Learning of Robotic Ultrasound Image Analysis Using Simulated Data**|Keyu Li et.al.|[2305.09169v1](http://arxiv.org/abs/2305.09169v1)|null|
