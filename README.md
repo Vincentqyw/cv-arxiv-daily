@@ -26,6 +26,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308v1](http://arxiv.org/abs/2305.13308v1)|null|
+|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301v1](http://arxiv.org/abs/2305.13301v1)|null|
+|**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
+|**2023-05-22**|**GSURE-Based Diffusion Model Training with Corrupted Data**|Bahjat Kawar et.al.|[2305.13128v1](http://arxiv.org/abs/2305.13128v1)|**[link](https://github.com/bahjat-kawar/gsure-diffusion)**|
+|**2023-05-22**|**Policy Representation via Diffusion Probability Model for Reinforcement Learning**|Long Yang et.al.|[2305.13122v1](http://arxiv.org/abs/2305.13122v1)|**[link](https://github.com/bellmantimehut/dipo)**|
+|**2023-05-22**|**ControlVideo: Training-free Controllable Text-to-Video Generation**|Yabo Zhang et.al.|[2305.13077v1](http://arxiv.org/abs/2305.13077v1)|**[link](https://github.com/ybybzhang/controlvideo)**|
+|**2023-05-22**|**AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation**|Guy Yariv et.al.|[2305.13050v1](http://arxiv.org/abs/2305.13050v1)|**[link](https://github.com/guyyariv/AudioToken)**|
+|**2023-05-22**|**Hierarchical Integration Diffusion Model for Realistic Image Deblurring**|Zheng Chen et.al.|[2305.12966v1](http://arxiv.org/abs/2305.12966v1)|null|
+|**2023-05-22**|**Is Synthetic Data From Diffusion Models Ready for Knowledge Distillation?**|Zheng Li et.al.|[2305.12954v1](http://arxiv.org/abs/2305.12954v1)|**[link](https://github.com/zhengli97/dm-kd)**|
+|**2023-05-22**|**Latent Magic: An Investigation into Adversarial Examples Crafted in the Semantic Latent Space**|BoYang Zheng et.al.|[2305.12906v1](http://arxiv.org/abs/2305.12906v1)|null|
+|**2023-05-22**|**DiffAVA: Personalized Text-to-Audio Generation with Visual Alignment**|Shentong Mo et.al.|[2305.12903v1](http://arxiv.org/abs/2305.12903v1)|null|
+|**2023-05-22**|**The CLIP Model is Secretly an Image-to-Prompt Converter**|Yuxuan Ding et.al.|[2305.12716v1](http://arxiv.org/abs/2305.12716v1)|null|
+|**2023-05-22**|**Mist: Towards Improved Adversarial Examples for Diffusion Models**|Chumeng Liang et.al.|[2305.12683v1](http://arxiv.org/abs/2305.12683v1)|null|
+|**2023-05-22**|**Duplex Diffusion Models Improve Speech-to-Speech Translation**|Xianchao Wu et.al.|[2305.12628v1](http://arxiv.org/abs/2305.12628v1)|null|
+|**2023-05-21**|**GMD: Controllable Human Motion Synthesis via Guided Diffusion Models**|Korrawe Karunratanakul et.al.|[2305.12577v1](http://arxiv.org/abs/2305.12577v1)|null|
+|**2023-05-21**|**Watermarking Diffusion Model**|Yugeng Liu et.al.|[2305.12502v1](http://arxiv.org/abs/2305.12502v1)|null|
+|**2023-05-21**|**DiffUCD:Unsupervised Hyperspectral Image Change Detection with Semantic Correlation Diffusion Model**|Xiangrong Zhang et.al.|[2305.12410v1](http://arxiv.org/abs/2305.12410v1)|null|
+|**2023-05-21**|**Spatio-temporal Diffusion Point Processes**|Yuan Yuan et.al.|[2305.12403v1](http://arxiv.org/abs/2305.12403v1)|**[link](https://github.com/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes)**|
+|**2023-05-21**|**The vanishing diffusion limit for an Oldroyd-B model in  $\mathbb{R}^2_+$ **|Yinghui Wang et.al.|[2305.12377v1](http://arxiv.org/abs/2305.12377v1)|null|
+|**2023-05-21**|**Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation**|Han Huang et.al.|[2305.12347v1](http://arxiv.org/abs/2305.12347v1)|**[link](https://github.com/graph-0/jodo)**|
+|**2023-05-20**|**Boosting Human-Object Interaction Detection with Text-to-Image Diffusion Model**|Jie Yang et.al.|[2305.12252v1](http://arxiv.org/abs/2305.12252v1)|null|
+|**2023-05-20**|**DiffCap: Exploring Continuous Diffusion on Image Captioning**|Yufeng He et.al.|[2305.12144v1](http://arxiv.org/abs/2305.12144v1)|**[link](https://github.com/arealgoodname/diffcap)**|
+|**2023-05-20**|**SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models' Safety Filters**|Yuchen Yang et.al.|[2305.12082v1](http://arxiv.org/abs/2305.12082v1)|null|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870v1](http://arxiv.org/abs/2305.11870v1)|null|
 |**2023-05-19**|**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**|Zijiao Chen et.al.|[2305.11675v1](http://arxiv.org/abs/2305.11675v1)|null|
 |**2023-05-19**|**Few-shot 3D Shape Generation**|Jingyuan Zhu et.al.|[2305.11664v1](http://arxiv.org/abs/2305.11664v1)|null|
@@ -641,6 +664,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Cycle Consistency-based Uncertainty Quantification of Neural Networks in Inverse Imaging Problems**|Luzhe Huang et.al.|[2305.12852v1](http://arxiv.org/abs/2305.12852v1)|null|
+|**2023-05-20**|**AI-assisted super-resolution cosmological simulations III: Time evolution**|Xiaowen Zhang et.al.|[2305.12222v1](http://arxiv.org/abs/2305.12222v1)|null|
+|**2023-05-20**|**Dual-Diffusion: Dual Conditional Denoising Diffusion Probabilistic Models for Blind Super-Resolution Reconstruction in RSIs**|Mengze Xu et.al.|[2305.12170v1](http://arxiv.org/abs/2305.12170v1)|**[link](https://github.com/lincoln20030413/ddsr)**|
 |**2023-05-19**|**A Unified Prompt-Guided In-Context Inpainting Framework for Reference-based Image Manipulations**|Chenjie Cao et.al.|[2305.11577v1](http://arxiv.org/abs/2305.11577v1)|null|
 |**2023-05-22**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v2](http://arxiv.org/abs/2305.11474v2)|null|
 |**2023-05-22**|**Efficient Mixed Transformer for Single Image Super-Resolution**|Ling Zheng et.al.|[2305.11403v2](http://arxiv.org/abs/2305.11403v2)|**[link](https://github.com/fried-rice-lab/emt)**|
@@ -1193,6 +1219,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Restore Anything Pipeline: Segment Anything Meets Image Restoration**|Jiaxi Jiang et.al.|[2305.13093v1](http://arxiv.org/abs/2305.13093v1)|**[link](https://github.com/eth-siplab/rap)**|
+|**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036v1](http://arxiv.org/abs/2305.12036v1)|**[link](https://github.com/niika/SIDAR)**|
+|**2023-05-15**|**Neural information coding for efficient spike-based image denoising**|Andrea Castagnetti et.al.|[2305.11898v1](http://arxiv.org/abs/2305.11898v1)|null|
 |**2023-05-22**|**RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration**|Haram Choi et.al.|[2305.11474v2](http://arxiv.org/abs/2305.11474v2)|null|
 |**2023-05-17**|**Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems**|Omer Belhasin et.al.|[2305.10124v1](http://arxiv.org/abs/2305.10124v1)|null|
 |**2023-05-17**|**Restoring Images Captured in Arbitrary Hybrid Adverse Weather Conditions in One Go**|Ye-Cong Wan et.al.|[2305.09996v1](http://arxiv.org/abs/2305.09996v1)|**[link](https://github.com/jeasco/rahc)**|
@@ -1316,6 +1345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Morphological Sampling Theorem and its Extension to Grey-value Images**|Vivek Sridhar et.al.|[2305.13279v1](http://arxiv.org/abs/2305.13279v1)|null|
 |**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
 |**2023-05-19**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120v2](http://arxiv.org/abs/2305.11120v2)|null|
 |**2023-05-18**|**Accelerated MR Fingerprinting with Low-Rank and Generative Subspace Modeling**|Hengfa Lu et.al.|[2305.10651v1](http://arxiv.org/abs/2305.10651v1)|null|
@@ -1501,6 +1531,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Restore Anything Pipeline: Segment Anything Meets Image Restoration**|Jiaxi Jiang et.al.|[2305.13093v1](http://arxiv.org/abs/2305.13093v1)|**[link](https://github.com/eth-siplab/rap)**|
+|**2023-05-22**|**Block Coordinate Plug-and-Play Methods for Blind Inverse Problems**|Weijie Gan et.al.|[2305.12672v1](http://arxiv.org/abs/2305.12672v1)|null|
+|**2023-05-15**|**Neural information coding for efficient spike-based image denoising**|Andrea Castagnetti et.al.|[2305.11898v1](http://arxiv.org/abs/2305.11898v1)|null|
 |**2023-05-18**|**NODE-ImgNet: a PDE-informed effective and robust model for image denoising**|Xinheng Xie et.al.|[2305.11049v1](http://arxiv.org/abs/2305.11049v1)|null|
 |**2023-05-17**|**CS-PCN: Context-Space Progressive Collaborative Network for Image Denoising**|Yuqi Jiang et.al.|[2305.10146v1](http://arxiv.org/abs/2305.10146v1)|null|
 |**2023-05-17**|**Adaptive aggregation of Monte Carlo augmented decomposed filters for efficient group-equivariant convolutional neural network**|Wenzhao Zhao et.al.|[2305.10110v1](http://arxiv.org/abs/2305.10110v1)|null|
@@ -1704,6 +1737,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**ZS-MSTM: Zero-Shot Style Transfer for Gesture Animation driven by Text and Speech using Adversarial Disentanglement of Multimodal Style Encoding**|Mireille Fares et.al.|[2305.12887v1](http://arxiv.org/abs/2305.12887v1)|null|
+|**2023-05-21**|**InstructVid2Vid: Controllable Video Editing with Natural Language Instructions**|Bosheng Qin et.al.|[2305.12328v1](http://arxiv.org/abs/2305.12328v1)|**[link](https://github.com/BrightQin/InstructVid2Vid)**|
 |**2023-05-19**|**Reducing Sequence Length by Predicting Edit Operations with Large Language Models**|Masahiro Kaneko et.al.|[2305.11862v1](http://arxiv.org/abs/2305.11862v1)|null|
 |**2023-05-19**|**Sim-to-Real Segmentation in Robot-assisted Transoral Tracheal Intubation**|Guankun Wang et.al.|[2305.11686v1](http://arxiv.org/abs/2305.11686v1)|null|
 |**2023-05-19**|**Brain Captioning: Decoding human brain activity into images and text**|Matteo Ferrante et.al.|[2305.11560v1](http://arxiv.org/abs/2305.11560v1)|null|
