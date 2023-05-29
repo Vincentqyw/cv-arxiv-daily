@@ -26,6 +26,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098v1](http://arxiv.org/abs/2305.17098v1)|null|
+|**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965v1](http://arxiv.org/abs/2305.16965v1)|**[link](https://github.com/gongyeliu/ssd)**|
+|**2023-05-26**|**Learning to Imagine: Visually-Augmented Natural Language Generation**|Tianyi Tang et.al.|[2305.16944v1](http://arxiv.org/abs/2305.16944v1)|**[link](https://github.com/rucaibox/live)**|
+|**2023-05-26**|**DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models**|Sohyun An et.al.|[2305.16943v1](http://arxiv.org/abs/2305.16943v1)|null|
+|**2023-05-26**|**CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography**|Jiwen Yu et.al.|[2305.16936v1](http://arxiv.org/abs/2305.16936v1)|**[link](https://github.com/vvictoryuki/cross)**|
+|**2023-05-26**|**Neural modeling of magnetic tape recorders**|Otto Mikkonen et.al.|[2305.16862v1](http://arxiv.org/abs/2305.16862v1)|null|
+|**2023-05-26**|**Error Bounds for Flow Matching Methods**|Joe Benton et.al.|[2305.16860v1](http://arxiv.org/abs/2305.16860v1)|null|
+|**2023-05-26**|**Improved Visual Story Generation with Adaptive Context Modeling**|Zhangyin Feng et.al.|[2305.16811v1](http://arxiv.org/abs/2305.16811v1)|null|
+|**2023-05-26**|**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models**|Daiki Miyake et.al.|[2305.16807v1](http://arxiv.org/abs/2305.16807v1)|null|
+|**2023-05-25**|**Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability**|Haotian Xue et.al.|[2305.16494v1](http://arxiv.org/abs/2305.16494v1)|**[link](https://github.com/xavihart/diff-pgd)**|
+|**2023-05-25**|**Score-based Diffusion Models for Bayesian Image Reconstruction**|Michael T. McCann et.al.|[2305.16482v1](http://arxiv.org/abs/2305.16482v1)|null|
+|**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
+|**2023-05-25**|**Are Diffusion Models Vision-And-Language Reasoners?**|Benno Krojer et.al.|[2305.16397v1](http://arxiv.org/abs/2305.16397v1)|**[link](https://github.com/mcgill-nlp/diffusion-itm)**|
+|**2023-05-25**|**DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models**|Ying Fan et.al.|[2305.16381v1](http://arxiv.org/abs/2305.16381v1)|null|
+|**2023-05-25**|**Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving**|Xueliang Zhao et.al.|[2305.16366v1](http://arxiv.org/abs/2305.16366v1)|**[link](https://github.com/hkunlp/subgoal-theorem-prover)**|
 |**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322v1](http://arxiv.org/abs/2305.16322v1)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
 |**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317v1](http://arxiv.org/abs/2305.16317v1)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos**|Matthew Chang et.al.|[2305.16301v1](http://arxiv.org/abs/2305.16301v1)|null|
@@ -727,6 +742,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965v1](http://arxiv.org/abs/2305.16965v1)|**[link](https://github.com/gongyeliu/ssd)**|
+|**2023-05-26**|**Accelerated evolution of Burgers turbulence with coarse projective integration and deep learning**|Mrigank Dhingra et.al.|[2305.16564v1](http://arxiv.org/abs/2305.16564v1)|null|
 |**2023-05-26**|**GenerateCT: Text-Guided 3D Chest CT Generation**|Ibrahim Ethem Hamamci et.al.|[2305.16037v2](http://arxiv.org/abs/2305.16037v2)|**[link](https://github.com/ibrahimethemhamamci/generatect)**|
 |**2023-05-25**|**High-Similarity-Pass Attention for Single Image Super-Resolution**|Jian-Nan Su et.al.|[2305.15768v1](http://arxiv.org/abs/2305.15768v1)|null|
 |**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357v1](http://arxiv.org/abs/2305.15357v1)|null|
@@ -1432,6 +1449,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Score-based Diffusion Models for Bayesian Image Reconstruction**|Michael T. McCann et.al.|[2305.16482v1](http://arxiv.org/abs/2305.16482v1)|null|
 |**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956v1](http://arxiv.org/abs/2305.15956v1)|**[link](https://github.com/arimousa/DDAD)**|
 |**2023-05-25**|**Prototype of a Cardiac MRI Simulator for the Training of Supervised Neural Networks**|Marta Varela et.al.|[2305.15826v1](http://arxiv.org/abs/2305.15826v1)|null|
 |**2023-05-25**|**Towards Large-scale Single-shot Millimeter-wave Imaging for Low-cost Security Inspection**|Liheng Bian et.al.|[2305.15750v1](http://arxiv.org/abs/2305.15750v1)|null|
@@ -1832,6 +1850,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**An AI-Ready Multiplex Staining Dataset for Reproducible and Accurate Characterization of Tumor Immune Microenvironment**|Parmida Ghahremani et.al.|[2305.16465v1](http://arxiv.org/abs/2305.16465v1)|**[link](https://github.com/nadeemlab/deepliif)**|
 |**2023-05-25**|**DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion**|Ha-Yeong Choi et.al.|[2305.15816v1](http://arxiv.org/abs/2305.15816v1)|null|
 |**2023-05-26**|**CLIP3Dstyler: Language Guided 3D Arbitrary Neural Style Transfer**|Ming Gao et.al.|[2305.15732v2](http://arxiv.org/abs/2305.15732v2)|null|
 |**2023-05-24**|**Balancing Effect of Training Dataset Distribution of Multiple Styles for Multi-Style Text Transfer**|Debarati Das et.al.|[2305.15582v1](http://arxiv.org/abs/2305.15582v1)|null|
