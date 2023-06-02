@@ -423,6 +423,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow**|Cameron Smith et.al.|[2306.00180](http://arxiv.org/abs/2306.00180)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-09**|**Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**|Clémentin Boittiaux et.al.|[2305.05301](http://arxiv.org/abs/2305.05301)|**[link](https://github.com/clementinboittiaux/sfm-pipeline)**|
 |**2023-05-09**|**Rotation Synchronization via Deep Matrix Factorization**|Gk Tejus et.al.|[2305.05268](http://arxiv.org/abs/2305.05268)|**[link](https://github.com/gktejus/DMF-Synch)**|
@@ -528,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
 |**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
 |**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988](http://arxiv.org/abs/2305.18988)|null|
@@ -964,6 +966,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714](http://arxiv.org/abs/2305.18714)|**[link](https://github.com/wangsp1999/cd-research)**|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628](http://arxiv.org/abs/2305.08628)|null|
@@ -1253,6 +1256,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
+|**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696](http://arxiv.org/abs/2306.00696)|null|
+|**2023-06-01**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta. Xingang Pan et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201](http://arxiv.org/abs/2305.19201)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065](http://arxiv.org/abs/2305.19065)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766](http://arxiv.org/abs/2305.18766)|null|
