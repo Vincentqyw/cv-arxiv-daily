@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -523,7 +523,7 @@ layout: default
 |**2023-05-29**|**Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**|Shrinkhala Sharma et.al.|[2305.18197](http://arxiv.org/abs/2305.18197)|null|
 |**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013](http://arxiv.org/abs/2305.18013)|null|
 |**2023-05-28**|**ConaCLIP: Exploring Distillation of Fully-Connected Knowledge Interaction Graph for Lightweight Text-Image Retrieval**|Jiapeng Wang et.al.|[2305.17652](http://arxiv.org/abs/2305.17652)|null|
-|**2023-05-27**|**FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**|Zhuang Li et.al.|[2305.17497](http://arxiv.org/abs/2305.17497)|**[link](https://github.com/zhuang-li/factual)**|
+|**2023-06-01**|**FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**|Zhuang Li et.al.|[2305.17497](http://arxiv.org/abs/2305.17497)|**[link](https://github.com/zhuang-li/factual)**|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
 |**2023-05-26**|**Generating Images with Multimodal Language Models**|Jing Yu Koh et.al.|[2305.17216](http://arxiv.org/abs/2305.17216)|**[link](https://github.com/kohjingyu/gill)**|
 |**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304](http://arxiv.org/abs/2305.16304)|null|
@@ -1238,13 +1238,13 @@ layout: default
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201](http://arxiv.org/abs/2305.19201)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065](http://arxiv.org/abs/2305.19065)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766](http://arxiv.org/abs/2305.18766)|null|
-|**2023-05-30**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079](http://arxiv.org/abs/2305.18079)|null|
+|**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079](http://arxiv.org/abs/2305.18079)|null|
 |**2023-05-31**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916](http://arxiv.org/abs/2305.17916)|null|
 |**2023-05-30**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914](http://arxiv.org/abs/2305.16914)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411](http://arxiv.org/abs/2305.16411)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233](http://arxiv.org/abs/2305.16233)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213](http://arxiv.org/abs/2305.16213)|**[link](https://github.com/thu-ml/prolificdreamer)**|
-|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
+|**2023-05-31**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
 |**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094](http://arxiv.org/abs/2305.15094)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831](http://arxiv.org/abs/2305.14831)|null|
 |**2023-05-24**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093](http://arxiv.org/abs/2305.14093)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
