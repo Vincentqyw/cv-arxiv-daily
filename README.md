@@ -907,7 +907,7 @@
 |---|---|---|---|---|
 |**2023-06-08**|**HQ-50K: A Large-scale, High-quality Dataset for Image Restoration**|Qinhong Yang et.al.|[2306.05390v1](http://arxiv.org/abs/2306.05390v1)|**[link](https://github.com/littleyaang/hq-50k)**|
 |**2023-06-08**|**Octree-based hierarchical sampling optimization for the volumetric super-resolution of scientific data**|Xinjie Wang et.al.|[2306.05133v1](http://arxiv.org/abs/2306.05133v1)|null|
-|**2023-06-05**|**Model-Based Deep Learning**|Nir Shlezinger et.al.|[2306.04469v1](http://arxiv.org/abs/2306.04469v1)|null|
+|**2023-06-05**|**Model-Based Deep Learning**|Nir Shlezinger et.al.|[2306.04469v1](http://arxiv.org/abs/2306.04469v1)|**[link](https://github.com/shlezingerlab/mbdl_book)**|
 |**2023-06-06**|**A Unified Framework to Super-Resolve Face Images of Varied Low Resolutions**|Qiuyu Peng et.al.|[2306.03380v1](http://arxiv.org/abs/2306.03380v1)|null|
 |**2023-06-05**|**SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting**|Lei Chen et.al.|[2306.03110v1](http://arxiv.org/abs/2306.03110v1)|null|
 |**2023-06-06**|**AI Techniques for Cone Beam Computed Tomography in Dentistry: Trends and Practices**|Saba Sarwar et.al.|[2306.03025v2](http://arxiv.org/abs/2306.03025v2)|null|
