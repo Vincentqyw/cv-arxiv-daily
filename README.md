@@ -26,11 +26,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954v1](http://arxiv.org/abs/2306.07954v1)|null|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881v1](http://arxiv.org/abs/2306.07881v1)|null|
+|**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691v1](http://arxiv.org/abs/2306.07691v1)|null|
+|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v1](http://arxiv.org/abs/2306.07618v1)|null|
+|**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596v1](http://arxiv.org/abs/2306.07596v1)|null|
+|**2023-06-13**|**User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems**|Marc Finzi et.al.|[2306.07526v1](http://arxiv.org/abs/2306.07526v1)|null|
+|**2023-06-13**|**Multi-objective Molecular Optimization for Opioid Use Disorder Treatment Using Generative Network Complex**|Hongsong Feng et.al.|[2306.07484v1](http://arxiv.org/abs/2306.07484v1)|null|
+|**2023-06-13**|**3D molecule generation by denoising voxel grids**|Pedro O. Pinheiro et.al.|[2306.07473v1](http://arxiv.org/abs/2306.07473v1)|null|
+|**2023-06-09**|**Value function estimation using conditional diffusion models for control**|Bogdan Mazoure et.al.|[2306.07290v1](http://arxiv.org/abs/2306.07290v1)|null|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280v1](http://arxiv.org/abs/2306.07280v1)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
 |**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180v1](http://arxiv.org/abs/2306.07180v1)|null|
 |**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154v1](http://arxiv.org/abs/2306.07154v1)|null|
-|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991v1](http://arxiv.org/abs/2306.06991v1)|**[link](https://github.com/sail-sg/fdm)**|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991v1](http://arxiv.org/abs/2306.06991v1)|null|
 |**2023-06-13**|**VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models**|Sheng-Yen Chou et.al.|[2306.06874v2](http://arxiv.org/abs/2306.06874v2)|null|
 |**2023-06-12**|**HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models**|Ji-Sang Hwang et.al.|[2306.06814v1](http://arxiv.org/abs/2306.06814v1)|null|
 |**2023-06-11**|**Stable Remaster: Bridging the Gap Between Old Content and New Displays**|Nathan Paull et.al.|[2306.06803v1](http://arxiv.org/abs/2306.06803v1)|**[link](https://github.com/naston/stableremaster)**|
@@ -38,7 +47,7 @@
 |**2023-06-10**|**Language-Guided Traffic Simulation via Scene-Level Diffusion**|Ziyuan Zhong et.al.|[2306.06344v1](http://arxiv.org/abs/2306.06344v1)|null|
 |**2023-06-09**|**Boosting GUI Prototyping with Diffusion Models**|Jialiang Wei et.al.|[2306.06233v1](http://arxiv.org/abs/2306.06233v1)|null|
 |**2023-06-09**|**Aladdin: Zero-Shot Hallucination of Stylized 3D Assets from Abstract Scene Descriptions**|Ian Huang et.al.|[2306.06212v1](http://arxiv.org/abs/2306.06212v1)|**[link](https://github.com/ianhuang0630/aladdin)**|
-|**2023-06-09**|**Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model**|Yule Wang et.al.|[2306.06138v1](http://arxiv.org/abs/2306.06138v1)|null|
+|**2023-06-09**|**Extraction and Recovery of Spatio-Temporal Structure in Latent Dynamics Alignment with Diffusion Model**|Yule Wang et.al.|[2306.06138v1](http://arxiv.org/abs/2306.06138v1)|**[link](https://github.com/alexwangntl/erdiff)**|
 |**2023-06-08**|**Towards Understanding the Interplay of Generative Artificial Intelligence and the Internet**|Gonzalo Martínez et.al.|[2306.06130v1](http://arxiv.org/abs/2306.06130v1)|null|
 |**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103v1](http://arxiv.org/abs/2306.06103v1)|null|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720v1](http://arxiv.org/abs/2306.05720v1)|null|
@@ -924,6 +933,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Effects of Data Enrichment with Image Transformations on the Performance of Deep Networks**|Hakan Temiz et.al.|[2306.07724v1](http://arxiv.org/abs/2306.07724v1)|null|
+|**2023-06-09**|**Urban Spatiotemporal Data Synthesis via Neural Disaggregation**|Bin Han et.al.|[2306.07292v1](http://arxiv.org/abs/2306.07292v1)|null|
 |**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669v1](http://arxiv.org/abs/2306.06669v1)|**[link](https://github.com/goddesshs/transmrsr)**|
 |**2023-06-10**|**Quantum Super-Resolution with Balanced Homodyne Detection in Low-Earth-Orbit**|Ronakraj K Gosalia et.al.|[2306.06541v1](http://arxiv.org/abs/2306.06541v1)|null|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513v2](http://arxiv.org/abs/2306.06513v2)|null|
@@ -2041,6 +2052,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632v1](http://arxiv.org/abs/2306.04632v1)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-01**|**Towards Interactive Image Inpainting via Sketch Refinement**|Chang Liu et.al.|[2306.00407v1](http://arxiv.org/abs/2306.00407v1)|**[link](https://github.com/alonzoleeeooo/sketchrefiner)**|
 |**2023-05-31**|**Diffusion Brush: A Latent Diffusion Model-based Editing Tool for AI-generated Images**|Peyman Gholami et.al.|[2306.00219v1](http://arxiv.org/abs/2306.00219v1)|null|
@@ -2131,6 +2143,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer**|Dongqi Pu et.al.|[2306.07799v1](http://arxiv.org/abs/2306.07799v1)|null|
+|**2023-06-13**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713v1](http://arxiv.org/abs/2306.07713v1)|null|
 |**2023-06-11**|**Precise and Generalized Robustness Certification for Neural Networks**|Yuanyuan Yuan et.al.|[2306.06747v1](http://arxiv.org/abs/2306.06747v1)|**[link](https://github.com/yuanyuan-yuan/gcert)**|
 |**2023-06-07**|**Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge**|Wenhao Guan et.al.|[2306.04301v1](http://arxiv.org/abs/2306.04301v1)|null|
 |**2023-06-05**|**Identifying the style by a qualified reader on a short fragment of generated poetry**|Boris Orekhov et.al.|[2306.02771v1](http://arxiv.org/abs/2306.02771v1)|null|
