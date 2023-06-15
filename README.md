@@ -39,7 +39,7 @@
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
 |**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180v1](http://arxiv.org/abs/2306.07180v1)|null|
 |**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154v1](http://arxiv.org/abs/2306.07154v1)|null|
-|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991v1](http://arxiv.org/abs/2306.06991v1)|null|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991v1](http://arxiv.org/abs/2306.06991v1)|**[link](https://github.com/sail-sg/fdm)**|
 |**2023-06-13**|**VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models**|Sheng-Yen Chou et.al.|[2306.06874v2](http://arxiv.org/abs/2306.06874v2)|null|
 |**2023-06-12**|**HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models**|Ji-Sang Hwang et.al.|[2306.06814v1](http://arxiv.org/abs/2306.06814v1)|null|
 |**2023-06-11**|**Stable Remaster: Bridging the Gap Between Old Content and New Displays**|Nathan Paull et.al.|[2306.06803v1](http://arxiv.org/abs/2306.06803v1)|**[link](https://github.com/naston/stableremaster)**|
