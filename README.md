@@ -1276,6 +1276,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581](http://arxiv.org/abs/2306.07581)|null|
