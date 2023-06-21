@@ -26,6 +26,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731v1](http://arxiv.org/abs/2306.11731v1)|null|
+|**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719v1](http://arxiv.org/abs/2306.11719v1)|null|
+|**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536v1](http://arxiv.org/abs/2306.11536v1)|null|
+|**2023-06-20**|**Align, Adapt and Inject: Sound-guided Unified Image Generation**|Yue Yang et.al.|[2306.11504v1](http://arxiv.org/abs/2306.11504v1)|null|
+|**2023-06-20**|**EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model**|Lianying Yin et.al.|[2306.11496v1](http://arxiv.org/abs/2306.11496v1)|null|
+|**2023-06-20**|**Hierarchical GNNs for Large Graph Generation**|Alex O. Davies et.al.|[2306.11412v1](http://arxiv.org/abs/2306.11412v1)|null|
+|**2023-06-20**|**Masked Diffusion Models are Fast Learners**|Jiachen Lei et.al.|[2306.11363v1](http://arxiv.org/abs/2306.11363v1)|**[link](https://github.com/jiachenlei/maskdm)**|
+|**2023-06-20**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Zilun Zhang et.al.|[2306.11300v1](http://arxiv.org/abs/2306.11300v1)|null|
+|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
+|**2023-06-19**|**GD-VDM: Generated Depth for better Diffusion-based Video Generation**|Ariel Lapid et.al.|[2306.11173v1](http://arxiv.org/abs/2306.11173v1)|**[link](https://github.com/lapid92/gd-vdm)**|
+|**2023-06-19**|**Diffusion model based data generation for partial differential equations**|Rucha Apte et.al.|[2306.11075v1](http://arxiv.org/abs/2306.11075v1)|null|
+|**2023-06-19**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813v1](http://arxiv.org/abs/2306.10813v1)|null|
+|**2023-06-19**|**Conditional Text Image Generation with Diffusion Models**|Yuanzhi Zhu et.al.|[2306.10804v1](http://arxiv.org/abs/2306.10804v1)|null|
+|**2023-06-18**|**Point-Cloud Completion with Pretrained Text-to-image Diffusion Models**|Yoni Kasten et.al.|[2306.10533v1](http://arxiv.org/abs/2306.10533v1)|null|
+|**2023-06-18**|**GenPose: Generative Category-level Object Pose Estimation via Diffusion Models**|Jiyao Zhang et.al.|[2306.10531v1](http://arxiv.org/abs/2306.10531v1)|null|
+|**2023-06-17**|**Image Harmonization with Diffusion Model**|Jiajie Li et.al.|[2306.10441v1](http://arxiv.org/abs/2306.10441v1)|null|
+|**2023-06-17**|**Text-Driven Foley Sound Generation With Latent Diffusion Model**|Yi Yuan et.al.|[2306.10359v1](http://arxiv.org/abs/2306.10359v1)|null|
+|**2023-06-16**|**Building the Bridge of Schrödinger: A Continuous Entropic Optimal Transport Benchmark**|Nikita Gushchin et.al.|[2306.10161v1](http://arxiv.org/abs/2306.10161v1)|**[link](https://github.com/ngushchin/entropicotbenchmark)**|
+|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|**[link](https://github.com/viiika/diffusion-conductor)**|
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001v1](http://arxiv.org/abs/2306.10001v1)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949v1](http://arxiv.org/abs/2306.09949v1)|null|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935v1](http://arxiv.org/abs/2306.09935v1)|null|
@@ -976,6 +995,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Phase Repair for Time-Domain Convolutional Neural Networks in Music Super-Resolution**|Yenan Zhang et.al.|[2306.11282v1](http://arxiv.org/abs/2306.11282v1)|null|
+|**2023-06-19**|**Evaluating Loss Functions and Learning Data Pre-Processing for Climate Downscaling Deep Learning Models**|Xingying Huang et.al.|[2306.11144v1](http://arxiv.org/abs/2306.11144v1)|null|
+|**2023-06-19**|**Super-resolving sparse observations in partial differential equations: A physics-constrained convolutional neural network approach**|Daniel Kelshaw et.al.|[2306.10990v1](http://arxiv.org/abs/2306.10990v1)|null|
+|**2023-06-18**|**Hyperspectral super-resolution via low rank tensor triple decomposition**|Xiaofei Cui et.al.|[2306.10489v1](http://arxiv.org/abs/2306.10489v1)|null|
+|**2023-06-17**|**Quantum super-resolution for imaging two pointlike entangled photon sources**|Huan Zhang et.al.|[2306.10238v1](http://arxiv.org/abs/2306.10238v1)|null|
 |**2023-06-16**|**CANDID: Correspondence AligNment for Deep-burst Image Denoising**|Arijit Mallick et.al.|[2306.09887v1](http://arxiv.org/abs/2306.09887v1)|null|
 |**2023-06-16**|**Super-Resolution Radar Imaging with Sparse Arrays Using a Deep Neural Network Trained with Enhanced Virtual Data**|Christian Schuessler et.al.|[2306.09839v1](http://arxiv.org/abs/2306.09839v1)|**[link](https://github.com/christianschuessler/sparse-array-radar-imaging)**|
 |**2023-06-16**|**FALL-E: A Foley Sound Synthesis Model and Strategies**|Minsung Kang et.al.|[2306.09807v1](http://arxiv.org/abs/2306.09807v1)|**[link](https://github.com/ryeoat3/gomin)**|
@@ -1282,6 +1306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**Evaluating Loss Functions and Learning Data Pre-Processing for Climate Downscaling Deep Learning Models**|Xingying Huang et.al.|[2306.11144v1](http://arxiv.org/abs/2306.11144v1)|null|
 |**2023-06-15**|**Deep learning techniques for blind image super-resolution: A high-scale multi-domain perspective evaluation**|Valdivino Alexandre de Santiago Júnior et.al.|[2306.09426v1](http://arxiv.org/abs/2306.09426v1)|**[link](https://github.com/vsantjr/dl_blindsr)**|
 |**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669v1](http://arxiv.org/abs/2306.06669v1)|**[link](https://github.com/goddesshs/transmrsr)**|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513v2](http://arxiv.org/abs/2306.06513v2)|null|
@@ -1606,6 +1631,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v1](http://arxiv.org/abs/2306.11528v1)|**[link](https://github.com/cameltr/transref)**|
+|**2023-06-17**|**Enlighten-anything:When Segment Anything Model Meets Low-light Image Enhancement**|Qihan Zhao et.al.|[2306.10286v1](http://arxiv.org/abs/2306.10286v1)|**[link](https://github.com/QihanZhao/enlighten-anything)**|
 |**2023-06-15**|**Exploring the Application of Large-scale Pre-trained Models on Adverse Weather Removal**|Zhentao Tan et.al.|[2306.09008v1](http://arxiv.org/abs/2306.09008v1)|null|
 |**2023-06-14**|**Investigation of the Challenges of Underwater-Visual-Monocular-SLAM**|Michele Grimaldi et.al.|[2306.08738v1](http://arxiv.org/abs/2306.08738v1)|null|
 |**2023-06-13**|**Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**|Kechun Liu et.al.|[2306.06513v2](http://arxiv.org/abs/2306.06513v2)|null|
@@ -1756,6 +1783,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**A primal-dual data-driven method for computational optical imaging with a photonic lantern**|Carlos Santos Garcia et.al.|[2306.11679v1](http://arxiv.org/abs/2306.11679v1)|null|
+|**2023-06-20**|**Dynamic image reconstruction with motion priors in application to 3D magnetic particle imaging**|Christina Brandt et.al.|[2306.11625v1](http://arxiv.org/abs/2306.11625v1)|null|
+|**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536v1](http://arxiv.org/abs/2306.11536v1)|null|
+|**2023-06-19**|**Learning-based sound speed reconstruction and aberration correction in linear-array photoacoustic/ultrasound imaging**|Mengjie Shi et.al.|[2306.11034v1](http://arxiv.org/abs/2306.11034v1)|null|
+|**2023-06-16**|**DreamCatcher: Revealing the Language of the Brain with fMRI using GPT Embedding**|Subhrasankar Chatterjee et.al.|[2306.10082v1](http://arxiv.org/abs/2306.10082v1)|null|
 |**2023-06-16**|**Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar**|Albert W. Reed et.al.|[2306.09909v1](http://arxiv.org/abs/2306.09909v1)|null|
 |**2023-06-15**|**E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras**|Mohammed Salah et.al.|[2306.09078v1](http://arxiv.org/abs/2306.09078v1)|**[link](https://github.com/mohammedsalah98/e_calib)**|
 |**2023-06-16**|**High-Dimensional MR Reconstruction Integrating Subspace and Adaptive Generative Models**|Ruiyang Zhao et.al.|[2306.08630v2](http://arxiv.org/abs/2306.08630v2)|null|
@@ -1982,6 +2014,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-18**|**Weighted structure tensor total variation for image denoising**|Xiuhan Sheng et.al.|[2306.10482v1](http://arxiv.org/abs/2306.10482v1)|null|
 |**2023-06-16**|**CANDID: Correspondence AligNment for Deep-burst Image Denoising**|Arijit Mallick et.al.|[2306.09887v1](http://arxiv.org/abs/2306.09887v1)|null|
 |**2023-06-16**|**Structural Restricted Boltzmann Machine for image denoising and classification**|Arkaitz Bidaurrazaga et.al.|[2306.09628v1](http://arxiv.org/abs/2306.09628v1)|null|
 |**2023-06-12**|**Generative Plug and Play: Posterior Sampling for Inverse Problems**|Charles A. Bouman et.al.|[2306.07233v1](http://arxiv.org/abs/2306.07233v1)|**[link](https://github.com/gbuzzard/generative-pnp-allerton)**|
@@ -2113,6 +2146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v1](http://arxiv.org/abs/2306.11528v1)|**[link](https://github.com/cameltr/transref)**|
 |**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v1](http://arxiv.org/abs/2306.09869v1)|null|
 |**2023-06-15**|**Deep Generative Models for Decision-Making and Control**|Michael Janner et.al.|[2306.08810v1](http://arxiv.org/abs/2306.08810v1)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579v1](http://arxiv.org/abs/2306.07579v1)|null|
