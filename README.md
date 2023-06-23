@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078v1](http://arxiv.org/abs/2306.13078v1)|null|
+|**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983v1](http://arxiv.org/abs/2306.12983v1)|null|
+|**2023-06-22**|**DiffWA: Diffusion Models for Watermark Attack**|Xinyu Li et.al.|[2306.12790v1](http://arxiv.org/abs/2306.12790v1)|null|
+|**2023-06-22**|**A prior regularized full waveform inversion using generative diffusion models**|Fu Wang et.al.|[2306.12776v1](http://arxiv.org/abs/2306.12776v1)|null|
+|**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681v1](http://arxiv.org/abs/2306.12681v1)|null|
+|**2023-06-21**|**Semi-Implicit Denoising Diffusion Models (SIDDMs)**|Yanwu Xu et.al.|[2306.12511v1](http://arxiv.org/abs/2306.12511v1)|null|
+|**2023-06-16**|**Aligning Synthetic Medical Images with Clinical Knowledge using Human Feedback**|Shenghuan Sun et.al.|[2306.12438v1](http://arxiv.org/abs/2306.12438v1)|null|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
 |**2023-06-21**|**Diffusion Posterior Sampling for Informed Single-Channel Dereverberation**|Jean-Marie Lemercier et.al.|[2306.12286v1](http://arxiv.org/abs/2306.12286v1)|null|
 |**2023-06-21**|**HumanDiffusion: diffusion model using perceptual gradients**|Yota Ueda et.al.|[2306.12169v1](http://arxiv.org/abs/2306.12169v1)|null|
@@ -1005,6 +1012,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers**|Qi Jiang et.al.|[2306.12992v1](http://arxiv.org/abs/2306.12992v1)|null|
+|**2023-06-22**|**Super-Resolution of BVOC Emission Maps Via Domain Adaptation**|Antonio Giganti et.al.|[2306.12796v1](http://arxiv.org/abs/2306.12796v1)|null|
+|**2023-06-22**|**Time Domain Superoscillation Enables Super-contrast Spectroscopy**|Peisong Peng et.al.|[2306.12665v1](http://arxiv.org/abs/2306.12665v1)|null|
 |**2023-06-21**|**Dynamic Implicit Image Function for Efficient Arbitrary-Scale Image Representation**|Zongyao He et.al.|[2306.12321v1](http://arxiv.org/abs/2306.12321v1)|**[link](https://github.com/hezongyao/diif)**|
 |**2023-06-21**|**DiffuseIR:Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images**|Mingjie Pan et.al.|[2306.12109v1](http://arxiv.org/abs/2306.12109v1)|null|
 |**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085v1](http://arxiv.org/abs/2306.12085v1)|null|
@@ -1648,6 +1658,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090v1](http://arxiv.org/abs/2306.13090v1)|null|
+|**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757v1](http://arxiv.org/abs/2306.12757v1)|null|
 |**2023-06-21**|**Accelerating Multiframe Blind Deconvolution via Deep Learning**|A. Asensio Ramos et.al.|[2306.12078v1](http://arxiv.org/abs/2306.12078v1)|**[link](https://github.com/aasensio/neural-mfbd)**|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v2](http://arxiv.org/abs/2306.11528v2)|**[link](https://github.com/cameltr/transref)**|
 |**2023-06-22**|**Enlighten Anything: When Segment Anything Model Meets Low-Light Image Enhancement**|Qihan Zhao et.al.|[2306.10286v3](http://arxiv.org/abs/2306.10286v3)|**[link](https://github.com/QihanZhao/enlighten-anything)**|
@@ -2036,6 +2048,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090v1](http://arxiv.org/abs/2306.13090v1)|null|
 |**2023-06-18**|**Weighted structure tensor total variation for image denoising**|Xiuhan Sheng et.al.|[2306.10482v1](http://arxiv.org/abs/2306.10482v1)|null|
 |**2023-06-16**|**CANDID: Correspondence AligNment for Deep-burst Image Denoising**|Arijit Mallick et.al.|[2306.09887v1](http://arxiv.org/abs/2306.09887v1)|null|
 |**2023-06-16**|**Structural Restricted Boltzmann Machine for image denoising and classification**|Arkaitz Bidaurrazaga et.al.|[2306.09628v1](http://arxiv.org/abs/2306.09628v1)|null|
@@ -2262,6 +2275,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040v1](http://arxiv.org/abs/2306.13040v1)|null|
 |**2023-06-15**|**Out of Distribution Generalization via Interventional Style Transfer in Single-Cell Microscopy**|Wolfgang M. Pernice et.al.|[2306.11890v1](http://arxiv.org/abs/2306.11890v1)|null|
 |**2023-06-19**|**ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330v2](http://arxiv.org/abs/2306.09330v2)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation**|Tianyu Li et.al.|[2306.09098v1](http://arxiv.org/abs/2306.09098v1)|**[link](https://github.com/cxa9264/confeti)**|
