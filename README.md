@@ -535,6 +535,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Hierarchical Matching and Reasoning for Multi-Query Image Retrieval**|Zhong Ji et.al.|[2306.14460](http://arxiv.org/abs/2306.14460)|null|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**Catching Image Retrieval Generalization**|Maksim Zhdanov et.al.|[2306.13357](http://arxiv.org/abs/2306.13357)|null|
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055](http://arxiv.org/abs/2306.13055)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040](http://arxiv.org/abs/2306.13040)|null|
@@ -1137,6 +1139,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-23**|**LightGlue: Local Feature Matching at Light Speed**|Philipp Lindenberger et.al.|[2306.13643](http://arxiv.org/abs/2306.13643)|**[link](https://github.com/cvg/lightglue)**|
 |**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
