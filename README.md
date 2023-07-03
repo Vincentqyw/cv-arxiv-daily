@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775v1](http://arxiv.org/abs/2306.17775v1)|null|
+|**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717v1](http://arxiv.org/abs/2306.17717v1)|null|
+|**2023-06-30**|**Counting Guidance for High Fidelity Text-to-Image Synthesis**|Wonjun Kang et.al.|[2306.17567v1](http://arxiv.org/abs/2306.17567v1)|null|
+|**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560v1](http://arxiv.org/abs/2306.17560v1)|null|
+|**2023-06-29**|**Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models**|Simian Luo et.al.|[2306.17203v1](http://arxiv.org/abs/2306.17203v1)|null|
 |**2023-06-29**|**Generate Anything Anywhere in Any Scene**|Yuheng Li et.al.|[2306.17154v1](http://arxiv.org/abs/2306.17154v1)|null|
 |**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141v1](http://arxiv.org/abs/2306.17141v1)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
 |**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140v1](http://arxiv.org/abs/2306.17140v1)|null|
@@ -1049,6 +1054,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**RBSR: Efficient and Flexible Recurrent Network for Burst Super-Resolution**|Renlong Wu et.al.|[2306.17595v1](http://arxiv.org/abs/2306.17595v1)|null|
+|**2023-06-30**|**A Motion Assessment Method for Reference Stack Selection in Fetal Brain MRI Reconstruction Based on Tensor Rank Approximation**|Haoan Xu et.al.|[2306.17434v1](http://arxiv.org/abs/2306.17434v1)|null|
 |**2023-06-28**|**Super resolution dual-layer CBCT imaging with model-guided deep learning**|Jiongtao Zhu et.al.|[2306.16002v1](http://arxiv.org/abs/2306.16002v1)|null|
 |**2023-06-27**|**Novel Hybrid-Learning Algorithms for Improved Millimeter-Wave Imaging Systems**|Josiah Smith et.al.|[2306.15341v1](http://arxiv.org/abs/2306.15341v1)|null|
 |**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244v1](http://arxiv.org/abs/2306.15244v1)|null|
@@ -1711,6 +1718,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude**|Feng Liu et.al.|[2306.17206v1](http://arxiv.org/abs/2306.17206v1)|null|
 |**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244v1](http://arxiv.org/abs/2306.15244v1)|null|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653v1](http://arxiv.org/abs/2306.13653v1)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090v1](http://arxiv.org/abs/2306.13090v1)|**[link](https://github.com/va1shn9v/promptir)**|
@@ -1868,6 +1876,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Reconstructing the mid-infrared environment in the stellar merger remnant V838 Monocerotis**|Muhammad Zain Mobeen et.al.|[2306.17586v1](http://arxiv.org/abs/2306.17586v1)|null|
+|**2023-06-30**|**Spatially Varying Exposure with 2-by-2 Multiplexing: Optimality and Universality**|Xiangyu Qu et.al.|[2306.17367v1](http://arxiv.org/abs/2306.17367v1)|null|
 |**2023-06-27**|**Cross Spectral Image Reconstruction Using a Deep Guided Neural Network**|Frank Sippel et.al.|[2306.15237v1](http://arxiv.org/abs/2306.15237v1)|**[link](https://github.com/fau-lms/dgnet)**|
 |**2023-06-26**|**Subspace Recycling for Sequences of Shifted Systems with Applications in Image Recovery**|Misha E. Kilmer et.al.|[2306.15049v1](http://arxiv.org/abs/2306.15049v1)|null|
 |**2023-06-25**|**Ultrafast Cardiac Imaging Using Deep Learning For Speckle-Tracking Echocardiography**|Jingfeng Lu et.al.|[2306.14265v1](http://arxiv.org/abs/2306.14265v1)|null|
@@ -2109,6 +2119,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**HIDFlowNet: A Flow-Based Deep Network for Hyperspectral Image Denoising**|Li Pang et.al.|[2306.17797v1](http://arxiv.org/abs/2306.17797v1)|null|
+|**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717v1](http://arxiv.org/abs/2306.17717v1)|null|
+|**2023-06-29**|**Designing Stable Neural Networks using Convex Analysis and ODEs**|Ferdia Sherry et.al.|[2306.17332v1](http://arxiv.org/abs/2306.17332v1)|null|
 |**2023-06-28**|**SVNR: Spatially-variant Noise Removal with Denoising Diffusion**|Naama Pearl et.al.|[2306.16052v1](http://arxiv.org/abs/2306.16052v1)|null|
 |**2023-06-28**|**Evaluating Similitude and Robustness of Deep Image Denoising Models via Adversarial Attack**|Jie Ning et.al.|[2306.16050v1](http://arxiv.org/abs/2306.16050v1)|null|
 |**2023-06-26**|**Statistical Component Separation for Targeted Signal Recovery in Noisy Mixtures**|Bruno Régaldo-Saint Blancard et.al.|[2306.15012v1](http://arxiv.org/abs/2306.15012v1)|**[link](https://github.com/bregaldo/stat_comp_sep)**|
@@ -2245,6 +2258,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775v1](http://arxiv.org/abs/2306.17775v1)|null|
+|**2023-06-29**|**Guided Deep Generative Model-based Spatial Regularization for Multiband Imaging Inverse Problems**|Min Zhao et.al.|[2306.17197v1](http://arxiv.org/abs/2306.17197v1)|null|
 |**2023-06-28**|**The forward-backward-forward algorithm with extrapolation from the past and penalty scheme for solving monotone inclusion problems and applications**|Buris Tongnoi et.al.|[2306.16592v1](http://arxiv.org/abs/2306.16592v1)|null|
 |**2023-06-21**|**TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting**|Liang Liao et.al.|[2306.11528v2](http://arxiv.org/abs/2306.11528v2)|**[link](https://github.com/cameltr/transref)**|
 |**2023-06-26**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869v2](http://arxiv.org/abs/2306.09869v2)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
