@@ -2412,7 +2412,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513v1](http://arxiv.org/abs/2307.00513v1)|null|
+|**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513v1](http://arxiv.org/abs/2307.00513v1)|**[link](https://github.com/ciaranbench/spectral-denoising-cyclegan)**|
 |**2023-07-01**|**StyleStegan: Leak-free Style Transfer Based on Feature Steganography**|Xiujian Liang et.al.|[2307.00225v1](http://arxiv.org/abs/2307.00225v1)|null|
 |**2023-06-29**|**ICDaeLST: Intensity-Controllable Detail Attention-enhanced for Lightweight Fast Style Transfer**|Jiang Shi Qi et.al.|[2306.16846v1](http://arxiv.org/abs/2306.16846v1)|null|
 |**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644v1](http://arxiv.org/abs/2306.15644v1)|null|
