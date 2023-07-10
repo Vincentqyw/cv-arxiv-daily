@@ -15,6 +15,12 @@
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#Brain-Simulation>Brain Simulation</a></li>
+    <li><a href=#Neural-Plasticity>Neural Plasticity</a></li>
+    <li><a href=#Cortical-Columns>Cortical Columns</a></li>
+    <li><a href=#Spiking-Neural-Networks>Spiking Neural Networks</a></li>
+    <li><a href=#Neurological-Disorders>Neurological Disorders</a></li>
+    <li><a href=#Computational-Neuroscience>Computational Neuroscience</a></li>
   </ol>
 </details>
 
@@ -1706,6 +1712,108 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+
+## Brain Simulation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-07-04**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
+|**2023-05-22**|**Powering AI at the Edge: A Robust, Memristor-based Binarized Neural Network with Near-Memory Computing and Miniaturized Solar Cell**|Fadi Jebali et.al.|[2305.12875](http://arxiv.org/abs/2305.12875)|null|
+|**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510](http://arxiv.org/abs/2305.02510)|null|
+|**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259](http://arxiv.org/abs/2305.02259)|null|
+|**2023-04-19**|**Parallel Neural Networks in Golang**|Daniela Kalwarowskyj et.al.|[2304.09590](http://arxiv.org/abs/2304.09590)|null|
+|**2023-04-12**|**Distributed Compressed Sparse Row Format for Spiking Neural Network Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587](http://arxiv.org/abs/2304.05587)|null|
+|**2023-04-03**|**Fast Point Cloud Generation with Diffusion Models in High Energy Physics**|Vinicius Mikuni et.al.|[2304.01266](http://arxiv.org/abs/2304.01266)|**[link](https://github.com/viniciusmikuni/gsgm)**|
+|**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
+|**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
+|**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277](http://arxiv.org/abs/2212.01277)|null|
+
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+
+## Neural Plasticity
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-28**|**Multiscale motion and deformation of bumps in stochastic neural fields with dynamic connectivity**|Heather L Cihak et.al.|[2306.16537](http://arxiv.org/abs/2306.16537)|null|
+|**2023-06-13**|**Nonlinear slow-timescale mechanisms in synaptic plasticity**|Cian O'Donnell et.al.|[2306.07801](http://arxiv.org/abs/2306.07801)|null|
+|**2023-06-10**|**Implementation of Multiple-Step Quantized STDP based on Linear Weight Update Memristive Synapses**|Y. Liu et.al.|[2306.06379](http://arxiv.org/abs/2306.06379)|null|
+|**2023-06-22**|**Active Inference in Hebbian Learning Networks**|Ali Safa et.al.|[2306.05053](http://arxiv.org/abs/2306.05053)|null|
+|**2023-06-02**|**Synaptic motor adaptation: A three-factor learning rule for adaptive robotic control in spiking neural networks**|Samuel Schmidgall et.al.|[2306.01906](http://arxiv.org/abs/2306.01906)|null|
+|**2023-05-30**|**Synaptic Weight Distributions Depend on the Geometry of Plasticity**|Roman Pogodin et.al.|[2305.19394](http://arxiv.org/abs/2305.19394)|null|
+|**2023-05-22**|**Dynamically altered conductance in an Organic Thin Film Memristive Device**|Agnieszka I. Pawłowska et.al.|[2305.13466](http://arxiv.org/abs/2305.13466)|null|
+|**2023-05-19**|**Energy-efficient memcapacitive physical reservoir computing system for temporal data processing**|Md Razuan Hossain et.al.|[2305.12025](http://arxiv.org/abs/2305.12025)|null|
+|**2023-05-22**|**Neurotrophic Effects of Intermittent Fasting, Calorie Restriction and Exercise: A Review and Annotated Bibliography**|Eric Mayor et.al.|[2305.11425](http://arxiv.org/abs/2305.11425)|null|
+|**2023-05-18**|**Brain-inspired learning in artificial neural networks: a review**|Samuel Schmidgall et.al.|[2305.11252](http://arxiv.org/abs/2305.11252)|null|
+
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+
+## Cortical Columns
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-27**|**NCIS: Deep Color Gradient Maps Regression and Three-Class Pixel Classification for Enhanced Neuronal Cell Instance Segmentation in Nissl-Stained Histological Images**|Valentina Vadori et.al.|[2306.15784](http://arxiv.org/abs/2306.15784)|null|
+|**2023-06-26**|**C3S Micro-architectural Enhancement: Spike Encoder Block and Relaxing Gamma Clock (Asynchronous)**|Alok Anand et.al.|[2306.15093](http://arxiv.org/abs/2306.15093)|null|
+|**2023-06-09**|**Noncoding RNAs evolutionarily extend animal lifespan**|Anyou Wang et.al.|[2306.05984](http://arxiv.org/abs/2306.05984)|null|
+|**2023-06-06**|**Form Follows Function: A Different Approach to Neuron Connectivity**|Lane Yoder et.al.|[2306.03337](http://arxiv.org/abs/2306.03337)|null|
+|**2023-05-19**|**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**|Zijiao Chen et.al.|[2305.11675](http://arxiv.org/abs/2305.11675)|null|
+|**2023-05-17**|**Scalable Algorithmic Infrastructure for Computation of Social Crowding and Viral Disease Encounters -- mContain Case Study**|Md Azim Ullah et.al.|[2305.11182](http://arxiv.org/abs/2305.11182)|null|
+|**2023-04-01**|**A high-efficiency model indicating the role of inhibition in the resilience of neuronal networks to damage resulting from traumatic injury**|Brian L. Frost et.al.|[2304.00333](http://arxiv.org/abs/2304.00333)|null|
+|**2023-03-06**|**Joint cortical registration of geometry and function using semi-supervised learning**|Jian Li et.al.|[2303.01592](http://arxiv.org/abs/2303.01592)|null|
+|**2023-03-02**|**Singular Value Decomposition of Dual Matrices and its Application to Traveling Wave Identification in the Brain**|Tong Wei et.al.|[2303.01383](http://arxiv.org/abs/2303.01383)|null|
+|**2023-01-31**|**Gyri vs. Sulci: Disentangling Brain Core-Periphery Functional Networks via Twin-Transformer**|Xiaowei Yu et.al.|[2302.00146](http://arxiv.org/abs/2302.00146)|null|
+
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+
+## Spiking Neural Networks
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947](http://arxiv.org/abs/2307.02947)|null|
+|**2023-07-05**|**Modelling Spontaneous Firing Activity of the Motor Cortex in a Spiking Neural Network with Random and Local Connectivity**|Lysea Haggie et.al.|[2307.02659](http://arxiv.org/abs/2307.02659)|**[link](https://github.com/munozatabi/motorcortex)**|
+|**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694](http://arxiv.org/abs/2307.01694)|**[link](https://github.com/biclab/spike-driven-transformer)**|
+|**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329](http://arxiv.org/abs/2307.01329)|null|
+|**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
+|**2023-07-01**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293](http://arxiv.org/abs/2307.00293)|null|
+|**2023-06-30**|**Zespol: A Lightweight Environment for Training Swarming Agents**|Shay Snyder et.al.|[2306.17744](http://arxiv.org/abs/2306.17744)|null|
+|**2023-06-30**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670](http://arxiv.org/abs/2306.17670)|**[link](https://github.com/thvnvtos/snn-delays)**|
+|**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597](http://arxiv.org/abs/2306.17597)|null|
+|**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046](http://arxiv.org/abs/2306.17046)|null|
+
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+
+## Neurological Disorders
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-07-03**|**Beyond the Snapshot: Brain Tokenized Graph Transformer for Longitudinal Brain Functional Connectome Embedding**|Zijian Dong et.al.|[2307.00858](http://arxiv.org/abs/2307.00858)|**[link](https://github.com/zijiand/brain-tokengt)**|
+|**2023-06-30**|**Capturing functional connectomics using Riemannian partial least squares**|Matt Ryan et.al.|[2306.17371](http://arxiv.org/abs/2306.17371)|null|
+|**2023-06-21**|**Bayesian inference and role of astrocytes in amyloid-beta dynamics with modelling of Alzheimer's disease using clinical data**|Hina Shaheen et.al.|[2306.12520](http://arxiv.org/abs/2306.12520)|null|
+|**2023-06-21**|**Reporting existing datasets for automatic epilepsy diagnosis and seizure detection**|Palak Handa et.al.|[2306.12292](http://arxiv.org/abs/2306.12292)|null|
+|**2023-06-11**|**TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution**|Shan Huang et.al.|[2306.06669](http://arxiv.org/abs/2306.06669)|**[link](https://github.com/goddesshs/transmrsr)**|
+|**2023-06-08**|**Robust Brain Age Estimation via Regression Models and MRI-derived Features**|Mansoor Ahmed et.al.|[2306.05514](http://arxiv.org/abs/2306.05514)|null|
+|**2023-06-08**|**Connectional-Style-Guided Contextual Representation Learning for Brain Disease Diagnosis**|Gongshu Wang et.al.|[2306.05297](http://arxiv.org/abs/2306.05297)|null|
+|**2023-06-05**|**Neural Networks from Biological to Artificial and Vice Versa**|Abdullatif Baba et.al.|[2306.04449](http://arxiv.org/abs/2306.04449)|null|
+|**2023-06-06**|**Quantitative characterization of amyloid deposits in murine models of alzheimer disease by phase-contrast x-ray imaging**|A. Politano et.al.|[2306.03556](http://arxiv.org/abs/2306.03556)|null|
+|**2023-06-06**|**Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses**|Lucía Gómez-Zaragozá et.al.|[2306.03443](http://arxiv.org/abs/2306.03443)|null|
+
+<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+
+## Computational Neuroscience
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-07-05**|**A Versatile Hub Model For Efficient Information Propagation And Feature Selection**|Zhaoze Wang et.al.|[2307.02398](http://arxiv.org/abs/2307.02398)|null|
+|**2023-06-27**|**A Population-Level Analysis of Neural Dynamics in Robust Legged Robots**|Eugene R. Rush et.al.|[2306.15793](http://arxiv.org/abs/2306.15793)|null|
+|**2023-06-27**|**PyBADS: Fast and robust black-box optimization in Python**|Gurjeet Sangra Singh et.al.|[2306.15576](http://arxiv.org/abs/2306.15576)|**[link](https://github.com/acerbilab/pybads)**|
+|**2023-06-12**|**Saltation Matrices: The Essential Tool for Linearizing Hybrid Dynamical Systems**|Nathan J. Kong et.al.|[2306.06862](http://arxiv.org/abs/2306.06862)|null|
+|**2023-06-06**|**Performance-optimized deep neural networks are evolving into worse models of inferotemporal visual cortex**|Drew Linsley et.al.|[2306.03779](http://arxiv.org/abs/2306.03779)|null|
+|**2023-06-06**|**L-C2ST: Local Diagnostics for Posterior Approximations in Simulation-Based Inference**|Julia Linhart et.al.|[2306.03580](http://arxiv.org/abs/2306.03580)|**[link](https://github.com/julialinhart/valdiags_flows)**|
+|**2023-06-03**|**A Bio-Inspired Chaos Sensor Based on the Perceptron Neural Network: Concept and Application for Computational Neuro-science**|Andrei Velichko et.al.|[2306.01991](http://arxiv.org/abs/2306.01991)|null|
+|**2023-05-30**|**Synaptic Weight Distributions Depend on the Geometry of Plasticity**|Roman Pogodin et.al.|[2305.19394](http://arxiv.org/abs/2305.19394)|null|
+|**2023-05-27**|**Explainable Brain Age Prediction using coVariance Neural Networks**|Saurabh Sihag et.al.|[2305.18370](http://arxiv.org/abs/2305.18370)|**[link](https://github.com/pennbindlab/vnn_brain_age)**|
+|**2023-06-05**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044](http://arxiv.org/abs/2305.16044)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
 
 <p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
 
