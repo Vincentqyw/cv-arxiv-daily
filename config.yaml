@@ -23,16 +23,16 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Brain Simulation":
-        过滤: 
+        filters: 
             ["Brain Simulation", "Neural Network Simulation", "Neuroscience Simulation"]
     "Neural Plasticity":
-        过滤: 
+        filters: 
             ["Neural Plasticity", "Synaptic Plasticity", "Hebbian Learning"]
     "Cortical Columns":
-        过滤: 
+        filters: 
             ["Cortical Columns", "Cerebral Cortex", "Neocortex"]
     "Spiking Neural Networks":
-        过滤: 
+        filters: 
             ["Spiking Neural Networks", "SNN", "Neuromorphic Computing"]
     "Neurological Disorders":
         filters: 
