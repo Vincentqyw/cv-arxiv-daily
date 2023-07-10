@@ -25,18 +25,24 @@ keywords:
     "Brain Simulation":
         filters: 
             ["Brain Simulation", "Neural Network Simulation", "Neuroscience Simulation"]
-    "Neural Plasticity":
-        filters: 
-            ["Neural Plasticity", "Synaptic Plasticity", "Hebbian Learning"]
-    "Cortical Columns":
-        filters: 
-            ["Cortical Columns", "Cerebral Cortex", "Neocortex"]
     "Spiking Neural Networks":
         filters: 
             ["Spiking Neural Networks", "SNN", "Neuromorphic Computing"]
-    "Neurological Disorders":
-        filters: 
-            ["Neurological Disorders", "Neurodegenerative Diseases", "Brain Diseases"]
-    "Computational Neuroscience":
-        filters: 
-            ["Computational Neuroscience"]
+    "Neuromorphic Computing":
+        filters:
+            ["Neuromorphic Computing", "Neuromorphic Systems", "Neuromorphic Engineering", "Neuromorphic Hardware"]
+    "Neural Coding":
+        filters:
+            ["Neural Coding", "Neural Code", "Coding in Neural Networks", "Neural Representation"]
+    "Brain Modelling and Simulation":
+        filters:
+            ["Computational Brain Modelling", "Brain Simulation", "Neural Circuit Modelling", "Multiscale Brain Modelling"]
+    "High Performance Computing for Neuroscience":
+        filters:
+            ["High Performance Computing in Neuroscience", "Supercomputing for Brain Simulation", "Parallel Computing for Neural Modelling", "Big Data in Neuroscience"]
+    "Neuroinformatics":
+        filters:
+            ["Neuroinformatics", "Neural Data Analysis", "Neural Data Mining", "Neural Databases"]
+    "Neuromorphic Engineering":
+        filters:
+            ["Neuromorphic Engineering", "Neuromorphic Devices", "Neuromorphic Circuits", "Neuromorphic Sensors"]
