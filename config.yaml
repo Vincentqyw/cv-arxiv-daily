@@ -12,9 +12,9 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/arxiv-daily.json'
-json_gitpage_path: './docs/arxiv-daily-web.json'
-json_wechat_path: './docs/arxiv-daily-wechat.json'
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -23,16 +23,16 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Brain Simulation":
-        filters: 
+        过滤: 
             ["Brain Simulation", "Neural Network Simulation", "Neuroscience Simulation"]
     "Neural Plasticity":
-        filters: 
+        过滤: 
             ["Neural Plasticity", "Synaptic Plasticity", "Hebbian Learning"]
     "Cortical Columns":
-        filters: 
+        过滤: 
             ["Cortical Columns", "Cerebral Cortex", "Neocortex"]
     "Spiking Neural Networks":
-        filters: 
+        过滤: 
             ["Spiking Neural Networks", "SNN", "Neuromorphic Computing"]
     "Neurological Disorders":
         filters: 
