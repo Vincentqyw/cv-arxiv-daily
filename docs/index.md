@@ -29,6 +29,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356](http://arxiv.org/abs/2307.04356)|null|
+|**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
+|**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910](http://arxiv.org/abs/2307.03910)|null|
 |**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947](http://arxiv.org/abs/2307.02947)|null|
 |**2023-07-05**|**Modelling Spontaneous Firing Activity of the Motor Cortex in a Spiking Neural Network with Random and Local Connectivity**|Lysea Haggie et.al.|[2307.02659](http://arxiv.org/abs/2307.02659)|**[link](https://github.com/munozatabi/motorcortex)**|
 |**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694](http://arxiv.org/abs/2307.01694)|**[link](https://github.com/biclab/spike-driven-transformer)**|
@@ -44,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
 |**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329](http://arxiv.org/abs/2307.01329)|null|
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
 |**2023-06-30**|**Zespol: A Lightweight Environment for Training Swarming Agents**|Shay Snyder et.al.|[2306.17744](http://arxiv.org/abs/2306.17744)|null|
@@ -59,6 +63,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Coordinate-based neural representations for computational adaptive optics in widefield microscopy**|Iksung Kang et.al.|[2307.03812](http://arxiv.org/abs/2307.03812)|null|
+|**2023-07-07**|**Neural Abstraction-Based Controller Synthesis and Deployment**|Rupak Majumdar et.al.|[2307.03783](http://arxiv.org/abs/2307.03783)|**[link](https://github.com/msalamati/neural-representation)**|
 |**2023-07-10**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
 |**2023-07-03**|**Neural Chronos ODE: Unveiling Temporal Patterns and Forecasting Future and Past Trends in Time Series Data**|C. Coelho et.al.|[2307.01023](http://arxiv.org/abs/2307.01023)|null|
 |**2023-07-03**|**MADS: Modulated Auto-Decoding SIREN for time series imputation**|Tom Bamford et.al.|[2307.00868](http://arxiv.org/abs/2307.00868)|null|
