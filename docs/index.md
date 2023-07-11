@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -59,7 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-06**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
+|**2023-07-10**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
 |**2023-07-03**|**Neural Chronos ODE: Unveiling Temporal Patterns and Forecasting Future and Past Trends in Time Series Data**|C. Coelho et.al.|[2307.01023](http://arxiv.org/abs/2307.01023)|null|
 |**2023-07-03**|**MADS: Modulated Auto-Decoding SIREN for time series imputation**|Tom Bamford et.al.|[2307.00868](http://arxiv.org/abs/2307.00868)|null|
 |**2023-06-30**|**Hierarchical Neural Coding for Controllable CAD Model Generation**|Xiang Xu et.al.|[2307.00149](http://arxiv.org/abs/2307.00149)|**[link](https://github.com/samxuxiang/hnc-cad)**|
