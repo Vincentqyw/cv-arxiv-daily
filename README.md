@@ -41,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356](http://arxiv.org/abs/2307.04356)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
 |**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910](http://arxiv.org/abs/2307.03910)|null|
@@ -61,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
 |**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329](http://arxiv.org/abs/2307.01329)|null|
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
@@ -79,6 +81,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**APRF: Anti-Aliasing Projection Representation Field for Inverse Problem in Imaging**|Zixuan Chen et.al.|[2307.05270](http://arxiv.org/abs/2307.05270)|null|
+|**2023-07-10**|**Entity Identifier: A Natural Text Parsing-based Framework For Entity Relation Extraction**|El Mehdi Chouham et.al.|[2307.04892](http://arxiv.org/abs/2307.04892)|null|
 |**2023-07-07**|**Coordinate-based neural representations for computational adaptive optics in widefield microscopy**|Iksung Kang et.al.|[2307.03812](http://arxiv.org/abs/2307.03812)|null|
 |**2023-07-07**|**Neural Abstraction-Based Controller Synthesis and Deployment**|Rupak Majumdar et.al.|[2307.03783](http://arxiv.org/abs/2307.03783)|**[link](https://github.com/msalamati/neural-representation)**|
 |**2023-07-10**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
