@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -89,7 +89,7 @@ layout: default
 |**2023-06-03**|**Adaptive whitening in neural populations with gain-modulating interneurons**|Lyndon R. Duong et.al.|[2301.11955](http://arxiv.org/abs/2301.11955)|**[link](https://github.com/lyndond/frame_whitening)**|
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
 |**2022-12-03**|**Dynamics of bump attractors in neural circuits with emergent spatial correlations**|Hengyuan Ma et.al.|[2212.01663](http://arxiv.org/abs/2212.01663)|null|
-|**2022-07-18**|**BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation**|Yi Zeng et.al.|[2207.08533](http://arxiv.org/abs/2207.08533)|null|
+|**2023-07-12**|**BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation**|Yi Zeng et.al.|[2207.08533](http://arxiv.org/abs/2207.08533)|null|
 |**2022-06-20**|**Degeneracy in epilepsy: Multiple Routes to Hyperexcitable Brain Circuits and their Repair**|Tristan Manfred Stöber et.al.|[2206.09621](http://arxiv.org/abs/2206.09621)|null|
 |**2022-05-14**|**A Low-latency Communication Design for Brain Simulations**|Xin Du et.al.|[2205.07125](http://arxiv.org/abs/2205.07125)|null|
 |**2022-10-24**|**TransEM:Residual Swin-Transformer based regularized PET image reconstruction**|Rui Hu et.al.|[2205.04204](http://arxiv.org/abs/2205.04204)|null|
