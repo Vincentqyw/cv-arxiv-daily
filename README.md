@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272v1](http://arxiv.org/abs/2307.06272v1)|null|
+|**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244v1](http://arxiv.org/abs/2307.06244v1)|null|
+|**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977v1](http://arxiv.org/abs/2307.05977v1)|null|
+|**2023-07-06**|**Social human collective decision-making and its applications with brain network models**|Thoa Thieu et.al.|[2307.05731v1](http://arxiv.org/abs/2307.05731v1)|null|
+|**2023-07-11**|**WHFast512: A symplectic N-body integrator for planetary systems optimized with AVX512 instructions**|Pejvak Javaheri et.al.|[2307.05683v1](http://arxiv.org/abs/2307.05683v1)|null|
 |**2023-07-07**|**AutoDecoding Latent 3D Diffusion Models**|Evangelos Ntavelis et.al.|[2307.05445v1](http://arxiv.org/abs/2307.05445v1)|null|
 |**2023-07-11**|**Metropolis Sampling for Constrained Diffusion Models**|Nic Fishman et.al.|[2307.05439v1](http://arxiv.org/abs/2307.05439v1)|null|
 |**2023-07-11**|**Geometric Neural Diffusion Processes**|Emile Mathieu et.al.|[2307.05431v1](http://arxiv.org/abs/2307.05431v1)|**[link](https://github.com/cambridge-mlg/neural_diffusion_processes)**|
@@ -1115,6 +1120,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|null|
 |**2023-07-11**|**Super-resolution imaging through a multimode fiber: the physical upsampling of speckle-driven**|Chuncheng Zhang et.al.|[2307.05138v1](http://arxiv.org/abs/2307.05138v1)|null|
 |**2023-07-10**|**DWA: Differential Wavelet Amplifier for Image Super-Resolution**|Brian B. Moser et.al.|[2307.04593v1](http://arxiv.org/abs/2307.04593v1)|null|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
@@ -1695,6 +1701,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Line Art Colorization of Fakemon using Generative Adversarial Neural Networks**|Erick Oliveira Rodrigues et.al.|[2307.05760v1](http://arxiv.org/abs/2307.05760v1)|null|
 |**2023-07-04**|**Fast Optimal Transport through Sliced Wasserstein Generalized Geodesics**|Guillaume Mahey et.al.|[2307.01770v1](http://arxiv.org/abs/2307.01770v1)|null|
 |**2023-07-04**|**Augment Features Beyond Color for Domain Generalized Segmentation**|Qiyu Sun et.al.|[2307.01703v1](http://arxiv.org/abs/2307.01703v1)|null|
 |**2023-06-26**|**Video object detection for privacy-preserving patient monitoring in intensive care**|Raphael Emberger et.al.|[2306.14620v1](http://arxiv.org/abs/2306.14620v1)|**[link](https://github.com/raember/yolov5r_autodidact)**|
@@ -1967,6 +1974,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207v1](http://arxiv.org/abs/2307.06207v1)|null|
+|**2023-07-11**|**Image Reconstruction using Enhanced Vision Transformer**|Nikhil Verma et.al.|[2307.05616v1](http://arxiv.org/abs/2307.05616v1)|null|
 |**2023-07-12**|**Test-Time Training on Video Streams**|Renhao Wang et.al.|[2307.05014v2](http://arxiv.org/abs/2307.05014v2)|null|
 |**2023-07-08**|**Lightweight Improved Residual Network for Efficient Inverse Tone Mapping**|Liqi Xue et.al.|[2307.03998v1](http://arxiv.org/abs/2307.03998v1)|null|
 |**2023-07-08**|**On a cylindrical scanning modality in three-dimensional Compton scatter tomography**|James W. Webber et.al.|[2307.03896v1](http://arxiv.org/abs/2307.03896v1)|null|
@@ -2218,6 +2227,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**On the Importance of Denoising when Learning to Compress Images**|Benoit Brummer et.al.|[2307.06233v1](http://arxiv.org/abs/2307.06233v1)|null|
+|**2023-07-11**|**Image Reconstruction using Enhanced Vision Transformer**|Nikhil Verma et.al.|[2307.05616v1](http://arxiv.org/abs/2307.05616v1)|null|
 |**2023-07-10**|**Timbre transfer using image-to-image denoising diffusion models**|Luca Comanducci et.al.|[2307.04586v1](http://arxiv.org/abs/2307.04586v1)|null|
 |**2023-07-08**|**Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling**|Tong Li et.al.|[2307.03992v1](http://arxiv.org/abs/2307.03992v1)|null|
 |**2023-07-05**|**Retinex-based Image Denoising / Contrast Enhancement using Gradient Graph Laplacian Regularizer**|Yeganeh Gharedaghi et.al.|[2307.02625v1](http://arxiv.org/abs/2307.02625v1)|null|
@@ -2363,6 +2374,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation**|Chun Fu et.al.|[2307.05926v1](http://arxiv.org/abs/2307.05926v1)|null|
+|**2023-07-12**|**DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation**|Yipeng Leng et.al.|[2307.05899v1](http://arxiv.org/abs/2307.05899v1)|null|
 |**2023-07-01**|**WavePaint: Resource-efficient Token-mixer for Self-supervised Inpainting**|Pranav Jeevan et.al.|[2307.00407v1](http://arxiv.org/abs/2307.00407v1)|**[link](https://github.com/pranavphoenix/WavePaint)**|
 |**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775v1](http://arxiv.org/abs/2306.17775v1)|**[link](https://github.com/blt2114/twisted_diffusion_sampler)**|
 |**2023-06-29**|**Guided Deep Generative Model-based Spatial Regularization for Multiband Imaging Inverse Problems**|Min Zhao et.al.|[2306.17197v1](http://arxiv.org/abs/2306.17197v1)|null|
@@ -2461,6 +2474,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Sem-CS: Semantic CLIPStyler for Text-Based Image Style Transfer**|Chanda Grover Kamra et.al.|[2307.05934v1](http://arxiv.org/abs/2307.05934v1)|null|
+|**2023-07-10**|**Substance or Style: What Does Your Image Embedding Know?**|Cyrus Rashtchian et.al.|[2307.05610v1](http://arxiv.org/abs/2307.05610v1)|null|
 |**2023-07-11**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157v2](http://arxiv.org/abs/2307.04157v2)|null|
 |**2023-07-02**|**Unsupervised denoising of Raman spectra with cycle-consistent generative adversarial networks**|Ciaran Bench et.al.|[2307.00513v1](http://arxiv.org/abs/2307.00513v1)|**[link](https://github.com/ciaranbench/spectral-denoising-cyclegan)**|
 |**2023-07-01**|**StyleStegan: Leak-free Style Transfer Based on Feature Steganography**|Xiujian Liang et.al.|[2307.00225v1](http://arxiv.org/abs/2307.00225v1)|null|
