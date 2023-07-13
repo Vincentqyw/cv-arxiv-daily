@@ -41,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356](http://arxiv.org/abs/2307.04356)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
@@ -62,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
 |**2023-07-03**|**Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet**|Chao Yun et.al.|[2307.01329](http://arxiv.org/abs/2307.01329)|null|
@@ -81,6 +83,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|null|
+|**2023-07-12**|**Learning Kernel-Modulated Neural Representation for Efficient Light Field Compression**|Jinglei Shi et.al.|[2307.06143](http://arxiv.org/abs/2307.06143)|null|
+|**2023-07-11**|**The Geometrical Structure of Bifurcations During Spatial Decision-Making**|Dan Gorbonos et.al.|[2307.05837](http://arxiv.org/abs/2307.05837)|null|
 |**2023-07-11**|**APRF: Anti-Aliasing Projection Representation Field for Inverse Problem in Imaging**|Zixuan Chen et.al.|[2307.05270](http://arxiv.org/abs/2307.05270)|null|
 |**2023-07-10**|**Entity Identifier: A Natural Text Parsing-based Framework For Entity Relation Extraction**|El Mehdi Chouham et.al.|[2307.04892](http://arxiv.org/abs/2307.04892)|null|
 |**2023-07-07**|**Coordinate-based neural representations for computational adaptive optics in widefield microscopy**|Iksung Kang et.al.|[2307.03812](http://arxiv.org/abs/2307.03812)|null|
