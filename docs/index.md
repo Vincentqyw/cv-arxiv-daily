@@ -29,6 +29,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
+|**2023-07-14**|**SLSSNN: High energy efficiency spike-train level spiking neural networks with spatio-temporal conversion**|Changqing Xu et.al.|[2307.07136](http://arxiv.org/abs/2307.07136)|null|
+|**2023-07-13**|**An Exploration of the Impact of Mapping Style and Device Roadmap on Simulated ReRAM Architectures for Neuromorphic Computing**|Enrico F. Persico et.al.|[2307.07056](http://arxiv.org/abs/2307.07056)|null|
 |**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356](http://arxiv.org/abs/2307.04356)|null|
@@ -49,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
+|**2023-07-13**|**An Exploration of the Impact of Mapping Style and Device Roadmap on Simulated ReRAM Architectures for Neuromorphic Computing**|Enrico F. Persico et.al.|[2307.07056](http://arxiv.org/abs/2307.07056)|null|
 |**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054](http://arxiv.org/abs/2307.04054)|null|
@@ -67,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**|ShangQi Deng et.al.|[2307.07288](http://arxiv.org/abs/2307.07288)|null|
 |**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-12**|**Learning Kernel-Modulated Neural Representation for Efficient Light Field Compression**|Jinglei Shi et.al.|[2307.06143](http://arxiv.org/abs/2307.06143)|null|
 |**2023-07-11**|**The Geometrical Structure of Bifurcations During Spatial Decision-Making**|Dan Gorbonos et.al.|[2307.05837](http://arxiv.org/abs/2307.05837)|null|
