@@ -29,6 +29,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501](http://arxiv.org/abs/2307.08501)|null|
+|**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
+|**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963](http://arxiv.org/abs/2307.07963)|null|
+|**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869](http://arxiv.org/abs/2307.07869)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
 |**2023-07-14**|**SLSSNN: High energy efficiency spike-train level spiking neural networks with spatio-temporal conversion**|Changqing Xu et.al.|[2307.07136](http://arxiv.org/abs/2307.07136)|null|
 |**2023-07-13**|**An Exploration of the Impact of Mapping Style and Device Roadmap on Simulated ReRAM Architectures for Neuromorphic Computing**|Enrico F. Persico et.al.|[2307.07056](http://arxiv.org/abs/2307.07056)|null|
@@ -52,6 +56,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
+|**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963](http://arxiv.org/abs/2307.07963)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
 |**2023-07-13**|**An Exploration of the Impact of Mapping Style and Device Roadmap on Simulated ReRAM Architectures for Neuromorphic Computing**|Enrico F. Persico et.al.|[2307.07056](http://arxiv.org/abs/2307.07056)|null|
 |**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084](http://arxiv.org/abs/2307.06084)|null|
@@ -72,6 +78,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|null|
+|**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|null|
 |**2023-07-14**|**Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**|ShangQi Deng et.al.|[2307.07288](http://arxiv.org/abs/2307.07288)|null|
 |**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-12**|**Learning Kernel-Modulated Neural Representation for Efficient Light Field Compression**|Jinglei Shi et.al.|[2307.06143](http://arxiv.org/abs/2307.06143)|null|
