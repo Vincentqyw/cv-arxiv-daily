@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,17 +30,19 @@
 |**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259](http://arxiv.org/abs/2305.02259)|null|
 |**2023-04-19**|**Parallel Neural Networks in Golang**|Daniela Kalwarowskyj et.al.|[2304.09590](http://arxiv.org/abs/2304.09590)|null|
 |**2023-04-12**|**Distributed Compressed Sparse Row Format for Spiking Neural Network Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587](http://arxiv.org/abs/2304.05587)|null|
-|**2023-04-03**|**Fast Point Cloud Generation with Diffusion Models in High Energy Physics**|Vinicius Mikuni et.al.|[2304.01266](http://arxiv.org/abs/2304.01266)|**[link](https://github.com/viniciusmikuni/gsgm)**|
+|**2023-07-17**|**Fast Point Cloud Generation with Diffusion Models in High Energy Physics**|Vinicius Mikuni et.al.|[2304.01266](http://arxiv.org/abs/2304.01266)|**[link](https://github.com/viniciusmikuni/gsgm)**|
 |**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
 |**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277](http://arxiv.org/abs/2212.01277)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Spiking Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Neuromorphic spintronics simulated using an unconventional data-driven Thiele equation approach**|Anatole Moureaux et.al.|[2307.09262](http://arxiv.org/abs/2307.09262)|null|
+|**2023-07-18**|**Few-molecule reservoir computing experimentally demonstrated with surface enhanced Raman scattering and ion-gating stimulation**|Daiki Nishioka et.al.|[2307.09138](http://arxiv.org/abs/2307.09138)|null|
 |**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501](http://arxiv.org/abs/2307.08501)|null|
 |**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
 |**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963](http://arxiv.org/abs/2307.07963)|null|
@@ -64,12 +66,14 @@
 |**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597](http://arxiv.org/abs/2306.17597)|null|
 |**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046](http://arxiv.org/abs/2306.17046)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Neuromorphic Computing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Neuromorphic spintronics simulated using an unconventional data-driven Thiele equation approach**|Anatole Moureaux et.al.|[2307.09262](http://arxiv.org/abs/2307.09262)|null|
+|**2023-07-18**|**Few-molecule reservoir computing experimentally demonstrated with surface enhanced Raman scattering and ion-gating stimulation**|Daiki Nishioka et.al.|[2307.09138](http://arxiv.org/abs/2307.09138)|null|
 |**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
 |**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963](http://arxiv.org/abs/2307.07963)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231](http://arxiv.org/abs/2307.07231)|null|
@@ -88,7 +92,7 @@
 |**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783](http://arxiv.org/abs/2306.13783)|null|
 |**2023-06-23**|**Enhanced Read Resolution in Reconfigurable Memristive Synapses for Spiking Neural Networks**|Hritom Das et.al.|[2306.13721](http://arxiv.org/abs/2306.13721)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Neural Coding
 
@@ -115,7 +119,7 @@
 |**2023-06-24**|**INR-MDSQC: Implicit Neural Representation Multiple Description Scalar Quantization for robust image Coding**|Trung Hieu Le et.al.|[2306.13919](http://arxiv.org/abs/2306.13919)|null|
 |**2023-06-22**|**Siamese SIREN: Audio Compression with Implicit Neural Representations**|Luca A. Lanzendörfer et.al.|[2306.12957](http://arxiv.org/abs/2306.12957)|**[link](https://github.com/lucala/siamese-siren)**|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Brain Modelling and Simulation
 
@@ -132,7 +136,7 @@
 |**2022-10-24**|**TransEM:Residual Swin-Transformer based regularized PET image reconstruction**|Rui Hu et.al.|[2205.04204](http://arxiv.org/abs/2205.04204)|null|
 |**2022-08-08**|**Multiscale modeling of brain network organization**|Charley Presigny et.al.|[2111.13473](http://arxiv.org/abs/2111.13473)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## High Performance Computing for Neuroscience
 
@@ -140,7 +144,7 @@
 |---|---|---|---|---|
 |**2017-09-07**|**Multilayer Brain Networks**|Michael Vaiana et.al.|[1709.02325](http://arxiv.org/abs/1709.02325)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Neuroinformatics
 
@@ -157,7 +161,7 @@
 |**2020-02-03**|**Non-linear regression models for behavioral and neural data analysis**|Vincent Adam et.al.|[2002.00920](http://arxiv.org/abs/2002.00920)|null|
 |**2018-03-26**|**Deep learning as a tool for neural data analysis: speech classification and cross-frequency coupling in human sensorimotor cortex**|Jesse A. Livezey et.al.|[1803.09807](http://arxiv.org/abs/1803.09807)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Neuromorphic Engineering
 
@@ -174,7 +178,7 @@
 |**2023-04-17**|**Synchronization in STDP-driven memristive neural networks with time-varying topology**|Marius E. Yamakou et.al.|[2304.08281](http://arxiv.org/abs/2304.08281)|null|
 |**2023-04-08**|**RescueSNN: Enabling Reliable Executions on Spiking Neural Network Accelerators under Permanent Faults**|Rachmad Vidya Wicaksana Putra et.al.|[2304.04041](http://arxiv.org/abs/2304.04041)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
