@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -82,7 +82,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|null|
+|**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|**[link](https://github.com/skywolf829/neuralstreamfunction)**|
 |**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|null|
 |**2023-07-14**|**Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**|ShangQi Deng et.al.|[2307.07288](http://arxiv.org/abs/2307.07288)|null|
 |**2023-07-12**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|**[link](https://github.com/bu-cisl/LCNF)**|
