@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994v1](http://arxiv.org/abs/2307.10994v1)|null|
+|**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911v1](http://arxiv.org/abs/2307.10911v1)|null|
+|**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816v1](http://arxiv.org/abs/2307.10816v1)|**[link](https://github.com/sierkinhane/boxdiff)**|
+|**2023-07-20**|**AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models**|Jiachun Pan et.al.|[2307.10711v1](http://arxiv.org/abs/2307.10711v1)|null|
+|**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584v1](http://arxiv.org/abs/2307.10584v1)|null|
+|**2023-07-19**|**PreDiff: Precipitation Nowcasting with Latent Diffusion Models**|Zhihan Gao et.al.|[2307.10422v1](http://arxiv.org/abs/2307.10422v1)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373v1](http://arxiv.org/abs/2307.10373v1)|null|
+|**2023-07-19**|**Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls**|Lejun Min et.al.|[2307.10304v1](http://arxiv.org/abs/2307.10304v1)|**[link](https://github.com/aik2mlj/polyffusion)**|
+|**2023-07-18**|**Modeling pattern formation in communities by using information particles**|Junichi Miyakoshi et.al.|[2307.10270v1](http://arxiv.org/abs/2307.10270v1)|null|
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159v1](http://arxiv.org/abs/2307.10159v1)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094v1](http://arxiv.org/abs/2307.10094v1)|null|
 |**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956v1](http://arxiv.org/abs/2307.09956v1)|null|
@@ -1156,6 +1165,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-02**|**Enhancing Super-Resolution Networks through Realistic Thick-Slice CT Simulation**|Zeyu Tang et.al.|[2307.10182v1](http://arxiv.org/abs/2307.10182v1)|null|
 |**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
 |**2023-07-18**|**Revealing the Predictive Power of Neural Operators for Strain Evolution in Digital Composites**|Meer Mehran Rashid et.al.|[2307.09623v1](http://arxiv.org/abs/2307.09623v1)|null|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
@@ -1871,6 +1881,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**|Ajay Jaiswal et.al.|[2307.10603v1](http://arxiv.org/abs/2307.10603v1)|null|
 |**2023-07-19**|**NTIRE 2023 Quality Assessment of Video Enhancement Challenge**|Xiaohong Liu et.al.|[2307.09729v1](http://arxiv.org/abs/2307.09729v1)|null|
 |**2023-07-18**|**Unleashing the Imagination of Text: A Novel Framework for Text-to-image Person Retrieval via Exploring the Power of Words**|Delong Liu et.al.|[2307.09059v1](http://arxiv.org/abs/2307.09059v1)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
@@ -2035,6 +2046,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
+|**2023-07-10**|**Exact Diffusion Inversion via Bi-directional Integration Approximation**|Guoqiang Zhang et.al.|[2307.10829v1](http://arxiv.org/abs/2307.10829v1)|null|
 |**2023-07-18**|**Unbiased CLEAN for STIX in Solar Orbiter**|Emma Perracchione et.al.|[2307.09991v1](http://arxiv.org/abs/2307.09991v1)|null|
 |**2023-07-19**|**Flexible single multimode fiber imaging using white LED**|Minyu Fan et.al.|[2307.09714v1](http://arxiv.org/abs/2307.09714v1)|null|
 |**2023-07-18**|**Transformer-based Dual-domain Network for Few-view Dedicated Cardiac SPECT Image Reconstructions**|Huidong Xie et.al.|[2307.09624v1](http://arxiv.org/abs/2307.09624v1)|null|
@@ -2296,6 +2309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Self2Self+: Single-Image Denoising with Self-Supervised Learning and Image Quality Assessment Loss**|Jaekyun Ko et.al.|[2307.10695v1](http://arxiv.org/abs/2307.10695v1)|null|
 |**2023-07-19**|**Generative Prompt Model for Weakly Supervised Object Localization**|Yuzhong Zhao et.al.|[2307.09756v1](http://arxiv.org/abs/2307.09756v1)|**[link](https://github.com/callsys/genpromp)**|
 |**2023-07-18**|**Convergent regularization in inverse problems and linear plug-and-play denoisers**|Andreas Hauptmann et.al.|[2307.09441v1](http://arxiv.org/abs/2307.09441v1)|null|
 |**2023-07-16**|**A Novel Truncated Norm Regularization Method for Multi-channel Color Image Denoising**|Yiwen Shan et.al.|[2307.07932v1](http://arxiv.org/abs/2307.07932v1)|null|
@@ -2449,6 +2463,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Quaternion tensor ring decomposition and application for color image inpainting**|Jifei Miao et.al.|[2307.10620v1](http://arxiv.org/abs/2307.10620v1)|null|
+|**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584v1](http://arxiv.org/abs/2307.10584v1)|null|
 |**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698v1](http://arxiv.org/abs/2307.08698v1)|**[link](https://github.com/vinairesearch/lfm)**|
 |**2023-07-17**|**Deficiency-Aware Masked Transformer for Video Inpainting**|Yongsheng Yu et.al.|[2307.08629v1](http://arxiv.org/abs/2307.08629v1)|**[link](https://github.com/yeates/dmt)**|
 |**2023-07-15**|**Both Spatial and Frequency Cues Contribute to High-Fidelity Image Inpainting**|Ze Lu et.al.|[2307.07678v1](http://arxiv.org/abs/2307.07678v1)|null|
