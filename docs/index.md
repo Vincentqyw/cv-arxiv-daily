@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Towards fully integrated photonic backpropagation training and inference using on-chip nonlinear activation and gradient functions**|Farshid Ashtiani et.al.|[2307.10179](http://arxiv.org/abs/2307.10179)|null|
 |**2023-07-04**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
 |**2023-05-22**|**Powering AI at the Edge: A Robust, Memristor-based Binarized Neural Network with Near-Memory Computing and Miniaturized Solar Cell**|Fadi Jebali et.al.|[2305.12875](http://arxiv.org/abs/2305.12875)|null|
 |**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510](http://arxiv.org/abs/2305.02510)|null|
@@ -29,6 +30,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
+|**2023-07-20**|**Unveiling the intrinsic dynamics of biological and artificial neural networks: from criticality to optimal representations**|Guillermo B. Morales et.al.|[2307.10669](http://arxiv.org/abs/2307.10669)|null|
 |**2023-07-18**|**Neuromorphic spintronics simulated using an unconventional data-driven Thiele equation approach**|Anatole Moureaux et.al.|[2307.09262](http://arxiv.org/abs/2307.09262)|null|
 |**2023-07-18**|**Few-molecule reservoir computing experimentally demonstrated with surface enhanced Raman scattering and ion-gating stimulation**|Daiki Nishioka et.al.|[2307.09138](http://arxiv.org/abs/2307.09138)|null|
 |**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501](http://arxiv.org/abs/2307.08501)|null|
@@ -58,6 +61,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
+|**2023-07-20**|**Unveiling the intrinsic dynamics of biological and artificial neural networks: from criticality to optimal representations**|Guillermo B. Morales et.al.|[2307.10669](http://arxiv.org/abs/2307.10669)|null|
 |**2023-07-18**|**Neuromorphic spintronics simulated using an unconventional data-driven Thiele equation approach**|Anatole Moureaux et.al.|[2307.09262](http://arxiv.org/abs/2307.09262)|null|
 |**2023-07-18**|**Few-molecule reservoir computing experimentally demonstrated with surface enhanced Raman scattering and ion-gating stimulation**|Daiki Nishioka et.al.|[2307.09138](http://arxiv.org/abs/2307.09138)|null|
 |**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
@@ -82,6 +87,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|**[link](https://github.com/skywolf829/neuralstreamfunction)**|
 |**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|null|
 |**2023-07-14**|**Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**|ShangQi Deng et.al.|[2307.07288](http://arxiv.org/abs/2307.07288)|null|
@@ -143,6 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821](http://arxiv.org/abs/2307.00821)|null|
 |**2023-06-10**|**Implementation of Multiple-Step Quantized STDP based on Linear Weight Update Memristive Synapses**|Y. Liu et.al.|[2306.06379](http://arxiv.org/abs/2306.06379)|null|
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410](http://arxiv.org/abs/2306.04410)|null|
