@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -17,7 +17,7 @@ layout: default
 |**2023-06-16**|**Towards fully integrated photonic backpropagation training and inference using on-chip nonlinear activation and gradient functions**|Farshid Ashtiani et.al.|[2307.10179](http://arxiv.org/abs/2307.10179)|null|
 |**2023-07-04**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
 |**2023-05-22**|**Powering AI at the Edge: A Robust, Memristor-based Binarized Neural Network with Near-Memory Computing and Miniaturized Solar Cell**|Fadi Jebali et.al.|[2305.12875](http://arxiv.org/abs/2305.12875)|null|
-|**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510](http://arxiv.org/abs/2305.02510)|null|
+|**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510](http://arxiv.org/abs/2305.02510)|**[link](https://github.com/ornl/superneuro)**|
 |**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259](http://arxiv.org/abs/2305.02259)|null|
 |**2023-04-19**|**Parallel Neural Networks in Golang**|Daniela Kalwarowskyj et.al.|[2304.09590](http://arxiv.org/abs/2304.09590)|null|
 |**2023-04-12**|**Distributed Compressed Sparse Row Format for Spiking Neural Network Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587](http://arxiv.org/abs/2304.05587)|null|
