@@ -30,6 +30,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411](http://arxiv.org/abs/2307.11411)|**[link](https://github.com/BICLab/EMS-YOLO)**|
+|**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349](http://arxiv.org/abs/2307.11349)|null|
+|**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
+|**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
+|**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242](http://arxiv.org/abs/2307.11242)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-20**|**Unveiling the intrinsic dynamics of biological and artificial neural networks: from criticality to optimal representations**|Guillermo B. Morales et.al.|[2307.10669](http://arxiv.org/abs/2307.10669)|null|
 |**2023-07-18**|**Neuromorphic spintronics simulated using an unconventional data-driven Thiele equation approach**|Anatole Moureaux et.al.|[2307.09262](http://arxiv.org/abs/2307.09262)|null|
@@ -61,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
+|**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242](http://arxiv.org/abs/2307.11242)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-20**|**Unveiling the intrinsic dynamics of biological and artificial neural networks: from criticality to optimal representations**|Guillermo B. Morales et.al.|[2307.10669](http://arxiv.org/abs/2307.10669)|null|
 |**2023-07-18**|**Neuromorphic spintronics simulated using an unconventional data-driven Thiele equation approach**|Anatole Moureaux et.al.|[2307.09262](http://arxiv.org/abs/2307.09262)|null|
