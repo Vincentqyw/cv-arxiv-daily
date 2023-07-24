@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|null|
+|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608v1](http://arxiv.org/abs/2307.11608v1)|**[link](https://github.com/gabrielfernandezfernandez/spivae)**|
 |**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494v1](http://arxiv.org/abs/2307.11494v1)|null|
 |**2023-07-21**|**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**|Jian Ma et.al.|[2307.11410v1](http://arxiv.org/abs/2307.11410v1)|**[link](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)**|
 |**2023-07-20**|**Dehazing Ultrasound using Diffusion Models**|Tristan S. W. Stevens et.al.|[2307.11204v1](http://arxiv.org/abs/2307.11204v1)|null|
