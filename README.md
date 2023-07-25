@@ -42,6 +42,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900](http://arxiv.org/abs/2307.12900)|null|
+|**2023-07-24**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
+|**2023-07-21**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844](http://arxiv.org/abs/2307.11844)|null|
 |**2023-07-24**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411](http://arxiv.org/abs/2307.11411)|null|
 |**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349](http://arxiv.org/abs/2307.11349)|null|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
@@ -80,6 +83,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
 |**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242](http://arxiv.org/abs/2307.11242)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
@@ -110,6 +114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**On Privileged and Convergent Bases in Neural Network Representations**|Davis Brown et.al.|[2307.12941](http://arxiv.org/abs/2307.12941)|null|
+|**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|**[link](https://github.com/skywolf829/neuralstreamfunction)**|
 |**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|null|
