@@ -313,7 +313,7 @@ def json_to_md(filename,md_filename,
                 if not day_content:
                     continue
                 kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
@@ -344,7 +344,7 @@ def json_to_md(filename,md_filename,
             if use_b2t:
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
             
         if show_badge == True:
             # we don't like long string, break it!
