@@ -1177,6 +1177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
+|**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
 |**2023-07-22**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|null|
@@ -1337,6 +1339,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
+|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
+|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
