@@ -30,10 +30,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007](http://arxiv.org/abs/2307.13007)|null|
 |**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900](http://arxiv.org/abs/2307.12900)|null|
 |**2023-07-24**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
 |**2023-07-21**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844](http://arxiv.org/abs/2307.11844)|null|
-|**2023-07-24**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411](http://arxiv.org/abs/2307.11411)|null|
+|**2023-07-24**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411](http://arxiv.org/abs/2307.11411)|**[link](https://github.com/BICLab/EMS-YOLO)**|
 |**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349](http://arxiv.org/abs/2307.11349)|null|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314](http://arxiv.org/abs/2307.11314)|null|
 |**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
@@ -98,6 +99,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**INFINITY: Neural Field Modeling for Reynolds-Averaged Navier-Stokes Equations**|Louis Serrano et.al.|[2307.13538](http://arxiv.org/abs/2307.13538)|null|
+|**2023-07-25**|**Implicit Reconstructions from Deformed Projections for CryoET**|Vinith Kishore et.al.|[2307.13516](http://arxiv.org/abs/2307.13516)|null|
+|**2023-07-25**|**Strivec: Sparse Tri-Vector Radiance Fields**|Quankai Gao et.al.|[2307.13226](http://arxiv.org/abs/2307.13226)|null|
+|**2023-07-22**|**Extracting Molecular Properties from Natural Language with Multimodal Contrastive Learning**|Romain Lacombe et.al.|[2307.12996](http://arxiv.org/abs/2307.12996)|null|
 |**2023-07-24**|**On Privileged and Convergent Bases in Neural Network Representations**|Davis Brown et.al.|[2307.12941](http://arxiv.org/abs/2307.12941)|null|
 |**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
