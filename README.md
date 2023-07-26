@@ -31,7 +31,7 @@
 |**2023-07-24**|**TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers**|Md Fahim Sikder et.al.|[2307.12667v1](http://arxiv.org/abs/2307.12667v1)|null|
 |**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560v1](http://arxiv.org/abs/2307.12560v1)|null|
 |**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499v1](http://arxiv.org/abs/2307.12499v1)|null|
-|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493v1](http://arxiv.org/abs/2307.12493v1)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
+|**2023-07-25**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493v2](http://arxiv.org/abs/2307.12493v2)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2023-07-23**|**TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models**|Guy Zamberg et.al.|[2307.12336v1](http://arxiv.org/abs/2307.12336v1)|null|
 |**2023-07-23**|**An axiomatized PDE model of deep neural networks**|Tangjun Wang et.al.|[2307.12333v1](http://arxiv.org/abs/2307.12333v1)|null|
