@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images**|Zeviel Imani et.al.|[2307.13687v1](http://arxiv.org/abs/2307.13687v1)|null|
+|**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639v1](http://arxiv.org/abs/2307.13639v1)|null|
+|**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560v1](http://arxiv.org/abs/2307.13560v1)|null|
+|**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527v1](http://arxiv.org/abs/2307.13527v1)|null|
+|**2023-07-25**|**Modelling functionalized drug release for a spherical capsule**|Elliot J. Carr et.al.|[2307.13224v1](http://arxiv.org/abs/2307.13224v1)|null|
+|**2023-07-24**|**Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review**|Aghiles Kebaili et.al.|[2307.13125v1](http://arxiv.org/abs/2307.13125v1)|null|
 |**2023-07-24**|**Data-free Black-box Attack based on Diffusion Model**|Mingwen Shao et.al.|[2307.12872v1](http://arxiv.org/abs/2307.12872v1)|null|
 |**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868v1](http://arxiv.org/abs/2307.12868v1)|null|
 |**2023-07-24**|**TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers**|Md Fahim Sikder et.al.|[2307.12667v1](http://arxiv.org/abs/2307.12667v1)|null|
@@ -1184,6 +1190,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks**|Cheeun Hong et.al.|[2307.13337v1](http://arxiv.org/abs/2307.13337v1)|null|
+|**2023-07-25**|**Multiscale scanning with nuisance parameters**|Claudia König et.al.|[2307.13301v1](http://arxiv.org/abs/2307.13301v1)|null|
 |**2023-07-24**|**ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution**|Reyhaneh Neshatavar et.al.|[2307.12751v1](http://arxiv.org/abs/2307.12751v1)|null|
 |**2023-07-24**|**Bayesian Based Unrolling for Reconstruction and Super-resolution of Single-Photon Lidar Systems**|Abderrahim Halimi et.al.|[2307.12700v1](http://arxiv.org/abs/2307.12700v1)|null|
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
@@ -1557,6 +1565,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks**|Cheeun Hong et.al.|[2307.13337v1](http://arxiv.org/abs/2307.13337v1)|null|
 |**2023-07-24**|**ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution**|Reyhaneh Neshatavar et.al.|[2307.12751v1](http://arxiv.org/abs/2307.12751v1)|null|
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2023-07-22**|**On the Effectiveness of Spectral Discriminators for Perceptual Quality Improvement**|Xin Luo et.al.|[2307.12027v1](http://arxiv.org/abs/2307.12027v1)|**[link](https://github.com/luciennnnnnn/dualformer)**|
@@ -2082,6 +2091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**One for Multiple: Physics-informed Synthetic Data Boosts Generalizable Deep Learning for Fast MRI Reconstruction**|Zi Wang et.al.|[2307.13220v1](http://arxiv.org/abs/2307.13220v1)|**[link](https://github.com/wangziblake/pisf)**|
 |**2023-07-24**|**SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**|Yiqing Wang et.al.|[2307.12591v1](http://arxiv.org/abs/2307.12591v1)|**[link](https://github.com/ucsc-vlaa/swinmm)**|
 |**2023-07-24**|**Entropy Transformer Networks: A Learning Approach via Tangent Bundle Data Manifold**|Pourya Shamsolmoali et.al.|[2307.12517v1](http://arxiv.org/abs/2307.12517v1)|null|
 |**2023-07-21**|**Computational Image Formation**|Stanley H. Chan et.al.|[2307.11635v1](http://arxiv.org/abs/2307.11635v1)|null|
@@ -2350,7 +2360,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-24**|**Learning Provably Robust Estimators for Inverse Problems via Jittering**|Anselm Krainovic et.al.|[2307.12822v1](http://arxiv.org/abs/2307.12822v1)|null|
+|**2023-07-24**|**Learning Provably Robust Estimators for Inverse Problems via Jittering**|Anselm Krainovic et.al.|[2307.12822v1](http://arxiv.org/abs/2307.12822v1)|**[link](https://github.com/mli-lab/robust_reconstructors_via_jittering)**|
 |**2023-07-24**|**A Theoretically Guaranteed Quaternion Weighted Schatten p-norm Minimization Method for Color Image Restoration**|Qing-Hua Zhang et.al.|[2307.12656v1](http://arxiv.org/abs/2307.12656v1)|**[link](https://github.com/qiuxuanzhizi/qwsnm)**|
 |**2023-07-23**|**ResWCAE: Biometric Pattern Image Denoising Using Residual Wavelet-Conditioned Autoencoder**|Youzhi Liang et.al.|[2307.12255v1](http://arxiv.org/abs/2307.12255v1)|null|
 |**2023-07-20**|**Self2Self+: Single-Image Denoising with Self-Supervised Learning and Image Quality Assessment Loss**|Jaekyun Ko et.al.|[2307.10695v1](http://arxiv.org/abs/2307.10695v1)|**[link](https://github.com/JK-the-Ko/Self2SelfPlus)**|
@@ -2612,6 +2622,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**Personal Protective Equipment Detection in Extreme Construction Conditions**|Yuexiong Ding et.al.|[2307.13654v1](http://arxiv.org/abs/2307.13654v1)|null|
 |**2023-07-20**|**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**|Kibeom Hong et.al.|[2307.09724v2](http://arxiv.org/abs/2307.09724v2)|**[link](https://github.com/kibeom-hong/aespa-net)**|
 |**2023-07-18**|**Face-PAST: Facial Pose Awareness and Style Transfer Networks**|Sunder Ali Khowaja et.al.|[2307.09020v1](http://arxiv.org/abs/2307.09020v1)|null|
 |**2023-07-17**|**On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization**|Akshay Mehra et.al.|[2307.08551v1](http://arxiv.org/abs/2307.08551v1)|**[link](https://github.com/akshaymehra24/riskaversedg)**|
