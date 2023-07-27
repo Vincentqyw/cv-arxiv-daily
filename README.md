@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331v1](http://arxiv.org/abs/2307.14331v1)|null|
+|**2023-07-26**|**Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects**|I. Lazzizzera et.al.|[2307.14291v1](http://arxiv.org/abs/2307.14291v1)|null|
+|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073v1](http://arxiv.org/abs/2307.14073v1)|null|
+|**2023-07-26**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066v1](http://arxiv.org/abs/2307.14066v1)|null|
+|**2023-07-26**|**MCMC-Correction of Score-Based Diffusion Models for Model Composition**|Anders Sjöberg et.al.|[2307.14012v1](http://arxiv.org/abs/2307.14012v1)|null|
+|**2023-07-26**|**How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?**|Huazheng Wang et.al.|[2307.13949v1](http://arxiv.org/abs/2307.13949v1)|**[link](https://github.com/maybelizzy/diffusion_ood_robustness)**|
+|**2023-07-26**|**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**|Chaohui Yu et.al.|[2307.13908v1](http://arxiv.org/abs/2307.13908v1)|null|
+|**2023-07-25**|**Composite Diffusion | whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720v1](http://arxiv.org/abs/2307.13720v1)|null|
 |**2023-07-25**|**Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images**|Zeviel Imani et.al.|[2307.13687v1](http://arxiv.org/abs/2307.13687v1)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639v1](http://arxiv.org/abs/2307.13639v1)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560v1](http://arxiv.org/abs/2307.13560v1)|null|
@@ -41,7 +49,7 @@
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
 |**2023-07-23**|**TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models**|Guy Zamberg et.al.|[2307.12336v1](http://arxiv.org/abs/2307.12336v1)|null|
 |**2023-07-23**|**An axiomatized PDE model of deep neural networks**|Tangjun Wang et.al.|[2307.12333v1](http://arxiv.org/abs/2307.12333v1)|null|
-|**2023-07-26**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090v2](http://arxiv.org/abs/2307.12090v2)|null|
+|**2023-07-26**|**PLANTAIN: Diffusion-inspired Pose Score Minimization for Fast and Accurate Molecular Docking**|Michael Brocidiacono et.al.|[2307.12090v2](http://arxiv.org/abs/2307.12090v2)|**[link](https://github.com/molecularmodelinglab/plantain)**|
 |**2023-07-22**|**Iterative Reconstruction Based on Latent Diffusion Model for Sparse Data Reconstruction**|Linchao He et.al.|[2307.12070v1](http://arxiv.org/abs/2307.12070v1)|null|
 |**2023-07-22**|**FSDiffReg: Feature-wise and Score-wise Diffusion-guided Unsupervised Deformable Image Registration for Cardiac Images**|Yi Qin et.al.|[2307.12035v1](http://arxiv.org/abs/2307.12035v1)|**[link](https://github.com/xmed-lab/fsdiffreg)**|
 |**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926v1](http://arxiv.org/abs/2307.11926v1)|null|
@@ -1190,6 +1198,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Deep learning-based radiointerferometric imaging with GAN-aided training**|F. Geyer et.al.|[2307.14100v1](http://arxiv.org/abs/2307.14100v1)|null|
+|**2023-07-26**|**ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution**|Mingjin Zhang et.al.|[2307.14010v1](http://arxiv.org/abs/2307.14010v1)|null|
 |**2023-07-25**|**Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks**|Cheeun Hong et.al.|[2307.13337v1](http://arxiv.org/abs/2307.13337v1)|null|
 |**2023-07-25**|**Multiscale scanning with nuisance parameters**|Claudia König et.al.|[2307.13301v1](http://arxiv.org/abs/2307.13301v1)|null|
 |**2023-07-24**|**ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution**|Reyhaneh Neshatavar et.al.|[2307.12751v1](http://arxiv.org/abs/2307.12751v1)|null|
@@ -1201,7 +1211,7 @@
 |**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926v1](http://arxiv.org/abs/2307.11926v1)|null|
 |**2023-07-20**|**Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network**|Xueshen Li et.al.|[2307.11130v1](http://arxiv.org/abs/2307.11130v1)|null|
 |**2023-07-02**|**Enhancing Super-Resolution Networks through Realistic Thick-Slice CT Simulation**|Zeyu Tang et.al.|[2307.10182v1](http://arxiv.org/abs/2307.10182v1)|null|
-|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
+|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|**[link](https://github.com/csguoh/lemma)**|
 |**2023-07-18**|**Revealing the Predictive Power of Neural Operators for Strain Evolution in Digital Composites**|Meer Mehran Rashid et.al.|[2307.09623v1](http://arxiv.org/abs/2307.09623v1)|null|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
 |**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
@@ -1565,6 +1575,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution**|Mingjin Zhang et.al.|[2307.14010v1](http://arxiv.org/abs/2307.14010v1)|null|
 |**2023-07-25**|**Overcoming Distribution Mismatch in Quantizing Image Super-Resolution Networks**|Cheeun Hong et.al.|[2307.13337v1](http://arxiv.org/abs/2307.13337v1)|null|
 |**2023-07-24**|**ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution**|Reyhaneh Neshatavar et.al.|[2307.12751v1](http://arxiv.org/abs/2307.12751v1)|null|
 |**2023-07-25**|**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting**|Zongsheng Yue et.al.|[2307.12348v2](http://arxiv.org/abs/2307.12348v2)|**[link](https://github.com/zsyoaoa/resshift)**|
@@ -1572,7 +1583,7 @@
 |**2023-07-22**|**NLCUnet: Single-Image Super-Resolution Network with Hairline Details**|Jiancong Feng et.al.|[2307.12014v1](http://arxiv.org/abs/2307.12014v1)|null|
 |**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926v1](http://arxiv.org/abs/2307.11926v1)|null|
 |**2023-07-20**|**Frequency-aware optical coherence tomography image super-resolution via conditional generative adversarial neural network**|Xueshen Li et.al.|[2307.11130v1](http://arxiv.org/abs/2307.11130v1)|null|
-|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
+|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|**[link](https://github.com/csguoh/lemma)**|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456v2](http://arxiv.org/abs/2307.09456v2)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008v1](http://arxiv.org/abs/2307.09008v1)|null|
 |**2023-07-17**|**DARTS: Double Attention Reference-based Transformer for Super-resolution**|Masoomeh Aslahishahri et.al.|[2307.08837v1](http://arxiv.org/abs/2307.08837v1)|**[link](https://github.com/bia006/darts)**|
@@ -1739,7 +1750,7 @@
 |**2023-07-16**|**MoTIF: Learning Motion Trajectories with Local Implicit Neural Functions for Continuous Space-Time Video Super-Resolution**|Yi-Hsin Chen et.al.|[2307.07988v1](http://arxiv.org/abs/2307.07988v1)|**[link](https://github.com/sichun233746/motif)**|
 |**2023-07-06**|**RefVSR++: Exploiting Reference Inputs for Reference-based Video Super-resolution**|Han Zou et.al.|[2307.02897v1](http://arxiv.org/abs/2307.02897v1)|null|
 |**2023-07-04**|**Spatio-Temporal Perception-Distortion Trade-off in Learned Video SR**|Nasrin Rahimi et.al.|[2307.01556v1](http://arxiv.org/abs/2307.01556v1)|**[link](https://github.com/kuis-ai-tekalp-research-group/perceptual-vsr)**|
-|**2023-07-26**|**EgoVSR: Towards High-Quality Egocentric Video Super-Resolution**|Yichen Chi et.al.|[2305.14708v2](http://arxiv.org/abs/2305.14708v2)|null|
+|**2023-07-26**|**EgoVSR: Towards High-Quality Egocentric Video Super-Resolution**|Yichen Chi et.al.|[2305.14708v2](http://arxiv.org/abs/2305.14708v2)|**[link](https://github.com/chiyich/egovsr)**|
 |**2023-05-24**|**NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution**|Yexing Song et.al.|[2305.14669v1](http://arxiv.org/abs/2305.14669v1)|null|
 |**2023-05-12**|**Can SAM Boost Video Super-Resolution?**|Zhihe Lu et.al.|[2305.06524v2](http://arxiv.org/abs/2305.06524v2)|null|
 |**2023-05-04**|**Expanding Synthetic Real-World Degradations for Blind Video Super Resolution**|Mehran Jeelani et.al.|[2305.02660v1](http://arxiv.org/abs/2305.02660v1)|null|
@@ -1886,7 +1897,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-25**|**Improving Video Colorization by Test-Time Tuning**|Yaping Zhao et.al.|[2307.11757v1](http://arxiv.org/abs/2307.11757v1)|null|
+|**2023-06-25**|**Improving Video Colorization by Test-Time Tuning**|Yaping Zhao et.al.|[2307.11757v1](http://arxiv.org/abs/2307.11757v1)|**[link](https://github.com/indigopurple/t3)**|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732v1](http://arxiv.org/abs/2306.01732v1)|null|
 |**2023-05-23**|**FlowChroma -- A Deep Recurrent Neural Network for Video Colorization**|Thejan Wijesinghe et.al.|[2305.13704v1](http://arxiv.org/abs/2305.13704v1)|null|
 |**2023-05-13**|**Temporal Consistent Automatic Video Colorization via Semantic Correspondence**|Yu Zhang et.al.|[2305.07904v1](http://arxiv.org/abs/2305.07904v1)|**[link](https://github.com/bupt-ai-cz/tcvc)**|
@@ -1925,6 +1936,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**On the unreasonable vulnerability of transformers for image restoration -- and an easy fix**|Shashank Agnihotri et.al.|[2307.13856v1](http://arxiv.org/abs/2307.13856v1)|null|
 |**2023-07-24**|**A Theoretically Guaranteed Quaternion Weighted Schatten p-norm Minimization Method for Color Image Restoration**|Qing-Hua Zhang et.al.|[2307.12656v1](http://arxiv.org/abs/2307.12656v1)|**[link](https://github.com/qiuxuanzhizi/qwsnm)**|
 |**2023-07-20**|**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**|Ajay Jaiswal et.al.|[2307.10603v1](http://arxiv.org/abs/2307.10603v1)|null|
 |**2023-07-19**|**NTIRE 2023 Quality Assessment of Video Enhancement Challenge**|Xiaohong Liu et.al.|[2307.09729v1](http://arxiv.org/abs/2307.09729v1)|null|
@@ -2622,6 +2634,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127v1](http://arxiv.org/abs/2307.14127v1)|**[link](https://github.com/wrk226/2d-to-3d-evolution-transfer)**|
 |**2023-07-25**|**Personal Protective Equipment Detection in Extreme Construction Conditions**|Yuexiong Ding et.al.|[2307.13654v1](http://arxiv.org/abs/2307.13654v1)|null|
 |**2023-07-20**|**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**|Kibeom Hong et.al.|[2307.09724v2](http://arxiv.org/abs/2307.09724v2)|**[link](https://github.com/kibeom-hong/aespa-net)**|
 |**2023-07-18**|**Face-PAST: Facial Pose Awareness and Style Transfer Networks**|Sunder Ali Khowaja et.al.|[2307.09020v1](http://arxiv.org/abs/2307.09020v1)|null|
