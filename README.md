@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|null|
 |**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007](http://arxiv.org/abs/2307.13007)|null|
 |**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900](http://arxiv.org/abs/2307.12900)|null|
 |**2023-07-24**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
@@ -84,6 +85,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|null|
 |**2023-07-24**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
 |**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242](http://arxiv.org/abs/2307.11242)|null|
@@ -117,7 +119,7 @@
 |---|---|---|---|---|
 |**2023-07-25**|**INFINITY: Neural Field Modeling for Reynolds-Averaged Navier-Stokes Equations**|Louis Serrano et.al.|[2307.13538](http://arxiv.org/abs/2307.13538)|null|
 |**2023-07-25**|**Implicit Reconstructions from Deformed Projections for CryoET**|Vinith Kishore et.al.|[2307.13516](http://arxiv.org/abs/2307.13516)|null|
-|**2023-07-25**|**Strivec: Sparse Tri-Vector Radiance Fields**|Quankai Gao et.al.|[2307.13226](http://arxiv.org/abs/2307.13226)|null|
+|**2023-07-25**|**Strivec: Sparse Tri-Vector Radiance Fields**|Quankai Gao et.al.|[2307.13226](http://arxiv.org/abs/2307.13226)|**[link](https://github.com/zerg-overmind/strivec)**|
 |**2023-07-22**|**Extracting Molecular Properties from Natural Language with Multimodal Contrastive Learning**|Romain Lacombe et.al.|[2307.12996](http://arxiv.org/abs/2307.12996)|null|
 |**2023-07-24**|**On Privileged and Convergent Bases in Neural Network Representations**|Davis Brown et.al.|[2307.12941](http://arxiv.org/abs/2307.12941)|null|
 |**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|null|
