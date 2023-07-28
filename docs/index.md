@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626](http://arxiv.org/abs/2307.14626)|null|
 |**2023-06-16**|**Towards fully integrated photonic backpropagation training and inference using on-chip nonlinear activation and gradient functions**|Farshid Ashtiani et.al.|[2307.10179](http://arxiv.org/abs/2307.10179)|null|
 |**2023-07-04**|**Neural Network Approach to the Simulation of Entangled States with One Bit of Communication**|Peter Sidajaya et.al.|[2305.19935](http://arxiv.org/abs/2305.19935)|**[link](https://github.com/petersidajaya/neural-network-fyp)**|
 |**2023-05-22**|**Powering AI at the Edge: A Robust, Memristor-based Binarized Neural Network with Near-Memory Computing and Miniaturized Solar Cell**|Fadi Jebali et.al.|[2305.12875](http://arxiv.org/abs/2305.12875)|null|
@@ -30,6 +31,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
+|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464](http://arxiv.org/abs/2307.14464)|null|
 |**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|null|
 |**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007](http://arxiv.org/abs/2307.13007)|null|
 |**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900](http://arxiv.org/abs/2307.12900)|null|
@@ -71,6 +74,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
+|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464](http://arxiv.org/abs/2307.14464)|null|
 |**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|null|
 |**2023-07-24**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
 |**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
@@ -101,6 +106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Neural Representation-Based Method for Metal-induced Artifact Reduction in Dental CBCT Imaging**|Hyoung Suk Park et.al.|[2307.14579](http://arxiv.org/abs/2307.14579)|null|
 |**2023-07-25**|**INFINITY: Neural Field Modeling for Reynolds-Averaged Navier-Stokes Equations**|Louis Serrano et.al.|[2307.13538](http://arxiv.org/abs/2307.13538)|null|
 |**2023-07-25**|**Implicit Reconstructions from Deformed Projections for CryoET**|Vinith Kishore et.al.|[2307.13516](http://arxiv.org/abs/2307.13516)|null|
 |**2023-07-25**|**Strivec: Sparse Tri-Vector Radiance Fields**|Quankai Gao et.al.|[2307.13226](http://arxiv.org/abs/2307.13226)|**[link](https://github.com/zerg-overmind/strivec)**|
