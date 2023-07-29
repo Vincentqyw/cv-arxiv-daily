@@ -2648,7 +2648,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-26**|**Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking**|Angela Ramirez et.al.|[2307.14440v1](http://arxiv.org/abs/2307.14440v1)|null|
+|**2023-07-26**|**Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking**|Angela Ramirez et.al.|[2307.14440v1](http://arxiv.org/abs/2307.14440v1)|**[link](https://github.com/aramir62/da-nlg)**|
 |**2023-07-27**|**Creative Birds: Self-Supervised Single-View 3D Style Transfer**|Renke Wang et.al.|[2307.14127v2](http://arxiv.org/abs/2307.14127v2)|**[link](https://github.com/wrk226/creative_birds)**|
 |**2023-07-25**|**Personal Protective Equipment Detection in Extreme Construction Conditions**|Yuexiong Ding et.al.|[2307.13654v1](http://arxiv.org/abs/2307.13654v1)|null|
 |**2023-07-20**|**AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks**|Kibeom Hong et.al.|[2307.09724v2](http://arxiv.org/abs/2307.09724v2)|**[link](https://github.com/kibeom-hong/aespa-net)**|
