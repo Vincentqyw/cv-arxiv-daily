@@ -43,6 +43,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16236](http://arxiv.org/abs/2307.16236)|null|
+|**2023-07-30**|**Spiking Neural Networks and Bio-Inspired Supervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16235](http://arxiv.org/abs/2307.16235)|null|
 |**2023-07-28**|**Analog programming of CMOS-compatible Al $_2$O$_3$/TiO$_\textrm{2-x}$ memristor at 4.2 K after metal-insulator transition suppression by cryogenic reforming**|Pierre-Antoine Mouny et.al.|[2307.15538](http://arxiv.org/abs/2307.15538)|null|
 |**2023-07-27**|**Functional Specification of the RAVENS Neuroprocessor**|Adam Z. Foshie et.al.|[2307.15232](http://arxiv.org/abs/2307.15232)|null|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
@@ -126,6 +128,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**Implicit Neural Representation in Medical Imaging: A Comparative Survey**|Amirali Molaei et.al.|[2307.16142](http://arxiv.org/abs/2307.16142)|**[link](https://github.com/mindflow-institue/awesome-implicit-neural-representations-in-medical-imaging)**|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428](http://arxiv.org/abs/2307.15428)|null|
 |**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131](http://arxiv.org/abs/2307.15131)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**Neural Representation-Based Method for Metal-induced Artifact Reduction in Dental CBCT Imaging**|Hyoung Suk Park et.al.|[2307.14579](http://arxiv.org/abs/2307.14579)|null|
