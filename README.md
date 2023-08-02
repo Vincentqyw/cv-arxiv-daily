@@ -2688,7 +2688,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-31**|**Controlling Geometric Abstraction and Texture for Artistic Images**|Martin Büßemeyer et.al.|[2308.00148v1](http://arxiv.org/abs/2308.00148v1)|null|
+|**2023-07-31**|**Controlling Geometric Abstraction and Texture for Artistic Images**|Martin Büßemeyer et.al.|[2308.00148v1](http://arxiv.org/abs/2308.00148v1)|**[link](https://github.com/MartinBuessemeyer/Artistic-Texture-Control)**|
 |**2023-07-30**|**InfoStyler: Disentanglement Information Bottleneck for Artistic Style Transfer**|Yueming Lyu et.al.|[2307.16227v1](http://arxiv.org/abs/2307.16227v1)|null|
 |**2023-07-30**|**HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer**|Sang-Hoon Lee et.al.|[2307.16171v1](http://arxiv.org/abs/2307.16171v1)|null|
 |**2023-07-26**|**Controllable Generation of Dialogue Acts for Dialogue Systems via Few-Shot Response Generation and Ranking**|Angela Ramirez et.al.|[2307.14440v1](http://arxiv.org/abs/2307.14440v1)|**[link](https://github.com/aramir62/da-nlg)**|
