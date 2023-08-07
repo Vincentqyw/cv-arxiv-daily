@@ -32,6 +32,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
 |**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|null|
 |**2023-08-01**|**Gradient Scaling on Deep Spiking Neural Networks with Spike-Dependent Local Information**|Seongsik Park et.al.|[2308.00558](http://arxiv.org/abs/2308.00558)|null|
 |**2023-07-30**|**Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16236](http://arxiv.org/abs/2307.16236)|null|
@@ -81,6 +82,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
 |**2023-07-28**|**Analog programming of CMOS-compatible Al $_2$O$_3$/TiO$_\textrm{2-x}$ memristor at 4.2 K after metal-insulator transition suppression by cryogenic reforming**|Pierre-Antoine Mouny et.al.|[2307.15538](http://arxiv.org/abs/2307.15538)|null|
 |**2023-07-27**|**Functional Specification of the RAVENS Neuroprocessor**|Adam Z. Foshie et.al.|[2307.15232](http://arxiv.org/abs/2307.15232)|null|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
@@ -115,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**On the Transition from Neural Representation to Symbolic Knowledge**|Junyan Cheng et.al.|[2308.02000](http://arxiv.org/abs/2308.02000)|null|
 |**2023-08-01**|**NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation**|Weiyun Jiang et.al.|[2308.00622](http://arxiv.org/abs/2308.00622)|null|
 |**2023-07-30**|**Implicit Neural Representation in Medical Imaging: A Comparative Survey**|Amirali Molaei et.al.|[2307.16142](http://arxiv.org/abs/2307.16142)|**[link](https://github.com/mindflow-institue/awesome-implicit-neural-representations-in-medical-imaging)**|
 |**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428](http://arxiv.org/abs/2307.15428)|null|
