@@ -44,6 +44,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369](http://arxiv.org/abs/2308.04369)|**[link](https://github.com/event-ahu/sstformer)**|
+|**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171](http://arxiv.org/abs/2308.04171)|null|
 |**2023-08-02**|**Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms**|Qingyu Wang et.al.|[2308.02557](http://arxiv.org/abs/2308.02557)|null|
 |**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
 |**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|null|
@@ -97,6 +99,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Reconfigurable elastic neuromorphic metasurfaces towards mechanical intelligence and cognitive wave-based computing**|M. Moghaddaszadeh et.al.|[2308.04002](http://arxiv.org/abs/2308.04002)|null|
 |**2023-08-07**|**Parametric excitations of coupled nanomagnets**|Domonkos Laszlo Farkas et.al.|[2308.03327](http://arxiv.org/abs/2308.03327)|null|
 |**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
 |**2023-07-28**|**Analog programming of CMOS-compatible Al $_2$O$_3$/TiO$_\textrm{2-x}$ memristor at 4.2 K after metal-insulator transition suppression by cryogenic reforming**|Pierre-Antoine Mouny et.al.|[2307.15538](http://arxiv.org/abs/2307.15538)|null|
@@ -135,6 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain**|Michal Byra et.al.|[2308.04039](http://arxiv.org/abs/2308.04039)|null|
 |**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
 |**2023-08-03**|**On the Transition from Neural Representation to Symbolic Knowledge**|Junyan Cheng et.al.|[2308.02000](http://arxiv.org/abs/2308.02000)|null|
 |**2023-08-01**|**NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation**|Weiyun Jiang et.al.|[2308.00622](http://arxiv.org/abs/2308.00622)|null|
