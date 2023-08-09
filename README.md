@@ -38,7 +38,7 @@
 |**2023-08-05**|**Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation**|Zijie Wu et.al.|[2308.02874v1](http://arxiv.org/abs/2308.02874v1)|null|
 |**2023-08-05**|**Thin On-Sensor Nanophotonic Array Cameras**|Praneeth Chakravarthula et.al.|[2308.02797v1](http://arxiv.org/abs/2308.02797v1)|null|
 |**2023-08-04**|**A geometric singular perturbation analysis of generalised shock selection rules in reaction-nonlinear diffusion models**|Bronwyn H Bradshaw-Hajek et.al.|[2308.02719v1](http://arxiv.org/abs/2308.02719v1)|null|
-|**2023-08-03**|**Synthesising Rare Cataract Surgery Samples with Guided Diffusion Models**|Yannik Frisch et.al.|[2308.02587v1](http://arxiv.org/abs/2308.02587v1)|null|
+|**2023-08-03**|**Synthesising Rare Cataract Surgery Samples with Guided Diffusion Models**|Yannik Frisch et.al.|[2308.02587v1](http://arxiv.org/abs/2308.02587v1)|**[link](https://github.com/meclabtuda/catasynth)**|
 |**2023-08-02**|**From Discrete Tokens to High-Fidelity Audio Using Multi-Band Diffusion**|Robin San Roman et.al.|[2308.02560v1](http://arxiv.org/abs/2308.02560v1)|null|
 |**2023-08-08**|**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**|Zixuan Ni et.al.|[2308.02552v2](http://arxiv.org/abs/2308.02552v2)|null|
 |**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283v1](http://arxiv.org/abs/2308.02283v1)|null|
