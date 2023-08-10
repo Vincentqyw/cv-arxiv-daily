@@ -27,7 +27,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021v1](http://arxiv.org/abs/2308.05021v1)|null|
-|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995v1](http://arxiv.org/abs/2308.04995v1)|null|
+|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995v1](http://arxiv.org/abs/2308.04995v1)|**[link](https://github.com/fdbtrs/IDiff-Face)**|
 |**2023-08-09**|**JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models**|Peike Li et.al.|[2308.04729v1](http://arxiv.org/abs/2308.04729v1)|null|
 |**2023-08-08**|**Semi-Supervised Semantic Segmentation of Cell Nuclei via Diffusion-based Large-Scale Pre-Training and Collaborative Learning**|Zhuchen Shao et.al.|[2308.04578v1](http://arxiv.org/abs/2308.04578v1)|null|
 |**2023-08-08**|**3D Scene Diffusion Guidance using Scene Graphs**|Mohammad Naanaa et.al.|[2308.04468v1](http://arxiv.org/abs/2308.04468v1)|null|
