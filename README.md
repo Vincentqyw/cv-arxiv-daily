@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
+|**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
+|**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695v1](http://arxiv.org/abs/2308.05695v1)|null|
+|**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583v1](http://arxiv.org/abs/2308.05583v1)|null|
+|**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384v1](http://arxiv.org/abs/2308.05384v1)|null|
 |**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021v1](http://arxiv.org/abs/2308.05021v1)|null|
 |**2023-08-10**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995v2](http://arxiv.org/abs/2308.04995v2)|**[link](https://github.com/fdbtrs/IDiff-Face)**|
 |**2023-08-09**|**JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models**|Peike Li et.al.|[2308.04729v1](http://arxiv.org/abs/2308.04729v1)|null|
@@ -1267,6 +1272,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
 |**2023-08-09**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v1](http://arxiv.org/abs/2308.05022v1)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922v1](http://arxiv.org/abs/2308.04922v1)|null|
 |**2023-08-08**|**PSRFlow: Probabilistic Super Resolution with Flow-Based Models for Scientific Data**|Jingyi Shen et.al.|[2308.04605v1](http://arxiv.org/abs/2308.04605v1)|null|
@@ -1923,6 +1929,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**A Generalized Physical-knowledge-guided Dynamic Model for Underwater Image Enhancement**|Pan Mu et.al.|[2308.05447v1](http://arxiv.org/abs/2308.05447v1)|null|
 |**2023-08-09**|**Transmission and Color-guided Network for Underwater Image Enhancement**|Pan Mu et.al.|[2308.04892v1](http://arxiv.org/abs/2308.04892v1)|null|
 |**2023-08-07**|**Prototype Learning for Out-of-Distribution Polyp Segmentation**|Nikhil Kumar Tomar et.al.|[2308.03709v1](http://arxiv.org/abs/2308.03709v1)|null|
 |**2023-08-06**|**Brighten-and-Colorize: A Decoupled Network for Customized Low-Light Image Enhancement**|Chenxi Wang et.al.|[2308.03029v1](http://arxiv.org/abs/2308.03029v1)|null|
@@ -2220,6 +2227,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
+|**2023-08-10**|**TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms**|Jiaqi Cui et.al.|[2308.05365v1](http://arxiv.org/abs/2308.05365v1)|null|
 |**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|**[link](https://github.com/jaejin-cho/miccai2023)**|
 |**2023-08-09**|**HyperCoil-Recon: A Hypernetwork-based Adaptive Coil Configuration Task Switching Network for MRI Reconstruction**|Sriprabha Ramanarayanan et.al.|[2308.04821v1](http://arxiv.org/abs/2308.04821v1)|**[link](https://github.com/sriprabhar/hypercoil-recon)**|
 |**2023-08-09**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v2](http://arxiv.org/abs/2308.04402v2)|**[link](https://github.com/IIT-PAVIS/ReId_without_Id)**|
