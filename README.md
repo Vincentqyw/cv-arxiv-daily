@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160v1](http://arxiv.org/abs/2308.06160v1)|**[link](https://github.com/showlab/datasetdm)**|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|null|
+|**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057v1](http://arxiv.org/abs/2308.06057v1)|**[link](https://github.com/asperti/head-rotation)**|
+|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|null|
+|**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027v1](http://arxiv.org/abs/2308.06027v1)|null|
 |**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695v1](http://arxiv.org/abs/2308.05695v1)|null|
@@ -2227,6 +2232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194v1](http://arxiv.org/abs/2308.06194v1)|null|
+|**2023-08-11**|**Out-of-Distribution Detection for Monocular Depth Estimation**|Julia Hornauer et.al.|[2308.06072v1](http://arxiv.org/abs/2308.06072v1)|null|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
 |**2023-08-10**|**TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms**|Jiaqi Cui et.al.|[2308.05365v1](http://arxiv.org/abs/2308.05365v1)|null|
 |**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|**[link](https://github.com/jaejin-cho/miccai2023)**|
@@ -2798,6 +2805,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**EEG-based Emotion Style Transfer Network for Cross-dataset Emotion Recognition**|Yijin Zhou et.al.|[2308.05767v1](http://arxiv.org/abs/2308.05767v1)|null|
 |**2023-08-11**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830v2](http://arxiv.org/abs/2308.04830v2)|null|
 |**2023-08-08**|**Generating Modern Persian Carpet Map by Style-transfer**|Dorsa Rahmatian et.al.|[2308.04529v1](http://arxiv.org/abs/2308.04529v1)|null|
 |**2023-08-08**|**Learning Evaluation Models from Large Language Models for Sequence Generation**|Chenglong Wang et.al.|[2308.04386v1](http://arxiv.org/abs/2308.04386v1)|null|
