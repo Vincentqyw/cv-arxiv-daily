@@ -32,6 +32,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Effect of memristorś potentiation-depression curves peculiarities in the convergence of physical perceptrons**|Walter Quiñonez et.al.|[2308.05779](http://arxiv.org/abs/2308.05779)|null|
 |**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636](http://arxiv.org/abs/2308.05636)|null|
 |**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749](http://arxiv.org/abs/2308.04749)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2023-08-09**|**Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks**|Jue Chen et.al.|[2308.04672](http://arxiv.org/abs/2308.04672)|**[link](https://github.com/chenjallen/resource-constrained-compression-on-snn)**|
@@ -88,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Effect of memristorś potentiation-depression curves peculiarities in the convergence of physical perceptrons**|Walter Quiñonez et.al.|[2308.05779](http://arxiv.org/abs/2308.05779)|null|
 |**2023-08-08**|**Reconfigurable elastic neuromorphic metasurfaces towards mechanical intelligence and cognitive wave-based computing**|M. Moghaddaszadeh et.al.|[2308.04002](http://arxiv.org/abs/2308.04002)|null|
 |**2023-08-07**|**Parametric excitations of coupled nanomagnets**|Domonkos Laszlo Farkas et.al.|[2308.03327](http://arxiv.org/abs/2308.03327)|null|
 |**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
@@ -125,6 +127,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Bayesian Neural System Identification with Response Variability**|Nan Wu et.al.|[2308.05990](http://arxiv.org/abs/2308.05990)|null|
+|**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|
+|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
 |**2023-08-08**|**Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain**|Michal Byra et.al.|[2308.04039](http://arxiv.org/abs/2308.04039)|null|
 |**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
 |**2023-08-03**|**On the Transition from Neural Representation to Symbolic Knowledge**|Junyan Cheng et.al.|[2308.02000](http://arxiv.org/abs/2308.02000)|null|
