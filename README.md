@@ -49,7 +49,7 @@
 |**2023-08-07**|**CaloDiffusion with GLaM for High Fidelity Calorimeter Simulation**|Oz Amram et.al.|[2308.03876v1](http://arxiv.org/abs/2308.03876v1)|**[link](https://github.com/ozamram/calodiffusionpaper)**|
 |**2023-08-07**|**CaloScore v2: Single-shot Calorimeter Shower Simulation with Diffusion Models**|Vinicius Mikuni et.al.|[2308.03847v1](http://arxiv.org/abs/2308.03847v1)|**[link](https://github.com/viniciusmikuni/caloscorev2)**|
 |**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686v1](http://arxiv.org/abs/2308.03686v1)|null|
-|**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669v1](http://arxiv.org/abs/2308.03669v1)|**[link](https://github.com/tatsu432/BDCM)**|
+|**2023-08-14**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669v2](http://arxiv.org/abs/2308.03669v2)|**[link](https://github.com/tatsu432/BDCM)**|
 |**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v3](http://arxiv.org/abs/2308.03463v3)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-07**|**Energy-Guided Diffusion Model for CBCT-to-CT Synthesis**|Linjie Fu et.al.|[2308.03354v1](http://arxiv.org/abs/2308.03354v1)|null|
