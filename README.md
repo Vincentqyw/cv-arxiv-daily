@@ -26,6 +26,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
+|**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037v1](http://arxiv.org/abs/2308.07037v1)|null|
+|**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
+|**2023-08-13**|**Well-posedness of a reaction-diffusion model with stochastic dynamical boundary conditions**|Mario Maurelli et.al.|[2308.06847v1](http://arxiv.org/abs/2308.06847v1)|null|
+|**2023-08-13**|**Shape-guided Conditional Latent Diffusion Models for Synthesising Brain Vasculature**|Yash Deo et.al.|[2308.06781v1](http://arxiv.org/abs/2308.06781v1)|null|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
+|**2023-08-13**|**Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks**|David Junhao Zhang et.al.|[2308.06739v1](http://arxiv.org/abs/2308.06739v1)|null|
+|**2023-08-13**|**Precipitation nowcasting with generative diffusion models**|Andrea Asperti et.al.|[2308.06733v1](http://arxiv.org/abs/2308.06733v1)|null|
+|**2023-08-13**|**CLE Diffusion: Controllable Light Enhancement Diffusion Model**|Yuyang Yin et.al.|[2308.06725v1](http://arxiv.org/abs/2308.06725v1)|null|
+|**2023-08-13**|**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models**|Hu Ye et.al.|[2308.06721v1](http://arxiv.org/abs/2308.06721v1)|null|
+|**2023-08-13**|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|Binbin Yang et.al.|[2308.06713v1](http://arxiv.org/abs/2308.06713v1)|null|
+|**2023-08-12**|**Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation**|Junwei Huang et.al.|[2308.06644v1](http://arxiv.org/abs/2308.06644v1)|null|
+|**2023-08-12**|**CMR exploration II -- filament identification with machine learning**|Duo Xu et.al.|[2308.06641v1](http://arxiv.org/abs/2308.06641v1)|null|
+|**2023-08-12**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction**|Kehua Chen et.al.|[2308.06564v1](http://arxiv.org/abs/2308.06564v1)|null|
+|**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405v1](http://arxiv.org/abs/2308.06405v1)|null|
+|**2023-08-11**|**Mirror Diffusion Models**|Jaesung Tae et.al.|[2308.06342v1](http://arxiv.org/abs/2308.06342v1)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160v1](http://arxiv.org/abs/2308.06160v1)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057v1](http://arxiv.org/abs/2308.06057v1)|**[link](https://github.com/asperti/head-rotation)**|
@@ -1277,6 +1293,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
+|**2023-08-13**|**Neural Super-Resolution for Real-time Rendering with Radiance Demodulation**|Jia Li et.al.|[2308.06699v1](http://arxiv.org/abs/2308.06699v1)|null|
+|**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
+|**2023-08-12**|**BigWavGAN: A Wave-To-Wave Generative Adversarial Network for Music Super-Resolution**|Yenan Zhang et.al.|[2308.06483v1](http://arxiv.org/abs/2308.06483v1)|null|
+|**2023-08-12**|**Tiny and Efficient Model for the Edge Detection Generalization**|Xavier Soria et.al.|[2308.06468v1](http://arxiv.org/abs/2308.06468v1)|null|
+|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|null|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
 |**2023-08-12**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v2](http://arxiv.org/abs/2308.05022v2)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922v1](http://arxiv.org/abs/2308.04922v1)|null|
@@ -1683,6 +1705,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
+|**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
+|**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|null|
 |**2023-08-12**|**Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution**|Ao Li et.al.|[2308.05022v2](http://arxiv.org/abs/2308.05022v2)|**[link](https://github.com/avc2-uestc/craft-sr)**|
 |**2023-08-11**|**Dual Aggregation Transformer for Image Super-Resolution**|Zheng Chen et.al.|[2308.03364v2](http://arxiv.org/abs/2308.03364v2)|**[link](https://github.com/zhengchen1999/dat)**|
 |**2023-08-07**|**A Benchmark for Chinese-English Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2308.03262v1](http://arxiv.org/abs/2308.03262v1)|**[link](https://github.com/mjq11302010044/real-ce)**|
@@ -2232,6 +2257,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-12**|**Semantic Communications with Explicit Semantic Base for Image Transmission**|Yuan Zheng et.al.|[2308.06599v1](http://arxiv.org/abs/2308.06599v1)|null|
+|**2023-08-12**|**Three-dimensional echo-shifted EPI with simultaneous blip-up and blip-down acquisitions for correcting geometric distortion**|Kaibao Sun et.al.|[2308.06557v1](http://arxiv.org/abs/2308.06557v1)|null|
 |**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194v1](http://arxiv.org/abs/2308.06194v1)|null|
 |**2023-08-11**|**Out-of-Distribution Detection for Monocular Depth Estimation**|Julia Hornauer et.al.|[2308.06072v1](http://arxiv.org/abs/2308.06072v1)|null|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745v1](http://arxiv.org/abs/2308.05745v1)|null|
@@ -2527,6 +2554,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches**|Xin Lin et.al.|[2308.06776v1](http://arxiv.org/abs/2308.06776v1)|**[link](https://github.com/linxin0/scpgabnet)**|
+|**2023-08-13**|**Self-supervised Noise2noise Method Utilizing Corrupted Images with a Modular Network for LDCT Denoising**|Yuting Zhu et.al.|[2308.06746v1](http://arxiv.org/abs/2308.06746v1)|**[link](https://github.com/xyuan01/self-supervised-noise2noise-for-ldct)**|
 |**2023-08-09**|**Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising**|Jun Cheng et.al.|[2308.04682v1](http://arxiv.org/abs/2308.04682v1)|null|
 |**2023-08-07**|**Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising**|Xin Jin et.al.|[2308.03448v1](http://arxiv.org/abs/2308.03448v1)|**[link](https://github.com/srameo/led)**|
 |**2023-08-06**|**PNN: From proximal algorithms to robust unfolded image denoising networks and Plug-and-Play methods**|Hoang Trieu Vy Le et.al.|[2308.03139v1](http://arxiv.org/abs/2308.03139v1)|null|
@@ -2805,6 +2834,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Hierarchy Flow For High-Fidelity Image-to-Image Translation**|Weichen Fan et.al.|[2308.06909v1](http://arxiv.org/abs/2308.06909v1)|**[link](https://github.com/weichenfan/hierarchyflow)**|
 |**2023-08-09**|**EEG-based Emotion Style Transfer Network for Cross-dataset Emotion Recognition**|Yijin Zhou et.al.|[2308.05767v1](http://arxiv.org/abs/2308.05767v1)|null|
 |**2023-08-11**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830v2](http://arxiv.org/abs/2308.04830v2)|null|
 |**2023-08-08**|**Generating Modern Persian Carpet Map by Style-transfer**|Dorsa Rahmatian et.al.|[2308.04529v1](http://arxiv.org/abs/2308.04529v1)|null|
