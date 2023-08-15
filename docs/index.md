@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -216,7 +216,7 @@ layout: default
 |**2023-05-06**|**Target-free Extrinsic Calibration of Event-LiDAR Dyad using Edge Correspondences**|Wanli Xing et.al.|[2305.04017](http://arxiv.org/abs/2305.04017)|null|
 |**2023-05-04**|**"Seeing'' Electric Network Frequency from Events**|Lexuan Xu et.al.|[2305.02597](http://arxiv.org/abs/2305.02597)|null|
 |**2023-04-19**|**Water Induced Ferroelectric Switching: The Crucial Role of Collective Dynamics**|Muhammad Awais Aslam et.al.|[2304.09738](http://arxiv.org/abs/2304.09738)|null|
-|**2023-04-17**|**Synchronization in STDP-driven memristive neural networks with time-varying topology**|Marius E. Yamakou et.al.|[2304.08281](http://arxiv.org/abs/2304.08281)|null|
+|**2023-08-12**|**Synchronization in STDP-driven memristive neural networks with time-varying topology**|Marius E. Yamakou et.al.|[2304.08281](http://arxiv.org/abs/2304.08281)|null|
 |**2023-04-08**|**RescueSNN: Enabling Reliable Executions on Spiking Neural Network Accelerators under Permanent Faults**|Rachmad Vidya Wicaksana Putra et.al.|[2304.04041](http://arxiv.org/abs/2304.04041)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
