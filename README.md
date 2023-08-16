@@ -26,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863v1](http://arxiv.org/abs/2308.07863v1)|null|
+|**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837v1](http://arxiv.org/abs/2308.07837v1)|null|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
+|**2023-08-15**|**DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models**|Ruiyuan Gao et.al.|[2308.07687v1](http://arxiv.org/abs/2308.07687v1)|**[link](https://github.com/cure-lab/diffguard)**|
+|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676v1](http://arxiv.org/abs/2308.07676v1)|null|
+|**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665v1](http://arxiv.org/abs/2308.07665v1)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605v1](http://arxiv.org/abs/2308.07605v1)|null|
+|**2023-08-14**|**UniBrain: Unify Image Reconstruction and Captioning All in One Diffusion Model from Human Brain Activity**|Weijian Mai et.al.|[2308.07428v1](http://arxiv.org/abs/2308.07428v1)|null|
+|**2023-08-14**|**U-Turn Diffusion**|Hamidreza Behjoo et.al.|[2308.07421v1](http://arxiv.org/abs/2308.07421v1)|null|
+|**2023-08-14**|**DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping**|Jos Torge et.al.|[2308.07416v1](http://arxiv.org/abs/2308.07416v1)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037v1](http://arxiv.org/abs/2308.07037v1)|null|
 |**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982v1](http://arxiv.org/abs/2308.06982v1)|null|
@@ -1293,6 +1303,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Rapid-adiabatic-passage-based super-resolution microscopy in semiconductor quantum dot system**|Partha Das et.al.|[2308.07790v1](http://arxiv.org/abs/2308.07790v1)|null|
 |**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
 |**2023-08-13**|**Neural Super-Resolution for Real-time Rendering with Radiance Demodulation**|Jia Li et.al.|[2308.06699v1](http://arxiv.org/abs/2308.06699v1)|null|
 |**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
@@ -2257,6 +2268,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Learning Image Deraining Transformer Network with Dynamic Dual Self-Attention**|Zhentao Fan et.al.|[2308.07781v1](http://arxiv.org/abs/2308.07781v1)|null|
+|**2023-08-14**|**UniBrain: Unify Image Reconstruction and Captioning All in One Diffusion Model from Human Brain Activity**|Weijian Mai et.al.|[2308.07428v1](http://arxiv.org/abs/2308.07428v1)|null|
 |**2023-08-12**|**Semantic Communications with Explicit Semantic Base for Image Transmission**|Yuan Zheng et.al.|[2308.06599v1](http://arxiv.org/abs/2308.06599v1)|null|
 |**2023-08-12**|**Three-dimensional echo-shifted EPI with simultaneous blip-up and blip-down acquisitions for correcting geometric distortion**|Kaibao Sun et.al.|[2308.06557v1](http://arxiv.org/abs/2308.06557v1)|null|
 |**2023-08-11**|**Hybrid-Supervised Deep Learning for Domain Transfer 3D Protoacoustic Image Reconstruction**|Yankun Lang et.al.|[2308.06194v1](http://arxiv.org/abs/2308.06194v1)|null|
@@ -2724,6 +2737,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
+|**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v1](http://arxiv.org/abs/2308.05045v1)|null|
 |**2023-08-03**|**Erase and Repair: An Efficient Box-Free Removal Attack on High-Capacity Deep Hiding**|Hangcheng Liu et.al.|[2308.01512v1](http://arxiv.org/abs/2308.01512v1)|null|
 |**2023-08-01**|**Seeing Behind Dynamic Occlusions with Event Cameras**|Rong Zou et.al.|[2307.15829v2](http://arxiv.org/abs/2307.15829v2)|null|
@@ -2767,7 +2782,7 @@
 |**2023-04-06**|**Diffusion Models as Masked Autoencoders**|Chen Wei et.al.|[2304.03283v1](http://arxiv.org/abs/2304.03283v1)|null|
 |**2023-08-09**|**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models**|Ahmet Burak Yildirim et.al.|[2304.03246v2](http://arxiv.org/abs/2304.03246v2)|**[link](https://github.com/abyildirim/inst-inpaint)**|
 |**2023-03-29**|**Super-Resolution of Three-Dimensional Temperature and Velocity for Building-Resolving Urban Micrometeorology Using Physics-Guided Convolutional Neural Networks with Image Inpainting Techniques**|Yuki Yasuda et.al.|[2303.16684v1](http://arxiv.org/abs/2303.16684v1)|**[link](https://github.com/yukiyasuda2718/3d-sr-micrometeorology)**|
-|**2023-03-23**|**Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning**|Zhiwen Zuo et.al.|[2303.13133v1](http://arxiv.org/abs/2303.13133v1)|null|
+|**2023-03-23**|**Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning**|Zhiwen Zuo et.al.|[2303.13133v1](http://arxiv.org/abs/2303.13133v1)|**[link](https://github.com/zzw-zjgsu/Generative-Image-Inpainting)**|
 |**2023-03-17**|**Non-convex approaches for low-rank tensor completion under tubal sampling**|Zheng Tan et.al.|[2303.12721v1](http://arxiv.org/abs/2303.12721v1)|null|
 |**2023-03-22**|**Region-wise matching for image inpainting based on adaptive weighted low-rank decomposition**|Shenghai Liao et.al.|[2303.12421v1](http://arxiv.org/abs/2303.12421v1)|null|
 |**2023-03-15**|**CoordFill: Efficient High-Resolution Image Inpainting via Parameterized Coordinate Querying**|Weihuang Liu et.al.|[2303.08524v1](http://arxiv.org/abs/2303.08524v1)|**[link](https://github.com/nifangbaage/coordfill)**|
@@ -2834,6 +2849,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863v1](http://arxiv.org/abs/2308.07863v1)|null|
 |**2023-08-14**|**Hierarchy Flow For High-Fidelity Image-to-Image Translation**|Weichen Fan et.al.|[2308.06909v1](http://arxiv.org/abs/2308.06909v1)|**[link](https://github.com/weichenfan/hierarchyflow)**|
 |**2023-08-09**|**EEG-based Emotion Style Transfer Network for Cross-dataset Emotion Recognition**|Yijin Zhou et.al.|[2308.05767v1](http://arxiv.org/abs/2308.05767v1)|null|
 |**2023-08-11**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830v2](http://arxiv.org/abs/2308.04830v2)|null|
