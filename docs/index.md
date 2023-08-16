@@ -130,6 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Semantic Similarity Loss for Neural Source Code Summarization**|Chia-Yi Su et.al.|[2308.07429](http://arxiv.org/abs/2308.07429)|**[link](https://github.com/apcl-research/funcom-useloss)**|
 |**2023-08-12**|**Neural Latent Aligner: Cross-trial Alignment for Learning Representations of Complex, Naturalistic Neural Data**|Cheol Jun Cho et.al.|[2308.06443](http://arxiv.org/abs/2308.06443)|null|
 |**2023-08-11**|**Bayesian Neural System Identification with Response Variability**|Nan Wu et.al.|[2308.05990](http://arxiv.org/abs/2308.05990)|null|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|
