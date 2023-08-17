@@ -26,6 +26,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v1](http://arxiv.org/abs/2308.08545v1)|null|
+|**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367v1](http://arxiv.org/abs/2308.08367v1)|null|
+|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316v1](http://arxiv.org/abs/2308.08316v1)|null|
+|**2023-08-15**|**Interplay between particle trapping and heterogeneity in anomalous diffusion**|Haroldo V. Ribeiro et.al.|[2308.07989v1](http://arxiv.org/abs/2308.07989v1)|null|
+|**2023-08-15**|**Monte Carlo guided Diffusion for Bayesian linear inverse problems**|Gabriel Cardoso et.al.|[2308.07983v1](http://arxiv.org/abs/2308.07983v1)|null|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863v1](http://arxiv.org/abs/2308.07863v1)|null|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837v1](http://arxiv.org/abs/2308.07837v1)|null|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
@@ -57,7 +62,7 @@
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057v1](http://arxiv.org/abs/2308.06057v1)|**[link](https://github.com/asperti/head-rotation)**|
 |**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|null|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027v1](http://arxiv.org/abs/2308.06027v1)|null|
-|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|null|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734v1](http://arxiv.org/abs/2308.05734v1)|**[link](https://github.com/haoheliu/AudioLDM2)**|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732v1](http://arxiv.org/abs/2308.05732v1)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695v1](http://arxiv.org/abs/2308.05695v1)|null|
 |**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583v1](http://arxiv.org/abs/2308.05583v1)|null|
@@ -1303,6 +1308,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**S2R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution**|Minghao She et.al.|[2308.08142v1](http://arxiv.org/abs/2308.08142v1)|null|
+|**2023-08-16**|**SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device**|Weiran Gou et.al.|[2308.08137v1](http://arxiv.org/abs/2308.08137v1)|null|
+|**2023-08-15**|**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution**|Brian B. Moser et.al.|[2308.07977v1](http://arxiv.org/abs/2308.07977v1)|null|
 |**2023-08-15**|**Rapid-adiabatic-passage-based super-resolution microscopy in semiconductor quantum dot system**|Partha Das et.al.|[2308.07790v1](http://arxiv.org/abs/2308.07790v1)|null|
 |**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
 |**2023-08-13**|**Neural Super-Resolution for Real-time Rendering with Radiance Demodulation**|Jia Li et.al.|[2308.06699v1](http://arxiv.org/abs/2308.06699v1)|null|
@@ -1716,6 +1724,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution**|Brian B. Moser et.al.|[2308.07977v1](http://arxiv.org/abs/2308.07977v1)|null|
 |**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743v1](http://arxiv.org/abs/2308.06743v1)|**[link](https://github.com/lenubolim/textdiff)**|
 |**2023-08-12**|**On Versatile Video Coding at UHD with Machine-Learning-Based Super-Resolution**|Kristian Fischer et.al.|[2308.06570v1](http://arxiv.org/abs/2308.06570v1)|null|
 |**2023-08-11**|**Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology**|Khondker Fariha Hossain et.al.|[2308.06332v1](http://arxiv.org/abs/2308.06332v1)|**[link](https://github.com/FarihaHossain/SwinFSR)**|
@@ -1970,6 +1979,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Self-Reference Deep Adaptive Curve Estimation for Low-Light Image Enhancement**|Jianyu Wen et.al.|[2308.08197v1](http://arxiv.org/abs/2308.08197v1)|**[link](https://github.com/john-venti/self-dace)**|
 |**2023-08-10**|**A Generalized Physical-knowledge-guided Dynamic Model for Underwater Image Enhancement**|Pan Mu et.al.|[2308.05447v1](http://arxiv.org/abs/2308.05447v1)|null|
 |**2023-08-09**|**Transmission and Color-guided Network for Underwater Image Enhancement**|Pan Mu et.al.|[2308.04892v1](http://arxiv.org/abs/2308.04892v1)|null|
 |**2023-08-07**|**Prototype Learning for Out-of-Distribution Polyp Segmentation**|Nikhil Kumar Tomar et.al.|[2308.03709v1](http://arxiv.org/abs/2308.03709v1)|null|
@@ -2132,7 +2142,7 @@
 |**2023-06-02**|**Fast and Interpretable Nonlocal Neural Networks for Image Denoising via Group-Sparse Convolutional Dictionary Learning**|Nikola Janjušević et.al.|[2306.01950v1](http://arxiv.org/abs/2306.01950v1)|**[link](https://github.com/nikopj/groupcdl-tip)**|
 |**2023-06-02**|**Counting Crowds in Bad Weather**|Zhi-Kai Huang et.al.|[2306.01209v1](http://arxiv.org/abs/2306.01209v1)|null|
 |**2023-06-01**|**Wavelet Image Restoration Using Multifractal Priors**|Karl Young et.al.|[2306.00309v1](http://arxiv.org/abs/2306.00309v1)|null|
-|**2023-07-22**|**Low-Light Image Enhancement with Wavelet-based Diffusion Models**|Hai Jiang et.al.|[2306.00306v2](http://arxiv.org/abs/2306.00306v2)|null|
+|**2023-07-22**|**Low-Light Image Enhancement with Wavelet-based Diffusion Models**|Hai Jiang et.al.|[2306.00306v2](http://arxiv.org/abs/2306.00306v2)|**[link](https://github.com/JianghaiSCU/Diffusion-Low-Light)**|
 |**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049v1](http://arxiv.org/abs/2305.20049v1)|null|
 |**2023-05-30**|**Wide & deep learning for spatial & intensity adaptive image restoration**|Yadong Wang et.al.|[2305.18708v1](http://arxiv.org/abs/2305.18708v1)|**[link](https://github.com/Ydo-W/DparNet)**|
 |**2023-05-29**|**GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions**|Tao Wang et.al.|[2305.17863v1](http://arxiv.org/abs/2305.17863v1)|null|
@@ -2567,6 +2577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**AATCT-IDS: A Benchmark Abdominal Adipose Tissue CT Image Dataset for Image Denoising, Semantic Segmentation, and Radiomics Evaluation**|Zhiyu Ma et.al.|[2308.08172v1](http://arxiv.org/abs/2308.08172v1)|null|
 |**2023-08-13**|**Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches**|Xin Lin et.al.|[2308.06776v1](http://arxiv.org/abs/2308.06776v1)|**[link](https://github.com/linxin0/scpgabnet)**|
 |**2023-08-13**|**Self-supervised Noise2noise Method Utilizing Corrupted Images with a Modular Network for LDCT Denoising**|Yuting Zhu et.al.|[2308.06746v1](http://arxiv.org/abs/2308.06746v1)|**[link](https://github.com/xyuan01/self-supervised-noise2noise-for-ldct)**|
 |**2023-08-09**|**Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising**|Jun Cheng et.al.|[2308.04682v1](http://arxiv.org/abs/2308.04682v1)|null|
@@ -2849,6 +2860,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367v1](http://arxiv.org/abs/2308.08367v1)|null|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863v1](http://arxiv.org/abs/2308.07863v1)|null|
 |**2023-08-14**|**Hierarchy Flow For High-Fidelity Image-to-Image Translation**|Weichen Fan et.al.|[2308.06909v1](http://arxiv.org/abs/2308.06909v1)|**[link](https://github.com/weichenfan/hierarchyflow)**|
 |**2023-08-09**|**EEG-based Emotion Style Transfer Network for Cross-dataset Emotion Recognition**|Yijin Zhou et.al.|[2308.05767v1](http://arxiv.org/abs/2308.05767v1)|null|
