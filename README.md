@@ -52,7 +52,7 @@
 |**2023-08-13**|**CLE Diffusion: Controllable Light Enhancement Diffusion Model**|Yuyang Yin et.al.|[2308.06725v1](http://arxiv.org/abs/2308.06725v1)|null|
 |**2023-08-13**|**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models**|Hu Ye et.al.|[2308.06721v1](http://arxiv.org/abs/2308.06721v1)|null|
 |**2023-08-13**|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|Binbin Yang et.al.|[2308.06713v1](http://arxiv.org/abs/2308.06713v1)|null|
-|**2023-08-12**|**Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation**|Junwei Huang et.al.|[2308.06644v1](http://arxiv.org/abs/2308.06644v1)|null|
+|**2023-08-12**|**Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation**|Junwei Huang et.al.|[2308.06644v1](http://arxiv.org/abs/2308.06644v1)|**[link](https://github.com/jwrh/Accelerating-Diffusion-based-Combinatorial-Optimization-Solvers-by-Progressive-Distillation)**|
 |**2023-08-12**|**CMR exploration II -- filament identification with machine learning**|Duo Xu et.al.|[2308.06641v1](http://arxiv.org/abs/2308.06641v1)|null|
 |**2023-08-12**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction**|Kehua Chen et.al.|[2308.06564v1](http://arxiv.org/abs/2308.06564v1)|null|
 |**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405v1](http://arxiv.org/abs/2308.06405v1)|null|
