@@ -44,6 +44,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455](http://arxiv.org/abs/2308.09455)|null|
+|**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
+|**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
+|**2023-08-16**|**Towards Zero Memory Footprint Spiking Neural Network Training**|Bin Lei et.al.|[2308.08649](http://arxiv.org/abs/2308.08649)|null|
 |**2023-08-16**|**Membrane Potential Batch Normalization for Spiking Neural Networks**|Yufei Guo et.al.|[2308.08359](http://arxiv.org/abs/2308.08359)|**[link](https://github.com/yfguo91/mpbn)**|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
 |**2023-08-17**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222](http://arxiv.org/abs/2308.08222)|null|
@@ -109,6 +113,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
+|**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
 |**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218](http://arxiv.org/abs/2308.08218)|null|
 |**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582](http://arxiv.org/abs/2308.06582)|null|
@@ -152,6 +158,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping**|Chulong Zhang et.al.|[2308.09473](http://arxiv.org/abs/2308.09473)|null|
+|**2023-08-17**|**On the Evaluation of Neural Code Translation: Taxonomy and Benchmark**|Mingsheng Jiao et.al.|[2308.08961](http://arxiv.org/abs/2308.08961)|null|
+|**2023-08-17**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741](http://arxiv.org/abs/2308.08741)|null|
 |**2023-08-15**|**End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations**|Bolaji Yusuf et.al.|[2308.08027](http://arxiv.org/abs/2308.08027)|null|
 |**2023-08-14**|**Semantic Similarity Loss for Neural Source Code Summarization**|Chia-Yi Su et.al.|[2308.07429](http://arxiv.org/abs/2308.07429)|**[link](https://github.com/apcl-research/funcom-useloss)**|
 |**2023-08-12**|**Neural Latent Aligner: Cross-trial Alignment for Learning Representations of Complex, Naturalistic Neural Data**|Cheol Jun Cho et.al.|[2308.06443](http://arxiv.org/abs/2308.06443)|null|
@@ -243,6 +252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821](http://arxiv.org/abs/2307.00821)|null|
 |**2023-06-10**|**Implementation of Multiple-Step Quantized STDP based on Linear Weight Update Memristive Synapses**|Y. Liu et.al.|[2306.06379](http://arxiv.org/abs/2306.06379)|null|
