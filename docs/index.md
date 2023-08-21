@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -34,7 +34,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-16**|**Membrane Potential Batch Normalization for Spiking Neural Networks**|Yufei Guo et.al.|[2308.08359](http://arxiv.org/abs/2308.08359)|**[link](https://github.com/yfguo91/mpbn)**|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
-|**2023-08-16**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222](http://arxiv.org/abs/2308.08222)|null|
+|**2023-08-17**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222](http://arxiv.org/abs/2308.08222)|null|
 |**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218](http://arxiv.org/abs/2308.08218)|null|
 |**2023-08-13**|**RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks**|Yufei Guo et.al.|[2308.06787](http://arxiv.org/abs/2308.06787)|null|
 |**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582](http://arxiv.org/abs/2308.06582)|null|
