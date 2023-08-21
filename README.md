@@ -28,7 +28,7 @@
 |---|---|---|---|---|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545v1](http://arxiv.org/abs/2308.08545v1)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367v1](http://arxiv.org/abs/2308.08367v1)|null|
-|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316v1](http://arxiv.org/abs/2308.08316v1)|null|
+|**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316v2](http://arxiv.org/abs/2308.08316v2)|null|
 |**2023-08-15**|**Interplay between particle trapping and heterogeneity in anomalous diffusion**|Haroldo V. Ribeiro et.al.|[2308.07989v1](http://arxiv.org/abs/2308.07989v1)|null|
 |**2023-08-15**|**Monte Carlo guided Diffusion for Bayesian linear inverse problems**|Gabriel Cardoso et.al.|[2308.07983v1](http://arxiv.org/abs/2308.07983v1)|null|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863v1](http://arxiv.org/abs/2308.07863v1)|null|
@@ -56,7 +56,7 @@
 |**2023-08-12**|**CMR exploration II -- filament identification with machine learning**|Duo Xu et.al.|[2308.06641v1](http://arxiv.org/abs/2308.06641v1)|null|
 |**2023-08-12**|**EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction**|Kehua Chen et.al.|[2308.06564v1](http://arxiv.org/abs/2308.06564v1)|null|
 |**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405v1](http://arxiv.org/abs/2308.06405v1)|null|
-|**2023-08-11**|**Mirror Diffusion Models**|Jaesung Tae et.al.|[2308.06342v1](http://arxiv.org/abs/2308.06342v1)|null|
+|**2023-08-18**|**Mirror Diffusion Models**|Jaesung Tae et.al.|[2308.06342v2](http://arxiv.org/abs/2308.06342v2)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160v1](http://arxiv.org/abs/2308.06160v1)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101v1](http://arxiv.org/abs/2308.06101v1)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057v1](http://arxiv.org/abs/2308.06057v1)|**[link](https://github.com/asperti/head-rotation)**|
@@ -2288,7 +2288,7 @@
 |**2023-08-10**|**TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms**|Jiaqi Cui et.al.|[2308.05365v1](http://arxiv.org/abs/2308.05365v1)|null|
 |**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103v1](http://arxiv.org/abs/2308.05103v1)|**[link](https://github.com/jaejin-cho/miccai2023)**|
 |**2023-08-09**|**HyperCoil-Recon: A Hypernetwork-based Adaptive Coil Configuration Task Switching Network for MRI Reconstruction**|Sriprabha Ramanarayanan et.al.|[2308.04821v1](http://arxiv.org/abs/2308.04821v1)|**[link](https://github.com/sriprabhar/hypercoil-recon)**|
-|**2023-08-11**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v3](http://arxiv.org/abs/2308.04402v3)|**[link](https://github.com/IIT-PAVIS/ReId_without_Id)**|
+|**2023-08-17**|**Person Re-Identification without Identification via Event Anonymization**|Shafiq Ahmad et.al.|[2308.04402v4](http://arxiv.org/abs/2308.04402v4)|**[link](https://github.com/IIT-PAVIS/ReId_without_Id)**|
 |**2023-08-08**|**SDLFormer: A Sparse and Dense Locality-enhanced Transformer for Accelerated MR Image Reconstruction**|Rahul G. S. et.al.|[2308.04262v1](http://arxiv.org/abs/2308.04262v1)|**[link](https://github.com/rahul-gs-16/sdlformer)**|
 |**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249v1](http://arxiv.org/abs/2308.04249v1)|**[link](https://github.com/reedonepeck/minddiffuser)**|
 |**2023-08-06**|**Nest-DGIL: Nesterov-optimized Deep Geometric Incremental Learning for CS Image Reconstruction**|Xiaohong Fan et.al.|[2308.03807v1](http://arxiv.org/abs/2308.03807v1)|**[link](https://github.com/fanxiaohong/Nest-DGIL)**|
@@ -2599,7 +2599,7 @@
 |**2023-07-16**|**A Novel Truncated Norm Regularization Method for Multi-channel Color Image Denoising**|Yiwen Shan et.al.|[2307.07932v1](http://arxiv.org/abs/2307.07932v1)|null|
 |**2023-07-15**|**Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR**|Weiying Zhao et.al.|[2307.07892v1](http://arxiv.org/abs/2307.07892v1)|null|
 |**2023-08-01**|**Image Denoising and the Generative Accumulation of Photons**|Alexander Krull et.al.|[2307.06607v2](http://arxiv.org/abs/2307.06607v2)|**[link](https://github.com/krulllab/gap)**|
-|**2023-08-15**|**Quantum Image Denoising: A Framework via Boltzmann Machines, QUBO, and Quantum Annealing**|Phillip Kerger et.al.|[2307.06542v2](http://arxiv.org/abs/2307.06542v2)|null|
+|**2023-08-18**|**Quantum Image Denoising: A Framework via Boltzmann Machines, QUBO, and Quantum Annealing**|Phillip Kerger et.al.|[2307.06542v3](http://arxiv.org/abs/2307.06542v3)|null|
 |**2023-07-12**|**On the Importance of Denoising when Learning to Compress Images**|Benoit Brummer et.al.|[2307.06233v1](http://arxiv.org/abs/2307.06233v1)|**[link](https://github.com/trougnouf/compression)**|
 |**2023-07-11**|**Image Reconstruction using Enhanced Vision Transformer**|Nikhil Verma et.al.|[2307.05616v1](http://arxiv.org/abs/2307.05616v1)|null|
 |**2023-07-28**|**Timbre transfer using image-to-image denoising diffusion implicit models**|Luca Comanducci et.al.|[2307.04586v2](http://arxiv.org/abs/2307.04586v2)|null|
