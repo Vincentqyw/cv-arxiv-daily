@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -142,7 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-18**|**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping**|Chulong Zhang et.al.|[2308.09473](http://arxiv.org/abs/2308.09473)|null|
+|**2023-08-21**|**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping**|Chulong Zhang et.al.|[2308.09473](http://arxiv.org/abs/2308.09473)|null|
 |**2023-08-17**|**On the Evaluation of Neural Code Translation: Taxonomy and Benchmark**|Mingsheng Jiao et.al.|[2308.08961](http://arxiv.org/abs/2308.08961)|null|
 |**2023-08-17**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741](http://arxiv.org/abs/2308.08741)|null|
 |**2023-08-15**|**End-to-End Open Vocabulary Keyword Search With Multilingual Neural Representations**|Bolaji Yusuf et.al.|[2308.08027](http://arxiv.org/abs/2308.08027)|null|
