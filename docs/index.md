@@ -32,6 +32,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455](http://arxiv.org/abs/2308.09455)|null|
 |**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
@@ -99,6 +102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
 |**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
@@ -142,6 +146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**3D cine-magnetic resonance imaging using spatial and temporal implicit neural representation learning (STINR-MR)**|Hua-Chieh Shao et.al.|[2308.09771](http://arxiv.org/abs/2308.09771)|null|
 |**2023-08-21**|**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping**|Chulong Zhang et.al.|[2308.09473](http://arxiv.org/abs/2308.09473)|null|
 |**2023-08-17**|**On the Evaluation of Neural Code Translation: Taxonomy and Benchmark**|Mingsheng Jiao et.al.|[2308.08961](http://arxiv.org/abs/2308.08961)|null|
 |**2023-08-17**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741](http://arxiv.org/abs/2308.08741)|null|
