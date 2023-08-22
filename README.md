@@ -26,6 +26,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
+|**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718v1](http://arxiv.org/abs/2308.10718v1)|null|
+|**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
+|**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648v1](http://arxiv.org/abs/2308.10648v1)|null|
+|**2023-08-21**|**Frequency Compensated Diffusion Model for Real-scene Dehazing**|Jing Wang et.al.|[2308.10510v1](http://arxiv.org/abs/2308.10510v1)|null|
+|**2023-08-21**|**Texture Generation on 3D Meshes with Point-UV Diffusion**|Xin Yu et.al.|[2308.10490v1](http://arxiv.org/abs/2308.10490v1)|null|
+|**2023-08-21**|**DySuse: Susceptibility Estimation in Dynamic Social Networks**|Yingdan Shi et.al.|[2308.10442v1](http://arxiv.org/abs/2308.10442v1)|null|
+|**2023-08-21**|**Multi-GradSpeech: Towards Diffusion-based Multi-Speaker Text-to-speech Using Consistent Diffusion Models**|Heyang Xue et.al.|[2308.10428v1](http://arxiv.org/abs/2308.10428v1)|null|
+|**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273v1](http://arxiv.org/abs/2308.10273v1)|null|
+|**2023-08-20**|**Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image**|Liao Shen et.al.|[2308.10257v1](http://arxiv.org/abs/2308.10257v1)|null|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v1](http://arxiv.org/abs/2308.10187v1)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-08-20**|**Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction**|Zeyu Han et.al.|[2308.10157v1](http://arxiv.org/abs/2308.10157v1)|**[link](https://github.com/show-han/pet-reconstruction)**|
+|**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156v1](http://arxiv.org/abs/2308.10156v1)|null|
+|**2023-08-20**|**Disorder-induced linear magnetoresistance in Al $_2$ O $_3$ /SrTiO $_3$  heterostructures**|Gao Kuang Hong et.al.|[2308.10152v1](http://arxiv.org/abs/2308.10152v1)|null|
+|**2023-08-19**|**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance**|Ernie Chu et.al.|[2308.10079v1](http://arxiv.org/abs/2308.10079v1)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|null|
+|**2023-08-19**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991v1](http://arxiv.org/abs/2308.09991v1)|null|
+|**2023-08-19**|**Physics-Guided Human Motion Capture with Pose Probability Modeling**|Jingyi Ju et.al.|[2308.09910v1](http://arxiv.org/abs/2308.09910v1)|**[link](https://github.com/me-ditto/physics-guided-mocap)**|
+|**2023-08-19**|**DiffusionTrack: Diffusion Model For Multi-Object Tracking**|Run Luo et.al.|[2308.09905v1](http://arxiv.org/abs/2308.09905v1)|null|
+|**2023-08-18**|**DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model**|Siyang Li et.al.|[2308.09857v1](http://arxiv.org/abs/2308.09857v1)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716v1](http://arxiv.org/abs/2308.09716v1)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712v1](http://arxiv.org/abs/2308.09712v1)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705v1](http://arxiv.org/abs/2308.09705v1)|null|
@@ -1325,6 +1345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Deformable-Detection Transformer for Microbubble Localization in Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2308.09845v1](http://arxiv.org/abs/2308.09845v1)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|null|
 |**2023-08-18**|**Diffraction limit of light in curved space**|Jingxuan Zhang et.al.|[2308.09336v1](http://arxiv.org/abs/2308.09336v1)|null|
@@ -2132,6 +2153,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196v1](http://arxiv.org/abs/2308.10196v1)|null|
+|**2023-08-20**|**WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning**|Dongjian Huo et.al.|[2308.10195v1](http://arxiv.org/abs/2308.10195v1)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|null|
 |**2023-08-17**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730v1](http://arxiv.org/abs/2308.08730v1)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163v1](http://arxiv.org/abs/2308.04163v1)|**[link](https://github.com/namecantbenull/srudc)**|
@@ -2310,6 +2333,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**|Miaoyu Li et.al.|[2308.10820v1](http://arxiv.org/abs/2308.10820v1)|null|
+|**2023-08-21**|**Learning Weakly Convex Regularizers for Convergent Image-Reconstruction Algorithms**|Alexis Goujon et.al.|[2308.10542v1](http://arxiv.org/abs/2308.10542v1)|null|
+|**2023-08-19**|**A Theory of Topological Derivatives for Inverse Rendering of Geometry**|Ishit Mehta et.al.|[2308.09865v1](http://arxiv.org/abs/2308.09865v1)|null|
 |**2023-08-18**|**Quantitative Susceptibility Mapping through Model-based Deep Image Prior (MoDIP)**|Zhuang Xiong et.al.|[2308.09467v1](http://arxiv.org/abs/2308.09467v1)|null|
 |**2023-08-18**|**Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**|Mikhail Papkov et.al.|[2308.09426v1](http://arxiv.org/abs/2308.09426v1)|null|
 |**2023-08-18**|**Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events**|Hoonhee Cho et.al.|[2308.09383v1](http://arxiv.org/abs/2308.09383v1)|null|
@@ -2785,6 +2811,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045v1](http://arxiv.org/abs/2308.05045v1)|null|
@@ -2897,6 +2924,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**TranSTYLer: Multimodal Behavioral Style Transfer for Facial and Body Gestures Generation**|Mireille Fares et.al.|[2308.10843v1](http://arxiv.org/abs/2308.10843v1)|null|
+|**2023-08-21**|**Color Prompting for Data-Free Continual Unsupervised Domain Adaptive Person Re-Identification**|Jianyang Gu et.al.|[2308.10716v1](http://arxiv.org/abs/2308.10716v1)|**[link](https://github.com/vimar-gu/colorpromptreid)**|
+|**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601v1](http://arxiv.org/abs/2308.10601v1)|**[link](https://github.com/zhijin-ge/stm)**|
 |**2023-08-18**|**Data augmentation and explainability for bias discovery and mitigation in deep learning**|Agnieszka Mikołajczyk-Bareła et.al.|[2308.09464v1](http://arxiv.org/abs/2308.09464v1)|null|
 |**2023-08-17**|**Don't lose the message while paraphrasing: A study on content preserving style transfer**|Nikolay Babakov et.al.|[2308.09055v1](http://arxiv.org/abs/2308.09055v1)|**[link](https://github.com/s-nlp/lewit-informal)**|
 |**2023-08-17**|**A White-Box False Positive Adversarial Attack Method on Contrastive Loss-Based Offline Handwritten Signature Verification Models**|Zhongliang Guo et.al.|[2308.08925v1](http://arxiv.org/abs/2308.08925v1)|null|
