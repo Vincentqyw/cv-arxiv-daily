@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473v1](http://arxiv.org/abs/2308.11473v1)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
+|**2023-08-22**|**Convergence guarantee for consistency models**|Junlong Lyu et.al.|[2308.11449v1](http://arxiv.org/abs/2308.11449v1)|null|
+|**2023-08-22**|**MatFuse: Controllable Material Generation with Diffusion Models**|Giuseppe Vecchio et.al.|[2308.11408v1](http://arxiv.org/abs/2308.11408v1)|null|
+|**2023-08-22**|**MusicJam: Visualizing Music Insights via Generated Narrative Illustrations**|Chuer Chen et.al.|[2308.11329v1](http://arxiv.org/abs/2308.11329v1)|null|
+|**2023-08-22**|**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**|Xujie Zhang et.al.|[2308.11206v1](http://arxiv.org/abs/2308.11206v1)|null|
+|**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123v1](http://arxiv.org/abs/2308.11123v1)|null|
+|**2023-08-21**|**Diffusion Model as Representation Learner**|Xingyi Yang et.al.|[2308.10916v1](http://arxiv.org/abs/2308.10916v1)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
 |**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718v1](http://arxiv.org/abs/2308.10718v1)|null|
 |**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
@@ -1345,6 +1352,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Towards Clip-Free Quantized Super-Resolution Networks: How to Tame Representative Images**|Alperen Kalay et.al.|[2308.11365v1](http://arxiv.org/abs/2308.11365v1)|null|
+|**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-18**|**Deformable-Detection Transformer for Microbubble Localization in Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2308.09845v1](http://arxiv.org/abs/2308.09845v1)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710v1](http://arxiv.org/abs/2308.09710v1)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|null|
@@ -2333,6 +2342,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-21**|**Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**|Miaoyu Li et.al.|[2308.10820v1](http://arxiv.org/abs/2308.10820v1)|null|
 |**2023-08-21**|**Learning Weakly Convex Regularizers for Convergent Image-Reconstruction Algorithms**|Alexis Goujon et.al.|[2308.10542v1](http://arxiv.org/abs/2308.10542v1)|null|
 |**2023-08-19**|**A Theory of Topological Derivatives for Inverse Rendering of Geometry**|Ishit Mehta et.al.|[2308.09865v1](http://arxiv.org/abs/2308.09865v1)|null|
@@ -2924,6 +2934,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490v1](http://arxiv.org/abs/2308.11490v1)|null|
+|**2023-08-21**|**PMVC: Data Augmentation-Based Prosody Modeling for Expressive Voice Conversion**|Yimin Deng et.al.|[2308.11084v1](http://arxiv.org/abs/2308.11084v1)|null|
+|**2023-08-21**|**Harmonization Across Imaging Locations(HAIL): One-Shot Learning for Brain MRI**|Abhijeet Parida et.al.|[2308.11047v1](http://arxiv.org/abs/2308.11047v1)|null|
+|**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-08**|**TranSTYLer: Multimodal Behavioral Style Transfer for Facial and Body Gestures Generation**|Mireille Fares et.al.|[2308.10843v1](http://arxiv.org/abs/2308.10843v1)|null|
 |**2023-08-21**|**Color Prompting for Data-Free Continual Unsupervised Domain Adaptive Person Re-Identification**|Jianyang Gu et.al.|[2308.10716v1](http://arxiv.org/abs/2308.10716v1)|**[link](https://github.com/vimar-gu/colorpromptreid)**|
 |**2023-08-21**|**Improving the Transferability of Adversarial Examples with Arbitrary Style Transfer**|Zhijin Ge et.al.|[2308.10601v1](http://arxiv.org/abs/2308.10601v1)|**[link](https://github.com/zhijin-ge/stm)**|
