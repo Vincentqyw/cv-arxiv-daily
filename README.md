@@ -26,6 +26,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240v1](http://arxiv.org/abs/2308.12240v1)|null|
+|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013v1](http://arxiv.org/abs/2308.12013v1)|null|
+|**2023-08-23**|**High-quality Image Dehazing with Diffusion Model**|Hu Yu et.al.|[2308.11949v1](http://arxiv.org/abs/2308.11949v1)|null|
+|**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948v1](http://arxiv.org/abs/2308.11948v1)|null|
+|**2023-08-23**|**LongDanceDiff: Long-term Dance Generation with Conditional Diffusion Model**|Siqi Yang et.al.|[2308.11945v1](http://arxiv.org/abs/2308.11945v1)|null|
+|**2023-08-23**|**Boosting Diffusion Models with an Adaptive Momentum Sampler**|Xiyu Wang et.al.|[2308.11941v1](http://arxiv.org/abs/2308.11941v1)|null|
+|**2023-08-23**|**Audio Generation with Multiple Conditional Diffusion Model**|Zhifang Guo et.al.|[2308.11940v1](http://arxiv.org/abs/2308.11940v1)|null|
+|**2023-08-23**|**Shape-conditioned 3D Molecule Generation via Equivariant Diffusion Models**|Ziqi Chen et.al.|[2308.11890v1](http://arxiv.org/abs/2308.11890v1)|null|
 |**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473v1](http://arxiv.org/abs/2308.11473v1)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
 |**2023-08-22**|**Convergence guarantee for consistency models**|Junlong Lyu et.al.|[2308.11449v1](http://arxiv.org/abs/2308.11449v1)|null|
 |**2023-08-22**|**MatFuse: Controllable Material Generation with Diffusion Models**|Giuseppe Vecchio et.al.|[2308.11408v1](http://arxiv.org/abs/2308.11408v1)|null|
@@ -1352,6 +1361,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084v1](http://arxiv.org/abs/2308.12084v1)|null|
+|**2023-08-23**|**StofNet: Super-resolution Time of Flight Network**|Christopher Hahne et.al.|[2308.12009v1](http://arxiv.org/abs/2308.12009v1)|null|
+|**2023-08-22**|**SuperCalo: Calorimeter shower super-resolution**|Ian Pang et.al.|[2308.11700v1](http://arxiv.org/abs/2308.11700v1)|**[link](https://github.com/ian-pang/supercalo)**|
 |**2023-08-22**|**Towards Clip-Free Quantized Super-Resolution Networks: How to Tame Representative Images**|Alperen Kalay et.al.|[2308.11365v1](http://arxiv.org/abs/2308.11365v1)|null|
 |**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-18**|**Deformable-Detection Transformer for Microbubble Localization in Ultrasound Localization Microscopy**|Sepideh K. Gharamaleki et.al.|[2308.09845v1](http://arxiv.org/abs/2308.09845v1)|null|
@@ -2162,6 +2174,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932v1](http://arxiv.org/abs/2308.11932v1)|null|
 |**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196v1](http://arxiv.org/abs/2308.10196v1)|null|
 |**2023-08-22**|**WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning**|Dongjian Huo et.al.|[2308.10195v2](http://arxiv.org/abs/2308.10195v2)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|**[link](https://github.com/lixinustc/awesome-diffusion-model-for-image-processing)**|
@@ -2342,6 +2355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Frequency-Space Prediction Filtering for Phase Aberration Correction in Plane-Wave Ultrasound**|Mostafa Sharifzadeh et.al.|[2308.11830v1](http://arxiv.org/abs/2308.11830v1)|null|
 |**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-21**|**Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**|Miaoyu Li et.al.|[2308.10820v1](http://arxiv.org/abs/2308.10820v1)|null|
 |**2023-08-21**|**Learning Weakly Convex Regularizers for Convergent Image-Reconstruction Algorithms**|Alexis Goujon et.al.|[2308.10542v1](http://arxiv.org/abs/2308.10542v1)|null|
