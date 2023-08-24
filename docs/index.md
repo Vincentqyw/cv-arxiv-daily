@@ -32,6 +32,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063](http://arxiv.org/abs/2308.12063)|null|
+|**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053](http://arxiv.org/abs/2308.12053)|null|
+|**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
@@ -104,6 +107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
@@ -150,6 +154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Recovering a Molecule's 3D Dynamics from Liquid-phase Electron Microscopy Movies**|Enze Ye et.al.|[2308.11927](http://arxiv.org/abs/2308.11927)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-18**|**3D cine-magnetic resonance imaging using spatial and temporal implicit neural representation learning (STINR-MR)**|Hua-Chieh Shao et.al.|[2308.09771](http://arxiv.org/abs/2308.09771)|null|
 |**2023-08-21**|**INR-LDDMM: Fluid-based Medical Image Registration Integrating Implicit Neural Representation and Large Deformation Diffeomorphic Metric Mapping**|Chulong Zhang et.al.|[2308.09473](http://arxiv.org/abs/2308.09473)|null|
