@@ -34,7 +34,7 @@
 |**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123v1](http://arxiv.org/abs/2308.11123v1)|null|
 |**2023-08-21**|**Diffusion Model as Representation Learner**|Xingyi Yang et.al.|[2308.10916v1](http://arxiv.org/abs/2308.10916v1)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899v1](http://arxiv.org/abs/2308.10899v1)|null|
-|**2023-08-21**|**Backdooring Textual Inversion for Concept Censorship**|Yutong wu et.al.|[2308.10718v1](http://arxiv.org/abs/2308.10718v1)|null|
+|**2023-08-23**|**Backdooring Textual Inversion for Concept Censorship**|Yutong Wu et.al.|[2308.10718v2](http://arxiv.org/abs/2308.10718v2)|null|
 |**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
 |**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648v1](http://arxiv.org/abs/2308.10648v1)|null|
 |**2023-08-21**|**Frequency Compensated Diffusion Model for Real-scene Dehazing**|Jing Wang et.al.|[2308.10510v1](http://arxiv.org/abs/2308.10510v1)|null|
@@ -49,7 +49,7 @@
 |**2023-08-20**|**Disorder-induced linear magnetoresistance in Al $_2$ O $_3$ /SrTiO $_3$  heterostructures**|Gao Kuang Hong et.al.|[2308.10152v1](http://arxiv.org/abs/2308.10152v1)|null|
 |**2023-08-19**|**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance**|Ernie Chu et.al.|[2308.10079v1](http://arxiv.org/abs/2308.10079v1)|null|
 |**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040v1](http://arxiv.org/abs/2308.10040v1)|null|
-|**2023-08-23**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991v2](http://arxiv.org/abs/2308.09991v2)|null|
+|**2023-08-23**|**AltDiffusion: A Multilingual Text-to-Image Diffusion Model**|Fulong Ye et.al.|[2308.09991v2](http://arxiv.org/abs/2308.09991v2)|**[link](https://github.com/superhero-7/altdiffuson)**|
 |**2023-08-19**|**Physics-Guided Human Motion Capture with Pose Probability Modeling**|Jingyi Ju et.al.|[2308.09910v1](http://arxiv.org/abs/2308.09910v1)|**[link](https://github.com/me-ditto/physics-guided-mocap)**|
 |**2023-08-19**|**DiffusionTrack: Diffusion Model For Multi-Object Tracking**|Run Luo et.al.|[2308.09905v1](http://arxiv.org/abs/2308.09905v1)|null|
 |**2023-08-18**|**DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model**|Siyang Li et.al.|[2308.09857v1](http://arxiv.org/abs/2308.09857v1)|**[link](https://github.com/lsy-cython/diffcharge)**|
