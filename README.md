@@ -26,6 +26,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964v1](http://arxiv.org/abs/2308.12964v1)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621v1](http://arxiv.org/abs/2308.12621v1)|null|
+|**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605v1](http://arxiv.org/abs/2308.12605v1)|null|
+|**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469v1](http://arxiv.org/abs/2308.12469v1)|null|
+|**2023-08-23**|**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model**|Jueqi Wang et.al.|[2308.12465v1](http://arxiv.org/abs/2308.12465v1)|**[link](https://github.com/biomedai-ucsc/inversesr)**|
+|**2023-08-23**|**Augmenting medical image classifiers with synthetic data from latent diffusion models**|Luke W. Sagers et.al.|[2308.12453v1](http://arxiv.org/abs/2308.12453v1)|null|
+|**2023-08-23**|**Renormalizing Diffusion Models**|Jordan Cotler et.al.|[2308.12355v1](http://arxiv.org/abs/2308.12355v1)|null|
+|**2023-08-23**|**Improving Generative Model-based Unfolding with Schrödinger Bridges**|Sascha Diefenbacher et.al.|[2308.12351v1](http://arxiv.org/abs/2308.12351v1)|null|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240v1](http://arxiv.org/abs/2308.12240v1)|null|
 |**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|**[link](https://github.com/yegcjs/diffusionllm)**|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013v1](http://arxiv.org/abs/2308.12013v1)|null|
@@ -1361,6 +1369,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508v1](http://arxiv.org/abs/2308.12508v1)|null|
+|**2023-08-23**|**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model**|Jueqi Wang et.al.|[2308.12465v1](http://arxiv.org/abs/2308.12465v1)|**[link](https://github.com/biomedai-ucsc/inversesr)**|
 |**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084v1](http://arxiv.org/abs/2308.12084v1)|null|
 |**2023-08-23**|**StofNet: Super-resolution Time of Flight Network**|Christopher Hahne et.al.|[2308.12009v1](http://arxiv.org/abs/2308.12009v1)|null|
 |**2023-08-22**|**SuperCalo: Calorimeter shower super-resolution**|Ian Pang et.al.|[2308.11700v1](http://arxiv.org/abs/2308.11700v1)|**[link](https://github.com/ian-pang/supercalo)**|
@@ -2174,6 +2184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494v1](http://arxiv.org/abs/2308.12494v1)|null|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932v1](http://arxiv.org/abs/2308.11932v1)|null|
 |**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196v1](http://arxiv.org/abs/2308.10196v1)|null|
 |**2023-08-22**|**WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning**|Dongjian Huo et.al.|[2308.10195v2](http://arxiv.org/abs/2308.10195v2)|null|
@@ -2948,6 +2959,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v1](http://arxiv.org/abs/2308.12452v1)|null|
 |**2023-08-22**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490v1](http://arxiv.org/abs/2308.11490v1)|**[link](https://github.com/llnl/luar)**|
 |**2023-08-21**|**PMVC: Data Augmentation-Based Prosody Modeling for Expressive Voice Conversion**|Yimin Deng et.al.|[2308.11084v1](http://arxiv.org/abs/2308.11084v1)|null|
 |**2023-08-21**|**Harmonization Across Imaging Locations(HAIL): One-Shot Learning for Brain MRI**|Abhijeet Parida et.al.|[2308.11047v1](http://arxiv.org/abs/2308.11047v1)|null|
