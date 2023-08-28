@@ -26,6 +26,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369v1](http://arxiv.org/abs/2308.13369v1)|null|
+|**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223v1](http://arxiv.org/abs/2308.13223v1)|null|
+|**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164v1](http://arxiv.org/abs/2308.13164v1)|null|
+|**2023-08-25**|**A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions**|Tianyi Zhang et.al.|[2308.13142v1](http://arxiv.org/abs/2308.13142v1)|null|
+|**2023-08-24**|**Full-dose PET Synthesis from Low-dose PET Using High-efficiency Diffusion Denoising Probabilistic Model**|Shaoyan Pan et.al.|[2308.13072v1](http://arxiv.org/abs/2308.13072v1)|null|
+|**2023-08-24**|**Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models**|Qing Lyu et.al.|[2308.13002v1](http://arxiv.org/abs/2308.13002v1)|null|
 |**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964v1](http://arxiv.org/abs/2308.12964v1)|**[link](https://github.com/naver-ai/densediffusion)**|
 |**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621v1](http://arxiv.org/abs/2308.12621v1)|null|
 |**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605v1](http://arxiv.org/abs/2308.12605v1)|null|
@@ -2959,6 +2965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178v1](http://arxiv.org/abs/2308.13178v1)|null|
 |**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v1](http://arxiv.org/abs/2308.12452v1)|null|
 |**2023-08-24**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490v2](http://arxiv.org/abs/2308.11490v2)|**[link](https://github.com/llnl/luar)**|
 |**2023-08-21**|**PMVC: Data Augmentation-Based Prosody Modeling for Expressive Voice Conversion**|Yimin Deng et.al.|[2308.11084v1](http://arxiv.org/abs/2308.11084v1)|null|
