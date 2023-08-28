@@ -44,6 +44,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529](http://arxiv.org/abs/2308.12529)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063](http://arxiv.org/abs/2308.12063)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053](http://arxiv.org/abs/2308.12053)|null|
@@ -122,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
 |**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
@@ -171,6 +173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Relighting Neural Radiance Fields with Shadow and Highlight Hints**|Chong Zeng et.al.|[2308.13404](http://arxiv.org/abs/2308.13404)|**[link](https://github.com/iamNCJ/NRHints)**|
 |**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967](http://arxiv.org/abs/2308.12967)|null|
 |**2023-08-24**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508](http://arxiv.org/abs/2308.12508)|null|
 |**2023-08-23**|**Recovering a Molecule's 3D Dynamics from Liquid-phase Electron Microscopy Movies**|Enze Ye et.al.|[2308.11927](http://arxiv.org/abs/2308.11927)|null|
