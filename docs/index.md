@@ -199,7 +199,7 @@ layout: default
 |**2023-07-03**|**MADS: Modulated Auto-Decoding SIREN for time series imputation**|Tom Bamford et.al.|[2307.00868](http://arxiv.org/abs/2307.00868)|null|
 |**2023-06-30**|**Hierarchical Neural Coding for Controllable CAD Model Generation**|Xiang Xu et.al.|[2307.00149](http://arxiv.org/abs/2307.00149)|**[link](https://github.com/samxuxiang/hnc-cad)**|
 |**2023-06-29**|**Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations**|Yongyi Yang et.al.|[2306.17105](http://arxiv.org/abs/2306.17105)|null|
-|**2023-06-29**|**Rapid-INR: Storage Efficient CPU-free DNN Training Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2306.16699](http://arxiv.org/abs/2306.16699)|null|
+|**2023-06-29**|**Rapid-INR: Storage Efficient CPU-free DNN Training Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2306.16699](http://arxiv.org/abs/2306.16699)|**[link](https://github.com/sharc-lab/rapid-inr)**|
 |**2023-06-27**|**SPDER: Semiperiodic Damping-Enabled Object Representation**|Kathan Shah et.al.|[2306.15242](http://arxiv.org/abs/2306.15242)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-24**|**INR-MDSQC: Implicit Neural Representation Multiple Description Scalar Quantization for robust image Coding**|Trung Hieu Le et.al.|[2306.13919](http://arxiv.org/abs/2306.13919)|null|
