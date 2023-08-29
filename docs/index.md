@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -41,7 +41,7 @@ layout: default
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
-|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-08-26**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455](http://arxiv.org/abs/2308.09455)|null|
 |**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
@@ -159,7 +159,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-25**|**Relighting Neural Radiance Fields with Shadow and Highlight Hints**|Chong Zeng et.al.|[2308.13404](http://arxiv.org/abs/2308.13404)|**[link](https://github.com/iamNCJ/NRHints)**|
 |**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967](http://arxiv.org/abs/2308.12967)|null|
-|**2023-08-24**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508](http://arxiv.org/abs/2308.12508)|null|
+|**2023-08-27**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508](http://arxiv.org/abs/2308.12508)|null|
 |**2023-08-23**|**Recovering a Molecule's 3D Dynamics from Liquid-phase Electron Microscopy Movies**|Enze Ye et.al.|[2308.11927](http://arxiv.org/abs/2308.11927)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-18**|**3D cine-magnetic resonance imaging using spatial and temporal implicit neural representation learning (STINR-MR)**|Hua-Chieh Shao et.al.|[2308.09771](http://arxiv.org/abs/2308.09771)|null|
@@ -252,7 +252,7 @@ layout: default
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821](http://arxiv.org/abs/2307.00821)|null|
-|**2023-06-10**|**Implementation of Multiple-Step Quantized STDP based on Linear Weight Update Memristive Synapses**|Y. Liu et.al.|[2306.06379](http://arxiv.org/abs/2306.06379)|null|
+|**2023-08-28**|**Implementation of Multiple-Step Quantized STDP Based on Novel Memristive Synapses**|Y. Liu et.al.|[2306.06379](http://arxiv.org/abs/2306.06379)|null|
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410](http://arxiv.org/abs/2306.04410)|null|
 |**2023-05-28**|**Evolving Connectivity for Recurrent Spiking Neural Networks**|Guan Wang et.al.|[2305.17650](http://arxiv.org/abs/2305.17650)|null|
 |**2023-05-22**|**Bio-inspired spike-based Hippocampus and Posterior Parietal Cortex models for robot navigation and environment pseudo-mapping**|Daniel Casanueva-Morato et.al.|[2305.12892](http://arxiv.org/abs/2305.12892)|**[link](https://github.com/dancasmor/bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping)**|
