@@ -26,6 +26,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480v1](http://arxiv.org/abs/2308.14480v1)|null|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v1](http://arxiv.org/abs/2308.14469v1)|null|
+|**2023-08-28**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437v1](http://arxiv.org/abs/2308.14437v1)|null|
+|**2023-08-28**|**Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems**|Riccardo Barbano et.al.|[2308.14409v1](http://arxiv.org/abs/2308.14409v1)|null|
+|**2023-08-28**|**InstructME: An Instruction Guided Music Edit And Remix Framework with Latent Diffusion Models**|Bing Han et.al.|[2308.14360v1](http://arxiv.org/abs/2308.14360v1)|null|
+|**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333v1](http://arxiv.org/abs/2308.14333v1)|**[link](https://github.com/javyduck/diffsmooth)**|
+|**2023-08-27**|**SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation**|Zhiyu Qu et.al.|[2308.14191v1](http://arxiv.org/abs/2308.14191v1)|null|
+|**2023-08-27**|**Diffusion Schrödinger Bridges for Bayesian Computation**|Jeremy Heng et.al.|[2308.14106v1](http://arxiv.org/abs/2308.14106v1)|null|
+|**2023-08-27**|**Sparse3D: Distilling Multiview-Consistent Diffusion for Object Reconstruction from Sparse Views**|Zi-Xin Zou et.al.|[2308.14078v1](http://arxiv.org/abs/2308.14078v1)|null|
+|**2023-08-26**|**Unsupervised Domain Adaptation via Domain-Adaptive Diffusion**|Duo Peng et.al.|[2308.13893v1](http://arxiv.org/abs/2308.13893v1)|null|
+|**2023-08-26**|**The DiffuseStyleGesture+ entry to the GENEA Challenge 2023**|Sicheng Yang et.al.|[2308.13879v1](http://arxiv.org/abs/2308.13879v1)|**[link](https://github.com/youngseng/diffusestylegesture)**|
+|**2023-08-26**|**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models**|Hao Fei et.al.|[2308.13812v1](http://arxiv.org/abs/2308.13812v1)|null|
+|**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767v1](http://arxiv.org/abs/2308.13767v1)|null|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712v1](http://arxiv.org/abs/2308.13712v1)|null|
+|**2023-08-25**|**Region-Disentangled Diffusion Model for High-Fidelity PPG-to-ECG Translation**|Debaditya Shome et.al.|[2308.13568v1](http://arxiv.org/abs/2308.13568v1)|null|
+|**2023-08-23**|**Dance with You: The Diversity Controllable Dancer Generation via Diffusion Models**|Siyue Yao et.al.|[2308.13551v1](http://arxiv.org/abs/2308.13551v1)|**[link](https://github.com/jjessicayao/aist-m-dataset)**|
 |**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369v1](http://arxiv.org/abs/2308.13369v1)|null|
 |**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223v1](http://arxiv.org/abs/2308.13223v1)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164v1](http://arxiv.org/abs/2308.13164v1)|null|
@@ -42,6 +58,7 @@
 |**2023-08-23**|**Improving Generative Model-based Unfolding with Schrödinger Bridges**|Sascha Diefenbacher et.al.|[2308.12351v1](http://arxiv.org/abs/2308.12351v1)|**[link](https://github.com/viniciusmikuni/sbunfold)**|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240v1](http://arxiv.org/abs/2308.12240v1)|null|
 |**2023-08-25**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v2](http://arxiv.org/abs/2308.12219v2)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-26**|**A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models**|Wenjie Fu et.al.|[2308.12143v2](http://arxiv.org/abs/2308.12143v2)|null|
 |**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013v1](http://arxiv.org/abs/2308.12013v1)|null|
 |**2023-08-23**|**High-quality Image Dehazing with Diffusion Model**|Hu Yu et.al.|[2308.11949v1](http://arxiv.org/abs/2308.11949v1)|null|
 |**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948v1](http://arxiv.org/abs/2308.11948v1)|null|
@@ -1375,6 +1392,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v1](http://arxiv.org/abs/2308.14469v1)|null|
+|**2023-08-28**|**HoloFusion: Towards Photo-realistic 3D Generative Modeling**|Animesh Karnewar et.al.|[2308.14244v1](http://arxiv.org/abs/2308.14244v1)|null|
+|**2023-08-27**|**A comprehensive review on Plant Leaf Disease detection using Deep learning**|Sumaya Mustofa et.al.|[2308.14087v1](http://arxiv.org/abs/2308.14087v1)|null|
+|**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767v1](http://arxiv.org/abs/2308.13767v1)|null|
 |**2023-08-27**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508v2](http://arxiv.org/abs/2308.12508v2)|null|
 |**2023-08-23**|**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model**|Jueqi Wang et.al.|[2308.12465v1](http://arxiv.org/abs/2308.12465v1)|**[link](https://github.com/biomedai-ucsc/inversesr)**|
 |**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084v1](http://arxiv.org/abs/2308.12084v1)|null|
@@ -1808,6 +1829,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v1](http://arxiv.org/abs/2308.14469v1)|null|
 |**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388v1](http://arxiv.org/abs/2308.09388v1)|**[link](https://github.com/lixinustc/awesome-diffusion-model-for-image-processing)**|
 |**2023-08-17**|**SR-GAN for SR-gamma: photon super resolution at collider experiments**|Johannes Erdmann et.al.|[2308.09025v1](http://arxiv.org/abs/2308.09025v1)|null|
 |**2023-08-15**|**CMISR: Circular Medical Image Super-Resolution**|Honggui Li et.al.|[2308.08567v1](http://arxiv.org/abs/2308.08567v1)|null|
@@ -2190,6 +2212,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334v1](http://arxiv.org/abs/2308.14334v1)|null|
+|**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712v1](http://arxiv.org/abs/2308.13712v1)|null|
 |**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494v1](http://arxiv.org/abs/2308.12494v1)|null|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932v1](http://arxiv.org/abs/2308.11932v1)|null|
 |**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196v1](http://arxiv.org/abs/2308.10196v1)|null|
@@ -2372,6 +2397,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**Score-Based Generative Models for PET Image Reconstruction**|Imraj RD Singh et.al.|[2308.14190v1](http://arxiv.org/abs/2308.14190v1)|null|
+|**2023-08-27**|**Generalizable Learning Reconstruction for Accelerating MR Imaging via Federated Neural Architecture Search**|Ruoyou Wu et.al.|[2308.13995v1](http://arxiv.org/abs/2308.13995v1)|null|
+|**2023-08-26**|**Illumination strategies for space-bandwidth-time product improvement in Fourier ptychography**|Haibo Xu et.al.|[2308.13933v1](http://arxiv.org/abs/2308.13933v1)|null|
 |**2023-08-22**|**Frequency-Space Prediction Filtering for Phase Aberration Correction in Plane-Wave Ultrasound**|Mostafa Sharifzadeh et.al.|[2308.11830v1](http://arxiv.org/abs/2308.11830v1)|null|
 |**2023-08-21**|**MRI Field-transfer Reconstruction with Limited Data: Regularization by Neural Style Transfer**|Guoyao Shen et.al.|[2308.10968v1](http://arxiv.org/abs/2308.10968v1)|null|
 |**2023-08-21**|**Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction**|Miaoyu Li et.al.|[2308.10820v1](http://arxiv.org/abs/2308.10820v1)|null|
@@ -2681,6 +2709,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
 |**2023-08-16**|**AATCT-IDS: A Benchmark Abdominal Adipose Tissue CT Image Dataset for Image Denoising, Semantic Segmentation, and Radiomics Evaluation**|Zhiyu Ma et.al.|[2308.08172v1](http://arxiv.org/abs/2308.08172v1)|null|
 |**2023-08-13**|**Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches**|Xin Lin et.al.|[2308.06776v1](http://arxiv.org/abs/2308.06776v1)|**[link](https://github.com/linxin0/scpgabnet)**|
 |**2023-08-13**|**Self-supervised Noise2noise Method Utilizing Corrupted Images with a Modular Network for LDCT Denoising**|Yuting Zhu et.al.|[2308.06746v1](http://arxiv.org/abs/2308.06746v1)|**[link](https://github.com/xyuan01/self-supervised-noise2noise-for-ldct)**|
@@ -2852,6 +2881,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061v1](http://arxiv.org/abs/2308.14061v1)|**[link](https://github.com/xyfjason/hcl)**|
 |**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749v1](http://arxiv.org/abs/2308.07749v1)|null|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652v1](http://arxiv.org/abs/2308.07652v1)|**[link](https://github.com/ballerin/v1diffusion)**|
@@ -2965,6 +2995,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Text Style Transfer Evaluation Using Large Language Models**|Phil Ostheimer et.al.|[2308.13577v1](http://arxiv.org/abs/2308.13577v1)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178v1](http://arxiv.org/abs/2308.13178v1)|null|
 |**2023-08-23**|**ARF-Plus: Controlling Perceptual Factors in Artistic Radiance Fields for 3D Scene Stylization**|Wenzhao Li et.al.|[2308.12452v1](http://arxiv.org/abs/2308.12452v1)|null|
 |**2023-08-24**|**Can Authorship Representation Learning Capture Stylistic Features?**|Andrew Wang et.al.|[2308.11490v2](http://arxiv.org/abs/2308.11490v2)|**[link](https://github.com/llnl/luar)**|
