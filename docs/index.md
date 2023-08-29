@@ -157,8 +157,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414](http://arxiv.org/abs/2308.14414)|null|
+|**2023-08-28**|**CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models**|Zhensu Sun et.al.|[2308.14401](http://arxiv.org/abs/2308.14401)|null|
+|**2023-08-26**|**Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation**|Guying Lin et.al.|[2308.13934](http://arxiv.org/abs/2308.13934)|null|
+|**2023-08-26**|**Brain-like representational straightening of natural movies in robust feedforward neural networks**|Tahereh Toosi et.al.|[2308.13870](http://arxiv.org/abs/2308.13870)|**[link](https://github.com/toosi/brainlike_straightening)**|
 |**2023-08-25**|**Relighting Neural Radiance Fields with Shadow and Highlight Hints**|Chong Zeng et.al.|[2308.13404](http://arxiv.org/abs/2308.13404)|**[link](https://github.com/iamNCJ/NRHints)**|
-|**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967](http://arxiv.org/abs/2308.12967)|null|
+|**2023-08-24**|**NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes**|Muhammad Zubair Irshad et.al.|[2308.12967](http://arxiv.org/abs/2308.12967)|**[link](https://github.com/zubair-irshad/NeO-360)**|
 |**2023-08-27**|**FFEINR: Flow Feature-Enhanced Implicit Neural Representation for Spatio-temporal Super-Resolution**|Chenyue Jiao et.al.|[2308.12508](http://arxiv.org/abs/2308.12508)|null|
 |**2023-08-23**|**Recovering a Molecule's 3D Dynamics from Liquid-phase Electron Microscopy Movies**|Enze Ye et.al.|[2308.11927](http://arxiv.org/abs/2308.11927)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
