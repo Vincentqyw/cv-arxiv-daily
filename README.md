@@ -44,6 +44,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
+|**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150](http://arxiv.org/abs/2308.15150)|null|
+|**2023-08-29**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122](http://arxiv.org/abs/2308.15122)|null|
 |**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529](http://arxiv.org/abs/2308.12529)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063](http://arxiv.org/abs/2308.12063)|null|
@@ -123,6 +126,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
 |**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
@@ -173,6 +177,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**CAPS: A Practical Partition Index for Filtered Similarity Search**|Gaurav Gupta et.al.|[2308.15014](http://arxiv.org/abs/2308.15014)|**[link](https://github.com/gaurav16gupta/constrainedann)**|
 |**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414](http://arxiv.org/abs/2308.14414)|null|
 |**2023-08-28**|**CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models**|Zhensu Sun et.al.|[2308.14401](http://arxiv.org/abs/2308.14401)|null|
 |**2023-08-26**|**Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation**|Guying Lin et.al.|[2308.13934](http://arxiv.org/abs/2308.13934)|null|
