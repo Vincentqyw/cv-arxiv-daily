@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -34,7 +34,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150](http://arxiv.org/abs/2308.15150)|null|
-|**2023-08-29**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122](http://arxiv.org/abs/2308.15122)|null|
+|**2023-08-30**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122](http://arxiv.org/abs/2308.15122)|null|
 |**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529](http://arxiv.org/abs/2308.12529)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063](http://arxiv.org/abs/2308.12063)|null|
