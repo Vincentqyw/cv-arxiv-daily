@@ -34,7 +34,7 @@
 |**2023-08-28**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840v1](http://arxiv.org/abs/2308.14840v1)|null|
 |**2023-08-28**|**Generating tabular datasets under differential privacy**|Gianluca Truda et.al.|[2308.14784v1](http://arxiv.org/abs/2308.14784v1)|null|
 |**2023-08-25**|**Unified Concept Editing in Diffusion Models**|Rohit Gandikota et.al.|[2308.14761v1](http://arxiv.org/abs/2308.14761v1)|**[link](https://github.com/rohitgandikota/unified-concept-editing)**|
-|**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480v1](http://arxiv.org/abs/2308.14480v1)|null|
+|**2023-08-30**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480v2](http://arxiv.org/abs/2308.14480v2)|null|
 |**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469v1](http://arxiv.org/abs/2308.14469v1)|null|
 |**2023-08-28**|**Data-iterative Optimization Score Model for Stable Ultra-Sparse-View CT Reconstruction**|Weiwen Wu et.al.|[2308.14437v1](http://arxiv.org/abs/2308.14437v1)|null|
 |**2023-08-28**|**Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems**|Riccardo Barbano et.al.|[2308.14409v1](http://arxiv.org/abs/2308.14409v1)|null|
