@@ -26,6 +26,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613v1](http://arxiv.org/abs/2309.00613v1)|null|
+|**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398v1](http://arxiv.org/abs/2309.00398v1)|null|
+|**2023-09-01**|**Fast Diffusion EM: a diffusion model for blind inverse problems with application to deconvolution**|Charles Laroche et.al.|[2309.00287v1](http://arxiv.org/abs/2309.00287v1)|null|
+|**2023-09-01**|**DiffuGen: Adaptable Approach for Generating Labeled Image Datasets using Stable Diffusion Models**|Michael Shenoda et.al.|[2309.00248v1](http://arxiv.org/abs/2309.00248v1)|**[link](https://github.com/mshenoda/diffugen)**|
+|**2023-09-01**|**Diffusion Model with Clustering-based Conditioning for Food Image Generation**|Yue Han et.al.|[2309.00199v1](http://arxiv.org/abs/2309.00199v1)|null|
+|**2023-09-01**|**Breakdown of the drift-diffusion model for transverse spin transport in a disordered Pt film**|K. D. Belashchenko et.al.|[2309.00183v1](http://arxiv.org/abs/2309.00183v1)|null|
+|**2023-08-31**|**BuilDiff: 3D Building Shape Generation using Single-Image Conditional Point Cloud Diffusion Models**|Yao Wei et.al.|[2309.00158v1](http://arxiv.org/abs/2309.00158v1)|null|
 |**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905v1](http://arxiv.org/abs/2308.16905v1)|**[link](https://github.com/Sirui-Xu/InterDiff)**|
 |**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847v1](http://arxiv.org/abs/2308.16847v1)|null|
 |**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742v1](http://arxiv.org/abs/2308.16742v1)|**[link](https://github.com/deepxuan/dudodp-mar)**|
@@ -1420,6 +1427,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Robust Super-Resolution Imaging Based on a Ring Core Fiber with Orbital Angular Momentum**|Zheyu Wu et.al.|[2309.00371v1](http://arxiv.org/abs/2309.00371v1)|null|
 |**2023-08-31**|**Influence of adversarial training on super-resolution turbulence models**|Ludovico Nista et.al.|[2308.16015v2](http://arxiv.org/abs/2308.16015v2)|null|
 |**2023-08-30**|**Label-free image scanning microscopy for kHz super-resolution imaging and single particle tracking**|Duc-Minh Ta et.al.|[2308.15817v1](http://arxiv.org/abs/2308.15817v1)|null|
 |**2023-08-30**|**ACNPU: A 4.75TOPS/W 1080P@30FPS Super Resolution Accelerator with Decoupled Asymmetric Convolution**|Tun-Hao Yang et.al.|[2308.15807v1](http://arxiv.org/abs/2308.15807v1)|null|
@@ -2122,6 +2130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**DARC: Distribution-Aware Re-Coloring Model for Generalizable Nucleus Segmentation**|Shengcong Chen et.al.|[2309.00188v1](http://arxiv.org/abs/2309.00188v1)|null|
 |**2023-08-21**|**Self-Reference Deep Adaptive Curve Estimation for Low-Light Image Enhancement**|Jianyu Wen et.al.|[2308.08197v2](http://arxiv.org/abs/2308.08197v2)|**[link](https://github.com/john-venti/self-dace)**|
 |**2023-08-10**|**A Generalized Physical-knowledge-guided Dynamic Model for Underwater Image Enhancement**|Pan Mu et.al.|[2308.05447v1](http://arxiv.org/abs/2308.05447v1)|null|
 |**2023-08-09**|**Transmission and Color-guided Network for Underwater Image Enhancement**|Pan Mu et.al.|[2308.04892v1](http://arxiv.org/abs/2308.04892v1)|null|
@@ -2431,6 +2440,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Learning the Imaging Model of Speed-of-Sound Reconstruction via a Convolutional Formulation**|Can Deniz Bezek et.al.|[2309.00453v1](http://arxiv.org/abs/2309.00453v1)|null|
 |**2023-08-30**|**Learned Full Waveform Inversion Incorporating Task Information for Ultrasound Computed Tomography**|Luke Lozenski et.al.|[2308.16290v1](http://arxiv.org/abs/2308.16290v1)|null|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150v1](http://arxiv.org/abs/2308.16150v1)|null|
 |**2023-08-28**|**Reinforcement Learning for Sampling on Temporal Medical Imaging Sequences**|Zhishen Huang et.al.|[2308.14946v1](http://arxiv.org/abs/2308.14946v1)|**[link](https://github.com/zhishenhuang/rlsamp)**|
