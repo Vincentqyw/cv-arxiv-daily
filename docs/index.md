@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -173,7 +173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-04**|**Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian**|Zixiong Wang et.al.|[2309.01793](http://arxiv.org/abs/2309.01793)|null|
+|**2023-09-06**|**Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian**|Zixiong Wang et.al.|[2309.01793](http://arxiv.org/abs/2309.01793)|null|
 |**2023-08-30**|**Active Neural Mapping**|Zike Yan et.al.|[2308.16246](http://arxiv.org/abs/2308.16246)|null|
 |**2023-08-29**|**CAPS: A Practical Partition Index for Filtered Similarity Search**|Gaurav Gupta et.al.|[2308.15014](http://arxiv.org/abs/2308.15014)|**[link](https://github.com/gaurav16gupta/constrainedann)**|
 |**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414](http://arxiv.org/abs/2308.14414)|null|
