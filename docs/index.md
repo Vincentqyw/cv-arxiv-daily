@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -36,7 +36,7 @@ layout: default
 |**2023-09-07**|**Spiking Structured State Space Model for Monaural Speech Enhancement**|Yu Du et.al.|[2309.03641](http://arxiv.org/abs/2309.03641)|null|
 |**2023-09-06**|**Are SNNs Truly Energy-efficient? $-$ A Hardware Perspective**|Abhiroop Bhattacharjee et.al.|[2309.03388](http://arxiv.org/abs/2309.03388)|null|
 |**2023-08-31**|**SPAIC: A sub- $μ$ W/Channel, 16-Channel General-Purpose Event-Based Analog Front-End with Dual-Mode Encoders**|Shyam Narayanan et.al.|[2309.03221](http://arxiv.org/abs/2309.03221)|null|
-|**2023-09-06**|**A high-performance deep reservoir computing experimentally demonstrated with ion-gating reservoirs**|Daiki Nishioka et.al.|[2309.03028](http://arxiv.org/abs/2309.03028)|null|
+|**2023-09-11**|**A high-performance deep reservoir computing experimentally demonstrated with ion-gating reservoirs**|Daiki Nishioka et.al.|[2309.03028](http://arxiv.org/abs/2309.03028)|null|
 |**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
 |**2023-09-05**|**Molecular dynamics simulation of nanofilament breakage in neuromorphic nanoparticle networks**|Wenkai Wu et.al.|[2309.02282](http://arxiv.org/abs/2309.02282)|null|
 |**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111](http://arxiv.org/abs/2309.02111)|null|
@@ -125,7 +125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-06**|**A high-performance deep reservoir computing experimentally demonstrated with ion-gating reservoirs**|Daiki Nishioka et.al.|[2309.03028](http://arxiv.org/abs/2309.03028)|null|
+|**2023-09-11**|**A high-performance deep reservoir computing experimentally demonstrated with ion-gating reservoirs**|Daiki Nishioka et.al.|[2309.03028](http://arxiv.org/abs/2309.03028)|null|
 |**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
 |**2023-09-05**|**Molecular dynamics simulation of nanofilament breakage in neuromorphic nanoparticle networks**|Wenkai Wu et.al.|[2309.02282](http://arxiv.org/abs/2309.02282)|null|
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476](http://arxiv.org/abs/2309.00476)|null|
