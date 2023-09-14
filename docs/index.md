@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -186,7 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-12**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067](http://arxiv.org/abs/2309.06067)|null|
+|**2023-09-13**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067](http://arxiv.org/abs/2309.06067)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937](http://arxiv.org/abs/2309.04937)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008](http://arxiv.org/abs/2309.03008)|null|
