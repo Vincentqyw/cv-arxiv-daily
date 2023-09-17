@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: UPDATE README
+name: Publish Hugo
 
 # Controls when the workflow will run
 on:
@@ -41,6 +41,10 @@ jobs:
           sed -i '11i tags: ["Beginners"]' README.md
           sed -i '12i categories: [""]' README.md
           sed -i '13i ---' README.md
+      
+      - name: Copy file from main branch
+        run: |
+          cp README.md README.md.bak
 
       - name: Checkout hugo_source branch
         uses: actions/checkout@v3
@@ -49,7 +53,7 @@ jobs:
           clean: false
 
       - name: Copy README.md to content/docs/
-        run: cp README.md content/docs/README.md
+        run: mv README.md.bak content/docs/README.md
 
       - name: Commit and push changes
         run: |
@@ -57,4 +61,4 @@ jobs:
           git config --global user.email "action@github.com"
           git add content/docs/README.md
           git commit -m "Update README.md in content/docs"
-          git push
+          git push origin hugo_source
