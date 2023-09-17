@@ -245,7 +245,7 @@ def json_to_md(filename,md_filename,
                to_web = False, 
                use_title = True, 
                use_tc = False,
-               show_badge = True,
+               show_badge = False,
                use_b2t = False):
     """
     @param filename: str
