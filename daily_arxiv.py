@@ -342,7 +342,7 @@ def json_to_md(filename,md_filename,
             f.write(f"\n")
 
 
-            f.write('{{< /table >}}\n')
+            f.write('{{< /table >}}\n\n')
 
             #Add: back to top
             if use_b2t:
