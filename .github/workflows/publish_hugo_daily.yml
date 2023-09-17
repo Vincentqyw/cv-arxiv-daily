@@ -55,7 +55,9 @@ jobs:
           clean: 0         # Don't clean the workspace
 
       - name: Copy README.md to content/docs/
-        run: mv README.md.bak content/docs/README.md
+        run: |
+          rm content/docs/README.md
+          mv README.md.bak content/docs/README.md
 
       - name: Commit and push changes
         run: |
