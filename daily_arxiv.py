@@ -287,11 +287,11 @@ def json_to_md(filename,md_filename,
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
         
-        if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
+        # if show_badge == True:
+        #     f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
+        #     f.write(f"[![Forks][forks-shield]][forks-url]\n")
+        #     f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
+        #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
@@ -350,24 +350,24 @@ def json_to_md(filename,md_filename,
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
             
-        if show_badge == True:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+        # if show_badge == True:
+        #     # we don't like long string, break it!
+        #     f.write((f"[contributors-shield]: https://img.shields.io/github/"
+        #              f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
+        #     f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
+        #              f"cv-arxiv-daily/graphs/contributors\n"))
+        #     f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
+        #              f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+        #     f.write((f"[forks-url]: https://github.com/Vincentqyw/"
+        #              f"cv-arxiv-daily/network/members\n"))
+        #     f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
+        #              f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+        #     f.write((f"[stars-url]: https://github.com/Vincentqyw/"
+        #              f"cv-arxiv-daily/stargazers\n"))
+        #     f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
+        #              f"cv-arxiv-daily.svg?style=for-the-badge\n"))
+        #     f.write((f"[issues-url]: https://github.com/Vincentqyw/"
+        #              f"cv-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 
