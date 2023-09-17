@@ -324,7 +324,7 @@ def json_to_md(filename,md_filename,
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            f.write(f"{{< table "table-responsive" >}}\n")
+            f.write('{{< table "table-responsive" >}}\n')
             if use_title == True :
                 if to_web == False:
                     f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
@@ -342,7 +342,7 @@ def json_to_md(filename,md_filename,
             f.write(f"\n")
 
 
-            f.write(f"{{< /table >}}\n")
+            f.write('{{< /table >}}\n')
 
             #Add: back to top
             if use_b2t:
