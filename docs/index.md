@@ -2,11 +2,6 @@
 layout: default
 ---
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2023.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -30,6 +25,7 @@ layout: default
 |**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277](http://arxiv.org/abs/2212.01277)|null|
 
 {{< /table >}}
+
 ## Spiking Neural Networks
 
 {{< table "table-responsive" >}}
@@ -131,6 +127,7 @@ layout: default
 |**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046](http://arxiv.org/abs/2306.17046)|null|
 
 {{< /table >}}
+
 ## Neuromorphic Computing
 
 {{< table "table-responsive" >}}
@@ -192,6 +189,7 @@ layout: default
 |**2023-06-23**|**Enhanced Read Resolution in Reconfigurable Memristive Synapses for Spiking Neural Networks**|Hritom Das et.al.|[2306.13721](http://arxiv.org/abs/2306.13721)|null|
 
 {{< /table >}}
+
 ## Neural Coding
 
 {{< table "table-responsive" >}}
@@ -266,6 +264,7 @@ layout: default
 |**2023-06-22**|**Siamese SIREN: Audio Compression with Implicit Neural Representations**|Luca A. Lanzendörfer et.al.|[2306.12957](http://arxiv.org/abs/2306.12957)|**[link](https://github.com/lucala/siamese-siren)**|
 
 {{< /table >}}
+
 ## Brain Modelling and Simulation
 
 {{< table "table-responsive" >}}
@@ -284,6 +283,7 @@ layout: default
 |**2022-08-08**|**Multiscale modeling of brain network organization**|Charley Presigny et.al.|[2111.13473](http://arxiv.org/abs/2111.13473)|null|
 
 {{< /table >}}
+
 ## High Performance Computing for Neuroscience
 
 {{< table "table-responsive" >}}
@@ -292,6 +292,7 @@ layout: default
 |**2017-09-07**|**Multilayer Brain Networks**|Michael Vaiana et.al.|[1709.02325](http://arxiv.org/abs/1709.02325)|null|
 
 {{< /table >}}
+
 ## Neuroinformatics
 
 {{< table "table-responsive" >}}
@@ -309,6 +310,7 @@ layout: default
 |**2018-03-26**|**Deep learning as a tool for neural data analysis: speech classification and cross-frequency coupling in human sensorimotor cortex**|Jesse A. Livezey et.al.|[1803.09807](http://arxiv.org/abs/1803.09807)|null|
 
 {{< /table >}}
+
 ## Neuromorphic Engineering
 
 {{< table "table-responsive" >}}
@@ -329,12 +331,4 @@ layout: default
 |**2023-04-08**|**RescueSNN: Enabling Reliable Executions on Spiking Neural Network Accelerators under Permanent Faults**|Rachmad Vidya Wicaksana Putra et.al.|[2304.04041](http://arxiv.org/abs/2304.04041)|null|
 
 {{< /table >}}
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
 
