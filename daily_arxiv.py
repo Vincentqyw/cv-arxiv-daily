@@ -244,7 +244,7 @@ def json_to_md(filename,md_filename,
                task = '',
                to_web = False, 
                use_title = True, 
-               use_tc = True,
+               use_tc = False,
                show_badge = True,
                use_b2t = True):
     """
