@@ -6,22 +6,9 @@
 ## Updated on 2023.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#Brain-Simulation>Brain Simulation</a></li>
-    <li><a href=#Spiking-Neural-Networks>Spiking Neural Networks</a></li>
-    <li><a href=#Neuromorphic-Computing>Neuromorphic Computing</a></li>
-    <li><a href=#Neural-Coding>Neural Coding</a></li>
-    <li><a href=#Brain-Modelling-and-Simulation>Brain Modelling and Simulation</a></li>
-    <li><a href=#High-Performance-Computing-for-Neuroscience>High Performance Computing for Neuroscience</a></li>
-    <li><a href=#Neuroinformatics>Neuroinformatics</a></li>
-    <li><a href=#Neuromorphic-Engineering>Neuromorphic Engineering</a></li>
-  </ol>
-</details>
-
 ## Brain Simulation
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
@@ -38,10 +25,10 @@
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
 |**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277](http://arxiv.org/abs/2212.01277)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## Spiking Neural Networks
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
@@ -139,10 +126,10 @@
 |**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597](http://arxiv.org/abs/2306.17597)|null|
 |**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046](http://arxiv.org/abs/2306.17046)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## Neuromorphic Computing
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-14**|**Reconfigurable neural spiking in bias field-free spin Hall nano oscillator**|Sourabh Manna et.al.|[2309.07641](http://arxiv.org/abs/2309.07641)|null|
@@ -200,10 +187,10 @@
 |**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783](http://arxiv.org/abs/2306.13783)|null|
 |**2023-06-23**|**Enhanced Read Resolution in Reconfigurable Memristive Synapses for Spiking Neural Networks**|Hritom Das et.al.|[2306.13721](http://arxiv.org/abs/2306.13721)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## Neural Coding
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-14**|**Semi-orthogonal subspaces for value mediate a tradeoff between binding and generalization**|W. Jeffrey Johnston et.al.|[2309.07766](http://arxiv.org/abs/2309.07766)|null|
@@ -274,10 +261,10 @@
 |**2023-06-24**|**INR-MDSQC: Implicit Neural Representation Multiple Description Scalar Quantization for robust image Coding**|Trung Hieu Le et.al.|[2306.13919](http://arxiv.org/abs/2306.13919)|null|
 |**2023-06-22**|**Siamese SIREN: Audio Compression with Implicit Neural Representations**|Luca A. Lanzendörfer et.al.|[2306.12957](http://arxiv.org/abs/2306.12957)|**[link](https://github.com/lucala/siamese-siren)**|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## Brain Modelling and Simulation
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
@@ -292,18 +279,18 @@
 |**2022-10-24**|**TransEM:Residual Swin-Transformer based regularized PET image reconstruction**|Rui Hu et.al.|[2205.04204](http://arxiv.org/abs/2205.04204)|null|
 |**2022-08-08**|**Multiscale modeling of brain network organization**|Charley Presigny et.al.|[2111.13473](http://arxiv.org/abs/2111.13473)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## High Performance Computing for Neuroscience
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2017-09-07**|**Multilayer Brain Networks**|Michael Vaiana et.al.|[1709.02325](http://arxiv.org/abs/1709.02325)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## Neuroinformatics
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-02**|**Multimodal Neural Databases**|Giovanni Trappolini et.al.|[2305.01447](http://arxiv.org/abs/2305.01447)|**[link](https://github.com/giovannitra/multimodalneuraldatabases)**|
@@ -317,10 +304,10 @@
 |**2020-02-03**|**Non-linear regression models for behavioral and neural data analysis**|Vincent Adam et.al.|[2002.00920](http://arxiv.org/abs/2002.00920)|null|
 |**2018-03-26**|**Deep learning as a tool for neural data analysis: speech classification and cross-frequency coupling in human sensorimotor cortex**|Jesse A. Livezey et.al.|[1803.09807](http://arxiv.org/abs/1803.09807)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 ## Neuromorphic Engineering
 
+{{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-29**|**Infrared Nanoimaging of Hydrogenated Perovskite Nickelate Synaptic Devices**|Sampath Gamage et.al.|[2309.04486](http://arxiv.org/abs/2309.04486)|null|
@@ -337,8 +324,7 @@
 |**2023-08-12**|**Synchronization in STDP-driven memristive neural networks with time-varying topology**|Marius E. Yamakou et.al.|[2304.08281](http://arxiv.org/abs/2304.08281)|null|
 |**2023-04-08**|**RescueSNN: Enabling Reliable Executions on Spiking Neural Network Accelerators under Permanent Faults**|Rachmad Vidya Wicaksana Putra et.al.|[2304.04041](http://arxiv.org/abs/2304.04041)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
-
+{{< /table >}}
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
