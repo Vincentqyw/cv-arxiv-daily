@@ -1,0 +1,54 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Update README.md
+        run: |
+          sed -i '1i ---' README.md
+          sed -i '2i weight: 2' README.md
+          sed -i "3i date: \"${{ steps.date.outputs.date }}\"" README.md
+          sed -i '4i draft: false' README.md
+          sed -i '5i author: "cuterwrite"' README.md
+          sed -i '6i title: "Arxiv每日推送"' README.md
+          sed -i '7i icon: "menu-book"' README.md
+          sed -i '8i toc: true' README.md
+          sed -i '9i description: ""' README.md
+          sed -i "10i publishdate: \"${{ steps.date.outputs.date }}\"" README.md
+          sed -i '11i tags: ["Beginners"]' README.md
+          sed -i '12i categories: [""]' README.md
+          sed -i '13i ---' README.md
+
+      - name: Checkout hugo_source branch
+        uses: actions/checkout@v3
+        with:
+          ref: hugo_source
+          clean: false
+
+      - name: Copy README.md to content/docs/
+        run: cp README.md content/docs/README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add content/docs/README.md
+          git commit -m "Update README.md in content/docs"
+          git push
