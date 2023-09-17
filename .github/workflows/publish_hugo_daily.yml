@@ -52,6 +52,7 @@ jobs:
           ref: hugo_source
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          clean: 0         # Don't clean the workspace
 
       - name: Copy README.md to content/docs/
         run: mv README.md.bak content/docs/README.md
