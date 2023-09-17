@@ -34,7 +34,7 @@ jobs:
           sed -i '4i draft: false' README.md
           sed -i '5i author: "cuterwrite"' README.md
           sed -i '6i title: "Arxiv每日推送"' README.md
-          sed -i '7i icon: "menu-book"' README.md
+          sed -i '7i icon: "menu_book"' README.md
           sed -i '8i toc: true' README.md
           sed -i '9i description: ""' README.md
           sed -i "10i publishdate: \"${{ steps.date.outputs.date }}\"" README.md
