@@ -44,7 +44,7 @@ layout: default
 |**2023-09-11**|**A high-performance deep reservoir computing experimentally demonstrated with ion-gating reservoirs**|Daiki Nishioka et.al.|[2309.03028](http://arxiv.org/abs/2309.03028)|null|
 |**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
 |**2023-09-05**|**Molecular dynamics simulation of nanofilament breakage in neuromorphic nanoparticle networks**|Wenkai Wu et.al.|[2309.02282](http://arxiv.org/abs/2309.02282)|null|
-|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111](http://arxiv.org/abs/2309.02111)|null|
+|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111](http://arxiv.org/abs/2309.02111)|**[link](https://github.com/myay/SPICE-Torch)**|
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476](http://arxiv.org/abs/2309.00476)|null|
 |**2023-09-01**|**Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation**|Vahid Pashaei Rad et.al.|[2309.00241](http://arxiv.org/abs/2309.00241)|null|
 |**2023-08-31**|**Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning**|Qian Zhang et.al.|[2308.16372](http://arxiv.org/abs/2308.16372)|null|
