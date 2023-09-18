@@ -27,6 +27,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**A Spiking Binary Neuron -- Detector of Causal Links**|Mikhail Kiselev et.al.|[2309.08476](http://arxiv.org/abs/2309.08476)|null|
+|**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232](http://arxiv.org/abs/2309.08232)|null|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
 |**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652](http://arxiv.org/abs/2309.06652)|null|
 |**2023-09-11**|**Neuromorphic Auditory Perception by Neural Spiketrum**|Huajin Tang et.al.|[2309.05430](http://arxiv.org/abs/2309.05430)|null|
@@ -129,6 +131,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232](http://arxiv.org/abs/2309.08232)|null|
 |**2023-09-14**|**Reconfigurable neural spiking in bias field-free spin Hall nano oscillator**|Sourabh Manna et.al.|[2309.07641](http://arxiv.org/abs/2309.07641)|null|
 |**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652](http://arxiv.org/abs/2309.06652)|null|
 |**2023-09-12**|**In operando cryo-STEM of pulse-induced charge density wave switching in TaS $_2$**|James L Hart et.al.|[2309.06406](http://arxiv.org/abs/2309.06406)|null|
@@ -191,6 +194,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
 |**2023-09-14**|**Semi-orthogonal subspaces for value mediate a tradeoff between binding and generalization**|W. Jeffrey Johnston et.al.|[2309.07766](http://arxiv.org/abs/2309.07766)|null|
 |**2023-09-14**|**A DenseNet-based method for decoding auditory spatial attention with EEG**|Xiran Xu et.al.|[2309.07690](http://arxiv.org/abs/2309.07690)|**[link](https://github.com/xuxiran/asad_densenet)**|
 |**2023-09-14**|**Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement**|Sheng Ye et.al.|[2309.07640](http://arxiv.org/abs/2309.07640)|null|
