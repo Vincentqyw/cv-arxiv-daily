@@ -31,6 +31,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Adaptive Reorganization of Neural Pathways for Continual Learning with Hybrid Spiking Neural Networks**|Bing Han et.al.|[2309.09550](http://arxiv.org/abs/2309.09550)|null|
+|**2023-09-18**|**Spiking-LEAF: A Learnable Auditory front-end for Spiking Neural Networks**|Zeyang Song et.al.|[2309.09469](http://arxiv.org/abs/2309.09469)|null|
+|**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297](http://arxiv.org/abs/2309.09297)|null|
+|**2023-09-16**|**Efficient Privacy-Preserving Convolutional Spiking Neural Networks with FHE**|Pengbo Li et.al.|[2309.09025](http://arxiv.org/abs/2309.09025)|null|
 |**2023-09-15**|**A Spiking Binary Neuron -- Detector of Causal Links**|Mikhail Kiselev et.al.|[2309.08476](http://arxiv.org/abs/2309.08476)|null|
 |**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232](http://arxiv.org/abs/2309.08232)|null|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535](http://arxiv.org/abs/2309.07535)|null|
@@ -198,6 +202,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Neural Parametric Surfaces for Shape Modeling**|Lei Yang et.al.|[2309.09911](http://arxiv.org/abs/2309.09911)|null|
+|**2023-09-18**|**Latent assimilation with implicit neural representations for unknown dynamics**|Zhuoyuan Li et.al.|[2309.09574](http://arxiv.org/abs/2309.09574)|null|
+|**2023-09-15**|**Diverse Neural Audio Embeddings -- Bringing Features back !**|Prateek Verma et.al.|[2309.08751](http://arxiv.org/abs/2309.08751)|null|
 |**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
 |**2023-09-14**|**Semi-orthogonal subspaces for value mediate a tradeoff between binding and generalization**|W. Jeffrey Johnston et.al.|[2309.07766](http://arxiv.org/abs/2309.07766)|null|
 |**2023-09-14**|**A DenseNet-based method for decoding auditory spatial attention with EEG**|Xiran Xu et.al.|[2309.07690](http://arxiv.org/abs/2309.07690)|**[link](https://github.com/xuxiran/asad_densenet)**|
