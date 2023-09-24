@@ -1461,7 +1461,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183](http://arxiv.org/abs/2309.12183)|null|
-|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|null|
+|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966](http://arxiv.org/abs/2309.11966)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767](http://arxiv.org/abs/2309.11767)|null|
 |**2023-09-21**|**MarkNerf:Watermarking for Neural Radiance Field**|Lifeng Chen et.al.|[2309.11747](http://arxiv.org/abs/2309.11747)|null|
 |**2023-09-21**|**Rendering stable features improves sampling-based localisation with Neural radiance fields**|Boxuan Zhang et.al.|[2309.11698](http://arxiv.org/abs/2309.11698)|null|
