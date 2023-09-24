@@ -214,10 +214,10 @@ layout: default
 |**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028](http://arxiv.org/abs/2309.11028)|**[link](https://github.com/doerlbh/topologicalrsa)**|
 |**2023-09-15**|**Neural Metamaterial Networks for Nonlinear Material Design**|Yue Li et.al.|[2309.10600](http://arxiv.org/abs/2309.10600)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
-|**2023-09-19**|**From sound to meaning in the auditory cortex: A neuronal representation and classification analysis**|Kumar Neelabh et.al.|[2309.10385](http://arxiv.org/abs/2309.10385)|null|
+|**2023-09-19**|**From sound to meaning in the auditory cortex: A neuronal representation and classification analysis**|Kumar Neelabh et.al.|[2309.10385](http://arxiv.org/abs/2309.10385)|**[link](https://github.com/mandalab/birdsongneuralrep)**|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
 |**2023-09-18**|**Neural Parametric Surfaces for Shape Modeling**|Lei Yang et.al.|[2309.09911](http://arxiv.org/abs/2309.09911)|null|
-|**2023-09-18**|**Latent assimilation with implicit neural representations for unknown dynamics**|Zhuoyuan Li et.al.|[2309.09574](http://arxiv.org/abs/2309.09574)|null|
+|**2023-09-18**|**Latent assimilation with implicit neural representations for unknown dynamics**|Zhuoyuan Li et.al.|[2309.09574](http://arxiv.org/abs/2309.09574)|**[link](https://github.com/zylipku/lainr)**|
 |**2023-09-15**|**Diverse Neural Audio Embeddings -- Bringing Features back !**|Prateek Verma et.al.|[2309.08751](http://arxiv.org/abs/2309.08751)|null|
 |**2023-09-11**|**COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability**|Jongmin Park et.al.|[2309.07926](http://arxiv.org/abs/2309.07926)|null|
 |**2023-09-14**|**Semi-orthogonal subspaces for value mediate a tradeoff between binding and generalization**|W. Jeffrey Johnston et.al.|[2309.07766](http://arxiv.org/abs/2309.07766)|null|
