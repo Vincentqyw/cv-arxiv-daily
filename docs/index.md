@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -211,7 +211,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**Continuous Levels of Detail for Light Field Networks**|David Li et.al.|[2309.11591](http://arxiv.org/abs/2309.11591)|null|
-|**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028](http://arxiv.org/abs/2309.11028)|**[link](https://github.com/doerlbh/topologicalrsa)**|
+|**2023-09-22**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028](http://arxiv.org/abs/2309.11028)|**[link](https://github.com/doerlbh/topologicalrsa)**|
 |**2023-09-15**|**Neural Metamaterial Networks for Nonlinear Material Design**|Yue Li et.al.|[2309.10600](http://arxiv.org/abs/2309.10600)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-19**|**From sound to meaning in the auditory cortex: A neuronal representation and classification analysis**|Kumar Neelabh et.al.|[2309.10385](http://arxiv.org/abs/2309.10385)|**[link](https://github.com/mandalab/birdsongneuralrep)**|
