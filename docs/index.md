@@ -31,6 +31,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555](http://arxiv.org/abs/2309.15555)|null|
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
 |**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|null|
@@ -220,6 +221,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848](http://arxiv.org/abs/2309.15848)|null|
+|**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|null|
+|**2023-09-27**|**Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations**|Hui Chen et.al.|[2309.15499](http://arxiv.org/abs/2309.15499)|null|
 |**2023-09-25**|**Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time**|Cheng-Hung Chan et.al.|[2309.14022](http://arxiv.org/abs/2309.14022)|null|
 |**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
 |**2023-09-22**|**RHINO: Regularizing the Hash-based Implicit Neural Representation**|Hao Zhu et.al.|[2309.12642](http://arxiv.org/abs/2309.12642)|null|
@@ -354,6 +358,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**High-Resolution Full-field Structural Microscopy of the Voltage Induced Filament Formation in Neuromorphic Devices**|Elliot Kisiel et.al.|[2309.15712](http://arxiv.org/abs/2309.15712)|null|
 |**2023-08-29**|**Infrared Nanoimaging of Hydrogenated Perovskite Nickelate Synaptic Devices**|Sampath Gamage et.al.|[2309.04486](http://arxiv.org/abs/2309.04486)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
