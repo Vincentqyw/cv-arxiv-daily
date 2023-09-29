@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -35,7 +35,7 @@ layout: default
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
 |**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|null|
-|**2023-09-23**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302](http://arxiv.org/abs/2309.13302)|null|
+|**2023-09-28**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302](http://arxiv.org/abs/2309.13302)|null|
 |**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937](http://arxiv.org/abs/2309.12937)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
 |**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540](http://arxiv.org/abs/2309.12540)|null|
@@ -313,7 +313,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
-|**2023-06-21**|**Unveiling universal aspects of the cellular anatomy of the brain**|Helen S. Ansell et.al.|[2306.12289](http://arxiv.org/abs/2306.12289)|null|
+|**2023-09-25**|**Unveiling universal aspects of the cellular anatomy of the brain**|Helen S. Ansell et.al.|[2306.12289](http://arxiv.org/abs/2306.12289)|null|
 |**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
 |**2023-06-03**|**Adaptive whitening in neural populations with gain-modulating interneurons**|Lyndon R. Duong et.al.|[2301.11955](http://arxiv.org/abs/2301.11955)|**[link](https://github.com/lyndond/frame_whitening)**|
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
