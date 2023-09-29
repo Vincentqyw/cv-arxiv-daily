@@ -27,6 +27,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425](http://arxiv.org/abs/2309.16425)|null|
+|**2023-09-28**|**FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator**|Jindong Li et.al.|[2309.16158](http://arxiv.org/abs/2309.16158)|null|
+|**2023-09-27**|**Highly Efficient SNNs for High-speed Object Detection**|Nemin Qiu et.al.|[2309.15883](http://arxiv.org/abs/2309.15883)|null|
 |**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555](http://arxiv.org/abs/2309.15555)|null|
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
@@ -217,6 +220,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**|Hui Zheng et.al.|[2309.16457](http://arxiv.org/abs/2309.16457)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848](http://arxiv.org/abs/2309.15848)|null|
 |**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|null|
 |**2023-09-27**|**Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations**|Hui Chen et.al.|[2309.15499](http://arxiv.org/abs/2309.15499)|null|
