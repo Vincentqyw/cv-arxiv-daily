@@ -289,7 +289,7 @@ layout: default
 |**2023-07-23**|**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings**|Yejia Zhang et.al.|[2307.12429](http://arxiv.org/abs/2307.12429)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
 |**2023-07-16**|**Neural Stream Functions**|Skylar Wolfgang Wurster et.al.|[2307.08142](http://arxiv.org/abs/2307.08142)|**[link](https://github.com/skywolf829/neuralstreamfunction)**|
-|**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|null|
+|**2023-07-14**|**Aligned and oblique dynamics in recurrent neural networks**|Friedrich Schuessler et.al.|[2307.07654](http://arxiv.org/abs/2307.07654)|**[link](https://github.com/frschu/aligned_oblique_in_rnns)**|
 |**2023-07-14**|**Implicit Neural Feature Fusion Function for Multispectral and Hyperspectral Image Fusion**|ShangQi Deng et.al.|[2307.07288](http://arxiv.org/abs/2307.07288)|null|
 |**2023-07-22**|**Local Conditional Neural Fields for Versatile and Generalizable Large-Scale Reconstructions in Computational Imaging**|Hao Wang et.al.|[2307.06207](http://arxiv.org/abs/2307.06207)|**[link](https://github.com/bu-cisl/LCNF)**|
 |**2023-07-12**|**Learning Kernel-Modulated Neural Representation for Efficient Light Field Compression**|Jinglei Shi et.al.|[2307.06143](http://arxiv.org/abs/2307.06143)|null|
