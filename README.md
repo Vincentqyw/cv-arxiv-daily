@@ -1,4 +1,4 @@
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -28,7 +28,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987](http://arxiv.org/abs/2309.16987)|null|
-|**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|null|
+|**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425](http://arxiv.org/abs/2309.16425)|null|
 |**2023-09-28**|**FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator**|Jindong Li et.al.|[2309.16158](http://arxiv.org/abs/2309.16158)|null|
 |**2023-09-27**|**Highly Efficient SNNs for High-speed Object Detection**|Nemin Qiu et.al.|[2309.15883](http://arxiv.org/abs/2309.15883)|null|
@@ -153,7 +153,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-29**|**Stochastic syncing in sinusoidally driven atomic orbital memory**|Werner M. J. van Weerdenburg et.al.|[2309.17000](http://arxiv.org/abs/2309.17000)|null|
-|**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|null|
+|**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
 |**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
