@@ -31,6 +31,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Tunable chiral anomalies and coherent transport on a honeycomb lattice**|Vasil A. Saroka et.al.|[2310.02148](http://arxiv.org/abs/2310.02148)|null|
+|**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
+|**2023-10-01**|**DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor**|Ole Richter et.al.|[2310.00564](http://arxiv.org/abs/2310.00564)|null|
+|**2023-10-01**|**Elucidating Dynamic Conductive State Changes in Amorphous Lithium Lanthanum Titanate for Resistive Switching Devices**|Ryosuke Shimizu et.al.|[2310.00543](http://arxiv.org/abs/2310.00543)|null|
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987](http://arxiv.org/abs/2309.16987)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425](http://arxiv.org/abs/2309.16425)|null|
@@ -156,6 +160,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Tunable chiral anomalies and coherent transport on a honeycomb lattice**|Vasil A. Saroka et.al.|[2310.02148](http://arxiv.org/abs/2310.02148)|null|
+|**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
+|**2023-10-02**|**Non-negative isomorphic neural networks for photonic neuromorphic accelerators**|Manos Kirtas et.al.|[2310.01084](http://arxiv.org/abs/2310.01084)|null|
+|**2023-10-01**|**Elucidating Dynamic Conductive State Changes in Amorphous Lithium Lanthanum Titanate for Resistive Switching Devices**|Ryosuke Shimizu et.al.|[2310.00543](http://arxiv.org/abs/2310.00543)|null|
 |**2023-09-29**|**Stochastic syncing in sinusoidally driven atomic orbital memory**|Werner M. J. van Weerdenburg et.al.|[2309.17000](http://arxiv.org/abs/2309.17000)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
@@ -228,6 +236,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Robust deformable image registration using cycle-consistent implicit representations**|Louis D. van Harten et.al.|[2310.01934](http://arxiv.org/abs/2310.01934)|**[link](https://github.com/louisvh/cycle_consistent_inr)**|
+|**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
+|**2023-10-03**|**A simple connection from loss flatness to compressed representations in neural networks**|Shirui Chen et.al.|[2310.01770](http://arxiv.org/abs/2310.01770)|null|
+|**2023-10-02**|**LoCUS: Learning Multiscale 3D-consistent Features from Posed Images**|Dominik A. Kloepfer et.al.|[2310.01095](http://arxiv.org/abs/2310.01095)|null|
+|**2023-10-01**|**Implicit Neural Representations and the Algebra of Complex Wavelets**|T. Mitchell Roddenberry et.al.|[2310.00545](http://arxiv.org/abs/2310.00545)|null|
 |**2023-09-29**|**RECOMBINER: Robust and Enhanced Compression with Bayesian Implicit Neural Representations**|Jiajun He et.al.|[2309.17182](http://arxiv.org/abs/2309.17182)|null|
 |**2023-09-28**|**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**|Hui Zheng et.al.|[2309.16457](http://arxiv.org/abs/2309.16457)|null|
 |**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848](http://arxiv.org/abs/2309.15848)|null|
