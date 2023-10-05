@@ -27,6 +27,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772](http://arxiv.org/abs/2310.02772)|null|
+|**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364](http://arxiv.org/abs/2310.02364)|null|
+|**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361](http://arxiv.org/abs/2310.02361)|null|
 |**2023-10-03**|**Tunable chiral anomalies and coherent transport on a honeycomb lattice**|Vasil A. Saroka et.al.|[2310.02148](http://arxiv.org/abs/2310.02148)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
 |**2023-10-01**|**DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor**|Ole Richter et.al.|[2310.00564](http://arxiv.org/abs/2310.00564)|null|
@@ -156,6 +159,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364](http://arxiv.org/abs/2310.02364)|null|
 |**2023-10-03**|**Tunable chiral anomalies and coherent transport on a honeycomb lattice**|Vasil A. Saroka et.al.|[2310.02148](http://arxiv.org/abs/2310.02148)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
 |**2023-10-02**|**Non-negative isomorphic neural networks for photonic neuromorphic accelerators**|Manos Kirtas et.al.|[2310.01084](http://arxiv.org/abs/2310.01084)|null|
@@ -232,6 +236,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Tracking Anything in Heart All at Once**|Chengkang Shen et.al.|[2310.02792](http://arxiv.org/abs/2310.02792)|null|
 |**2023-10-03**|**Robust deformable image registration using cycle-consistent implicit representations**|Louis D. van Harten et.al.|[2310.01934](http://arxiv.org/abs/2310.01934)|**[link](https://github.com/louisvh/cycle_consistent_inr)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
 |**2023-10-03**|**A simple connection from loss flatness to compressed representations in neural networks**|Shirui Chen et.al.|[2310.01770](http://arxiv.org/abs/2310.01770)|null|
