@@ -240,6 +240,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Inferring Inference**|Rajkumar Vasudeva Raju et.al.|[2310.03186](http://arxiv.org/abs/2310.03186)|**[link](https://github.com/xaqlab/inferringinference)**|
 |**2023-10-04**|**Tracking Anything in Heart All at Once**|Chengkang Shen et.al.|[2310.02792](http://arxiv.org/abs/2310.02792)|null|
 |**2023-10-03**|**Robust deformable image registration using cycle-consistent implicit representations**|Louis D. van Harten et.al.|[2310.01934](http://arxiv.org/abs/2310.01934)|**[link](https://github.com/louisvh/cycle_consistent_inr)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
