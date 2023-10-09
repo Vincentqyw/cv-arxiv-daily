@@ -31,6 +31,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**In the Blink of an Eye: Event-based Emotion Recognition**|Haiwei Zhang et.al.|[2310.04043](http://arxiv.org/abs/2310.04043)|**[link](https://github.com/zhanghaiwei1234/single-eye-emotion-recognition)**|
+|**2023-10-05**|**Unsupervised SFQ-Based Spiking Neural Network**|Mustafa Altay Karamuftuoglu et.al.|[2310.03918](http://arxiv.org/abs/2310.03918)|null|
+|**2023-10-05**|**Neuromorphic Robust Framework for Concurrent Estimation and Control in Dynamical Systems using Spiking Neural Networks**|Reza Ahmadvand et.al.|[2310.03873](http://arxiv.org/abs/2310.03873)|null|
 |**2023-10-04**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772](http://arxiv.org/abs/2310.02772)|null|
 |**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364](http://arxiv.org/abs/2310.02364)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361](http://arxiv.org/abs/2310.02361)|null|
@@ -163,6 +166,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Neuromorphic Robust Framework for Concurrent Estimation and Control in Dynamical Systems using Spiking Neural Networks**|Reza Ahmadvand et.al.|[2310.03873](http://arxiv.org/abs/2310.03873)|null|
 |**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364](http://arxiv.org/abs/2310.02364)|null|
 |**2023-10-03**|**Tunable chiral anomalies and coherent transport on a honeycomb lattice**|Vasil A. Saroka et.al.|[2310.02148](http://arxiv.org/abs/2310.02148)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055](http://arxiv.org/abs/2310.02055)|null|
