@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -34,7 +34,7 @@ layout: default
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711](http://arxiv.org/abs/2310.07711)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189](http://arxiv.org/abs/2310.07189)|null|
 |**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578](http://arxiv.org/abs/2310.06578)|null|
-|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
+|**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
 |**2023-10-10**|**Spiking PointNet: Spiking Neural Networks for Point Clouds**|Dayong Ren et.al.|[2310.06232](http://arxiv.org/abs/2310.06232)|**[link](https://github.com/dayongren/spiking-pointnet)**|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|null|
 |**2023-10-09**|**Investigating Continuous Learning in Spiking Neural Networks**|C. Tanner Fredieu et.al.|[2310.05343](http://arxiv.org/abs/2310.05343)|null|
@@ -259,7 +259,7 @@ layout: default
 |**2023-10-10**|**Neural ring homomorphism preserves mandatory sets required for open convexity**|Neha Gupta et.al.|[2310.06323](http://arxiv.org/abs/2310.06323)|null|
 |**2023-10-09**|**Manifold-augmented Eikonal Equations: Geodesic Distances and Flows on Differentiable Manifolds**|Daniel Kelshaw et.al.|[2310.06157](http://arxiv.org/abs/2310.06157)|null|
 |**2023-10-09**|**Estimating Shape Distances on Neural Representations with Limited Samples**|Dean A. Pospisil et.al.|[2310.05742](http://arxiv.org/abs/2310.05742)|null|
-|**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
+|**2023-10-12**|**Locality-Aware Generalizable Implicit Neural Representation**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
 |**2023-10-05**|**Tuning In to Neural Encoding: Linking Human Brain and Artificial Supervised Representations of Language**|Jingyuan Sun et.al.|[2310.04460](http://arxiv.org/abs/2310.04460)|null|
 |**2023-10-06**|**Inferring Inference**|Rajkumar Vasudeva Raju et.al.|[2310.03186](http://arxiv.org/abs/2310.03186)|**[link](https://github.com/xaqlab/inferringinference)**|
 |**2023-10-04**|**Tracking Anything in Heart All at Once**|Chengkang Shen et.al.|[2310.02792](http://arxiv.org/abs/2310.02792)|null|
