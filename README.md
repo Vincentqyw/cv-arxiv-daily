@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control**|Jalil Chavez-Galaviz et.al.|[2310.07892](http://arxiv.org/abs/2310.07892)|null|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
 |**2023-07-27**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626](http://arxiv.org/abs/2307.14626)|null|
 |**2023-06-16**|**Towards fully integrated photonic backpropagation training and inference using on-chip nonlinear activation and gradient functions**|Farshid Ashtiani et.al.|[2307.10179](http://arxiv.org/abs/2307.10179)|null|
@@ -27,6 +28,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**An On-Chip Trainable Neuron Circuit for SFQ-Based Spiking Neural Networks**|Beyza Zeynep Ucpinar et.al.|[2310.07824](http://arxiv.org/abs/2310.07824)|null|
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711](http://arxiv.org/abs/2310.07711)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189](http://arxiv.org/abs/2310.07189)|null|
 |**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578](http://arxiv.org/abs/2310.06578)|null|
