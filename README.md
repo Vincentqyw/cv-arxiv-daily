@@ -28,6 +28,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
+|**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317](http://arxiv.org/abs/2310.10317)|null|
+|**2023-10-15**|**Spike-based Neuromorphic Computing for Next-Generation Computer Vision**|Md Sakib Hasan et.al.|[2310.09692](http://arxiv.org/abs/2310.09692)|null|
+|**2023-10-13**|**Spiking Semantic Communication for Feature Transmission with HARQ**|Mengyang Wang et.al.|[2310.08804](http://arxiv.org/abs/2310.08804)|null|
 |**2023-10-11**|**An On-Chip Trainable Neuron Circuit for SFQ-Based Spiking Neural Networks**|Beyza Zeynep Ucpinar et.al.|[2310.07824](http://arxiv.org/abs/2310.07824)|null|
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711](http://arxiv.org/abs/2310.07711)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189](http://arxiv.org/abs/2310.07189)|null|
@@ -172,6 +176,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
+|**2023-10-15**|**Spike-based Neuromorphic Computing for Next-Generation Computer Vision**|Md Sakib Hasan et.al.|[2310.09692](http://arxiv.org/abs/2310.09692)|null|
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711](http://arxiv.org/abs/2310.07711)|null|
 |**2023-10-11**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690](http://arxiv.org/abs/2310.07690)|null|
 |**2023-10-11**|**Unlocking Electro-Optic Tuning in Hybrid Silicon Photonics Based on Ferroionic 2D Materials**|Ghada Dushaq et.al.|[2310.07382](http://arxiv.org/abs/2310.07382)|null|
@@ -254,12 +260,14 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
+|**2023-10-12**|**Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction**|Pol Caselles et.al.|[2310.08784](http://arxiv.org/abs/2310.08784)|null|
 |**2023-10-10**|**Neural ring homomorphism preserves mandatory sets required for open convexity**|Neha Gupta et.al.|[2310.06323](http://arxiv.org/abs/2310.06323)|null|
 |**2023-10-09**|**Manifold-augmented Eikonal Equations: Geodesic Distances and Flows on Differentiable Manifolds**|Daniel Kelshaw et.al.|[2310.06157](http://arxiv.org/abs/2310.06157)|null|
 |**2023-10-09**|**Estimating Shape Distances on Neural Representations with Limited Samples**|Dean A. Pospisil et.al.|[2310.05742](http://arxiv.org/abs/2310.05742)|null|
 |**2023-10-12**|**Locality-Aware Generalizable Implicit Neural Representation**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
 |**2023-10-05**|**Tuning In to Neural Encoding: Linking Human Brain and Artificial Supervised Representations of Language**|Jingyuan Sun et.al.|[2310.04460](http://arxiv.org/abs/2310.04460)|null|
-|**2023-10-06**|**Inferring Inference**|Rajkumar Vasudeva Raju et.al.|[2310.03186](http://arxiv.org/abs/2310.03186)|**[link](https://github.com/xaqlab/inferringinference)**|
+|**2023-10-13**|**Inferring Inference**|Rajkumar Vasudeva Raju et.al.|[2310.03186](http://arxiv.org/abs/2310.03186)|**[link](https://github.com/xaqlab/inferringinference)**|
 |**2023-10-04**|**Tracking Anything in Heart All at Once**|Chengkang Shen et.al.|[2310.02792](http://arxiv.org/abs/2310.02792)|null|
 |**2023-10-03**|**Robust deformable image registration using cycle-consistent implicit representations**|Louis D. van Harten et.al.|[2310.01934](http://arxiv.org/abs/2310.01934)|**[link](https://github.com/louisvh/cycle_consistent_inr)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881](http://arxiv.org/abs/2310.01881)|null|
@@ -405,6 +413,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-14**|**Ergodicity, lack thereof, and the performance of reservoir computing with memristive networks**|Valentina Baccetti et.al.|[2310.09530](http://arxiv.org/abs/2310.09530)|null|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|null|
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-27**|**High-Resolution Full-field Structural Microscopy of the Voltage Induced Filament Formation in Neuromorphic Devices**|Elliot Kisiel et.al.|[2309.15712](http://arxiv.org/abs/2309.15712)|null|
