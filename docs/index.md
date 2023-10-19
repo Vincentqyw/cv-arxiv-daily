@@ -32,6 +32,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317](http://arxiv.org/abs/2310.10317)|null|
 |**2023-10-15**|**Spike-based Neuromorphic Computing for Next-Generation Computer Vision**|Md Sakib Hasan et.al.|[2310.09692](http://arxiv.org/abs/2310.09692)|null|
@@ -180,6 +181,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
 |**2023-10-15**|**Spike-based Neuromorphic Computing for Next-Generation Computer Vision**|Md Sakib Hasan et.al.|[2310.09692](http://arxiv.org/abs/2310.09692)|null|
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711](http://arxiv.org/abs/2310.07711)|null|
@@ -264,6 +266,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535](http://arxiv.org/abs/2310.11535)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-12**|**Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction**|Pol Caselles et.al.|[2310.08784](http://arxiv.org/abs/2310.08784)|null|
 |**2023-10-10**|**Neural ring homomorphism preserves mandatory sets required for open convexity**|Neha Gupta et.al.|[2310.06323](http://arxiv.org/abs/2310.06323)|null|
