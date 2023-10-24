@@ -28,6 +28,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978](http://arxiv.org/abs/2310.14978)|null|
+|**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
+|**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|null|
+|**2023-10-23**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576](http://arxiv.org/abs/2310.14576)|null|
+|**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844](http://arxiv.org/abs/2310.13844)|null|
 |**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317](http://arxiv.org/abs/2310.10317)|null|
@@ -177,6 +182,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|null|
+|**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844](http://arxiv.org/abs/2310.13844)|null|
 |**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
 |**2023-10-15**|**Spike-based Neuromorphic Computing for Next-Generation Computer Vision**|Md Sakib Hasan et.al.|[2310.09692](http://arxiv.org/abs/2310.09692)|null|
@@ -262,6 +269,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Neural representation in active inference: using generative models to interact with -- and understand -- the lived world**|Giovanni Pezzulo et.al.|[2310.14810](http://arxiv.org/abs/2310.14810)|null|
+|**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
+|**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184](http://arxiv.org/abs/2310.14184)|null|
 |**2023-10-20**|**Visual Grounding Helps Learn Word Meanings in Low-Data Regimes**|Chengxu Zhuang et.al.|[2310.13257](http://arxiv.org/abs/2310.13257)|null|
 |**2023-10-19**|**SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes**|Ziyi Yang et.al.|[2310.13030](http://arxiv.org/abs/2310.13030)|**[link](https://github.com/ingra14m/sire-ir)**|
 |**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535](http://arxiv.org/abs/2310.11535)|null|
