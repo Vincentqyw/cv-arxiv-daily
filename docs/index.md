@@ -32,6 +32,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|null|
+|**2023-10-25**|**Agreeing to Stop: Reliable Latency-Adaptive Decision Making via Ensembles of Spiking Neural Networks**|Jiechen Chen et.al.|[2310.16675](http://arxiv.org/abs/2310.16675)|null|
+|**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620](http://arxiv.org/abs/2310.16620)|**[link](https://github.com/fangwei123456/spikingjelly)**|
+|**2023-10-25**|**How can neuromorphic hardware attain brain-like functional capabilities?**|Wolfgang Maass et.al.|[2310.16444](http://arxiv.org/abs/2310.16444)|null|
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978](http://arxiv.org/abs/2310.14978)|null|
 |**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
 |**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|null|
@@ -186,6 +190,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620](http://arxiv.org/abs/2310.16620)|**[link](https://github.com/fangwei123456/spikingjelly)**|
+|**2023-10-25**|**How can neuromorphic hardware attain brain-like functional capabilities?**|Wolfgang Maass et.al.|[2310.16444](http://arxiv.org/abs/2310.16444)|null|
 |**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|null|
 |**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844](http://arxiv.org/abs/2310.13844)|null|
 |**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
@@ -273,6 +279,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Interpretable time series neural representation for classification purposes**|Etienne Le Naour et.al.|[2310.16696](http://arxiv.org/abs/2310.16696)|null|
+|**2023-10-25**|**Towards Information Theory-Based Discovery of Equivariances**|Hippolyte Charvin et.al.|[2310.16555](http://arxiv.org/abs/2310.16555)|null|
 |**2023-10-23**|**Neural representation in active inference: using generative models to interact with -- and understand -- the lived world**|Giovanni Pezzulo et.al.|[2310.14810](http://arxiv.org/abs/2310.14810)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184](http://arxiv.org/abs/2310.14184)|null|
