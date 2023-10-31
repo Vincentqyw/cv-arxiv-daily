@@ -28,6 +28,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Expanding memory in recurrent spiking networks**|Ismael Balafrej et.al.|[2310.19067](http://arxiv.org/abs/2310.19067)|null|
+|**2023-10-29**|**A multi-modal table tennis robot system**|Andreas Ziegler et.al.|[2310.19062](http://arxiv.org/abs/2310.19062)|null|
+|**2023-10-28**|**Reduced sensitivity to process, voltage and temperature variations in activated perpendicular magnetic tunnel junctions based stochastic devices**|Md Golam Morshed et.al.|[2310.18781](http://arxiv.org/abs/2310.18781)|null|
 |**2023-10-27**|**Concepts and Paradigms for Neuromorphic Programming**|Steven Abreu et.al.|[2310.18260](http://arxiv.org/abs/2310.18260)|null|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
 |**2023-10-25**|**Neuromorphic weighted sum with magnetic skyrmions**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.16909](http://arxiv.org/abs/2310.16909)|null|
@@ -189,12 +192,14 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-28**|**Reduced sensitivity to process, voltage and temperature variations in activated perpendicular magnetic tunnel junctions based stochastic devices**|Md Golam Morshed et.al.|[2310.18781](http://arxiv.org/abs/2310.18781)|null|
+|**2023-10-20**|**The hardware is the software**|Jeremie Laydevant et.al.|[2310.18335](http://arxiv.org/abs/2310.18335)|null|
 |**2023-10-27**|**Concepts and Paradigms for Neuromorphic Programming**|Steven Abreu et.al.|[2310.18260](http://arxiv.org/abs/2310.18260)|null|
 |**2023-10-25**|**WaLiN-GUI: a graphical and auditory tool for neuron-based encoding**|Simon F. Müller-Cleve et.al.|[2310.16983](http://arxiv.org/abs/2310.16983)|**[link](https://github.com/event-driven-robotics/walin-gui)**|
 |**2023-10-25**|**Neuromorphic weighted sum with magnetic skyrmions**|Tristan da Câmara Santa Clara Gomes et.al.|[2310.16909](http://arxiv.org/abs/2310.16909)|null|
 |**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620](http://arxiv.org/abs/2310.16620)|**[link](https://github.com/fangwei123456/spikingjelly)**|
 |**2023-10-25**|**How can neuromorphic hardware attain brain-like functional capabilities?**|Wolfgang Maass et.al.|[2310.16444](http://arxiv.org/abs/2310.16444)|null|
-|**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|null|
+|**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|**[link](https://github.com/linzhanghan/smnn)**|
 |**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844](http://arxiv.org/abs/2310.13844)|null|
 |**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
@@ -281,6 +286,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
+|**2023-10-27**|**FPM-INR: Fourier ptychographic microscopy image stack reconstruction using implicit neural representations**|Haowen Zhou et.al.|[2310.18529](http://arxiv.org/abs/2310.18529)|null|
 |**2023-10-26**|**Neural Stress Fields for Reduced-order Elastoplasticity and Fracture**|Zeshun Zong et.al.|[2310.17790](http://arxiv.org/abs/2310.17790)|null|
 |**2023-10-27**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519](http://arxiv.org/abs/2310.17519)|null|
 |**2023-10-25**|**Interpretable time series neural representation for classification purposes**|Etienne Le Naour et.al.|[2310.16696](http://arxiv.org/abs/2310.16696)|null|
@@ -444,6 +451,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-20**|**The hardware is the software**|Jeremie Laydevant et.al.|[2310.18335](http://arxiv.org/abs/2310.18335)|null|
 |**2023-10-14**|**Ergodicity, lack thereof, and the performance of reservoir computing with memristive networks**|Valentina Baccetti et.al.|[2310.09530](http://arxiv.org/abs/2310.09530)|null|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|null|
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
