@@ -286,6 +286,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**|Antonis Antoniades et.al.|[2311.00136](http://arxiv.org/abs/2311.00136)|null|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|null|
 |**2023-10-30**|**RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency**|Zhuoman Liu et.al.|[2310.19629](http://arxiv.org/abs/2310.19629)|**[link](https://github.com/vlar-group/raydf)**|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
@@ -463,6 +464,7 @@
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-03**|**Unveiling the Potential of Spike Streams for Foreground Occlusion Removal from Densely Continuous Views**|Jiyuan Zhang et.al.|[2307.00821](http://arxiv.org/abs/2307.00821)|null|
+|**2023-11-01**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749](http://arxiv.org/abs/2306.15749)|**[link](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)**|
 |**2023-08-28**|**Implementation of Multiple-Step Quantized STDP Based on Novel Memristive Synapses**|Y. Liu et.al.|[2306.06379](http://arxiv.org/abs/2306.06379)|null|
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410](http://arxiv.org/abs/2306.04410)|null|
 |**2023-05-28**|**Evolving Connectivity for Recurrent Spiking Neural Networks**|Guan Wang et.al.|[2305.17650](http://arxiv.org/abs/2305.17650)|null|
