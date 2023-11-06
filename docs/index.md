@@ -630,7 +630,7 @@ layout: default
 |**2023-09-18**|**Decompose Semantic Shifts for Composed Image Retrieval**|Xingyu Yang et.al.|[2309.09531](http://arxiv.org/abs/2309.09531)|null|
 |**2023-09-16**|**Efficient Object Rearrangement via Multi-view Fusion**|Dehao Huang et.al.|[2309.08994](http://arxiv.org/abs/2309.08994)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
-|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|null|
+|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
 |**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|null|
