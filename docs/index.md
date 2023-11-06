@@ -290,6 +290,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
 |**2023-10-31**|**Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**|Antonis Antoniades et.al.|[2311.00136](http://arxiv.org/abs/2311.00136)|null|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|null|
 |**2023-10-30**|**RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency**|Zhuoman Liu et.al.|[2310.19629](http://arxiv.org/abs/2310.19629)|**[link](https://github.com/vlar-group/raydf)**|
