@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
 |**2023-10-11**|**ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control**|Jalil Chavez-Galaviz et.al.|[2310.07892](http://arxiv.org/abs/2310.07892)|null|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
 |**2023-07-27**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626](http://arxiv.org/abs/2307.14626)|null|
@@ -28,6 +29,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
+|**2023-11-09**|**Rethinking Residual Connection in Training Large-Scale Spiking Neural Networks**|Yudong Li et.al.|[2311.05171](http://arxiv.org/abs/2311.05171)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558](http://arxiv.org/abs/2311.04558)|null|
 |**2023-11-07**|**Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models**|Jan Finkbeiner et.al.|[2311.04386](http://arxiv.org/abs/2311.04386)|null|
 |**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216](http://arxiv.org/abs/2311.04216)|null|
@@ -292,6 +295,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146](http://arxiv.org/abs/2311.05146)|null|
+|**2023-11-08**|**Implicit Neural Representations for Breathing-compensated Volume Reconstruction in Robotic Ultrasound Aorta Screening**|Yordanka Velikova et.al.|[2311.04999](http://arxiv.org/abs/2311.04999)|null|
 |**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744](http://arxiv.org/abs/2311.04744)|null|
 |**2023-11-05**|**Optimizing Implicit Neural Representations from Point Clouds via Energy-Based Models**|Ryutaro Yamauchi et.al.|[2311.02601](http://arxiv.org/abs/2311.02601)|null|
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
@@ -418,6 +423,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
 |**2023-09-25**|**Unveiling universal aspects of the cellular anatomy of the brain**|Helen S. Ansell et.al.|[2306.12289](http://arxiv.org/abs/2306.12289)|null|
 |**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
