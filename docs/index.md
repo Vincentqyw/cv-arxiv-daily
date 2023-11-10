@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -299,7 +299,7 @@ layout: default
 |**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744](http://arxiv.org/abs/2311.04744)|null|
 |**2023-11-05**|**Optimizing Implicit Neural Representations from Point Clouds via Energy-Based Models**|Ryutaro Yamauchi et.al.|[2311.02601](http://arxiv.org/abs/2311.02601)|null|
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
-|**2023-11-06**|**Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**|Antonis Antoniades et.al.|[2311.00136](http://arxiv.org/abs/2311.00136)|**[link](https://github.com/woanderer/Neuroformer)**|
+|**2023-11-08**|**Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data**|Antonis Antoniades et.al.|[2311.00136](http://arxiv.org/abs/2311.00136)|**[link](https://github.com/woanderer/Neuroformer)**|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|**[link](https://github.com/yebbi/pinc)**|
 |**2023-10-30**|**RayDF: Neural Ray-surface Distance Fields with Multi-view Consistency**|Zhuoman Liu et.al.|[2310.19629](http://arxiv.org/abs/2310.19629)|**[link](https://github.com/vlar-group/raydf)**|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
