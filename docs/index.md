@@ -86,7 +86,7 @@ layout: default
 |**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555](http://arxiv.org/abs/2309.15555)|null|
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523](http://arxiv.org/abs/2309.14523)|null|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
-|**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|null|
+|**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|**[link](https://github.com/bahadirkesgin/ML_w_Chaos)**|
 |**2023-09-28**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302](http://arxiv.org/abs/2309.13302)|null|
 |**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937](http://arxiv.org/abs/2309.12937)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
@@ -230,7 +230,7 @@ layout: default
 |**2023-09-29**|**Stochastic syncing in sinusoidally driven atomic orbital memory**|Werner M. J. van Weerdenburg et.al.|[2309.17000](http://arxiv.org/abs/2309.17000)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795](http://arxiv.org/abs/2309.16795)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-25**|**What keeps nanopores boiling**|Alberto Giacomello et.al.|[2309.14260](http://arxiv.org/abs/2309.14260)|null|
-|**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|null|
+|**2023-09-23**|**Machine Learning with Chaotic Strange Attractors**|Bahadır Utku Kesgin et.al.|[2309.13361](http://arxiv.org/abs/2309.13361)|**[link](https://github.com/bahadirkesgin/ML_w_Chaos)**|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
 |**2023-09-21**|**High-Conductance, Ohmic-like HfZrO $_4$ Ferroelectric Memristor**|Laura Bégon-Lours et.al.|[2309.12070](http://arxiv.org/abs/2309.12070)|null|
 |**2023-09-20**|**Limitations in odour recognition and generalisation in a neuromorphic olfactory circuit**|Nik Dennler et.al.|[2309.11555](http://arxiv.org/abs/2309.11555)|**[link](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)**|
@@ -389,7 +389,7 @@ layout: default
 |**2023-08-03**|**On the Transition from Neural Representation to Symbolic Knowledge**|Junyan Cheng et.al.|[2308.02000](http://arxiv.org/abs/2308.02000)|null|
 |**2023-08-01**|**NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation**|Weiyun Jiang et.al.|[2308.00622](http://arxiv.org/abs/2308.00622)|null|
 |**2023-07-30**|**Implicit Neural Representation in Medical Imaging: A Comparative Survey**|Amirali Molaei et.al.|[2307.16142](http://arxiv.org/abs/2307.16142)|**[link](https://github.com/mindflow-institue/awesome-implicit-neural-representations-in-medical-imaging)**|
-|**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428](http://arxiv.org/abs/2307.15428)|null|
+|**2023-07-28**|**Implicit neural representation for change detection**|Peter Naylor et.al.|[2307.15428](http://arxiv.org/abs/2307.15428)|**[link](https://github.com/peterjacknaylor/nn-4-change-detection)**|
 |**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131](http://arxiv.org/abs/2307.15131)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-27**|**Neural Representation-Based Method for Metal-induced Artifact Reduction in Dental CBCT Imaging**|Hyoung Suk Park et.al.|[2307.14579](http://arxiv.org/abs/2307.14579)|null|
 |**2023-07-25**|**INFINITY: Neural Field Modeling for Reynolds-Averaged Navier-Stokes Equations**|Louis Serrano et.al.|[2307.13538](http://arxiv.org/abs/2307.13538)|null|
