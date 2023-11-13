@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149](http://arxiv.org/abs/2311.06149)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722](http://arxiv.org/abs/2311.03722)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924](http://arxiv.org/abs/2310.14924)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931](http://arxiv.org/abs/2310.10931)|**[link](https://github.com/yanyan-li/open-structure)**|
@@ -441,6 +442,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Remi Marsal Florian Chabot et.al.|[2311.06137](http://arxiv.org/abs/2311.06137)|null|
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634](http://arxiv.org/abs/2311.04634)|**[link](https://github.com/lfranke/vet)**|
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364](http://arxiv.org/abs/2310.14364)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
@@ -581,6 +583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
 |**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098](http://arxiv.org/abs/2311.04098)|**[link](https://github.com/gofigure-lanl/figure-segmentation)**|
@@ -1527,6 +1530,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
+|**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
