@@ -33,6 +33,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881](http://arxiv.org/abs/2311.05881)|null|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
 |**2023-11-09**|**Rethinking Residual Connection in Training Large-Scale Spiking Neural Networks**|Yudong Li et.al.|[2311.05171](http://arxiv.org/abs/2311.05171)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558](http://arxiv.org/abs/2311.04558)|null|
@@ -203,6 +204,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881](http://arxiv.org/abs/2311.05881)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558](http://arxiv.org/abs/2311.04558)|null|
 |**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216](http://arxiv.org/abs/2311.04216)|null|
 |**2023-10-28**|**Reduced sensitivity to process, voltage and temperature variations in activated perpendicular magnetic tunnel junctions based stochastic devices**|Md Golam Morshed et.al.|[2310.18781](http://arxiv.org/abs/2310.18781)|null|
@@ -299,6 +301,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Improved Positional Encoding for Implicit Neural Representation based Compact Data Representation**|Bharath Bhushan Damodaran et.al.|[2311.06059](http://arxiv.org/abs/2311.06059)|null|
 |**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146](http://arxiv.org/abs/2311.05146)|null|
 |**2023-11-08**|**Implicit Neural Representations for Breathing-compensated Volume Reconstruction in Robotic Ultrasound Aorta Screening**|Yordanka Velikova et.al.|[2311.04999](http://arxiv.org/abs/2311.04999)|null|
 |**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744](http://arxiv.org/abs/2311.04744)|null|
