@@ -33,6 +33,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787](http://arxiv.org/abs/2311.07787)|null|
+|**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625](http://arxiv.org/abs/2311.07625)|null|
 |**2023-11-11**|**OR Residual Connection Achieving Comparable Accuracy to ADD Residual Connection in Deep Residual Spiking Neural Networks**|Yimeng Shan et.al.|[2311.06570](http://arxiv.org/abs/2311.06570)|**[link](https://github.com/ym-shan/orrc-syna-natural-pruning)**|
 |**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881](http://arxiv.org/abs/2311.05881)|null|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
@@ -205,6 +207,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787](http://arxiv.org/abs/2311.07787)|null|
+|**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625](http://arxiv.org/abs/2311.07625)|null|
 |**2023-11-10**|**Programmable Superconducting Optoelectronic Single-Photon Synapses with Integrated Multi-State Memory**|Bryce A. Primavera et.al.|[2311.05881](http://arxiv.org/abs/2311.05881)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558](http://arxiv.org/abs/2311.04558)|null|
 |**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216](http://arxiv.org/abs/2311.04216)|null|
@@ -302,6 +306,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Neural Lattice Reduction: A Self-Supervised Geometric Deep Learning Approach**|Giovanni Luca Marchetti et.al.|[2311.08170](http://arxiv.org/abs/2311.08170)|null|
 |**2023-11-10**|**Improved Positional Encoding for Implicit Neural Representation based Compact Data Representation**|Bharath Bhushan Damodaran et.al.|[2311.06059](http://arxiv.org/abs/2311.06059)|null|
 |**2023-11-09**|**OW-SLR: Overlapping Windows on Semi-Local Region for Image Super-Resolution**|Rishav Bhardwaj et.al.|[2311.05146](http://arxiv.org/abs/2311.05146)|**[link](https://github.com/rishavbb/owslr)**|
 |**2023-11-08**|**Implicit Neural Representations for Breathing-compensated Volume Reconstruction in Robotic Ultrasound Aorta Screening**|Yordanka Velikova et.al.|[2311.04999](http://arxiv.org/abs/2311.04999)|null|
@@ -478,6 +483,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625](http://arxiv.org/abs/2311.07625)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558](http://arxiv.org/abs/2311.04558)|null|
 |**2023-10-20**|**The hardware is the software**|Jeremie Laydevant et.al.|[2310.18335](http://arxiv.org/abs/2310.18335)|null|
 |**2023-10-14**|**Ergodicity, lack thereof, and the performance of reservoir computing with memristive networks**|Valentina Baccetti et.al.|[2310.09530](http://arxiv.org/abs/2310.09530)|null|
