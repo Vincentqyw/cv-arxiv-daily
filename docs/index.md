@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.18
+## Updated on 2023.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -35,7 +35,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-16**|**New advancements, challenges and opportunities of nanophotonics for neuromorphic computing: A state-of-the-art review**|Renjie Li et.al.|[2311.09767](http://arxiv.org/abs/2311.09767)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376](http://arxiv.org/abs/2311.09376)|null|
-|**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|null|
+|**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
 |**2023-11-15**|**Local strain enhanced switching of magnetic tunnel junctions for energy efficient computing**|Suyogya Karki et.al.|[2311.08984](http://arxiv.org/abs/2311.08984)|null|
 |**2023-11-15**|**SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer**|Yue Liu et.al.|[2311.08806](http://arxiv.org/abs/2311.08806)|null|
 |**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787](http://arxiv.org/abs/2311.07787)|null|
@@ -214,7 +214,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-16**|**New advancements, challenges and opportunities of nanophotonics for neuromorphic computing: A state-of-the-art review**|Renjie Li et.al.|[2311.09767](http://arxiv.org/abs/2311.09767)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376](http://arxiv.org/abs/2311.09376)|null|
-|**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|null|
+|**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
 |**2023-11-15**|**Local strain enhanced switching of magnetic tunnel junctions for energy efficient computing**|Suyogya Karki et.al.|[2311.08984](http://arxiv.org/abs/2311.08984)|null|
 |**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787](http://arxiv.org/abs/2311.07787)|null|
 |**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625](http://arxiv.org/abs/2311.07625)|null|
