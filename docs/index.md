@@ -315,6 +315,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**Dynamic CBCT Imaging using Prior Model-Free Spatiotemporal Implicit Neural Representation (PMF-STINR)**|Hua-Chieh Shao et.al.|[2311.10036](http://arxiv.org/abs/2311.10036)|null|
 |**2023-11-16**|**Soft Matching Distance: A metric on neural representations that captures single-neuron tuning**|Meenakshi Khosla et.al.|[2311.09466](http://arxiv.org/abs/2311.09466)|null|
 |**2023-11-15**|**Data Augmentations in Deep Weight Spaces**|Aviv Shamsian et.al.|[2311.08851](http://arxiv.org/abs/2311.08851)|null|
@@ -502,6 +503,7 @@ layout: default
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|null|
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239](http://arxiv.org/abs/2309.17239)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-27**|**High-Resolution Full-field Structural Microscopy of the Voltage Induced Filament Formation in Neuromorphic Devices**|Elliot Kisiel et.al.|[2309.15712](http://arxiv.org/abs/2309.15712)|null|
+|**2023-11-17**|**Intelligent machines work in unstructured environments by differential neuromorphic computing**|Shengbo Wang et.al.|[2309.08835](http://arxiv.org/abs/2309.08835)|null|
 |**2023-08-29**|**Infrared Nanoimaging of Hydrogenated Perovskite Nickelate Synaptic Devices**|Sampath Gamage et.al.|[2309.04486](http://arxiv.org/abs/2309.04486)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974](http://arxiv.org/abs/2307.10974)|**[link](https://github.com/snnresearch/spiking-unet)**|
