@@ -33,6 +33,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision**|Sanket Kachole et.al.|[2311.11853](http://arxiv.org/abs/2311.11853)|null|
+|**2023-11-17**|**Is Conventional SNN Really Efficient? A Perspective from Network Quantization**|Guobin Shen et.al.|[2311.10802](http://arxiv.org/abs/2311.10802)|null|
 |**2023-11-16**|**New advancements, challenges and opportunities of nanophotonics for neuromorphic computing: A state-of-the-art review**|Renjie Li et.al.|[2311.09767](http://arxiv.org/abs/2311.09767)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376](http://arxiv.org/abs/2311.09376)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
@@ -315,6 +317,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-19**|**Duality of Bures and Shape Distances with Implications for Comparing Neural Representations**|Sarah E. Harvey et.al.|[2311.11436](http://arxiv.org/abs/2311.11436)|null|
 |**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**Dynamic CBCT Imaging using Prior Model-Free Spatiotemporal Implicit Neural Representation (PMF-STINR)**|Hua-Chieh Shao et.al.|[2311.10036](http://arxiv.org/abs/2311.10036)|null|
 |**2023-11-16**|**Soft Matching Distance: A metric on neural representations that captures single-neuron tuning**|Meenakshi Khosla et.al.|[2311.09466](http://arxiv.org/abs/2311.09466)|null|
@@ -496,6 +499,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**Deep Neuromorphic Networks with Superconducting Single Flux Quanta**|Gleb Krylov et.al.|[2311.10721](http://arxiv.org/abs/2311.10721)|null|
 |**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625](http://arxiv.org/abs/2311.07625)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558](http://arxiv.org/abs/2311.04558)|null|
 |**2023-10-20**|**The hardware is the software**|Jeremie Laydevant et.al.|[2310.18335](http://arxiv.org/abs/2310.18335)|null|
