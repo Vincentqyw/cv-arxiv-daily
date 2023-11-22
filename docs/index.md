@@ -33,6 +33,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449](http://arxiv.org/abs/2311.12449)|null|
+|**2023-11-20**|**Hydrogen-induced tunable remanent polarization in a perovskite nickelate**|Yifan Yuan et.al.|[2311.12200](http://arxiv.org/abs/2311.12200)|null|
+|**2023-11-18**|**Pursing the Sparse Limitation of Spiking Deep Learning Structures**|Hao Cheng et.al.|[2311.12060](http://arxiv.org/abs/2311.12060)|null|
 |**2023-11-20**|**Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision**|Sanket Kachole et.al.|[2311.11853](http://arxiv.org/abs/2311.11853)|null|
 |**2023-11-17**|**Is Conventional SNN Really Efficient? A Perspective from Network Quantization**|Guobin Shen et.al.|[2311.10802](http://arxiv.org/abs/2311.10802)|null|
 |**2023-11-16**|**New advancements, challenges and opportunities of nanophotonics for neuromorphic computing: A state-of-the-art review**|Renjie Li et.al.|[2311.09767](http://arxiv.org/abs/2311.09767)|null|
@@ -214,6 +217,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Hydrogen-induced tunable remanent polarization in a perovskite nickelate**|Yifan Yuan et.al.|[2311.12200](http://arxiv.org/abs/2311.12200)|null|
 |**2023-11-16**|**New advancements, challenges and opportunities of nanophotonics for neuromorphic computing: A state-of-the-art review**|Renjie Li et.al.|[2311.09767](http://arxiv.org/abs/2311.09767)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376](http://arxiv.org/abs/2311.09376)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
@@ -317,6 +321,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**TouchSDF: A DeepSDF Approach for 3D Shape Reconstruction using Vision-Based Tactile Sensing**|Mauro Comi et.al.|[2311.12602](http://arxiv.org/abs/2311.12602)|null|
+|**2023-11-20**|**Efficient Model Agnostic Approach for Implicit Neural Representation Based Arbitrary-Scale Image Super-Resolution**|Young Jae Oh et.al.|[2311.12077](http://arxiv.org/abs/2311.12077)|null|
+|**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-19**|**Duality of Bures and Shape Distances with Implications for Comparing Neural Representations**|Sarah E. Harvey et.al.|[2311.11436](http://arxiv.org/abs/2311.11436)|null|
 |**2023-11-16**|**Algebraic Topological Networks via the Persistent Local Homology Sheaf**|Gabriele Cesa et.al.|[2311.10156](http://arxiv.org/abs/2311.10156)|null|
 |**2023-11-16**|**Dynamic CBCT Imaging using Prior Model-Free Spatiotemporal Implicit Neural Representation (PMF-STINR)**|Hua-Chieh Shao et.al.|[2311.10036](http://arxiv.org/abs/2311.10036)|null|
