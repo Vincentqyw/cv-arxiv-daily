@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -33,7 +33,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|null|
+|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449](http://arxiv.org/abs/2311.12449)|null|
 |**2023-11-20**|**Hydrogen-induced tunable remanent polarization in a perovskite nickelate**|Yifan Yuan et.al.|[2311.12200](http://arxiv.org/abs/2311.12200)|null|
 |**2023-11-18**|**Pursing the Sparse Limitation of Spiking Deep Learning Structures**|Hao Cheng et.al.|[2311.12060](http://arxiv.org/abs/2311.12060)|null|
@@ -218,7 +218,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|null|
+|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-20**|**Hydrogen-induced tunable remanent polarization in a perovskite nickelate**|Yifan Yuan et.al.|[2311.12200](http://arxiv.org/abs/2311.12200)|null|
 |**2023-11-16**|**New advancements, challenges and opportunities of nanophotonics for neuromorphic computing: A state-of-the-art review**|Renjie Li et.al.|[2311.09767](http://arxiv.org/abs/2311.09767)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376](http://arxiv.org/abs/2311.09376)|null|
