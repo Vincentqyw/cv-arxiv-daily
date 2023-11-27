@@ -162,7 +162,7 @@
 |**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171](http://arxiv.org/abs/2308.04171)|null|
 |**2023-08-02**|**Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms**|Qingyu Wang et.al.|[2308.02557](http://arxiv.org/abs/2308.02557)|null|
 |**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
-|**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|null|
+|**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|**[link](https://github.com/zhaxidele/har-with-snn)**|
 |**2023-08-01**|**Gradient Scaling on Deep Spiking Neural Networks with Spike-Dependent Local Information**|Seongsik Park et.al.|[2308.00558](http://arxiv.org/abs/2308.00558)|null|
 |**2023-07-30**|**Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16236](http://arxiv.org/abs/2307.16236)|null|
 |**2023-07-30**|**Spiking Neural Networks and Bio-Inspired Supervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16235](http://arxiv.org/abs/2307.16235)|null|
@@ -374,7 +374,7 @@
 |**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|**[link](https://github.com/jxuanc/mindgpt)**|
 |**2023-10-03**|**Bayesian Personalized Federated Learning with Shared and Personalized Uncertainty Representations**|Hui Chen et.al.|[2309.15499](http://arxiv.org/abs/2309.15499)|null|
 |**2023-09-25**|**Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time**|Cheng-Hung Chan et.al.|[2309.14022](http://arxiv.org/abs/2309.14022)|null|
-|**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|null|
+|**2023-09-22**|**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**|Ziyi Yang et.al.|[2309.13101](http://arxiv.org/abs/2309.13101)|**[link](https://github.com/ingra14m/deformable-3d-gaussians)**|
 |**2023-09-22**|**RHINO: Regularizing the Hash-based Implicit Neural Representation**|Hao Zhu et.al.|[2309.12642](http://arxiv.org/abs/2309.12642)|null|
 |**2023-09-20**|**Continuous Levels of Detail for Light Field Networks**|David Li et.al.|[2309.11591](http://arxiv.org/abs/2309.11591)|null|
 |**2023-09-22**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028](http://arxiv.org/abs/2309.11028)|**[link](https://github.com/doerlbh/topologicalrsa)**|
