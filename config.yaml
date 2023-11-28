@@ -40,9 +40,16 @@ keywords:
     "High Performance Computing for Neuroscience":
         filters:
             ["High Performance Computing in Neuroscience", "Supercomputing for Brain Simulation", "Parallel Computing for Neural Modelling", "Big Data in Neuroscience"]
-    "Neuroinformatics":
-        filters:
-            ["Neuroinformatics", "Neural Data Analysis", "Neural Data Mining", "Neural Databases"]
-    "Neuromorphic Engineering":
-        filters:
-            ["Neuromorphic Engineering", "Neuromorphic Devices", "Neuromorphic Circuits", "Neuromorphic Sensors"]
+    "MPI Communication": 
+        filters: 
+            ["MPI Communication", "Message Passing Interface", "MPI Protocols", "MPI Performance", "MPI Topologies"]
+    "MPI": 
+        filters: 
+            ["MPI", "Message Passing Interface", "MPI Library", "MPI API", "MPI Programming"]
+    "RDMA": 
+        filters: 
+            ["RDMA", "Remote Direct Memory Access", "RDMA Communication", "RDMA Protocols", "RDMA Performance"]
+    "MPI Collectives": 
+        filters: 
+            ["MPI Collectives", "Collective Communication", "MPI Collective Operations", "MPI Collective Algorithms", "MPI Collective Performance"]
+    
