@@ -1,4 +1,4 @@
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -31,7 +31,7 @@
 |---|---|---|---|---|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
 |**2023-11-24**|**SNN Architecture for Differential Time Encoding Using Decoupled Processing Time**|Daniel Windhager et.al.|[2311.14447](http://arxiv.org/abs/2311.14447)|null|
-|**2023-11-24**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303](http://arxiv.org/abs/2311.14303)|null|
+|**2023-11-24**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303](http://arxiv.org/abs/2311.14303)|**[link](https://github.com/pritchardn/tabascal-dataset)**|
 |**2023-11-24**|**Bursting Spikes: Efficient and High-performance SNNs for Event-based Vision**|Ziqing Wang et.al.|[2311.14265](http://arxiv.org/abs/2311.14265)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449](http://arxiv.org/abs/2311.12449)|null|
@@ -326,7 +326,7 @@
 |---|---|---|---|---|
 |**2023-11-24**|**Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**|Laura Alvarez-Florez et.al.|[2311.14448](http://arxiv.org/abs/2311.14448)|null|
 |**2023-11-21**|**TRIDENT: The Nonlinear Trilogy for Implicit Neural Representations**|Zhenda Shen et.al.|[2311.13610](http://arxiv.org/abs/2311.13610)|null|
-|**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|null|
+|**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|**[link](https://github.com/lapalap/invert)**|
 |**2023-11-22**|**Naturalness of Attention: Revisiting Attention in Code Language Models**|Mootez Saad et.al.|[2311.13508](http://arxiv.org/abs/2311.13508)|null|
 |**2023-11-22**|**Lightweight High-Speed Photography Built on Coded Exposure and Implicit Neural Representation of Videos**|Zhihong Zhang et.al.|[2311.13134](http://arxiv.org/abs/2311.13134)|**[link](https://github.com/zhihongz/bdinr)**|
 |**2023-11-21**|**IMJENSE: Scan-specific Implicit Representation for Joint Coil Sensitivity and Image Estimation in Parallel MRI**|Ruimin Feng et.al.|[2311.12892](http://arxiv.org/abs/2311.12892)|**[link](https://github.com/amri-lab/imjense)**|
