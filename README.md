@@ -15,6 +15,7 @@
 |**2023-05-22**|**Powering AI at the Edge: A Robust, Memristor-based Binarized Neural Network with Near-Memory Computing and Miniaturized Solar Cell**|Fadi Jebali et.al.|[2305.12875](http://arxiv.org/abs/2305.12875)|null|
 |**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510](http://arxiv.org/abs/2305.02510)|**[link](https://github.com/ornl/superneuro)**|
 |**2023-05-03**|**Thermally-driven Multilevel Non-volatile Memory with Monolayer MoS2 for Neuro-inspired Artificial Learning**|Sameer Kumar Mallik et.al.|[2305.02259](http://arxiv.org/abs/2305.02259)|null|
+|**2023-11-27**|**Maximum Spherical Mean Value (mSMV) Filtering for Whole Brain Quantitative Susceptibility Mapping**|Alexandra G. Roberts et.al.|[2304.11476](http://arxiv.org/abs/2304.11476)|null|
 |**2023-04-19**|**Parallel Neural Networks in Golang**|Daniela Kalwarowskyj et.al.|[2304.09590](http://arxiv.org/abs/2304.09590)|null|
 |**2023-04-12**|**Distributed Compressed Sparse Row Format for Spiking Neural Network Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587](http://arxiv.org/abs/2304.05587)|null|
 |**2023-07-17**|**Fast Point Cloud Generation with Diffusion Models in High Energy Physics**|Vinicius Mikuni et.al.|[2304.01266](http://arxiv.org/abs/2304.01266)|**[link](https://github.com/viniciusmikuni/gsgm)**|
@@ -29,6 +30,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
+|**2023-11-25**|**A Survey Examining Neuromorphic Architecture in Space and Challenges from Radiation**|Jonathan Naoukin et.al.|[2311.15006](http://arxiv.org/abs/2311.15006)|null|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
 |**2023-11-24**|**SNN Architecture for Differential Time Encoding Using Decoupled Processing Time**|Daniel Windhager et.al.|[2311.14447](http://arxiv.org/abs/2311.14447)|null|
 |**2023-11-24**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303](http://arxiv.org/abs/2311.14303)|**[link](https://github.com/pritchardn/tabascal-dataset)**|
@@ -218,6 +221,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
+|**2023-11-25**|**A Survey Examining Neuromorphic Architecture in Space and Challenges from Radiation**|Jonathan Naoukin et.al.|[2311.15006](http://arxiv.org/abs/2311.15006)|null|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-20**|**Hydrogen-induced tunable remanent polarization in a perovskite nickelate**|Yifan Yuan et.al.|[2311.12200](http://arxiv.org/abs/2311.12200)|null|
@@ -324,6 +329,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-25**|**Task adaption by biologically inspired stochastic comodulation**|Gauthier Boeshertz et.al.|[2311.15053](http://arxiv.org/abs/2311.15053)|null|
+|**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
 |**2023-11-24**|**Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**|Laura Alvarez-Florez et.al.|[2311.14448](http://arxiv.org/abs/2311.14448)|null|
 |**2023-11-21**|**TRIDENT: The Nonlinear Trilogy for Implicit Neural Representations**|Zhenda Shen et.al.|[2311.13610](http://arxiv.org/abs/2311.13610)|null|
 |**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|**[link](https://github.com/lapalap/invert)**|
@@ -471,6 +478,7 @@
 |**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
 |**2023-09-25**|**Unveiling universal aspects of the cellular anatomy of the brain**|Helen S. Ansell et.al.|[2306.12289](http://arxiv.org/abs/2306.12289)|null|
+|**2023-11-27**|**Maximum Spherical Mean Value (mSMV) Filtering for Whole Brain Quantitative Susceptibility Mapping**|Alexandra G. Roberts et.al.|[2304.11476](http://arxiv.org/abs/2304.11476)|null|
 |**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637](http://arxiv.org/abs/2301.13637)|**[link](https://github.com/llandsmeer/iotf)**|
 |**2023-06-03**|**Adaptive whitening in neural populations with gain-modulating interneurons**|Lyndon R. Duong et.al.|[2301.11955](http://arxiv.org/abs/2301.11955)|**[link](https://github.com/lyndond/frame_whitening)**|
 |**2023-01-25**|**Accelerating Brain Simulations with the Fast Multipole Method**|Hannah Nöttgen et.al.|[2301.10570](http://arxiv.org/abs/2301.10570)|null|
@@ -498,7 +506,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-02**|**Multimodal Neural Databases**|Giovanni Trappolini et.al.|[2305.01447](http://arxiv.org/abs/2305.01447)|**[link](https://github.com/giovannitra/multimodalneuraldatabases)**|
-|**2023-04-19**|**Circumstantial evidence and explanatory models for synapses in large-scale spike recordings**|Ian H. Stevenson et.al.|[2304.09699](http://arxiv.org/abs/2304.09699)|null|
+|**2023-11-25**|**Circumstantial evidence and explanatory models for synapses in large-scale spike recordings**|Ian H. Stevenson et.al.|[2304.09699](http://arxiv.org/abs/2304.09699)|null|
 |**2022-09-15**|**Combinatorial geometry of neural codes, neural data analysis, and neural networks**|Caitlin Lienkaemper et.al.|[2209.07583](http://arxiv.org/abs/2209.07583)|null|
 |**2023-03-02**|**A Flexible Bayesian Clustering of Dynamic Subpopulations in Neural Spiking Activity**|Ganchao Wei et.al.|[2205.10639](http://arxiv.org/abs/2205.10639)|null|
 |**2022-04-18**|**Bayesian interpolation for power laws in neural data analysis**|Iván A. Davidovich et.al.|[2204.08525](http://arxiv.org/abs/2204.08525)|null|
