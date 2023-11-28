@@ -550,3 +550,75 @@
 
 {{< /table >}}
 
+## MPI Communication
+
+{{< table "table-responsive" >}}
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-11-09**|**CloverLeaf on Intel Multi-Core CPUs: A Case Study in Write-Allocate Evasion**|Jan Laukemann et.al.|[2311.04797](http://arxiv.org/abs/2311.04797)|null|
+|**2023-10-23**|**System Characterization of a Human-Sized 3D Real-Time Magnetic Particle Imaging Scanner for Cerebral Applications**|Florian Thieben et.al.|[2310.15014](http://arxiv.org/abs/2310.15014)|null|
+|**2023-10-19**|**Accurate Coarse Residual for Two-Level Asynchronous Domain Decomposition Methods**|Guillaume Gbikpi-Benissan et.al.|[2310.12605](http://arxiv.org/abs/2310.12605)|null|
+|**2023-09-21**|**Unlocking massively parallel spectral proper orthogonal decompositions in the PySPOD package**|Marcin Rogowski et.al.|[2309.11808](http://arxiv.org/abs/2309.11808)|**[link](https://github.com/mathexlab/pyspod)**|
+|**2023-09-13**|**MPI Advance : Open-Source Message Passing Optimizations**|Amanda Bienz et.al.|[2309.07337](http://arxiv.org/abs/2309.07337)|null|
+|**2023-09-07**|**pPython Performance Study**|Chansup Byun et.al.|[2309.03931](http://arxiv.org/abs/2309.03931)|null|
+|**2023-10-05**|**Particle-resolved thermal lattice Boltzmann simulation using OpenACC on multi-GPUs**|Ao Xu et.al.|[2308.16597](http://arxiv.org/abs/2308.16597)|null|
+|**2023-08-18**|**Pigeons.jl: Distributed Sampling From Intractable Distributions**|Nikola Surjanovic et.al.|[2308.09769](http://arxiv.org/abs/2308.09769)|**[link](https://github.com/julia-tempering/pigeons.jl)**|
+|**2023-06-27**|**Exploring Fully Offloaded GPU Stream-Aware Message Passing**|Naveen Namashivayam et.al.|[2306.15773](http://arxiv.org/abs/2306.15773)|null|
+|**2023-08-30**|**MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers**|Nadav Schneider et.al.|[2305.09438](http://arxiv.org/abs/2305.09438)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rical)**|
+
+{{< /table >}}
+
+## MPI
+
+{{< table "table-responsive" >}}
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-25**|**PartRePer-MPI: Combining Fault Tolerance and Performance for MPI Applications**|Sarthak Joshi et.al.|[2310.16370](http://arxiv.org/abs/2310.16370)|null|
+|**2023-10-19**|**Accurate Coarse Residual for Two-Level Asynchronous Domain Decomposition Methods**|Guillaume Gbikpi-Benissan et.al.|[2310.12605](http://arxiv.org/abs/2310.12605)|null|
+|**2023-09-27**|**Advancing the distributed Multi-GPU ChASE library through algorithm optimization and NCCL library**|Xinzhe Wu et.al.|[2309.15595](http://arxiv.org/abs/2309.15595)|null|
+|**2023-09-21**|**Unlocking massively parallel spectral proper orthogonal decompositions in the PySPOD package**|Marcin Rogowski et.al.|[2309.11808](http://arxiv.org/abs/2309.11808)|**[link](https://github.com/mathexlab/pyspod)**|
+|**2023-09-13**|**MPI Advance : Open-Source Message Passing Optimizations**|Amanda Bienz et.al.|[2309.07337](http://arxiv.org/abs/2309.07337)|null|
+|**2023-10-05**|**Particle-resolved thermal lattice Boltzmann simulation using OpenACC on multi-GPUs**|Ao Xu et.al.|[2308.16597](http://arxiv.org/abs/2308.16597)|null|
+|**2023-06-27**|**Exploring Fully Offloaded GPU Stream-Aware Message Passing**|Naveen Namashivayam et.al.|[2306.15773](http://arxiv.org/abs/2306.15773)|null|
+|**2023-06-02**|**Optimizing Irregular Communication with Neighborhood Collectives and Locality-Aware Parallelism**|Gerald Collom et.al.|[2306.01876](http://arxiv.org/abs/2306.01876)|null|
+|**2023-05-17**|**Accelerating MPI Collectives with Process-in-Process-based Multi-object Techniques**|Jiajun Huang et.al.|[2305.10612](http://arxiv.org/abs/2305.10612)|null|
+|**2023-08-30**|**MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers**|Nadav Schneider et.al.|[2305.09438](http://arxiv.org/abs/2305.09438)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rical)**|
+
+{{< /table >}}
+
+## RDMA
+
+{{< table "table-responsive" >}}
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
+|**2023-10-08**|**GEAR: A GPU-Centric Experience Replay System for Large Reinforcement Learning Models**|Hanjing Wang et.al.|[2310.05205](http://arxiv.org/abs/2310.05205)|**[link](https://github.com/bigrl-team/gear)**|
+|**2023-11-20**|**The Graph Database Interface: Scaling Online Transactional and Analytical Graph Workloads to Hundreds of Thousands of Cores**|Maciej Besta et.al.|[2305.11162](http://arxiv.org/abs/2305.11162)|**[link](https://github.com/spcl/gdi-rma)**|
+|**2023-05-16**|**Method for portable, scalable, and performant GPU-accelerated simulation of multiphase compressible flow**|Anand Radhakrishnan et.al.|[2305.09163](http://arxiv.org/abs/2305.09163)|**[link](https://github.com/MFlowCode/MFC)**|
+|**2023-04-15**|**Datacenter Ethernet and RDMA: Issues at Hyperscale**|Torsten Hoefler et.al.|[2302.03337](http://arxiv.org/abs/2302.03337)|null|
+|**2022-12-20**|**Efficient RDMA Communication Protocols**|Konstantin Taranov et.al.|[2212.09134](http://arxiv.org/abs/2212.09134)|null|
+|**2022-11-28**|**Distributed Parallelization of xPU Stencil Computations in Julia**|Samuel Omlin et.al.|[2211.15716](http://arxiv.org/abs/2211.15716)|null|
+|**2022-08-27**|**HiStore: Rethinking Hybrid Index in RDMA-based Key-Value Store**|Shukai Han et.al.|[2208.12987](http://arxiv.org/abs/2208.12987)|null|
+|**2022-08-19**|**Technical Report: Asymmetric Mutual Exclusion for RDMA**|Jacob Nelson-Slivon et.al.|[2208.09540](http://arxiv.org/abs/2208.09540)|null|
+|**2022-08-01**|**Bring the BitCODE -- Moving Compute and Data in Distributed Heterogeneous Systems**|Wenbin Lu et.al.|[2208.01154](http://arxiv.org/abs/2208.01154)|null|
+
+{{< /table >}}
+
+## MPI Collectives
+
+{{< table "table-responsive" >}}
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-10**|**Ultima: Robust and Tail-Optimal AllReduce for Distributed Deep Learning in the Cloud**|Ertza Warraich et.al.|[2310.06993](http://arxiv.org/abs/2310.06993)|null|
+|**2023-10-04**|**DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models**|Sam Ade Jacobs et.al.|[2309.14509](http://arxiv.org/abs/2309.14509)|null|
+|**2023-09-24**|**Efficient All-to-All Collective Communication Schedules for Direct-Connect Topologies**|Siddharth Pal et.al.|[2309.13541](http://arxiv.org/abs/2309.13541)|null|
+|**2023-09-07**|**pPython Performance Study**|Chansup Byun et.al.|[2309.03931](http://arxiv.org/abs/2309.03931)|null|
+|**2023-09-06**|**Collective Communication Patterns Using Time-Reversal Terahertz Links at the Chip Scale**|Fátima Rodríguez-Galán et.al.|[2309.01428](http://arxiv.org/abs/2309.01428)|null|
+|**2023-08-09**|**gZCCL: Compression-Accelerated Collective Communication Framework for GPU Clusters**|Jiajun Huang et.al.|[2308.05199](http://arxiv.org/abs/2308.05199)|null|
+|**2023-07-18**|**The ExaNeSt Prototype: Evaluation of Efficient HPC Communication Hardware in an ARM-based Multi-FPGA Rack**|Manolis Ploumidis et.al.|[2307.09371](http://arxiv.org/abs/2307.09371)|null|
+|**2023-06-25**|**M $^3$ SC: A Generic Dataset for Mixed Multi-Modal (MMM) Sensing and Communication Integration**|Xiang Cheng et.al.|[2306.14125](http://arxiv.org/abs/2306.14125)|null|
+|**2023-06-16**|**ZeRO++: Extremely Efficient Collective Communication for Giant Model Training**|Guanhua Wang et.al.|[2306.10209](http://arxiv.org/abs/2306.10209)|**[link](https://github.com/microsoft/DeepSpeed)**|
+|**2023-05-31**|**A Survey of Potential MPI Complex Collectives: Large-Scale Mining and Analysis of HPC Applications**|Pouya Haghi et.al.|[2305.19946](http://arxiv.org/abs/2305.19946)|null|
+
+{{< /table >}}
+
