@@ -34,6 +34,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
+|**2023-11-28**|**Spiking Neural Networks with Dynamic Time Steps for Vision Transformers**|Gourav Datta et.al.|[2311.16456](http://arxiv.org/abs/2311.16456)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
 |**2023-11-25**|**A Survey Examining Neuromorphic Architecture in Space and Challenges from Radiation**|Jonathan Naoukin et.al.|[2311.15006](http://arxiv.org/abs/2311.15006)|null|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
@@ -225,6 +227,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
 |**2023-11-25**|**A Survey Examining Neuromorphic Architecture in Space and Challenges from Radiation**|Jonathan Naoukin et.al.|[2311.15006](http://arxiv.org/abs/2311.15006)|null|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
@@ -333,6 +336,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
+|**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473](http://arxiv.org/abs/2311.16473)|**[link](https://github.com/lzhnb/gs-ir)**|
+|**2023-11-28**|**Reduced-order modeling for parameterized PDEs via implicit neural representations**|Tianshu Wen et.al.|[2311.16410](http://arxiv.org/abs/2311.16410)|null|
+|**2023-11-27**|**Spatially Adaptive Cloth Regression with Implicit Neural Representations**|Lei Shu et.al.|[2311.16344](http://arxiv.org/abs/2311.16344)|null|
+|**2023-11-27**|**Testing Assumptions Underlying a Unified Theory for the Origin of Grid Cells**|Rylan Schaeffer et.al.|[2311.16295](http://arxiv.org/abs/2311.16295)|null|
 |**2023-11-25**|**Task adaption by biologically inspired stochastic comodulation**|Gauthier Boeshertz et.al.|[2311.15053](http://arxiv.org/abs/2311.15053)|null|
 |**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
 |**2023-11-24**|**Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**|Laura Alvarez-Florez et.al.|[2311.14448](http://arxiv.org/abs/2311.14448)|null|
