@@ -17,8 +17,8 @@ env:
 
   GITHUB_USER_NAME: Vincentqyw
   GITHUB_USER_EMAIL: realcat@126.com
-  
-  
+
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -26,12 +26,12 @@ jobs:
     name: update
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
+
       - name: Set up Python Env
         uses: actions/setup-python@v4
         with:
@@ -43,11 +43,11 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
-          
-      - name: Run daily arxiv 
+
+      - name: Run daily arxiv
         run: |
           python daily_arxiv.py
-          
+
       - name: Push new cv-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:

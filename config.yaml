@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
+    "SLAM":
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
@@ -33,7 +33,7 @@ keywords:
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
+        filters: ["Image Matching", "Keypoint Matching",
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]

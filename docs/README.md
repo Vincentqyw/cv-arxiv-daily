@@ -1,13 +1,13 @@
 <p align="center">
   <h1 align="center"><br><ins>CV-ARXIV-DAILY</ins><br>Automatically Update CV Papers Daily using Github Actions</h1>
- 
+
 </p>
 
 
 
 ##
 
-This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily. 
+This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily.
 
 ## Overview
 
