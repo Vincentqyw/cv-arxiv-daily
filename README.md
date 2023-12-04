@@ -1,4 +1,4 @@
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -338,7 +338,7 @@
 |---|---|---|---|---|
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311](http://arxiv.org/abs/2311.18311)|null|
 |**2023-11-29**|**Implicit-explicit Integrated Representations for Multi-view Video Compression**|Chen Zhu et.al.|[2311.17350](http://arxiv.org/abs/2311.17350)|null|
-|**2023-11-28**|**REF $^2$ -NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim et.al.|[2311.17116](http://arxiv.org/abs/2311.17116)|null|
+|**2023-11-30**|**REF $^2$ -NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim et.al.|[2311.17116](http://arxiv.org/abs/2311.17116)|null|
 |**2023-11-28**|**I-MedSAM: Implicit Medical Image Segmentation with Segment Anything**|Xiaobao Wei et.al.|[2311.17081](http://arxiv.org/abs/2311.17081)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473](http://arxiv.org/abs/2311.16473)|**[link](https://github.com/lzhnb/gs-ir)**|
