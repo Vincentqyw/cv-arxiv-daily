@@ -185,7 +185,7 @@ layout: default
 |**2023-07-28**|**Analog programming of CMOS-compatible Al $_2$O$_3$/TiO$_\textrm{2-x}$ memristor at 4.2 K after metal-insulator transition suppression by cryogenic reforming**|Pierre-Antoine Mouny et.al.|[2307.15538](http://arxiv.org/abs/2307.15538)|null|
 |**2023-07-27**|**Functional Specification of the RAVENS Neuroprocessor**|Adam Z. Foshie et.al.|[2307.15232](http://arxiv.org/abs/2307.15232)|null|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
-|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464](http://arxiv.org/abs/2307.14464)|null|
+|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464](http://arxiv.org/abs/2307.14464)|**[link](https://github.com/riaa3102/SESNNet)**|
 |**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|**[link](https://github.com/spikeai/2023_grimaldiperrinet_heterogeneousdelaysnn)**|
 |**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007](http://arxiv.org/abs/2307.13007)|null|
 |**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900](http://arxiv.org/abs/2307.12900)|null|
@@ -306,7 +306,7 @@ layout: default
 |**2023-07-28**|**Analog programming of CMOS-compatible Al $_2$O$_3$/TiO$_\textrm{2-x}$ memristor at 4.2 K after metal-insulator transition suppression by cryogenic reforming**|Pierre-Antoine Mouny et.al.|[2307.15538](http://arxiv.org/abs/2307.15538)|null|
 |**2023-07-27**|**Functional Specification of the RAVENS Neuroprocessor**|Adam Z. Foshie et.al.|[2307.15232](http://arxiv.org/abs/2307.15232)|null|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
-|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464](http://arxiv.org/abs/2307.14464)|null|
+|**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464](http://arxiv.org/abs/2307.14464)|**[link](https://github.com/riaa3102/SESNNet)**|
 |**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|**[link](https://github.com/spikeai/2023_grimaldiperrinet_heterogeneousdelaysnn)**|
 |**2023-07-28**|**Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals**|Luis Fernando Herbozo Contreras et.al.|[2307.12471](http://arxiv.org/abs/2307.12471)|null|
 |**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
