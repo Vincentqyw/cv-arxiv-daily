@@ -34,6 +34,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
+|**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269](http://arxiv.org/abs/2312.01269)|null|
+|**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213](http://arxiv.org/abs/2312.01213)|null|
+|**2023-12-01**|**Rethinking Skip Connections in Spiking Neural Networks with Time-To-First-Spike Coding**|Youngeun Kim et.al.|[2312.00919](http://arxiv.org/abs/2312.00919)|null|
 |**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577](http://arxiv.org/abs/2311.18577)|null|
 |**2023-11-30**|**Neuromorphic Incremental on-chip Learning with Hebbian Weight Consolidation**|Zifan Ning et.al.|[2311.18340](http://arxiv.org/abs/2311.18340)|null|
 |**2023-11-29**|**A computational model of behavioral adaptation to solve the credit assignment problem**|Roy E. Clymer et.al.|[2311.18134](http://arxiv.org/abs/2311.18134)|null|
@@ -230,6 +234,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269](http://arxiv.org/abs/2312.01269)|null|
+|**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213](http://arxiv.org/abs/2312.01213)|null|
 |**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577](http://arxiv.org/abs/2311.18577)|null|
 |**2023-12-01**|**65 GOPS/neuron Photonic Tensor Core with Thin-film Lithium Niobate Photonics**|Zhongjin Lin et.al.|[2311.16896](http://arxiv.org/abs/2311.16896)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474](http://arxiv.org/abs/2311.15474)|null|
@@ -340,6 +346,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
+|**2023-12-03**|**MoEC: Mixture of Experts Implicit Neural Compression**|Jianchen Zhao et.al.|[2312.01361](http://arxiv.org/abs/2312.01361)|null|
+|**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061](http://arxiv.org/abs/2312.01061)|null|
 |**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
 |**2023-12-01**|**Unsupervised Adaptive Implicit Neural Representation Learning for Scan-Specific MRI Reconstruction**|Junwei Yang et.al.|[2312.00677](http://arxiv.org/abs/2312.00677)|null|
 |**2023-11-30**|**DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting**|Agelos Kratimenos et.al.|[2312.00112](http://arxiv.org/abs/2312.00112)|null|
