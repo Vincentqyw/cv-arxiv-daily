@@ -34,6 +34,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659](http://arxiv.org/abs/2312.02659)|null|
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269](http://arxiv.org/abs/2312.01269)|null|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213](http://arxiv.org/abs/2312.01213)|null|
@@ -346,6 +347,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Unsupervised learning on spontaneous retinal activity leads to efficient neural representation geometry**|Andrew Ligeralde et.al.|[2312.02791](http://arxiv.org/abs/2312.02791)|null|
+|**2023-12-05**|**FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions**|Zhen Liu et.al.|[2312.02434](http://arxiv.org/abs/2312.02434)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 |**2023-12-03**|**MoEC: Mixture of Experts Implicit Neural Compression**|Jianchen Zhao et.al.|[2312.01361](http://arxiv.org/abs/2312.01361)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061](http://arxiv.org/abs/2312.01061)|null|
