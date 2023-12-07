@@ -34,6 +34,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Large Non-Volatile Frequency Tuning of Spin Hall Nano-Oscillators using Circular Memristive Nano-Gates**|Maha Khademi et.al.|[2312.03352](http://arxiv.org/abs/2312.03352)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659](http://arxiv.org/abs/2312.02659)|null|
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269](http://arxiv.org/abs/2312.01269)|null|
@@ -235,6 +236,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Large Non-Volatile Frequency Tuning of Spin Hall Nano-Oscillators using Circular Memristive Nano-Gates**|Maha Khademi et.al.|[2312.03352](http://arxiv.org/abs/2312.03352)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269](http://arxiv.org/abs/2312.01269)|null|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213](http://arxiv.org/abs/2312.01213)|null|
 |**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577](http://arxiv.org/abs/2311.18577)|null|
@@ -347,6 +349,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
 |**2023-12-05**|**Unsupervised learning on spontaneous retinal activity leads to efficient neural representation geometry**|Andrew Ligeralde et.al.|[2312.02791](http://arxiv.org/abs/2312.02791)|null|
 |**2023-12-05**|**FINER: Flexible spectral-bias tuning in Implicit NEural Representation by Variable-periodic Activation Functions**|Zhen Liu et.al.|[2312.02434](http://arxiv.org/abs/2312.02434)|null|
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
@@ -627,6 +630,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Holmes: Towards Distributed Training Across Clusters with Heterogeneous NIC Environment**|Fei Yang et.al.|[2312.03549](http://arxiv.org/abs/2312.03549)|null|
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-08**|**GEAR: A GPU-Centric Experience Replay System for Large Reinforcement Learning Models**|Hanjing Wang et.al.|[2310.05205](http://arxiv.org/abs/2310.05205)|**[link](https://github.com/bigrl-team/gear)**|
 |**2023-11-20**|**The Graph Database Interface: Scaling Online Transactional and Analytical Graph Workloads to Hundreds of Thousands of Cores**|Maciej Besta et.al.|[2305.11162](http://arxiv.org/abs/2305.11162)|**[link](https://github.com/spcl/gdi-rma)**|
