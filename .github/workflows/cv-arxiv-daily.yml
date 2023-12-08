@@ -52,6 +52,8 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           SMTP: ${{ secrets.SMTP }}
           PASSWORD: ${{ secrets.PASSWORD }}
+          TO: ${{ secrets.TO }}
+          FROM: ${{ secrets.FROM }}
         run: |
           python daily_arxiv.py
 
