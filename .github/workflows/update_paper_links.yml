@@ -43,6 +43,8 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install pygments
+          pip install markdown
 
       - name: Run daily arxiv
         # uses: actions/setup-python@v4
