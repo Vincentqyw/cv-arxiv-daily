@@ -7,7 +7,7 @@
 
 ##
 
-This repository hosts the source code for cv-arxiv-daily, an useful sripts to fetch arxiv paper daily.
+This repository hosts the source code for cv-arxiv-daily, an useful scripts to fetch arxiv paper daily.
 
 ## Overview
 
@@ -29,7 +29,7 @@ This codebase is composed of the following parts:
 3. Config Github Actions
     - Enable read and write permissions: Setting -> Actions -> Workflow permissions, select `Read and write permissions` and save.
     ![](../assets/4-ga-2-1.png)
-    - Enable workflows: Actions -> `I understand my workflows, go ahead and enable them` -> Select `Run Arxiv Papars Daily` in right sidebar and click `Enable workflow` -> click `Run workflow` wait about 1 min until the job update done. The same for the job `Run Update Paper Links Weekly`.
+    - Enable workflows: Actions -> `I understand my workflows, go ahead and enable them` -> Select `Run Arxiv Papers Daily` in right sidebar and click `Enable workflow` -> click `Run workflow` wait about 1 min until the job update done. The same for the job `Run Update Paper Links Weekly`.
     ![](../assets/4-ga-3-1.png)
     ![](../assets/4-ga-5-1.png)
     ![](../assets/4-ga-7.png)
@@ -55,5 +55,5 @@ This codebase is composed of the following parts:
 - [ ] Support more `arxiv` filters
 - [ ] Archive old papers
 - [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
-- [ ] Usefull comments
+- [ ] Useful comments
 - [ ] ...
