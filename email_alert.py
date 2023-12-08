@@ -35,7 +35,6 @@ import logging
 import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from daily_arxiv import sort_papers
 try:
     import pygments
     import markdown
@@ -46,22 +45,33 @@ except ImportError:
     sys.exit(0)
 
 
+def sort_papers(papers):
+    output = dict()
+    keys = list(papers.keys())
+    keys.sort(reverse=True)
+    for key in keys:
+        output[key] = papers[key]
+    return output
+
 class SendEmail(object):
-    def __init__(self, config_file) -> None:
+    def __init__(self, config_file="./config.yaml") -> None:
         self.config = self.readconfig(config_file)
         self.css = subprocess.check_output(
             ['pygmentize', '-S', 'default', '-f', 'html'])
         self.markdown_content = ''
         self.html_content = ''
 
-    def readconfig(self, config_file="config.yaml") -> dict:
+    def readconfig(self, config_file) -> dict:
         with open(config_file, 'r') as f:
             config = yaml.load(f, Loader=yaml.FullLoader)
+        # TODO:
+        config['email']['username'] = os.environ["USERNAME"]
+        config['email']['smtp'] = os.environ["SMTP"]
+        config['email']['password'] = os.environ["PASSWORD"]
 
-        config['emails']['username'] = os.environ["USERNAME"]
-        config['emails']['smtp'] = os.environ["SMTP"]
-        config['emails']['password'] = os.environ["PASSWORD"]
-        return config['emails']
+        config['email']['headers']['To'] = os.environ["TO"]
+        config['email']['headers']['From'] = os.environ["FROM"]
+        return config['email']
 
     def transform_md(self, raw_md):
         """_summary_
@@ -77,25 +87,31 @@ class SendEmail(object):
             _description_ md string and html string
         """
         self.markdown_content = raw_md.strip()
-        self.html_content = markdown.markdown(
-            self.markdown_content, ['extra', 'codehilite'])
-        self.html_content = '<style type="text/css">' + \
-            self.css+'</style>' + self.html_content
+        self.html_content = markdown.markdown(self.markdown_content)
+        self.html_content = '<style type="text/css">' + self.css.decode('utf-8') +'</style>' + self.html_content
 
         return self.markdown_content, self.html_content
 
-    def send(self, headers):
+    def send(self):
         """_summary_
 
         Parameters
         ----------
-        headers : _type_ config['emails']['headers']
+        headers : _type_ config['email']['headers']
             _description_
         """
+
+        headers = self.config['headers']
+
         message = MIMEMultipart('alternative')
         message['To'] = headers['To']
         message['From'] = headers['From']
         message['Subject'] = headers['Subject']
+
+        self.json2md(self.config['today_json_path'], self.config['today_md_path'])
+        with open(self.config['today_md_path'], 'r') as file:
+            content = file.read()
+        self.transform_md(content)
 
         # attach the message parts
         message.attach(MIMEText(self.markdown_content, 'plain'))
@@ -104,24 +120,30 @@ class SendEmail(object):
         if headers['send']:
             to = message['To'].split(', ')
 
-            server = smtplib.SMTP(self.config['smtp'])
-            server.starttls()
-            server.login(self.config['username'], self.config['password'])
-            server.sendmail(message['From'], to, message.as_string())
+            try:
+                server = smtplib.SMTP(self.config['smtp'], self.config['port'])
+                # server.starttls()
+                server.login(self.config['username'], self.config['password'])
+                server.sendmail(message['From'], to, message.as_string())
+            except smtplib.SMTPServerDisconnected as e:
+                print("Failed to connect to the server. Incorrect SMTP server details or network issues may be the cause.")
+                print(str(e))
+            except smtplib.SMTPAuthenticationError:
+                print("SMTP Authentication Error. The server didn't accept the username/password combination.")
+            except smtplib.SMTPException as e:
+                print("An error occurred while sending the email. Check your email settings and network connection.")
+                print(str(e))
+
             server.quit()
-        elif headers['preview']:
+        if headers['preview']:
             open('/tmp/preview.eml', 'w').write(message.as_string())
-            os.system('open -a Mail /tmp/preview.eml')
+            os.system('thunderbird /tmp/preview.eml')
         else:
             print(message.as_string())
 
-    def json2md(self, data,
+    def json2md(self, filename,
                 md_filename,
-                task='',
-                to_web=False,
-                use_title=True,
-                use_tc=True,
-                use_b2t=True):
+                use_toc=True):
 
         def pretty_math(s:str) -> str:
             ret = ''
@@ -141,89 +163,67 @@ class SendEmail(object):
         DateNow = str(DateNow)
         DateNow = DateNow.replace('-','.')
 
+        with open(filename, "r") as f:
+            content = f.read()
+            if not content:
+                data = {}
+            else:
+                data = json.loads(content)
+
         # clean README.md if daily already exist else create it
         with open(md_filename,"w+") as f:
             pass
 
         # write data into README.md
+        def replace_spaces_with_hyphens(s):
+            return s.replace(' ', '-')
         with open(md_filename,"a+") as f:
-
-            if (use_title == True) and (to_web == True):
-                f.write("---\n" + "layout: default\n" + "---\n\n")
-
-            # if show_badge == True:
-            #     f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            #     f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            #     f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
-
-            if use_title == True:
-                #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-                #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-                f.write("## Updated on " + DateNow + "\n")
-            else:
-                f.write("> Updated on " + DateNow + "\n")
-
-            #Add: table of contents
-            if use_tc == True:
-                f.write("<details>\n")
-                f.write("  <summary>Table of Contents</summary>\n")
-                f.write("  <ol>\n")
+            if use_toc == True:
+                f.write("**TOC**  \n")
                 for keyword in data.keys():
-                    day_content = data[keyword]
-                    if not day_content:
-                        continue
-                    kw = keyword.replace(' ','-')
-                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-                f.write("  </ol>\n")
-                f.write("</details>\n\n")
+                    keyword_with_hyphens = replace_spaces_with_hyphens(keyword)
+                    f.write(f"  \n[**{keyword}**](#{keyword_with_hyphens})  \n")
+                    for _,v in data[keyword].items():
+                        title_with_hyphens = replace_spaces_with_hyphens(v['paper_title'])
+                        f.write(f"  [{v['paper_title']}](#{title_with_hyphens})  \n")
 
             for keyword in data.keys():
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                # the head of each part
-                f.write(f"## {keyword}\n\n")
-
-                if use_title == True :
-                    if to_web == False:
-                        f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                    else:
-                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-
-                # sort papers by date
+                f.write(f"## {keyword}  \n\n")
                 day_content = sort_papers(day_content)
-
                 for _,v in day_content.items():
                     if v is not None:
-                        f.write(pretty_math(v)) # make latex pretty
+                        content = pretty_math(self.json2str(v))
+                        f.write(content) # make latex pretty
 
-                f.write(f"\n")
+                f.write(f"  \n\n\n\n")
+        # logging.info(f"{task} finished")
 
-                #Add: back to top
-                if use_b2t:
-                    top_info = f"#Updated on {DateNow}"
-                    top_info = top_info.replace(' ','-').replace('.','')
-                    f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+    def json2str(self, data):
+        tittle = data['paper_title']
+        abstract = data['paper_abstract']
+        authors = data['paper_authors']
+        comments = data['comments']
+        paper_url = data['paper_url']
+        code_url = data['code_url']
+        content = ''
 
-            # if show_badge == True:
-            #     # we don't like long string, break it!
-            #     f.write((f"[contributors-shield]: https://img.shields.io/github/"
-            #             f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            #     f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-            #             f"cv-arxiv-daily/graphs/contributors\n"))
-            #     f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-            #             f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            #     f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-            #             f"cv-arxiv-daily/network/members\n"))
-            #     f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-            #             f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            #     f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-            #             f"cv-arxiv-daily/stargazers\n"))
-            #     f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-            #             f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            #     f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-            #             f"cv-arxiv-daily/issues\n\n"))
+        content += "### [" + tittle + "](" +paper_url + ")  \n"
+        if code_url:
+            content += "[[code](: " + code_url + ")]  \n"
 
-        logging.info(f"{task} finished")
+        content += authors + "  \n"
+
+        content += "<details>  \n"
+        content += "  <summary>Abstract</summary>  \n"
+        content += "  <ol>  \n"
+        content += "    " + abstract + "  \n"
+        content += "  </ol>  \n"
+        content += "</details>  \n"
+
+        if comments:
+            content += "**comments**: " + comments + "  \n"
+        content += "  \n"
+        return content

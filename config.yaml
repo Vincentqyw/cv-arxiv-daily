@@ -39,12 +39,13 @@ keywords:
         filters: ["NeRF"]
 
 
-emails:
-    "headers":
-        To: [""]
-        From: ""
-        Subject: ""
-        send: False
-        preview: True
-        today_md: "./docs/today_md.md"
-        today_json: "./docs/today_json.json"
+email:
+    port: 25
+    headers:
+        Subject: "arXiv daily"
+        send: True
+        preview: False
+    today_md_path: "./docs/today_md.md"
+    today_json_path: "./docs/today_json.json"
+    yesterday_md_path: "./docs/yesterday_md.md"
+    yesterday_json_path: "./docs/yesterday_json.json"
