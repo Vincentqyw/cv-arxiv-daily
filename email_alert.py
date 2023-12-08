@@ -118,7 +118,7 @@ class SendEmail(object):
         message.attach(MIMEText(self.html_content, 'html'))
 
         if headers['send']:
-            to = message['To'].split(', ')
+            to = message['To'].split(',')
 
             try:
                 server = smtplib.SMTP(self.config['smtp'], self.config['port'])
