@@ -55,6 +55,12 @@ def sort_papers(papers):
 
 class SendEmail(object):
     def __init__(self, config_file="./config.yaml") -> None:
+        """
+        Parameters
+        ----------
+        config_file : str, optional
+            config path, by default "./config.yaml"
+        """
         self.config = self.readconfig(config_file)
         self.css = subprocess.check_output(
             ['pygmentize', '-S', 'default', '-f', 'html'])
@@ -74,17 +80,17 @@ class SendEmail(object):
         return config['email']
 
     def transform_md(self, raw_md):
-        """_summary_
+        """transform markdown to html
 
         Parameters
         ----------
-        raw_md : _type_ string(content or path) #TODO: path
-            _description_ raw paper markdown content
+        raw_md : string(content or path) #TODO: path
+            raw paper markdown content
 
         Returns
         -------
-        markdown_content, html_content : _type_ string, string
-            _description_ md string and html string
+        markdown_content, html_content : string, string
+            md string and html string
         """
         self.markdown_content = raw_md.strip()
         self.html_content = markdown.markdown(self.markdown_content)
@@ -93,12 +99,7 @@ class SendEmail(object):
         return self.markdown_content, self.html_content
 
     def send(self):
-        """_summary_
-
-        Parameters
-        ----------
-        headers : _type_ config['email']['headers']
-            _description_
+        """send email
         """
 
         headers = self.config['headers']
@@ -144,6 +145,17 @@ class SendEmail(object):
     def json2md(self, filename,
                 md_filename,
                 use_toc=True):
+        """convert new papers json to markdown and write it to folder
+
+        Parameters
+        ----------
+        filename : str
+            json path
+        md_filename : str
+            md path
+        use_toc : bool, optional
+            if use toc, by default True
+        """
 
         def pretty_math(s:str) -> str:
             ret = ''
@@ -202,6 +214,18 @@ class SendEmail(object):
         # logging.info(f"{task} finished")
 
     def json2str(self, data):
+        """convert a single json paper entry to str
+
+        Parameters
+        ----------
+        data : dict
+            single json paper
+
+        Returns
+        -------
+        str
+            paper markdown string
+        """
         tittle = data['paper_title']
         abstract = data['paper_abstract']
         authors = data['paper_authors']
