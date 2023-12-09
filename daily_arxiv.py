@@ -534,7 +534,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links': args.update_paper_links}
-    if_email = True #demo(**config)
+    if_email = demo(**config)
     if if_email:
         send = SendEmail(args.config_path)
         send.send()

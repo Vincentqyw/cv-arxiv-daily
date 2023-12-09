@@ -175,7 +175,7 @@ class SendEmail(object):
         with open(md_filename, "a+") as f:
             if use_toc == True:
                 f.write("<details>\n")
-                f.write("  <summary>**TOC**</summary>\n")
+                f.write("  <summary><b>TOC</b></summary>\n")
                 f.write("  <ol>\n")
                 for keyword in data.keys():
                     day_content = data[keyword]
