@@ -407,6 +407,22 @@ def json_to_md(filename, md_filename,
 
 
 def get_today_papers(yesterday_json_path, today_json_path, today_papers):
+    """compare and get today's updated paper, return whether you need an email reminder of the new paper and the papers
+
+    Parameters
+    ----------
+    yesterday_json_path : str
+        already record papers' json path
+    today_json_path : str
+        today's new papers' (outside already record) json path to overwrite
+    today_papers : dict
+        papers found today
+
+    Returns
+    -------
+    bool, dict
+        if there has new papers today and the papers
+    """
     with open(yesterday_json_path, "r") as f:
         content = f.read()
         if not content:
@@ -446,7 +462,6 @@ def demo(**config):
     b_update = config['update_paper_links']
 
     today_json_path = config['email']['today_json_path']
-    today_md_path = config['email']['today_md_path']
     daily_papers = {}  # yellow
     if_email = False
 
@@ -517,7 +532,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links': args.update_paper_links}
-    if_email = True # demo(**config)
+    if_email = demo(**config)
     if if_email:
         send = SendEmail(args.config_path)
         send.send()

@@ -47,5 +47,3 @@ email:
         preview: False
     today_md_path: "./docs/today_md.md"
     today_json_path: "./docs/today_json.json"
-    yesterday_md_path: "./docs/yesterday_md.md"
-    yesterday_json_path: "./docs/yesterday_json.json"
