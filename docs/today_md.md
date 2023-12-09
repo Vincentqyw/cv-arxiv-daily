@@ -1,76 +1,94 @@
 **TOC**  
-  
-[**SLAM**](#SLAM)  
-  [iMatching: Imperative Correspondence Learning](#iMatching:-Imperative-Correspondence-Learning)  
-  [Event-based Visual Inertial Velometer](#Event-based-Visual-Inertial-Velometer)  
-  [CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems](#CoVOR-SLAM:-Cooperative-SLAM-using-Visual-Odometry-and-Ranges-for-Multi-Robot-Systems)  
-  [Dense Visual Odometry Using Genetic Algorithm](#Dense-Visual-Odometry-Using-Genetic-Algorithm)  
-  [Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM](#Inertial-Guided-Uncertainty-Estimation-of-Feature-Correspondence-in-Visual-Inertial-Odometry/SLAM)  
-  [Converting Depth Images and Point Clouds for Feature-based Pose Estimation](#Converting-Depth-Images-and-Point-Clouds-for-Feature-based-Pose-Estimation)  
-  [Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms](#Open-Structure:-a-Structural-Benchmark-Dataset-for-SLAM-Algorithms)  
-  [Jointly Optimized Global-Local Visual Localization of UAVs](#Jointly-Optimized-Global-Local-Visual-Localization-of-UAVs)  
-  [l-dyno: framework to learn consistent visual features using robot's motion](#l-dyno:-framework-to-learn-consistent-visual-features-using-robot's-motion)  
-  [XVO: Generalized Visual Odometry via Cross-Modal Self-Training](#XVO:-Generalized-Visual-Odometry-via-Cross-Modal-Self-Training)  
-  
-[**SFM**](#SFM)  
-  [Visual Geometry Grounded Deep Structure From Motion](#Visual-Geometry-Grounded-Deep-Structure-From-Motion)  
-  [Distributed Global Structure-from-Motion with a Deep Front-End](#Distributed-Global-Structure-from-Motion-with-a-Deep-Front-End)  
-  [Robot Hand-Eye Calibration using Structure-from-Motion](#Robot-Hand-Eye-Calibration-using-Structure-from-Motion)  
-  [LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation](#LOSTU:-Fast,-Scalable,-and-Uncertainty-Aware-Triangulation)  
-  [MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty](#MonoProb:-Self-Supervised-Monocular-Depth-Estimation-with-Interpretable-Uncertainty)  
-  [VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering](#VET:-Visual-Error-Tomography-for-Point-Cloud-Completion-and-High-Quality-Neural-Rendering)  
-  [A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video](#A-Quantitative-Evaluation-of-Dense-3D-Reconstruction-of-Sinus-Anatomy-from-Monocular-Endoscopic-Video)  
-  [FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer](#FMRT:-Learning-Accurate-Feature-Matching-with-Reconciliatory-Transformer)  
-  [Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration](#Colmap-PCD:-An-Open-source-Tool-for-Fine-Image-to-point-cloud-Registration)  
-  [LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization](#LocoNeRF:-A-NeRF-based-Approach-for-Local-Structure-from-Motion-for-Precise-Localization)  
-  
-[**Visual Localization**](#Visual-Localization)  
-  [Lite-Mind: Towards Efficient and Versatile Brain Representation Network](#Lite-Mind:-Towards-Efficient-and-Versatile-Brain-Representation-Network)  
-  [FreestyleRet: Retrieving Images from Style-Diversified Queries](#FreestyleRet:-Retrieving-Images-from-Style-Diversified-Queries)  
-  [Implicit Learning of Scene Geometry from Poses for Global Localization](#Implicit-Learning-of-Scene-Geometry-from-Poses-for-Global-Localization)  
-  [Language-only Efficient Training of Zero-shot Composed Image Retrieval](#Language-only-Efficient-Training-of-Zero-shot-Composed-Image-Retrieval)  
-  [G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training](#G2D:-From-Global-to-Dense-Radiography-Representation-Learning-via-Vision-Language-Pre-training)  
-  [Improve Supervised Representation Learning with Masked Image Modeling](#Improve-Supervised-Representation-Learning-with-Masked-Image-Modeling)  
-  [Grounding Everything: Emerging Localization Properties in Vision-Language Transformers](#Grounding-Everything:-Emerging-Localization-Properties-in-Vision-Language-Transformers)  
-  [Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras](#Global-Localization:-Utilizing-Relative-Spatio-Temporal-Geometric-Constraints-from-Adjacent-and-Distant-Cameras)  
-  [HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance](#HKUST-at-SemEval-2023-Task-1:-Visual-Word-Sense-Disambiguation-with-Context-Augmentation-and-Visual-Assistance)  
-  [Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models](#Label-efficient-Training-of-Small-Task-specific-Models-by-Leveraging-Vision-Foundation-Models)  
-  
-[**Keypoint Detection**](#Keypoint-Detection)  
-  [Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)](#Tracking-Object-Positions-in-Reinforcement-Learning:-A-Metric-for-Keypoint-Detection-(extended-version))  
-  [Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications](#Utilizing-Radiomic-Feature-Analysis-For-Automated-MRI-Keypoint-Detection:-Enhancing-Graph-Applications)  
-  [Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features](#Back-to-3D:-Few-Shot-3D-Keypoint-Detection-with-Back-Projected-2D-Features)  
-  [Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features](#Diffusion-3D-Features-(Diff3F):-Decorating-Untextured-Shapes-with-Distilled-Semantic-Features)  
-  [Riemannian Self-Attention Mechanism for SPD Networks](#Riemannian-Self-Attention-Mechanism-for-SPD-Networks)  
-  [A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor](#A-manometric-feature-descriptor-with-linear-SVM-to-distinguish-esophageal-contraction-vigor)  
-  [Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers](#Instance-aware-3D-Semantic-Segmentation-powered-by-Shape-Generators-and-Classifiers)  
-  [CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement](#CurriculumLoc:-Enhancing-Cross-Domain-Geolocalization-through-Multi-Stage-Refinement)  
-  [Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration](#Video-based-Sequential-Bayesian-Homography-Estimation-for-Soccer-Field-Registration)  
-  [Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning](#Processing-and-Segmentation-of-Human-Teeth-from-2D-Images-using-Weakly-Supervised-Learning)  
-  
-[**Image Matching**](#Image-Matching)  
-  [Visual Geometry Grounded Deep Structure From Motion](#Visual-Geometry-Grounded-Deep-Structure-From-Motion)  
-  [Steerers: A framework for rotation equivariant keypoint descriptors](#Steerers:-A-framework-for-rotation-equivariant-keypoint-descriptors)  
-  [DSeg: Direct Line Segments Detection](#DSeg:-Direct-Line-Segments-Detection)  
-  [Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications](#Utilizing-Radiomic-Feature-Analysis-For-Automated-MRI-Keypoint-Detection:-Enhancing-Graph-Applications)  
-  [LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching](#LGFCTR:-Local-and-Global-Feature-Convolutional-Transformer-for-Image-Matching)  
-  [Zero-shot Translation of Attention Patterns in VQA Models to Natural Language](#Zero-shot-Translation-of-Attention-Patterns-in-VQA-Models-to-Natural-Language)  
-  [An invariant feature extraction for multi-modal images matching](#An-invariant-feature-extraction-for-multi-modal-images-matching)  
-  [RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments](#RD-VIO:-Robust-Visual-Inertial-Odometry-for-Mobile-Augmented-Reality-in-Dynamic-Environments)  
-  [Player Re-Identification Using Body Part Appearences](#Player-Re-Identification-Using-Body-Part-Appearences)  
-  [FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer](#FMRT:-Learning-Accurate-Feature-Matching-with-Reconciliatory-Transformer)  
-  
-[**NeRF**](#NeRF)  
-  [MuRF: Multi-Baseline Radiance Fields](#MuRF:-Multi-Baseline-Radiance-Fields)  
-  [EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS](#EAGLES:-Efficient-Accelerated-3D-Gaussians-with-Lightweight-EncodingS)  
-  [Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection](#Correspondences-of-the-Third-Kind:-Camera-Pose-Estimation-from-Object-Reflection)  
-  [Multi-View Unsupervised Image Generation with Cross Attention Guidance](#Multi-View-Unsupervised-Image-Generation-with-Cross-Attention-Guidance)  
-  [Towards 4D Human Video Stylization](#Towards-4D-Human-Video-Stylization)  
-  [Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction](#Identity-Obscured-Neural-Radiance-Fields:-Privacy-Preserving-3D-Facial-Reconstruction)  
-  [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](#Inpaint3D:-3D-Scene-Content-Generation-using-2D-Inpainting-Diffusion)  
-  [Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle](#Gaussian-Flow:-4D-Reconstruction-with-Dynamic-3D-Gaussian-Particle)  
-  [Artist-Friendly Relightable and Animatable Neural Heads](#Artist-Friendly-Relightable-and-Animatable-Neural-Heads)  
-  [Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method](#Evaluating-the-point-cloud-of-individual-trees-generated-from-images-based-on-Neural-Radiance-fields-(NeRF)-method)  
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#slam>SLAM</a></li>
+      <ul>
+        <li><a href=#iMatching:-Imperative-Correspondence-Learning>iMatching: Imperative Correspondence Learning</a></li>
+        <li><a href=#Event-based-Visual-Inertial-Velometer>Event-based Visual Inertial Velometer</a></li>
+        <li><a href=#CoVOR-SLAM:-Cooperative-SLAM-using-Visual-Odometry-and-Ranges-for-Multi-Robot-Systems>CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems</a></li>
+        <li><a href=#Dense-Visual-Odometry-Using-Genetic-Algorithm>Dense Visual Odometry Using Genetic Algorithm</a></li>
+        <li><a href=#Inertial-Guided-Uncertainty-Estimation-of-Feature-Correspondence-in-Visual-Inertial-Odometry/SLAM>Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM</a></li>
+        <li><a href=#Converting-Depth-Images-and-Point-Clouds-for-Feature-based-Pose-Estimation>Converting Depth Images and Point Clouds for Feature-based Pose Estimation</a></li>
+        <li><a href=#Open-Structure:-a-Structural-Benchmark-Dataset-for-SLAM-Algorithms>Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms</a></li>
+        <li><a href=#Jointly-Optimized-Global-Local-Visual-Localization-of-UAVs>Jointly Optimized Global-Local Visual Localization of UAVs</a></li>
+        <li><a href=#l-dyno:-framework-to-learn-consistent-visual-features-using-robot's-motion>l-dyno: framework to learn consistent visual features using robot's motion</a></li>
+        <li><a href=#XVO:-Generalized-Visual-Odometry-via-Cross-Modal-Self-Training>XVO: Generalized Visual Odometry via Cross-Modal Self-Training</a></li>
+      </ul>
+    </li>
+    <li><a href=#sfm>SFM</a></li>
+      <ul>
+        <li><a href=#Visual-Geometry-Grounded-Deep-Structure-From-Motion>Visual Geometry Grounded Deep Structure From Motion</a></li>
+        <li><a href=#Distributed-Global-Structure-from-Motion-with-a-Deep-Front-End>Distributed Global Structure-from-Motion with a Deep Front-End</a></li>
+        <li><a href=#Robot-Hand-Eye-Calibration-using-Structure-from-Motion>Robot Hand-Eye Calibration using Structure-from-Motion</a></li>
+        <li><a href=#LOSTU:-Fast,-Scalable,-and-Uncertainty-Aware-Triangulation>LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation</a></li>
+        <li><a href=#MonoProb:-Self-Supervised-Monocular-Depth-Estimation-with-Interpretable-Uncertainty>MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty</a></li>
+        <li><a href=#VET:-Visual-Error-Tomography-for-Point-Cloud-Completion-and-High-Quality-Neural-Rendering>VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering</a></li>
+        <li><a href=#A-Quantitative-Evaluation-of-Dense-3D-Reconstruction-of-Sinus-Anatomy-from-Monocular-Endoscopic-Video>A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video</a></li>
+        <li><a href=#FMRT:-Learning-Accurate-Feature-Matching-with-Reconciliatory-Transformer>FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer</a></li>
+        <li><a href=#Colmap-PCD:-An-Open-source-Tool-for-Fine-Image-to-point-cloud-Registration>Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration</a></li>
+        <li><a href=#LocoNeRF:-A-NeRF-based-Approach-for-Local-Structure-from-Motion-for-Precise-Localization>LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization</a></li>
+      </ul>
+    </li>
+    <li><a href=#visual-localization>Visual Localization</a></li>
+      <ul>
+        <li><a href=#Lite-Mind:-Towards-Efficient-and-Versatile-Brain-Representation-Network>Lite-Mind: Towards Efficient and Versatile Brain Representation Network</a></li>
+        <li><a href=#FreestyleRet:-Retrieving-Images-from-Style-Diversified-Queries>FreestyleRet: Retrieving Images from Style-Diversified Queries</a></li>
+        <li><a href=#Implicit-Learning-of-Scene-Geometry-from-Poses-for-Global-Localization>Implicit Learning of Scene Geometry from Poses for Global Localization</a></li>
+        <li><a href=#Language-only-Efficient-Training-of-Zero-shot-Composed-Image-Retrieval>Language-only Efficient Training of Zero-shot Composed Image Retrieval</a></li>
+        <li><a href=#G2D:-From-Global-to-Dense-Radiography-Representation-Learning-via-Vision-Language-Pre-training>G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training</a></li>
+        <li><a href=#Improve-Supervised-Representation-Learning-with-Masked-Image-Modeling>Improve Supervised Representation Learning with Masked Image Modeling</a></li>
+        <li><a href=#Grounding-Everything:-Emerging-Localization-Properties-in-Vision-Language-Transformers>Grounding Everything: Emerging Localization Properties in Vision-Language Transformers</a></li>
+        <li><a href=#Global-Localization:-Utilizing-Relative-Spatio-Temporal-Geometric-Constraints-from-Adjacent-and-Distant-Cameras>Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras</a></li>
+        <li><a href=#HKUST-at-SemEval-2023-Task-1:-Visual-Word-Sense-Disambiguation-with-Context-Augmentation-and-Visual-Assistance>HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance</a></li>
+        <li><a href=#Label-efficient-Training-of-Small-Task-specific-Models-by-Leveraging-Vision-Foundation-Models>Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models</a></li>
+      </ul>
+    </li>
+    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+      <ul>
+        <li><a href=#Tracking-Object-Positions-in-Reinforcement-Learning:-A-Metric-for-Keypoint-Detection-(extended-version)>Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)</a></li>
+        <li><a href=#Utilizing-Radiomic-Feature-Analysis-For-Automated-MRI-Keypoint-Detection:-Enhancing-Graph-Applications>Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications</a></li>
+        <li><a href=#Back-to-3D:-Few-Shot-3D-Keypoint-Detection-with-Back-Projected-2D-Features>Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features</a></li>
+        <li><a href=#Diffusion-3D-Features-(Diff3F):-Decorating-Untextured-Shapes-with-Distilled-Semantic-Features>Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features</a></li>
+        <li><a href=#Riemannian-Self-Attention-Mechanism-for-SPD-Networks>Riemannian Self-Attention Mechanism for SPD Networks</a></li>
+        <li><a href=#A-manometric-feature-descriptor-with-linear-SVM-to-distinguish-esophageal-contraction-vigor>A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor</a></li>
+        <li><a href=#Instance-aware-3D-Semantic-Segmentation-powered-by-Shape-Generators-and-Classifiers>Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers</a></li>
+        <li><a href=#CurriculumLoc:-Enhancing-Cross-Domain-Geolocalization-through-Multi-Stage-Refinement>CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement</a></li>
+        <li><a href=#Video-based-Sequential-Bayesian-Homography-Estimation-for-Soccer-Field-Registration>Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration</a></li>
+        <li><a href=#Processing-and-Segmentation-of-Human-Teeth-from-2D-Images-using-Weakly-Supervised-Learning>Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning</a></li>
+      </ul>
+    </li>
+    <li><a href=#image-matching>Image Matching</a></li>
+      <ul>
+        <li><a href=#Visual-Geometry-Grounded-Deep-Structure-From-Motion>Visual Geometry Grounded Deep Structure From Motion</a></li>
+        <li><a href=#Steerers:-A-framework-for-rotation-equivariant-keypoint-descriptors>Steerers: A framework for rotation equivariant keypoint descriptors</a></li>
+        <li><a href=#DSeg:-Direct-Line-Segments-Detection>DSeg: Direct Line Segments Detection</a></li>
+        <li><a href=#Utilizing-Radiomic-Feature-Analysis-For-Automated-MRI-Keypoint-Detection:-Enhancing-Graph-Applications>Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications</a></li>
+        <li><a href=#LGFCTR:-Local-and-Global-Feature-Convolutional-Transformer-for-Image-Matching>LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching</a></li>
+        <li><a href=#Zero-shot-Translation-of-Attention-Patterns-in-VQA-Models-to-Natural-Language>Zero-shot Translation of Attention Patterns in VQA Models to Natural Language</a></li>
+        <li><a href=#An-invariant-feature-extraction-for-multi-modal-images-matching>An invariant feature extraction for multi-modal images matching</a></li>
+        <li><a href=#RD-VIO:-Robust-Visual-Inertial-Odometry-for-Mobile-Augmented-Reality-in-Dynamic-Environments>RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments</a></li>
+        <li><a href=#Player-Re-Identification-Using-Body-Part-Appearences>Player Re-Identification Using Body Part Appearences</a></li>
+        <li><a href=#FMRT:-Learning-Accurate-Feature-Matching-with-Reconciliatory-Transformer>FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer</a></li>
+      </ul>
+    </li>
+    <li><a href=#nerf>NeRF</a></li>
+      <ul>
+        <li><a href=#MuRF:-Multi-Baseline-Radiance-Fields>MuRF: Multi-Baseline Radiance Fields</a></li>
+        <li><a href=#EAGLES:-Efficient-Accelerated-3D-Gaussians-with-Lightweight-EncodingS>EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS</a></li>
+        <li><a href=#Correspondences-of-the-Third-Kind:-Camera-Pose-Estimation-from-Object-Reflection>Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection</a></li>
+        <li><a href=#Multi-View-Unsupervised-Image-Generation-with-Cross-Attention-Guidance>Multi-View Unsupervised Image Generation with Cross Attention Guidance</a></li>
+        <li><a href=#Towards-4D-Human-Video-Stylization>Towards 4D Human Video Stylization</a></li>
+        <li><a href=#Identity-Obscured-Neural-Radiance-Fields:-Privacy-Preserving-3D-Facial-Reconstruction>Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction</a></li>
+        <li><a href=#Inpaint3D:-3D-Scene-Content-Generation-using-2D-Inpainting-Diffusion>Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion</a></li>
+        <li><a href=#Gaussian-Flow:-4D-Reconstruction-with-Dynamic-3D-Gaussian-Particle>Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle</a></li>
+        <li><a href=#Artist-Friendly-Relightable-and-Animatable-Neural-Heads>Artist-Friendly Relightable and Animatable Neural Heads</a></li>
+        <li><a href=#Evaluating-the-point-cloud-of-individual-trees-generated-from-images-based-on-Neural-Radiance-fields-(NeRF)-method>Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 ## SLAM  
 
 ### [iMatching: Imperative Correspondence Learning](http://arxiv.org/abs/2312.02141)  
@@ -123,7 +141,7 @@ Seongwook Yoon, Jaehyun Kim, Sanghoon Sull
 **comments**: 12 pages  
   
 ### [Converting Depth Images and Point Clouds for Feature-based Pose Estimation](http://arxiv.org/abs/2310.14924)  
-[[code](: https://github.com/rlsch/depth-conversions)]  
+[[code](https://github.com/rlsch/depth-conversions)]  
 Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung  
 <details>  
   <summary>Abstract</summary>  
@@ -134,7 +152,7 @@ Robert Lösch, Mark Sastuba, Jonas Toth, Bernhard Jung
 **comments**: to be published in IROS 2023 conference proceedings  
   
 ### [Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms](http://arxiv.org/abs/2310.10931)  
-[[code](: https://github.com/yanyan-li/open-structure)]  
+[[code](https://github.com/yanyan-li/open-structure)]  
 Yanyan Li, Zhao Guo, Ze Yang, Yanbiao Sun, Liang Zhao, Federico Tombari  
 <details>  
   <summary>Abstract</summary>  
@@ -189,7 +207,7 @@ Jianyuan Wang, Nikita Karaev, Christian Rupprecht, David Novotny
 **comments**: 8 figures. Project page: https://vggsfm.github.io/  
   
 ### [Distributed Global Structure-from-Motion with a Deep Front-End](http://arxiv.org/abs/2311.18801)  
-[[code](: https://github.com/borglab/gtsfm)]  
+[[code](https://github.com/borglab/gtsfm)]  
 Ayush Baid, John Lambert, Travis Driver, Akshay Krishnan, Hayk Stepanyan, Frank Dellaert  
 <details>  
   <summary>Abstract</summary>  
@@ -218,7 +236,7 @@ Sébastien Henry, John A. Christian
 **comments**: 11 pages, 6 figures, 3 tables  
   
 ### [MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty](http://arxiv.org/abs/2311.06137)  
-[[code](: https://github.com/cea-list/monoprob)]  
+[[code](https://github.com/cea-list/monoprob)]  
 Rémi Marsal, Florian Chabot, Angelique Loesch, William Grolleau, Hichem Sahbi  
 <details>  
   <summary>Abstract</summary>  
@@ -229,7 +247,7 @@ Rémi Marsal, Florian Chabot, Angelique Loesch, William Grolleau, Hichem Sahbi
 **comments**: Accepted at WACV 2024  
   
 ### [VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering](http://arxiv.org/abs/2311.04634)  
-[[code](: https://github.com/lfranke/vet)]  
+[[code](https://github.com/lfranke/vet)]  
 Linus Franke, Darius Rückert, Laura Fink, Matthias Innmann, Marc Stamminger  
 <details>  
   <summary>Abstract</summary>  
@@ -257,7 +275,7 @@ Xinyu Zhang, Li Wang, Zhiqiang Jiang, Kun Dai, Tao Xie, Lei Yang, Wenhao Yu, Yan
 </details>  
   
 ### [Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration](http://arxiv.org/abs/2310.05504)  
-[[code](: https://github.com/xiaobaiiiiii/colmap-pcd)]  
+[[code](https://github.com/xiaobaiiiiii/colmap-pcd)]  
 Chunge Bai, Ruijie Fu, Xiang Gao  
 <details>  
   <summary>Abstract</summary>  
@@ -311,7 +329,7 @@ Mohammad Altillawi, Shile Li, Sai Manoj Prakhya, Ziyuan Liu, Joan Serrat
 **comments**: IEEE ROBOTICS AND AUTOMATION LETTERS. ACCEPTED NOVEMBER, 2023  
   
 ### [Language-only Efficient Training of Zero-shot Composed Image Retrieval](http://arxiv.org/abs/2312.01998)  
-[[code](: https://github.com/navervision/lincir)]  
+[[code](https://github.com/navervision/lincir)]  
 Geonmo Gu, Sanghyuk Chun, Wonjae Kim, Yoohoon Kang, Sangdoo Yun  
 <details>  
   <summary>Abstract</summary>  
@@ -340,7 +358,7 @@ Kaifeng Chen, Daniel Salz, Huiwen Chang, Kihyuk Sohn, Dilip Krishnan, Mojtaba Se
 </details>  
   
 ### [Grounding Everything: Emerging Localization Properties in Vision-Language Transformers](http://arxiv.org/abs/2312.00878)  
-[[code](: https://github.com/walbouss/gem)]  
+[[code](https://github.com/walbouss/gem)]  
 Walid Bousselham, Felix Petersen, Vittorio Ferrari, Hilde Kuehne  
 <details>  
   <summary>Abstract</summary>  
@@ -362,7 +380,7 @@ Mohammad Altillawi, Zador Pataki, Shile Li, Ziyuan Liu
   Conference on Intelligent Robots and Systems (IROS) 2023  
   
 ### [HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance](http://arxiv.org/abs/2311.18273)  
-[[code](: https://github.com/thomas-yin/semeval-2023-task1)]  
+[[code](https://github.com/thomas-yin/semeval-2023-task1)]  
 Zhuohao Yin, Xin Huang  
 <details>  
   <summary>Abstract</summary>  
@@ -452,7 +470,7 @@ Bo Sun, Qixing Huang, Xiangru Huang
 </details>  
   
 ### [CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement](http://arxiv.org/abs/2311.11604)  
-[[code](: https://github.com/npupilab/curriculumloc)]  
+[[code](https://github.com/npupilab/curriculumloc)]  
 Boni Hu, Lin Chen, Runjian Chen, Shuhui Bu, Pengcheng Han, Haowei Li  
 <details>  
   <summary>Abstract</summary>  
@@ -502,7 +520,7 @@ Jianyuan Wang, Nikita Karaev, Christian Rupprecht, David Novotny
 **comments**: 8 figures. Project page: https://vggsfm.github.io/  
   
 ### [Steerers: A framework for rotation equivariant keypoint descriptors](http://arxiv.org/abs/2312.02152)  
-[[code](: https://github.com/georg-bn/rotation-steerers)]  
+[[code](https://github.com/georg-bn/rotation-steerers)]  
 Georg Bökman, Johan Edstedt, Michael Felsberg, Fredrik Kahl  
 <details>  
   <summary>Abstract</summary>  
@@ -542,7 +560,7 @@ Wenhao Zhong, Jie Jiang
   tables in main text and 2 tables in supplementary material  
   
 ### [Zero-shot Translation of Attention Patterns in VQA Models to Natural Language](http://arxiv.org/abs/2311.05043)  
-[[code](: https://github.com/explainableml/zs-a2t)]  
+[[code](https://github.com/explainableml/zs-a2t)]  
 Leonard Salewski, A. Sophia Koepke, Hendrik P. A. Lensch, Zeynep Akata  
 <details>  
   <summary>Abstract</summary>  
@@ -595,7 +613,7 @@ Xinyu Zhang, Li Wang, Zhiqiang Jiang, Kun Dai, Tao Xie, Lei Yang, Wenhao Yu, Yan
 ## NeRF  
 
 ### [MuRF: Multi-Baseline Radiance Fields](http://arxiv.org/abs/2312.04565)  
-[[code](: https://github.com/autonomousvision/murf)]  
+[[code](https://github.com/autonomousvision/murf)]  
 Haofei Xu, Anpei Chen, Yuedong Chen, Christos Sakaridis, Yulun Zhang, Marc Pollefeys, Andreas Geiger, Fisher Yu  
 <details>  
   <summary>Abstract</summary>  
@@ -635,7 +653,7 @@ Llukman Cerkezi, Aram Davtyan, Sepehr Sameni, Paolo Favaro
 </details>  
   
 ### [Towards 4D Human Video Stylization](http://arxiv.org/abs/2312.04143)  
-[[code](: https://github.com/tiantianwang/4d_video_stylization)]  
+[[code](https://github.com/tiantianwang/4d_video_stylization)]  
 Tiantian Wang, Xinxin Zuo, Fangzhou Mu, Jian Wang, Ming-Hsuan Yang  
 <details>  
   <summary>Abstract</summary>  
