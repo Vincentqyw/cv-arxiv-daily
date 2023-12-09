@@ -47,12 +47,15 @@ class SendEmail(object):
         with open(config_file, 'r') as f:
             config = yaml.load(f, Loader=yaml.FullLoader)
 
-        config['email']['username'] = os.environ["USERNAME"]
-        config['email']['smtp'] = os.environ["SMTP"]
-        config['email']['password'] = os.environ["PASSWORD"]
+        try:
+            config['email']['username'] = os.environ["USERNAME"]
+            config['email']['smtp'] = os.environ["SMTP"]
+            config['email']['password'] = os.environ["PASSWORD"]
 
-        config['email']['headers']['To'] = os.environ["TO"]
-        config['email']['headers']['From'] = os.environ["FROM"]
+            config['email']['headers']['From'] = os.environ["FROM"]
+            config['email']['headers']['To'] = os.environ["TO"]
+        except KeyError:
+            print("email secrets not set up completely, please check github action secrets")
         return config['email']
 
     def transform_md(self, raw_md):
@@ -80,30 +83,32 @@ class SendEmail(object):
         """
 
         headers = self.config['headers']
-
         message = MIMEMultipart('alternative')
-        message['To'] = headers['To']
-        message['From'] = headers['From']
-        message['Subject'] = headers['Subject']
 
-        self.json2md(self.config['today_json_path'],
-                     self.config['today_md_path'])
+        try:
+            message['To'] = headers['To']
+            message['From'] = headers['From']
+            message['Subject'] = headers['Subject']
+        except KeyError:
+            pass
+
+        self.json2md(self.config['today_json_path'], self.config['today_md_path'])
         with open(self.config['today_md_path'], 'r') as file:
             content = file.read()
-        self.transform_md(content)
+            self.transform_md(content)
 
         # attach the message parts
         message.attach(MIMEText(self.markdown_content, 'plain'))
         message.attach(MIMEText(self.html_content, 'html'))
 
         if headers['send']:
-            to = message['To'].split(',')
-
             try:
+                to = message['To'].split(',')
                 server = smtplib.SMTP(self.config['smtp'], self.config['port'])
                 # server.starttls()
                 server.login(self.config['username'], self.config['password'])
                 server.sendmail(message['From'], to, message.as_string())
+                server.quit()
             except smtplib.SMTPServerDisconnected as e:
                 print(
                     "Failed to connect to the server. Incorrect SMTP server details or network issues may be the cause.")
@@ -116,7 +121,6 @@ class SendEmail(object):
                     "An error occurred while sending the email. Check your email settings and network connection.")
                 print(str(e))
 
-            server.quit()
         if headers['preview']:
             open('/tmp/preview.eml', 'w').write(message.as_string())
             os.system('thunderbird /tmp/preview.eml')
@@ -218,28 +222,44 @@ class SendEmail(object):
         str
             paper markdown string
         """
-        tittle = data['paper_title']
-        abstract = data['paper_abstract']
-        authors = data['paper_authors']
-        comments = data['comments']
-        paper_url = data['paper_url']
-        code_url = data['code_url']
         content = ''
+        try:
+            title = data['paper_title']
+        except KeyError:
+            title = ''
+        try:
+            abstract = data['paper_abstract']
+        except KeyError:
+            abstract = ''
+        try:
+            authors = data['paper_authors']
+        except KeyError:
+            authors = ''
+        try:
+            comments = data['comments']
+        except KeyError:
+            comments = ''
+        try:
+            paper_url = data['paper_url']
+        except KeyError:
+            paper_url = ''
+        try:
+            code_url = data['code_url']
+        except KeyError:
+            code_url = ''
 
-        content += "### [" + tittle + "](" + paper_url + ")  \n"
+        content += "### [" + title + "](" + paper_url + ")  \n"
         if code_url:
             content += "[[code](" + code_url + ")]  \n"
-
         content += authors + "  \n"
-
         content += "<details>  \n"
         content += "  <summary>Abstract</summary>  \n"
         content += "  <ol>  \n"
         content += "    " + abstract + "  \n"
         content += "  </ol>  \n"
         content += "</details>  \n"
-
         if comments:
             content += "**comments**: " + comments + "  \n"
         content += "  \n"
+
         return content
