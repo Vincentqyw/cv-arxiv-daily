@@ -43,7 +43,7 @@ email:
     port: 25
     headers:
         Subject: "arXiv daily"
-        send: True
-        preview: False
+        send: False # True
+        preview: True # False
     today_md_path: "./docs/today_md.md"
     today_json_path: "./docs/today_json.json"
