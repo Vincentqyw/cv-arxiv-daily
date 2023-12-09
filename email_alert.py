@@ -46,7 +46,7 @@ class SendEmail(object):
     def readconfig(self, config_file) -> dict:
         with open(config_file, 'r') as f:
             config = yaml.load(f, Loader=yaml.FullLoader)
-        # TODO:
+
         config['email']['username'] = os.environ["USERNAME"]
         config['email']['smtp'] = os.environ["SMTP"]
         config['email']['password'] = os.environ["PASSWORD"]
@@ -175,15 +175,23 @@ class SendEmail(object):
         with open(md_filename, "a+") as f:
             if use_toc == True:
                 f.write("**TOC**  \n")
+                f.write("<details>\n")
+                f.write("  <summary>Table of Contents</summary>\n")
+                f.write("  <ol>\n")
                 for keyword in data.keys():
-                    keyword_with_hyphens = replace_spaces_with_hyphens(keyword)
-                    f.write(
-                        f"  \n[**{keyword}**](#{keyword_with_hyphens})  \n")
+                    day_content = data[keyword]
+                    if not day_content:
+                        continue
+                    kw = keyword.replace(' ', '-')
+                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                    f.write("      <ul>\n")
                     for _, v in data[keyword].items():
-                        title_with_hyphens = replace_spaces_with_hyphens(
-                            v['paper_title'])
-                        f.write(
-                            f"  [{v['paper_title']}](#{title_with_hyphens})  \n")
+                        title_with_hyphens = replace_spaces_with_hyphens(v['paper_title'])
+                        f.write(f"        <li><a href=#{title_with_hyphens}>{v['paper_title']}</a></li>\n")
+                    f.write("      </ul>\n")
+                    f.write("    </li>\n")
+                f.write("  </ol>\n")
+                f.write("</details>\n\n")
 
             for keyword in data.keys():
                 day_content = data[keyword]
@@ -194,10 +202,9 @@ class SendEmail(object):
                 for _, v in day_content.items():
                     if v is not None:
                         content = pretty_math(self.json2str(v))
-                        f.write(content)  # make latex pretty
+                        f.write(content)
 
                 f.write(f"  \n\n\n\n")
-        # logging.info(f"{task} finished")
 
     def json2str(self, data):
         """convert a single json paper entry to str
@@ -222,7 +229,7 @@ class SendEmail(object):
 
         content += "### [" + tittle + "](" + paper_url + ")  \n"
         if code_url:
-            content += "[[code](: " + code_url + ")]  \n"
+            content += "[[code](" + code_url + ")]  \n"
 
         content += authors + "  \n"
 
