@@ -1,28 +1,3 @@
-'''
-Send an multipart email with HTML and plain text alternatives. The message
-should be constructed as a plain-text file of the following format:
-
-    From: Your Name <your@email.com>
-    To: Recipient One <recipient@to.com>
-    Subject: Your subject line
-    ---
-    Markdown content here
-The script accepts content from stdin and, by default, prints the raw
-generated email content to stdout.
-Preview your message on OS X by invoking the script with `-p` or
-`--preview`, and it will open in your default mail client.
-To send the message, invoke with `-s` or `--send`. You must have a
-JSON file in your home directory named `.markdown-to-email.json`
-with the following keys:
-    {
-        "username": "smtp-username",
-        "smtp": "smtp.gmail.com:587",
-        "password": "your-password"
-    }
-Enjoy!
-'''
-
-
 import os
 import re
 import sys
@@ -52,6 +27,7 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
+
 
 class SendEmail(object):
     def __init__(self, config_file="./config.yaml") -> None:
@@ -94,7 +70,8 @@ class SendEmail(object):
         """
         self.markdown_content = raw_md.strip()
         self.html_content = markdown.markdown(self.markdown_content)
-        self.html_content = '<style type="text/css">' + self.css.decode('utf-8') +'</style>' + self.html_content
+        self.html_content = '<style type="text/css">' + \
+            self.css.decode('utf-8') + '</style>' + self.html_content
 
         return self.markdown_content, self.html_content
 
@@ -109,7 +86,8 @@ class SendEmail(object):
         message['From'] = headers['From']
         message['Subject'] = headers['Subject']
 
-        self.json2md(self.config['today_json_path'], self.config['today_md_path'])
+        self.json2md(self.config['today_json_path'],
+                     self.config['today_md_path'])
         with open(self.config['today_md_path'], 'r') as file:
             content = file.read()
         self.transform_md(content)
@@ -127,12 +105,15 @@ class SendEmail(object):
                 server.login(self.config['username'], self.config['password'])
                 server.sendmail(message['From'], to, message.as_string())
             except smtplib.SMTPServerDisconnected as e:
-                print("Failed to connect to the server. Incorrect SMTP server details or network issues may be the cause.")
+                print(
+                    "Failed to connect to the server. Incorrect SMTP server details or network issues may be the cause.")
                 print(str(e))
             except smtplib.SMTPAuthenticationError:
-                print("SMTP Authentication Error. The server didn't accept the username/password combination.")
+                print(
+                    "SMTP Authentication Error. The server didn't accept the username/password combination.")
             except smtplib.SMTPException as e:
-                print("An error occurred while sending the email. Check your email settings and network connection.")
+                print(
+                    "An error occurred while sending the email. Check your email settings and network connection.")
                 print(str(e))
 
             server.quit()
@@ -157,15 +138,17 @@ class SendEmail(object):
             if use toc, by default True
         """
 
-        def pretty_math(s:str) -> str:
+        def pretty_math(s: str) -> str:
             ret = ''
             match = re.search(r"\$.*\$", s)
             if match == None:
                 return s
-            math_start,math_end = match.span()
+            math_start, math_end = match.span()
             space_trail = space_leading = ''
-            if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
-            if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
+            if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]:
+                space_trail = ' '
+            if s[math_end:][0] != ' ' and '*' != s[math_end:][0]:
+                space_leading = ' '
             ret += s[:math_start]
             ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
             ret += s[math_end:]
@@ -173,7 +156,7 @@ class SendEmail(object):
 
         DateNow = datetime.date.today()
         DateNow = str(DateNow)
-        DateNow = DateNow.replace('-','.')
+        DateNow = DateNow.replace('-', '.')
 
         with open(filename, "r") as f:
             content = f.read()
@@ -183,21 +166,24 @@ class SendEmail(object):
                 data = json.loads(content)
 
         # clean README.md if daily already exist else create it
-        with open(md_filename,"w+") as f:
+        with open(md_filename, "w+") as f:
             pass
 
         # write data into README.md
         def replace_spaces_with_hyphens(s):
             return s.replace(' ', '-')
-        with open(md_filename,"a+") as f:
+        with open(md_filename, "a+") as f:
             if use_toc == True:
                 f.write("**TOC**  \n")
                 for keyword in data.keys():
                     keyword_with_hyphens = replace_spaces_with_hyphens(keyword)
-                    f.write(f"  \n[**{keyword}**](#{keyword_with_hyphens})  \n")
-                    for _,v in data[keyword].items():
-                        title_with_hyphens = replace_spaces_with_hyphens(v['paper_title'])
-                        f.write(f"  [{v['paper_title']}](#{title_with_hyphens})  \n")
+                    f.write(
+                        f"  \n[**{keyword}**](#{keyword_with_hyphens})  \n")
+                    for _, v in data[keyword].items():
+                        title_with_hyphens = replace_spaces_with_hyphens(
+                            v['paper_title'])
+                        f.write(
+                            f"  [{v['paper_title']}](#{title_with_hyphens})  \n")
 
             for keyword in data.keys():
                 day_content = data[keyword]
@@ -205,10 +191,10 @@ class SendEmail(object):
                     continue
                 f.write(f"## {keyword}  \n\n")
                 day_content = sort_papers(day_content)
-                for _,v in day_content.items():
+                for _, v in day_content.items():
                     if v is not None:
                         content = pretty_math(self.json2str(v))
-                        f.write(content) # make latex pretty
+                        f.write(content)  # make latex pretty
 
                 f.write(f"  \n\n\n\n")
         # logging.info(f"{task} finished")
@@ -234,7 +220,7 @@ class SendEmail(object):
         code_url = data['code_url']
         content = ''
 
-        content += "### [" + tittle + "](" +paper_url + ")  \n"
+        content += "### [" + tittle + "](" + paper_url + ")  \n"
         if code_url:
             content += "[[code](: " + code_url + ")]  \n"
 

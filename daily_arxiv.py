@@ -479,6 +479,8 @@ def demo(**config):
         if_email, email_papers = get_today_papers(
             config['json_readme_path'], today_json_path, daily_papers)
         logging.info(f"GET daily papers end")
+        logging.info(f"if today has new papers {if_email}\n\n")
+        logging.info(f"today's new papers {email_papers}\n")
 
     # 1. update README.md file
     if publish_readme:
