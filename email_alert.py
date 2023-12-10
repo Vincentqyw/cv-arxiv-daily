@@ -14,9 +14,9 @@ try:
     import pygments
     import markdown
 except ImportError:
-    print('This script requires pygements and markdown to be installed.')
-    print('Please:')
-    print('   pip install pygments markdown')
+    logging.warning('This script requires pygements and markdown to be installed.')
+    logging.warning('Please:')
+    logging.warning('   pip install pygments markdown')
     sys.exit(0)
 
 
@@ -55,7 +55,7 @@ class SendEmail(object):
             config['email']['headers']['From'] = os.environ["FROM"]
             config['email']['headers']['To'] = os.environ["TO"]
         except KeyError:
-            print("email secrets not set up completely, please check github action secrets")
+            logging.warning("email secrets not set up completely, please check github action secrets")
         return config['email']
 
     def transform_md(self, raw_md):
@@ -109,23 +109,24 @@ class SendEmail(object):
                 server.login(self.config['username'], self.config['password'])
                 server.sendmail(message['From'], to, message.as_string())
                 server.quit()
+                logging.info(f"Send email successfully\n")
             except smtplib.SMTPServerDisconnected as e:
-                print(
+                logging.warning(
                     "Failed to connect to the server. Incorrect SMTP server details or network issues may be the cause.")
-                print(str(e))
+                logging.warning(str(e))
             except smtplib.SMTPAuthenticationError:
-                print(
+                logging.warning(
                     "SMTP Authentication Error. The server didn't accept the username/password combination.")
             except smtplib.SMTPException as e:
-                print(
+                logging.warning(
                     "An error occurred while sending the email. Check your email settings and network connection.")
-                print(str(e))
+                logging.warning(str(e))
 
         if headers['preview']:
             open('/tmp/preview.eml', 'w').write(message.as_string())
             os.system('thunderbird /tmp/preview.eml')
         else:
-            print(message.as_string())
+            logging.info(message.as_string())
 
     def json2md(self, filename,
                 md_filename,

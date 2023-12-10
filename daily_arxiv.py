@@ -469,17 +469,16 @@ def demo(**config):
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
+            logging.info(f"Keyword: {topic}\n")
             data, data_web, daily_paper = get_daily_papers(topic, query=keyword,
                                                            max_results=max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
             daily_papers[topic] = daily_paper  # yellow
-            print("\n")
         if_email, email_papers = get_today_papers(
             config['json_readme_path'], today_json_path, daily_papers)
-        logging.info(f"GET daily papers end")
-        logging.info(f"if today has new papers {if_email}\n\n")
+        logging.info(f"GET daily papers end\n")
+        logging.info(f"if today has new papers [{if_email}]")
         logging.info(f"today's new papers {email_papers}\n")
 
     # 1. update README.md file
