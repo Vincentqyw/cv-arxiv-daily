@@ -30,6 +30,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840](http://arxiv.org/abs/2312.04840)|null|
 |**2023-12-06**|**Large Non-Volatile Frequency Tuning of Spin Hall Nano-Oscillators using Circular Memristive Nano-Gates**|Maha Khademi et.al.|[2312.03352](http://arxiv.org/abs/2312.03352)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659](http://arxiv.org/abs/2312.02659)|null|
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
@@ -232,6 +233,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840](http://arxiv.org/abs/2312.04840)|null|
 |**2023-12-06**|**Large Non-Volatile Frequency Tuning of Spin Hall Nano-Oscillators using Circular Memristive Nano-Gates**|Maha Khademi et.al.|[2312.03352](http://arxiv.org/abs/2312.03352)|null|
 |**2023-12-03**|**Room-temperature orbit-transfer torque enabling van der Waals magnetoresistive memories**|Zhen-Cun Pan et.al.|[2312.01269](http://arxiv.org/abs/2312.01269)|null|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213](http://arxiv.org/abs/2312.01213)|null|
@@ -345,6 +347,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210](http://arxiv.org/abs/2312.05210)|null|
+|**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
+|**2023-12-04**|**Assessing Neural Network Representations During Training Using Noise-Resilient Diffusion Spectral Entropy**|Danqi Liao et.al.|[2312.04823](http://arxiv.org/abs/2312.04823)|**[link](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)**|
+|**2023-12-07**|**Hiding Functions within Functions: Steganography by Implicit Neural Representations**|Jia Liu et.al.|[2312.04743](http://arxiv.org/abs/2312.04743)|null|
 |**2023-12-07**|**ImFace++: A Sophisticated Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2312.04028](http://arxiv.org/abs/2312.04028)|null|
 |**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
 |**2023-12-05**|**Unsupervised learning on spontaneous retinal activity leads to efficient neural representation geometry**|Andrew Ligeralde et.al.|[2312.02791](http://arxiv.org/abs/2312.02791)|null|
