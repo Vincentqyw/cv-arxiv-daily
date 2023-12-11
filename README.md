@@ -171,7 +171,7 @@
 |**2023-08-17**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222](http://arxiv.org/abs/2308.08222)|null|
 |**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218](http://arxiv.org/abs/2308.08218)|null|
 |**2023-08-13**|**RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks**|Yufei Guo et.al.|[2308.06787](http://arxiv.org/abs/2308.06787)|null|
-|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582](http://arxiv.org/abs/2308.06582)|null|
+|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582](http://arxiv.org/abs/2308.06582)|**[link](https://github.com/bollossom/GAC)**|
 |**2023-08-10**|**Effect of memristorś potentiation-depression curves peculiarities in the convergence of physical perceptrons**|Walter Quiñonez et.al.|[2308.05779](http://arxiv.org/abs/2308.05779)|null|
 |**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636](http://arxiv.org/abs/2308.05636)|null|
 |**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749](http://arxiv.org/abs/2308.04749)|**[link](https://github.com/braincog-x/brain-cog)**|
@@ -303,7 +303,7 @@
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
 |**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218](http://arxiv.org/abs/2308.08218)|null|
-|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582](http://arxiv.org/abs/2308.06582)|null|
+|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582](http://arxiv.org/abs/2308.06582)|**[link](https://github.com/bollossom/GAC)**|
 |**2023-08-10**|**Effect of memristorś potentiation-depression curves peculiarities in the convergence of physical perceptrons**|Walter Quiñonez et.al.|[2308.05779](http://arxiv.org/abs/2308.05779)|null|
 |**2023-08-08**|**Reconfigurable elastic neuromorphic metasurfaces towards mechanical intelligence and cognitive wave-based computing**|M. Moghaddaszadeh et.al.|[2308.04002](http://arxiv.org/abs/2308.04002)|null|
 |**2023-08-07**|**Parametric excitations of coupled nanomagnets**|Domonkos Laszlo Farkas et.al.|[2308.03327](http://arxiv.org/abs/2308.03327)|null|
@@ -408,7 +408,7 @@
 |**2023-10-12**|**Implicit Shape and Appearance Priors for Few-Shot Full Head Reconstruction**|Pol Caselles et.al.|[2310.08784](http://arxiv.org/abs/2310.08784)|null|
 |**2023-10-10**|**Neural ring homomorphism preserves mandatory sets required for open convexity**|Neha Gupta et.al.|[2310.06323](http://arxiv.org/abs/2310.06323)|null|
 |**2023-10-09**|**Manifold-augmented Eikonal Equations: Geodesic Distances and Flows on Differentiable Manifolds**|Daniel Kelshaw et.al.|[2310.06157](http://arxiv.org/abs/2310.06157)|**[link](https://github.com/danielkelshaw/riemax)**|
-|**2023-10-09**|**Estimating Shape Distances on Neural Representations with Limited Samples**|Dean A. Pospisil et.al.|[2310.05742](http://arxiv.org/abs/2310.05742)|null|
+|**2023-10-09**|**Estimating Shape Distances on Neural Representations with Limited Samples**|Dean A. Pospisil et.al.|[2310.05742](http://arxiv.org/abs/2310.05742)|**[link](https://github.com/dp4846/eigmom_shape_stats)**|
 |**2023-10-12**|**Locality-Aware Generalizable Implicit Neural Representation**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
 |**2023-10-05**|**Tuning In to Neural Encoding: Linking Human Brain and Artificial Supervised Representations of Language**|Jingyuan Sun et.al.|[2310.04460](http://arxiv.org/abs/2310.04460)|null|
 |**2023-10-13**|**Inferring Inference**|Rajkumar Vasudeva Raju et.al.|[2310.03186](http://arxiv.org/abs/2310.03186)|**[link](https://github.com/xaqlab/inferringinference)**|
@@ -468,7 +468,7 @@
 |**2023-08-11**|**Bayesian Neural System Identification with Response Variability**|Nan Wu et.al.|[2308.05990](http://arxiv.org/abs/2308.05990)|null|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976](http://arxiv.org/abs/2308.05976)|null|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|**[link](https://github.com/sharc-lab/inr-arch)**|
-|**2023-08-08**|**Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain**|Michal Byra et.al.|[2308.04039](http://arxiv.org/abs/2308.04039)|null|
+|**2023-08-08**|**Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain**|Michal Byra et.al.|[2308.04039](http://arxiv.org/abs/2308.04039)|**[link](https://github.com/brainimageanalysis/impregdec)**|
 |**2023-08-05**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
 |**2023-08-03**|**On the Transition from Neural Representation to Symbolic Knowledge**|Junyan Cheng et.al.|[2308.02000](http://arxiv.org/abs/2308.02000)|null|
 |**2023-08-01**|**NeRT: Implicit Neural Representations for General Unsupervised Turbulence Mitigation**|Weiyun Jiang et.al.|[2308.00622](http://arxiv.org/abs/2308.00622)|null|
