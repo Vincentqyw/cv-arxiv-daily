@@ -170,11 +170,11 @@ class SendEmail(object):
             else:
                 data = json.loads(content)
 
-        # clean README.md if daily already exist else create it
+        # clean docs/today_md.md if daily already exist else create it
         with open(md_filename, "w+") as f:
             pass
 
-        # write data into README.md
+        # write data into docs/today_md.md
         def replace_spaces_with_hyphens(s):
             return s.replace(' ', '-')
         with open(md_filename, "a+") as f:
