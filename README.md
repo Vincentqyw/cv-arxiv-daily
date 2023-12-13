@@ -1,4 +1,4 @@
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -353,7 +353,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-11**|**Aligning brain functions boosts the decoding of visual semantics in novel subjects**|Alexis Thual et.al.|[2312.06467](http://arxiv.org/abs/2312.06467)|null|
-|**2023-12-10**|**Finding Concept Representations in Neural Networks with Self-Organizing Maps**|Mathieu d'Aquin et.al.|[2312.05864](http://arxiv.org/abs/2312.05864)|null|
+|**2023-12-10**|**Finding Concept Representations in Neural Networks with Self-Organizing Maps**|Mathieu d'Aquin et.al.|[2312.05864](http://arxiv.org/abs/2312.05864)|**[link](https://github.com/mdaquin/actsom)**|
 |**2023-12-10**|**Sparse Multitask Learning for Efficient Neural Representation of Motor Imagery and Execution**|Hye-Bin Shin et.al.|[2312.05828](http://arxiv.org/abs/2312.05828)|null|
 |**2023-12-10**|**Neural Speech Embeddings for Speech Synthesis Based on Deep Generative Networks**|Seo-Hyun Lee et.al.|[2312.05814](http://arxiv.org/abs/2312.05814)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
