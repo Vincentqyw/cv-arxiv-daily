@@ -1,60 +1,56 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#slam>SLAM</a></li>
-      <ul>
-        <li><a href=#SuperPrimitive:-Scene-Reconstruction-at-a-Primitive-Level>SuperPrimitive: Scene Reconstruction at a Primitive Level</a></li>
-      </ul>
-    </li>
     <li><a href=#sfm>SFM</a></li>
       <ul>
-        <li><a href=#SuperPrimitive:-Scene-Reconstruction-at-a-Primitive-Level>SuperPrimitive: Scene Reconstruction at a Primitive Level</a></li>
+        <li><a href=#Keypoint-based-Stereophotoclinometry-for-Characterizing-and-Navigating-Small-Bodies:-A-Factor-Graph-Approach>Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach</a></li>
+        <li><a href=#Gaussian-Splatting-SLAM>Gaussian Splatting SLAM</a></li>
       </ul>
     </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#Dynamic-Weighted-Combiner-for-Mixed-Modal-Image-Retrieval>Dynamic Weighted Combiner for Mixed-Modal Image Retrieval</a></li>
+        <li><a href=#Collapse-Oriented-Adversarial-Training-with-Triplet-Decoupling-for-Robust-Image-Retrieval>Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval</a></li>
+        <li><a href=#Attacking-the-Loop:-Adversarial-Attacks-on-Graph-based-Loop-Closure-Detection>Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection</a></li>
+      </ul>
+    </li>
+    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+      <ul>
+        <li><a href=#Keypoint-based-Stereophotoclinometry-for-Characterizing-and-Navigating-Small-Bodies:-A-Factor-Graph-Approach>Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#CorresNeRF:-Image-Correspondence-Priors-for-Neural-Radiance-Fields>CorresNeRF: Image Correspondence Priors for Neural Radiance Fields</a></li>
-        <li><a href=#DreamControl:-Control-Based-Text-to-3D-Generation-with-3D-Self-Prior>DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior</a></li>
-        <li><a href=#NeVRF:-Neural-Video-based-Radiance-Fields-for-Long-duration-Sequences>NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences</a></li>
-        <li><a href=#IL-NeRF:-Incremental-Learning-for-Neural-Radiance-Fields-with-Camera-Pose-Alignment>IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment</a></li>
-        <li><a href=#CoGS:-Controllable-Gaussian-Splatting>CoGS: Controllable Gaussian Splatting</a></li>
-        <li><a href=#R2-Talker:-Realistic-Real-Time-Talking-Head-Synthesis-with-Hash-Grid-Landmarks-Encoding-and-Progressive-Multilayer-Conditioning>R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning</a></li>
-        <li><a href=#Multi-view-Inversion-for-3D-aware-Generative-Adversarial-Networks>Multi-view Inversion for 3D-aware Generative Adversarial Networks</a></li>
+        <li><a href=#COLMAP-Free-3D-Gaussian-Splatting>COLMAP-Free 3D Gaussian Splatting</a></li>
+        <li><a href=#Unifying-Correspondence,-Pose-and-NeRF-for-Pose-Free-Novel-View-Synthesis-from-Stereo-Pairs>Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs</a></li>
+        <li><a href=#WaterHE-NeRF:-Water-ray-Tracing-Neural-Radiance-Fields-for-Underwater-Scene-Reconstruction>WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction</a></li>
+        <li><a href=#TeTriRF:-Temporal-Tri-Plane-Radiance-Fields-for-Efficient-Free-Viewpoint-Video>TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SLAM  
-
-### [SuperPrimitive: Scene Reconstruction at a Primitive Level](http://arxiv.org/abs/2312.05889)  
-Kirill Mazur, Gwangbin Bae, Andrew J. Davison  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Joint camera pose and dense geometry estimation from a set of images or a monocular video remains a challenging problem due to its computational complexity and inherent visual ambiguities. Most dense incremental reconstruction systems operate directly on image pixels and solve for their 3D positions using multi-view geometry cues. Such pixel-level approaches suffer from ambiguities or violations of multi-view consistency (e.g. caused by textureless or specular surfaces).   We address this issue with a new image representation which we call a SuperPrimitive. SuperPrimitives are obtained by splitting images into semantically correlated local regions and enhancing them with estimated surface normal directions, both of which are predicted by state-of-the-art single image neural networks. This provides a local geometry estimate per SuperPrimitive, while their relative positions are adjusted based on multi-view observations.   We demonstrate the versatility of our new representation by addressing three 3D reconstruction tasks: depth completion, few-view structure from motion, and monocular dense visual odometry.  
-  </ol>  
-</details>  
-  
-  
-
-
-
 ## SFM  
 
-### [SuperPrimitive: Scene Reconstruction at a Primitive Level](http://arxiv.org/abs/2312.05889)  
-Kirill Mazur, Gwangbin Bae, Andrew J. Davison  
+### [Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach](http://arxiv.org/abs/2312.06865)  
+Travis Driver, Andrew Vaughan, Yang Cheng, Adnan Ansar, John Christian, Panagiotis Tsiotras  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Joint camera pose and dense geometry estimation from a set of images or a monocular video remains a challenging problem due to its computational complexity and inherent visual ambiguities. Most dense incremental reconstruction systems operate directly on image pixels and solve for their 3D positions using multi-view geometry cues. Such pixel-level approaches suffer from ambiguities or violations of multi-view consistency (e.g. caused by textureless or specular surfaces).   We address this issue with a new image representation which we call a SuperPrimitive. SuperPrimitives are obtained by splitting images into semantically correlated local regions and enhancing them with estimated surface normal directions, both of which are predicted by state-of-the-art single image neural networks. This provides a local geometry estimate per SuperPrimitive, while their relative positions are adjusted based on multi-view observations.   We demonstrate the versatility of our new representation by addressing three 3D reconstruction tasks: depth completion, few-view structure from motion, and monocular dense visual odometry.  
+    This paper proposes the incorporation of techniques from stereophotoclinometry (SPC) into a keypoint-based structure-from-motion (SfM) system to estimate the surface normal and albedo at detected landmarks to improve autonomous surface and shape characterization of small celestial bodies from in-situ imagery. In contrast to the current state-of-the-practice method for small body shape reconstruction, i.e., SPC, which relies on human-in-the-loop verification and high-fidelity a priori information to achieve accurate results, we forego the expensive maplet estimation step and instead leverage dense keypoint measurements and correspondences from an autonomous keypoint detection and matching method based on deep learning to provide the necessary photogrammetric constraints. Moreover, we develop a factor graph-based approach allowing for simultaneous optimization of the spacecraft's pose, landmark positions, Sun-relative direction, and surface normals and albedos via fusion of Sun sensor measurements and image keypoint measurements. The proposed framework is validated on real imagery of the Cornelia crater on Asteroid 4 Vesta, along with pose estimation and mapping comparison against an SPC reconstruction, where we demonstrate precise alignment to the SPC solution without relying on any a priori camera pose and topography information or humans-in-the-loop  
   </ol>  
 </details>  
+  
+### [Gaussian Splatting SLAM](http://arxiv.org/abs/2312.06741)  
+Hidenobu Matsuki, Riku Murai, Paul H. J. Kelly, Andrew J. Davison  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We present the first application of 3D Gaussian Splatting to incremental 3D reconstruction using a single moving monocular or RGB-D camera. Our Simultaneous Localisation and Mapping (SLAM) method, which runs live at 3fps, utilises Gaussians as the only 3D representation, unifying the required representation for accurate, efficient tracking, mapping, and high-quality rendering. Several innovations are required to continuously reconstruct 3D scenes with high fidelity from a live camera. First, to move beyond the original 3DGS algorithm, which requires accurate poses from an offline Structure from Motion (SfM) system, we formulate camera tracking for 3DGS using direct optimisation against the 3D Gaussians, and show that this enables fast and robust tracking with a wide basin of convergence. Second, by utilising the explicit nature of the Gaussians, we introduce geometric verification and regularisation to handle the ambiguities occurring in incremental 3D dense reconstruction. Finally, we introduce a full SLAM system which not only achieves state-of-the-art results in novel view synthesis and trajectory estimation, but also reconstruction of tiny and even transparent objects.  
+  </ol>  
+</details>  
+**comments**: First two authors contributed equally to this work. Project Page:
+  https://rmurai.co.uk/projects/GaussianSplattingSLAM/ Video:
+  https://www.youtube.com/watch?v=x604ghp9R_Q&ab_channel=DysonRoboticsLaboratoryatImperialCollege  
   
   
 
@@ -62,15 +58,39 @@ Kirill Mazur, Gwangbin Bae, Andrew J. Davison
 
 ## Visual Localization  
 
-### [Dynamic Weighted Combiner for Mixed-Modal Image Retrieval](http://arxiv.org/abs/2312.06179)  
-Fuxiang Huang, Lei Zhang, Xiaowei Fu, Suqi Song  
+### [Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval](http://arxiv.org/abs/2312.07364)  
+Qiwei Tian, Chenhao Lin, Qian Li, Zhengyu Zhao, Chao Shen  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Mixed-Modal Image Retrieval (MMIR) as a flexible search paradigm has attracted wide attention. However, previous approaches always achieve limited performance, due to two critical factors are seriously overlooked. 1) The contribution of image and text modalities is different, but incorrectly treated equally. 2) There exist inherent labeling noises in describing users' intentions with text in web datasets from diverse real-world scenarios, giving rise to overfitting. We propose a Dynamic Weighted Combiner (DWC) to tackle the above challenges, which includes three merits. First, we propose an Editable Modality De-equalizer (EMD) by taking into account the contribution disparity between modalities, containing two modality feature editors and an adaptive weighted combiner. Second, to alleviate labeling noises and data bias, we propose a dynamic soft-similarity label generator (SSG) to implicitly improve noisy supervision. Finally, to bridge modality gaps and facilitate similarity learning, we propose a CLIP-based mutual enhancement module alternately trained by a mixed-modality contrastive loss. Extensive experiments verify that our proposed model significantly outperforms state-of-the-art methods on real-world datasets. The source code is available at \url{https://github.com/fuxianghuang1/DWC}.  
+    Adversarial training has achieved substantial performance in defending image retrieval systems against adversarial examples. However, existing studies still suffer from two major limitations: model collapse and weak adversary. This paper addresses these two limitations by proposing collapse-oriented (COLO) adversarial training with triplet decoupling (TRIDE). Specifically, COLO prevents model collapse by temporally orienting the perturbation update direction with a new collapse metric, while TRIDE yields a strong adversary by spatially decoupling the update targets of perturbation into the anchor and the two candidates of a triplet. Experimental results demonstrate that our COLO-TRIDE outperforms the current state of the art by 7% on average over 10 robustness metrics and across 3 popular datasets. In addition, we identify the fairness limitations of commonly used robustness metrics in image retrieval and propose a new metric for more meaningful robustness evaluation. Codes will be made publicly available on GitHub.  
   </ol>  
 </details>  
-**comments**: 11 pages, 12 figures and 12 tables. To appear in AAAI 2024  
+  
+### [Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection](http://arxiv.org/abs/2312.06991)  
+Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jorg S. Wicker  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    With the advancement in robotics, it is becoming increasingly common for large factories and warehouses to incorporate visual SLAM (vSLAM) enabled automated robots that operate closely next to humans. This makes any adversarial attacks on vSLAM components potentially detrimental to humans working alongside them. Loop Closure Detection (LCD) is a crucial component in vSLAM that minimizes the accumulation of drift in mapping, since even a small drift can accumulate into a significant drift over time. A prior work by Kim et al., SymbioLCD2, unified visual features and semantic objects into a single graph structure for finding loop closure candidates. While this provided a performance improvement over visual feature-based LCD, it also created a single point of vulnerability for potential graph-based adversarial attacks. Unlike previously reported visual-patch based attacks, small graph perturbations are far more challenging to detect, making them a more significant threat. In this paper, we present Adversarial-LCD, a novel black-box evasion attack framework that employs an eigencentrality-based perturbation method and an SVM-RBF surrogate model with a Weisfeiler-Lehman feature extractor for attacking graph-based LCD. Our evaluation shows that the attack performance of Adversarial-LCD with the SVM-RBF surrogate model was superior to that of other machine learning surrogate algorithms, including SVM-linear, SVM-polynomial, and Bayesian classifier, demonstrating the effectiveness of our attack framework. Furthermore, we show that our eigencentrality-based perturbation method outperforms other algorithms, such as Random-walk and Shortest-path, highlighting the efficiency of Adversarial-LCD's perturbation selection method.  
+  </ol>  
+</details>  
+**comments**: Accepted at VISIGRAPP 2024, 8 pages  
+  
+  
+
+
+
+## Keypoint Detection  
+
+### [Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach](http://arxiv.org/abs/2312.06865)  
+Travis Driver, Andrew Vaughan, Yang Cheng, Adnan Ansar, John Christian, Panagiotis Tsiotras  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    This paper proposes the incorporation of techniques from stereophotoclinometry (SPC) into a keypoint-based structure-from-motion (SfM) system to estimate the surface normal and albedo at detected landmarks to improve autonomous surface and shape characterization of small celestial bodies from in-situ imagery. In contrast to the current state-of-the-practice method for small body shape reconstruction, i.e., SPC, which relies on human-in-the-loop verification and high-fidelity a priori information to achieve accurate results, we forego the expensive maplet estimation step and instead leverage dense keypoint measurements and correspondences from an autonomous keypoint detection and matching method based on deep learning to provide the necessary photogrammetric constraints. Moreover, we develop a factor graph-based approach allowing for simultaneous optimization of the spacecraft's pose, landmark positions, Sun-relative direction, and surface normals and albedos via fusion of Sun sensor measurements and image keypoint measurements. The proposed framework is validated on real imagery of the Cornelia crater on Asteroid 4 Vesta, along with pose estimation and mapping comparison against an SPC reconstruction, where we demonstrate precise alignment to the SPC solution without relying on any a priori camera pose and topography information or humans-in-the-loop  
+  </ol>  
+</details>  
   
   
 
@@ -78,71 +98,44 @@ Fuxiang Huang, Lei Zhang, Xiaowei Fu, Suqi Song
 
 ## NeRF  
 
-### [CorresNeRF: Image Correspondence Priors for Neural Radiance Fields](http://arxiv.org/abs/2312.06642)  
-[[code](https://github.com/yxlao/corres-nerf)]  
-Yixing Lao, Xiaogang Xu, Zhipeng Cai, Xihui Liu, Hengshuang Zhao  
+### [COLMAP-Free 3D Gaussian Splatting](http://arxiv.org/abs/2312.07504)  
+Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Neural Radiance Fields (NeRFs) have achieved impressive results in novel view synthesis and surface reconstruction tasks. However, their performance suffers under challenging scenarios with sparse input views. We present CorresNeRF, a novel method that leverages image correspondence priors computed by off-the-shelf methods to supervise NeRF training. We design adaptive processes for augmentation and filtering to generate dense and high-quality correspondences. The correspondences are then used to regularize NeRF training via the correspondence pixel reprojection and depth loss terms. We evaluate our methods on novel view synthesis and surface reconstruction tasks with density-based and SDF-based NeRF models on different datasets. Our method outperforms previous methods in both photometric and geometric metrics. We show that this simple yet effective technique of using correspondence priors can be applied as a plug-and-play module across different NeRF variants. The project page is at https://yxlao.github.io/corres-nerf.  
+    While neural rendering has led to impressive advances in scene reconstruction and novel view synthesis, it relies heavily on accurately pre-computed camera poses. To relax this constraint, multiple efforts have been made to train Neural Radiance Fields (NeRFs) without pre-processed camera poses. However, the implicit representations of NeRFs provide extra challenges to optimize the 3D structure and camera poses at the same time. On the other hand, the recently proposed 3D Gaussian Splatting provides new opportunities given its explicit point cloud representations. This paper leverages both the explicit geometric representation and the continuity of the input video stream to perform novel view synthesis without any SfM preprocessing. We process the input frames in a sequential manner and progressively grow the 3D Gaussians set by taking one input frame at a time, without the need to pre-compute the camera poses. Our method significantly improves over previous approaches in view synthesis and camera pose estimation under large motion changes. Our project page is https://oasisyang.github.io/colmap-free-3dgs  
+  </ol>  
+</details>  
+**comments**: Project Page: https://oasisyang.github.io/colmap-free-3dgs  
+  
+### [Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs](http://arxiv.org/abs/2312.07246)  
+Sunghwan Hong, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    This work delves into the task of pose-free novel view synthesis from stereo pairs, a challenging and pioneering task in 3D vision. Our innovative framework, unlike any before, seamlessly integrates 2D correspondence matching, camera pose estimation, and NeRF rendering, fostering a synergistic enhancement of these tasks. We achieve this through designing an architecture that utilizes a shared representation, which serves as a foundation for enhanced 3D geometry understanding. Capitalizing on the inherent interplay between the tasks, our unified framework is trained end-to-end with the proposed training strategy to improve overall model accuracy. Through extensive evaluations across diverse indoor and outdoor scenes from two real-world datasets, we demonstrate that our approach achieves substantial improvement over previous methodologies, especially in scenarios characterized by extreme viewpoint changes and the absence of accurate camera poses.  
+  </ol>  
+</details>  
+**comments**: Project page: https://ku-cvlab.github.io/CoPoNeRF/  
+  
+### [WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction](http://arxiv.org/abs/2312.06946)  
+Jingchun Zhou, Tianyu Liang, Zongxin He, Dehuan Zhang, Weishi Zhang, Xianping Fu, Chongyi Li  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Neural Radiance Field (NeRF) technology demonstrates immense potential in novel viewpoint synthesis tasks, due to its physics-based volumetric rendering process, which is particularly promising in underwater scenes. Addressing the limitations of existing underwater NeRF methods in handling light attenuation caused by the water medium and the lack of real Ground Truth (GT) supervision, this study proposes WaterHE-NeRF. We develop a new water-ray tracing field by Retinex theory that precisely encodes color, density, and illuminance attenuation in three-dimensional space. WaterHE-NeRF, through its illuminance attenuation mechanism, generates both degraded and clear multi-view images and optimizes image restoration by combining reconstruction loss with Wasserstein distance. Additionally, the use of histogram equalization (HE) as pseudo-GT enhances the network's accuracy in preserving original details and color distribution. Extensive experiments on real underwater datasets and synthetic datasets validate the effectiveness of WaterHE-NeRF. Our code will be made publicly available.  
   </ol>  
 </details>  
   
-### [DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior](http://arxiv.org/abs/2312.06439)  
-Tianyu Huang, Yihan Zeng, Zhilu Zhang, Wan Xu, Hang Xu, Songcen Xu, Rynson W. H. Lau, Wangmeng Zuo  
+### [TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video](http://arxiv.org/abs/2312.06713)  
+Minye Wu, Zehao Wang, Georgios Kouros, Tinne Tuytelaars  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    3D generation has raised great attention in recent years. With the success of text-to-image diffusion models, the 2D-lifting technique becomes a promising route to controllable 3D generation. However, these methods tend to present inconsistent geometry, which is also known as the Janus problem. We observe that the problem is caused mainly by two aspects, i.e., viewpoint bias in 2D diffusion models and overfitting of the optimization objective. To address it, we propose a two-stage 2D-lifting framework, namely DreamControl, which optimizes coarse NeRF scenes as 3D self-prior and then generates fine-grained objects with control-based score distillation. Specifically, adaptive viewpoint sampling and boundary integrity metric are proposed to ensure the consistency of generated priors. The priors are then regarded as input conditions to maintain reasonable geometries, in which conditional LoRA and weighted score are further proposed to optimize detailed textures. DreamControl can generate high-quality 3D content in terms of both geometry consistency and texture fidelity. Moreover, our control-based optimization guidance is applicable to more downstream tasks, including user-guided generation and 3D animation. The project page is available at https://github.com/tyhuang0428/DreamControl.  
+    Neural Radiance Fields (NeRF) revolutionize the realm of visual media by providing photorealistic Free-Viewpoint Video (FVV) experiences, offering viewers unparalleled immersion and interactivity. However, the technology's significant storage requirements and the computational complexity involved in generation and rendering currently limit its broader application. To close this gap, this paper presents Temporal Tri-Plane Radiance Fields (TeTriRF), a novel technology that significantly reduces the storage size for Free-Viewpoint Video (FVV) while maintaining low-cost generation and rendering. TeTriRF introduces a hybrid representation with tri-planes and voxel grids to support scaling up to long-duration sequences and scenes with complex motions or rapid changes. We propose a group training scheme tailored to achieving high training efficiency and yielding temporally consistent, low-entropy scene representations. Leveraging these properties of the representations, we introduce a compression pipeline with off-the-shelf video codecs, achieving an order of magnitude less storage size compared to the state-of-the-art. Our experiments demonstrate that TeTriRF can achieve competitive quality with a higher compression rate.  
   </ol>  
 </details>  
-  
-### [NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences](http://arxiv.org/abs/2312.05855)  
-Minye Wu, Tinne Tuytelaars  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Adopting Neural Radiance Fields (NeRF) to long-duration dynamic sequences has been challenging. Existing methods struggle to balance between quality and storage size and encounter difficulties with complex scene changes such as topological changes and large motions. To tackle these issues, we propose a novel neural video-based radiance fields (NeVRF) representation. NeVRF marries neural radiance field with image-based rendering to support photo-realistic novel view synthesis on long-duration dynamic inward-looking scenes. We introduce a novel multi-view radiance blending approach to predict radiance directly from multi-view videos. By incorporating continual learning techniques, NeVRF can efficiently reconstruct frames from sequential data without revisiting previous frames, enabling long-duration free-viewpoint video. Furthermore, with a tailored compression approach, NeVRF can compactly represent dynamic scenes, making dynamic radiance fields more practical in real-world scenarios. Our extensive experiments demonstrate the effectiveness of NeVRF in enabling long-duration sequence rendering, sequential data reconstruction, and compact data storage.  
-  </ol>  
-</details>  
-**comments**: 11 pages, 12 figures  
-  
-### [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment](http://arxiv.org/abs/2312.05748)  
-Letian Zhang, Ming Li, Chen Chen, Jie Xu  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural radiance fields (NeRF) is a promising approach for generating photorealistic images and representing complex scenes. However, when processing data sequentially, it can suffer from catastrophic forgetting, where previous data is easily forgotten after training with new data. Existing incremental learning methods using knowledge distillation assume that continuous data chunks contain both 2D images and corresponding camera pose parameters, pre-estimated from the complete dataset. This poses a paradox as the necessary camera pose must be estimated from the entire dataset, even though the data arrives sequentially and future chunks are inaccessible. In contrast, we focus on a practical scenario where camera poses are unknown. We propose IL-NeRF, a novel framework for incremental NeRF training, to address this challenge. IL-NeRF's key idea lies in selecting a set of past camera poses as references to initialize and align the camera poses of incoming image data. This is followed by a joint optimization of camera poses and replay-based NeRF distillation. Our experiments on real-world indoor and outdoor scenes show that IL-NeRF handles incremental NeRF training and outperforms the baselines by up to $54.04\%$ in rendering quality.  
-  </ol>  
-</details>  
-  
-### [CoGS: Controllable Gaussian Splatting](http://arxiv.org/abs/2312.05664)  
-Heng Yu, Joel Julin, Zoltán Á. Milacski, Koichiro Niinuma, László A. Jeni  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Capturing and re-animating the 3D structure of articulated objects present significant barriers. On one hand, methods requiring extensively calibrated multi-view setups are prohibitively complex and resource-intensive, limiting their practical applicability. On the other hand, while single-camera Neural Radiance Fields (NeRFs) offer a more streamlined approach, they have excessive training and rendering costs. 3D Gaussian Splatting would be a suitable alternative but for two reasons. Firstly, existing methods for 3D dynamic Gaussians require synchronized multi-view cameras, and secondly, the lack of controllability in dynamic scenarios. We present CoGS, a method for Controllable Gaussian Splatting, that enables the direct manipulation of scene elements, offering real-time control of dynamic scenes without the prerequisite of pre-computing control signals. We evaluated CoGS using both synthetic and real-world datasets that include dynamic objects that differ in degree of difficulty. In our evaluations, CoGS consistently outperformed existing dynamic and controllable neural representations in terms of visual fidelity.  
-  </ol>  
-</details>  
-**comments**: 10 pages, in submission  
-  
-### [R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning](http://arxiv.org/abs/2312.05572)  
-Zhiling Ye, LiangGuo Zhang, Dingheng Zeng, Quan Lu, Ning Jiang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Dynamic NeRFs have recently garnered growing attention for 3D talking portrait synthesis. Despite advances in rendering speed and visual quality, challenges persist in enhancing efficiency and effectiveness. We present R2-Talker, an efficient and effective framework enabling realistic real-time talking head synthesis. Specifically, using multi-resolution hash grids, we introduce a novel approach for encoding facial landmarks as conditional features. This approach losslessly encodes landmark structures as conditional features, decoupling input diversity, and conditional spaces by mapping arbitrary landmarks to a unified feature space. We further propose a scheme of progressive multilayer conditioning in the NeRF rendering pipeline for effective conditional feature fusion. Our new approach has the following advantages as demonstrated by extensive experiments compared with the state-of-the-art works: 1) The lossless input encoding enables acquiring more precise features, yielding superior visual quality. The decoupling of inputs and conditional spaces improves generalizability. 2) The fusing of conditional features and MLP outputs at each MLP layer enhances conditional impact, resulting in more accurate lip synthesis and better visual quality. 3) It compactly structures the fusion of conditional features, significantly enhancing computational efficiency.  
-  </ol>  
-</details>  
-  
-### [Multi-view Inversion for 3D-aware Generative Adversarial Networks](http://arxiv.org/abs/2312.05330)  
-Florian Barthel, Anna Hilsmann, Peter Eisert  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Current 3D GAN inversion methods for human heads typically use only one single frontal image to reconstruct the whole 3D head model. This leaves out meaningful information when multi-view data or dynamic videos are available. Our method builds on existing state-of-the-art 3D GAN inversion techniques to allow for consistent and simultaneous inversion of multiple views of the same subject. We employ a multi-latent extension to handle inconsistencies present in dynamic face videos to re-synthesize consistent 3D representations from the sequence. As our method uses additional information about the target subject, we observe significant enhancements in both geometric accuracy and image quality, particularly when rendering from wide viewing angles. Moreover, we demonstrate the editability of our inverted 3D renderings, which distinguishes them from NeRF-based scene reconstructions.  
-  </ol>  
-</details>  
+**comments**: 13 pages, 11 figures  
   
   
 
