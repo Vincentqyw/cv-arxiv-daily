@@ -34,6 +34,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Efficient Object Detection in Autonomous Driving using Spiking Neural Networks: Performance, Energy Consumption Analysis, and Insights into Open-set Object Discovery**|Aitor Martinez Seras et.al.|[2312.07466](http://arxiv.org/abs/2312.07466)|**[link](https://github.com/aitor-martinez-seras/snn-automotive-object-detection)**|
+|**2023-12-12**|**When Bio-Inspired Computing meets Deep Learning: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks from Artificial Neural Networks**|Gourav Datta et.al.|[2312.06900](http://arxiv.org/abs/2312.06900)|null|
 |**2023-12-11**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372](http://arxiv.org/abs/2312.06372)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-09**|**NiSNN-A: Non-iterative Spiking Neural Networks with Attention with Application to Motor Imagery EEG Classification**|Chuhan Zhang et.al.|[2312.05643](http://arxiv.org/abs/2312.05643)|null|
 |**2023-12-08**|**Noise Adaptor in Spiking Neural Networks**|Chen Li et.al.|[2312.05290](http://arxiv.org/abs/2312.05290)|null|
@@ -240,6 +242,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**When Bio-Inspired Computing meets Deep Learning: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks from Artificial Neural Networks**|Gourav Datta et.al.|[2312.06900](http://arxiv.org/abs/2312.06900)|null|
 |**2023-12-11**|**Deep Photonic Reservoir Computer for Speech Recognition**|Enrico Picco et.al.|[2312.06558](http://arxiv.org/abs/2312.06558)|null|
 |**2023-12-11**|**Experimental demonstration of a robust training method for strongly defective neuromorphic hardware**|William A. Borders et.al.|[2312.06446](http://arxiv.org/abs/2312.06446)|null|
 |**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840](http://arxiv.org/abs/2312.04840)|null|
@@ -356,13 +359,16 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Anatomically Constrained Implicit Face Models**|Prashanth Chandran et.al.|[2312.07538](http://arxiv.org/abs/2312.07538)|null|
+|**2023-12-11**|**Deciphering 'What' and 'Where' Visual Pathways from Spectral Clustering of Layer-Distributed Neural Representations**|Xiao Zhang et.al.|[2312.06716](http://arxiv.org/abs/2312.06716)|null|
+|**2023-12-09**|**Robo360: A 3D Omnispective Multi-Material Robotic Manipulation Dataset**|Litian Liang et.al.|[2312.06686](http://arxiv.org/abs/2312.06686)|null|
 |**2023-12-11**|**Aligning brain functions boosts the decoding of visual semantics in novel subjects**|Alexis Thual et.al.|[2312.06467](http://arxiv.org/abs/2312.06467)|null|
 |**2023-12-10**|**Finding Concept Representations in Neural Networks with Self-Organizing Maps**|Mathieu d'Aquin et.al.|[2312.05864](http://arxiv.org/abs/2312.05864)|**[link](https://github.com/mdaquin/actsom)**|
 |**2023-12-10**|**Sparse Multitask Learning for Efficient Neural Representation of Motor Imagery and Execution**|Hye-Bin Shin et.al.|[2312.05828](http://arxiv.org/abs/2312.05828)|null|
 |**2023-12-10**|**Neural Speech Embeddings for Speech Synthesis Based on Deep Generative Networks**|Seo-Hyun Lee et.al.|[2312.05814](http://arxiv.org/abs/2312.05814)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
 |**2023-12-09**|**Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models**|Guang Yang et.al.|[2312.05562](http://arxiv.org/abs/2312.05562)|null|
-|**2023-12-09**|**Flexible Cross-Modal Steganography via Implicit Representations**|Seoyun Yang et.al.|[2312.05496](http://arxiv.org/abs/2312.05496)|null|
+|**2023-12-12**|**Flexible Cross-Modal Steganography via Implicit Representations**|Seoyun Yang et.al.|[2312.05496](http://arxiv.org/abs/2312.05496)|null|
 |**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210](http://arxiv.org/abs/2312.05210)|null|
 |**2023-12-07**|**Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds**|Yujia Liu et.al.|[2312.04962](http://arxiv.org/abs/2312.04962)|null|
 |**2023-12-04**|**Assessing Neural Network Representations During Training Using Noise-Resilient Diffusion Spectral Entropy**|Danqi Liao et.al.|[2312.04823](http://arxiv.org/abs/2312.04823)|**[link](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)**|
