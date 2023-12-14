@@ -1,96 +1,43 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#sfm>SFM</a></li>
-      <ul>
-        <li><a href=#Keypoint-based-Stereophotoclinometry-for-Characterizing-and-Navigating-Small-Bodies:-A-Factor-Graph-Approach>Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach</a></li>
-        <li><a href=#Gaussian-Splatting-SLAM>Gaussian Splatting SLAM</a></li>
-      </ul>
-    </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#Collapse-Oriented-Adversarial-Training-with-Triplet-Decoupling-for-Robust-Image-Retrieval>Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval</a></li>
-        <li><a href=#Attacking-the-Loop:-Adversarial-Attacks-on-Graph-based-Loop-Closure-Detection>Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection</a></li>
-      </ul>
-    </li>
-    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
-      <ul>
-        <li><a href=#Keypoint-based-Stereophotoclinometry-for-Characterizing-and-Navigating-Small-Bodies:-A-Factor-Graph-Approach>Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach</a></li>
+        <li><a href=#C-BEV:-Contrastive-Bird's-Eye-View-Training-for-Cross-View-Image-Retrieval-and-3-DoF-Pose-Estimation>C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation</a></li>
+        <li><a href=#Contextually-Affinitive-Neighborhood-Refinery-for-Deep-Clustering>Contextually Affinitive Neighborhood Refinery for Deep Clustering</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#COLMAP-Free-3D-Gaussian-Splatting>COLMAP-Free 3D Gaussian Splatting</a></li>
-        <li><a href=#Unifying-Correspondence,-Pose-and-NeRF-for-Pose-Free-Novel-View-Synthesis-from-Stereo-Pairs>Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs</a></li>
-        <li><a href=#WaterHE-NeRF:-Water-ray-Tracing-Neural-Radiance-Fields-for-Underwater-Scene-Reconstruction>WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction</a></li>
-        <li><a href=#TeTriRF:-Temporal-Tri-Plane-Radiance-Fields-for-Efficient-Free-Viewpoint-Video>TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video</a></li>
+        <li><a href=#ProNeRF:-Learning-Efficient-Projection-Aware-Ray-Sampling-for-Fine-Grained-Implicit-Neural-Radiance-Fields>ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields</a></li>
+        <li><a href=#Neural-Radiance-Fields-for-Transparent-Object-Using-Visual-Hull>Neural Radiance Fields for Transparent Object Using Visual Hull</a></li>
+        <li><a href=#uSF:-Learning-Neural-Semantic-Field-with-Uncertainty>uSF: Learning Neural Semantic Field with Uncertainty</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SFM  
-
-### [Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach](http://arxiv.org/abs/2312.06865)  
-Travis Driver, Andrew Vaughan, Yang Cheng, Adnan Ansar, John Christian, Panagiotis Tsiotras  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    This paper proposes the incorporation of techniques from stereophotoclinometry (SPC) into a keypoint-based structure-from-motion (SfM) system to estimate the surface normal and albedo at detected landmarks to improve autonomous surface and shape characterization of small celestial bodies from in-situ imagery. In contrast to the current state-of-the-practice method for small body shape reconstruction, i.e., SPC, which relies on human-in-the-loop verification and high-fidelity a priori information to achieve accurate results, we forego the expensive maplet estimation step and instead leverage dense keypoint measurements and correspondences from an autonomous keypoint detection and matching method based on deep learning to provide the necessary photogrammetric constraints. Moreover, we develop a factor graph-based approach allowing for simultaneous optimization of the spacecraft's pose, landmark positions, Sun-relative direction, and surface normals and albedos via fusion of Sun sensor measurements and image keypoint measurements. The proposed framework is validated on real imagery of the Cornelia crater on Asteroid 4 Vesta, along with pose estimation and mapping comparison against an SPC reconstruction, where we demonstrate precise alignment to the SPC solution without relying on any a priori camera pose and topography information or humans-in-the-loop  
-  </ol>  
-</details>  
-  
-### [Gaussian Splatting SLAM](http://arxiv.org/abs/2312.06741)  
-Hidenobu Matsuki, Riku Murai, Paul H. J. Kelly, Andrew J. Davison  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    We present the first application of 3D Gaussian Splatting to incremental 3D reconstruction using a single moving monocular or RGB-D camera. Our Simultaneous Localisation and Mapping (SLAM) method, which runs live at 3fps, utilises Gaussians as the only 3D representation, unifying the required representation for accurate, efficient tracking, mapping, and high-quality rendering. Several innovations are required to continuously reconstruct 3D scenes with high fidelity from a live camera. First, to move beyond the original 3DGS algorithm, which requires accurate poses from an offline Structure from Motion (SfM) system, we formulate camera tracking for 3DGS using direct optimisation against the 3D Gaussians, and show that this enables fast and robust tracking with a wide basin of convergence. Second, by utilising the explicit nature of the Gaussians, we introduce geometric verification and regularisation to handle the ambiguities occurring in incremental 3D dense reconstruction. Finally, we introduce a full SLAM system which not only achieves state-of-the-art results in novel view synthesis and trajectory estimation, but also reconstruction of tiny and even transparent objects.  
-  </ol>  
-</details>  
-**comments**: First two authors contributed equally to this work. Project Page:
-  https://rmurai.co.uk/projects/GaussianSplattingSLAM/ Video:
-  https://www.youtube.com/watch?v=x604ghp9R_Q&ab_channel=DysonRoboticsLaboratoryatImperialCollege  
-  
-  
-
-
-
 ## Visual Localization  
 
-### [Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval](http://arxiv.org/abs/2312.07364)  
-Qiwei Tian, Chenhao Lin, Qian Li, Zhengyu Zhao, Chao Shen  
+### [C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation](http://arxiv.org/abs/2312.08060)  
+Florian Fervers, Sebastian Bullinger, Christoph Bodensteiner, Michael Arens, Rainer Stiefelhagen  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Adversarial training has achieved substantial performance in defending image retrieval systems against adversarial examples. However, existing studies still suffer from two major limitations: model collapse and weak adversary. This paper addresses these two limitations by proposing collapse-oriented (COLO) adversarial training with triplet decoupling (TRIDE). Specifically, COLO prevents model collapse by temporally orienting the perturbation update direction with a new collapse metric, while TRIDE yields a strong adversary by spatially decoupling the update targets of perturbation into the anchor and the two candidates of a triplet. Experimental results demonstrate that our COLO-TRIDE outperforms the current state of the art by 7% on average over 10 robustness metrics and across 3 popular datasets. In addition, we identify the fairness limitations of commonly used robustness metrics in image retrieval and propose a new metric for more meaningful robustness evaluation. Codes will be made publicly available on GitHub.  
+    To find the geolocation of a street-view image, cross-view geolocalization (CVGL) methods typically perform image retrieval on a database of georeferenced aerial images and determine the location from the visually most similar match. Recent approaches focus mainly on settings where street-view and aerial images are preselected to align w.r.t. translation or orientation, but struggle in challenging real-world scenarios where varying camera poses have to be matched to the same aerial image. We propose a novel trainable retrieval architecture that uses bird's eye view (BEV) maps rather than vectors as embedding representation, and explicitly addresses the many-to-one ambiguity that arises in real-world scenarios. The BEV-based retrieval is trained using the same contrastive setting and loss as classical retrieval.   Our method C-BEV surpasses the state-of-the-art on the retrieval task on multiple datasets by a large margin. It is particularly effective in challenging many-to-one scenarios, e.g. increasing the top-1 recall on VIGOR's cross-area split with unknown orientation from 31.1% to 65.0%. Although the model is supervised only through a contrastive objective applied on image pairings, it additionally learns to infer the 3-DoF camera pose on the matching aerial image, and even yields a lower mean pose error than recent methods that are explicitly trained with metric groundtruth.  
   </ol>  
 </details>  
   
-### [Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection](http://arxiv.org/abs/2312.06991)  
-Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jorg S. Wicker  
+### [Contextually Affinitive Neighborhood Refinery for Deep Clustering](http://arxiv.org/abs/2312.07806)  
+[[code](https://github.com/cly234/deepclustering-connr)]  
+Chunlin Yu, Ye Shi, Jingya Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    With the advancement in robotics, it is becoming increasingly common for large factories and warehouses to incorporate visual SLAM (vSLAM) enabled automated robots that operate closely next to humans. This makes any adversarial attacks on vSLAM components potentially detrimental to humans working alongside them. Loop Closure Detection (LCD) is a crucial component in vSLAM that minimizes the accumulation of drift in mapping, since even a small drift can accumulate into a significant drift over time. A prior work by Kim et al., SymbioLCD2, unified visual features and semantic objects into a single graph structure for finding loop closure candidates. While this provided a performance improvement over visual feature-based LCD, it also created a single point of vulnerability for potential graph-based adversarial attacks. Unlike previously reported visual-patch based attacks, small graph perturbations are far more challenging to detect, making them a more significant threat. In this paper, we present Adversarial-LCD, a novel black-box evasion attack framework that employs an eigencentrality-based perturbation method and an SVM-RBF surrogate model with a Weisfeiler-Lehman feature extractor for attacking graph-based LCD. Our evaluation shows that the attack performance of Adversarial-LCD with the SVM-RBF surrogate model was superior to that of other machine learning surrogate algorithms, including SVM-linear, SVM-polynomial, and Bayesian classifier, demonstrating the effectiveness of our attack framework. Furthermore, we show that our eigencentrality-based perturbation method outperforms other algorithms, such as Random-walk and Shortest-path, highlighting the efficiency of Adversarial-LCD's perturbation selection method.  
+    Previous endeavors in self-supervised learning have enlightened the research of deep clustering from an instance discrimination perspective. Built upon this foundation, recent studies further highlight the importance of grouping semantically similar instances. One effective method to achieve this is by promoting the semantic structure preserved by neighborhood consistency. However, the samples in the local neighborhood may be limited due to their close proximity to each other, which may not provide substantial and diverse supervision signals. Inspired by the versatile re-ranking methods in the context of image retrieval, we propose to employ an efficient online re-ranking process to mine more informative neighbors in a Contextually Affinitive (ConAff) Neighborhood, and then encourage the cross-view neighborhood consistency. To further mitigate the intrinsic neighborhood noises near cluster boundaries, we propose a progressively relaxed boundary filtering strategy to circumvent the issues brought by noisy neighbors. Our method can be easily integrated into the generic self-supervised frameworks and outperforms the state-of-the-art methods on several popular benchmarks.  
   </ol>  
 </details>  
-**comments**: Accepted at VISIGRAPP 2024, 8 pages  
-  
-  
-
-
-
-## Keypoint Detection  
-
-### [Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach](http://arxiv.org/abs/2312.06865)  
-Travis Driver, Andrew Vaughan, Yang Cheng, Adnan Ansar, John Christian, Panagiotis Tsiotras  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    This paper proposes the incorporation of techniques from stereophotoclinometry (SPC) into a keypoint-based structure-from-motion (SfM) system to estimate the surface normal and albedo at detected landmarks to improve autonomous surface and shape characterization of small celestial bodies from in-situ imagery. In contrast to the current state-of-the-practice method for small body shape reconstruction, i.e., SPC, which relies on human-in-the-loop verification and high-fidelity a priori information to achieve accurate results, we forego the expensive maplet estimation step and instead leverage dense keypoint measurements and correspondences from an autonomous keypoint detection and matching method based on deep learning to provide the necessary photogrammetric constraints. Moreover, we develop a factor graph-based approach allowing for simultaneous optimization of the spacecraft's pose, landmark positions, Sun-relative direction, and surface normals and albedos via fusion of Sun sensor measurements and image keypoint measurements. The proposed framework is validated on real imagery of the Cornelia crater on Asteroid 4 Vesta, along with pose estimation and mapping comparison against an SPC reconstruction, where we demonstrate precise alignment to the SPC solution without relying on any a priori camera pose and topography information or humans-in-the-loop  
-  </ol>  
-</details>  
+**comments**: Accepted to NeurIPS 2023  
   
   
 
@@ -98,44 +45,36 @@ Travis Driver, Andrew Vaughan, Yang Cheng, Adnan Ansar, John Christian, Panagiot
 
 ## NeRF  
 
-### [COLMAP-Free 3D Gaussian Splatting](http://arxiv.org/abs/2312.07504)  
-Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang  
+### [ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields](http://arxiv.org/abs/2312.08136)  
+Juan Luis Gonzalez Bello, Minh-Quan Viet Bui, Munchurl Kim  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    While neural rendering has led to impressive advances in scene reconstruction and novel view synthesis, it relies heavily on accurately pre-computed camera poses. To relax this constraint, multiple efforts have been made to train Neural Radiance Fields (NeRFs) without pre-processed camera poses. However, the implicit representations of NeRFs provide extra challenges to optimize the 3D structure and camera poses at the same time. On the other hand, the recently proposed 3D Gaussian Splatting provides new opportunities given its explicit point cloud representations. This paper leverages both the explicit geometric representation and the continuity of the input video stream to perform novel view synthesis without any SfM preprocessing. We process the input frames in a sequential manner and progressively grow the 3D Gaussians set by taking one input frame at a time, without the need to pre-compute the camera poses. Our method significantly improves over previous approaches in view synthesis and camera pose estimation under large motion changes. Our project page is https://oasisyang.github.io/colmap-free-3dgs  
+    Recent advances in neural rendering have shown that, albeit slow, implicit compact models can learn a scene's geometries and view-dependent appearances from multiple views. To maintain such a small memory footprint but achieve faster inference times, recent works have adopted `sampler' networks that adaptively sample a small subset of points along each ray in the implicit neural radiance fields. Although these methods achieve up to a 10 $\times$ reduction in rendering time, they still suffer from considerable quality degradation compared to the vanilla NeRF. In contrast, we propose ProNeRF, which provides an optimal trade-off between memory footprint (similar to NeRF), speed (faster than HyperReel), and quality (better than K-Planes). ProNeRF is equipped with a novel projection-aware sampling (PAS) network together with a new training strategy for ray exploration and exploitation, allowing for efficient fine-grained particle sampling. Our ProNeRF yields state-of-the-art metrics, being 15-23x faster with 0.65dB higher PSNR than NeRF and yielding 0.95dB higher PSNR than the best published sampler-based method, HyperReel. Our exploration and exploitation training strategy allows ProNeRF to learn the full scenes' color and density distributions while also learning efficient ray sampling focused on the highest-density regions. We provide extensive experimental results that support the effectiveness of our method on the widely adopted forward-facing and 360 datasets, LLFF and Blender, respectively.  
   </ol>  
 </details>  
-**comments**: Project Page: https://oasisyang.github.io/colmap-free-3dgs  
+**comments**: Visit our project website at
+  https://kaist-viclab.github.io/pronerf-site/  
   
-### [Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs](http://arxiv.org/abs/2312.07246)  
-Sunghwan Hong, Jaewoo Jung, Heeseong Shin, Jiaolong Yang, Seungryong Kim, Chong Luo  
+### [Neural Radiance Fields for Transparent Object Using Visual Hull](http://arxiv.org/abs/2312.08118)  
+Heechan Yoon, Seungkyu Lee  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    This work delves into the task of pose-free novel view synthesis from stereo pairs, a challenging and pioneering task in 3D vision. Our innovative framework, unlike any before, seamlessly integrates 2D correspondence matching, camera pose estimation, and NeRF rendering, fostering a synergistic enhancement of these tasks. We achieve this through designing an architecture that utilizes a shared representation, which serves as a foundation for enhanced 3D geometry understanding. Capitalizing on the inherent interplay between the tasks, our unified framework is trained end-to-end with the proposed training strategy to improve overall model accuracy. Through extensive evaluations across diverse indoor and outdoor scenes from two real-world datasets, we demonstrate that our approach achieves substantial improvement over previous methodologies, especially in scenarios characterized by extreme viewpoint changes and the absence of accurate camera poses.  
-  </ol>  
-</details>  
-**comments**: Project page: https://ku-cvlab.github.io/CoPoNeRF/  
-  
-### [WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction](http://arxiv.org/abs/2312.06946)  
-Jingchun Zhou, Tianyu Liang, Zongxin He, Dehuan Zhang, Weishi Zhang, Xianping Fu, Chongyi Li  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiance Field (NeRF) technology demonstrates immense potential in novel viewpoint synthesis tasks, due to its physics-based volumetric rendering process, which is particularly promising in underwater scenes. Addressing the limitations of existing underwater NeRF methods in handling light attenuation caused by the water medium and the lack of real Ground Truth (GT) supervision, this study proposes WaterHE-NeRF. We develop a new water-ray tracing field by Retinex theory that precisely encodes color, density, and illuminance attenuation in three-dimensional space. WaterHE-NeRF, through its illuminance attenuation mechanism, generates both degraded and clear multi-view images and optimizes image restoration by combining reconstruction loss with Wasserstein distance. Additionally, the use of histogram equalization (HE) as pseudo-GT enhances the network's accuracy in preserving original details and color distribution. Extensive experiments on real underwater datasets and synthetic datasets validate the effectiveness of WaterHE-NeRF. Our code will be made publicly available.  
+    Unlike opaque object, novel view synthesis of transparent object is a challenging task, because transparent object refracts light of background causing visual distortions on the transparent object surface along the viewpoint change. Recently introduced Neural Radiance Fields (NeRF) is a view synthesis method. Thanks to its remarkable performance improvement, lots of following applications based on NeRF in various topics have been developed. However, if an object with a different refractive index is included in a scene such as transparent object, NeRF shows limited performance because refracted light ray at the surface of the transparent object is not appropriately considered. To resolve the problem, we propose a NeRF-based method consisting of the following three steps: First, we reconstruct a three-dimensional shape of a transparent object using visual hull. Second, we simulate the refraction of the rays inside of the transparent object according to Snell's law. Last, we sample points through refracted rays and put them into NeRF. Experimental evaluation results demonstrate that our method addresses the limitation of conventional NeRF with transparent objects.  
   </ol>  
 </details>  
   
-### [TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video](http://arxiv.org/abs/2312.06713)  
-Minye Wu, Zehao Wang, Georgios Kouros, Tinne Tuytelaars  
+### [uSF: Learning Neural Semantic Field with Uncertainty](http://arxiv.org/abs/2312.08012)  
+[[code](https://github.com/sevashasla/usf)]  
+Vsevolod Skorokhodov, Darya Drozdova, Dmitry Yudin  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Neural Radiance Fields (NeRF) revolutionize the realm of visual media by providing photorealistic Free-Viewpoint Video (FVV) experiences, offering viewers unparalleled immersion and interactivity. However, the technology's significant storage requirements and the computational complexity involved in generation and rendering currently limit its broader application. To close this gap, this paper presents Temporal Tri-Plane Radiance Fields (TeTriRF), a novel technology that significantly reduces the storage size for Free-Viewpoint Video (FVV) while maintaining low-cost generation and rendering. TeTriRF introduces a hybrid representation with tri-planes and voxel grids to support scaling up to long-duration sequences and scenes with complex motions or rapid changes. We propose a group training scheme tailored to achieving high training efficiency and yielding temporally consistent, low-entropy scene representations. Leveraging these properties of the representations, we introduce a compression pipeline with off-the-shelf video codecs, achieving an order of magnitude less storage size compared to the state-of-the-art. Our experiments demonstrate that TeTriRF can achieve competitive quality with a higher compression rate.  
+    Recently, there has been an increased interest in NeRF methods which reconstruct differentiable representation of three-dimensional scenes. One of the main limitations of such methods is their inability to assess the confidence of the model in its predictions. In this paper, we propose a new neural network model for the formation of extended vector representations, called uSF, which allows the model to predict not only color and semantic label of each point, but also estimate the corresponding values of uncertainty. We show that with a small number of images available for training, a model quantifying uncertainty performs better than a model without such functionality. Code of the uSF approach is publicly available at https://github.com/sevashasla/usf/.  
   </ol>  
 </details>  
-**comments**: 13 pages, 11 figures  
+**comments**: 12 pages, 4 figures  
   
   
 
