@@ -1,43 +1,98 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
+    <li><a href=#sfm>SFM</a></li>
+      <ul>
+        <li><a href=#HeadRecon:-High-Fidelity-3D-Head-Reconstruction-from-Monocular-Video>HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video</a></li>
+        <li><a href=#CF-NeRF:-Camera-Parameter-Free-Neural-Radiance-Fields-with-Incremental-Learning>CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning</a></li>
+      </ul>
+    </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#C-BEV:-Contrastive-Bird's-Eye-View-Training-for-Cross-View-Image-Retrieval-and-3-DoF-Pose-Estimation>C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation</a></li>
-        <li><a href=#Contextually-Affinitive-Neighborhood-Refinery-for-Deep-Clustering>Contextually Affinitive Neighborhood Refinery for Deep Clustering</a></li>
+        <li><a href=#Design-Space-Exploration-of-Low-Bit-Quantized-Neural-Networks-for-Visual-Place-Recognition>Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition</a></li>
+        <li><a href=#Training-free-Zero-shot-Composed-Image-Retrieval-with-Local-Concept-Reranking>Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking</a></li>
+      </ul>
+    </li>
+    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+      <ul>
+        <li><a href=#VoxelKP:-A-Voxel-based-Network-Architecture-for-Human-Keypoint-Estimation-in-LiDAR-Data>VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#ProNeRF:-Learning-Efficient-Projection-Aware-Ray-Sampling-for-Fine-Grained-Implicit-Neural-Radiance-Fields>ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields</a></li>
-        <li><a href=#Neural-Radiance-Fields-for-Transparent-Object-Using-Visual-Hull>Neural Radiance Fields for Transparent Object Using Visual Hull</a></li>
-        <li><a href=#uSF:-Learning-Neural-Semantic-Field-with-Uncertainty>uSF: Learning Neural Semantic Field with Uncertainty</a></li>
+        <li><a href=#ZeroRF:-Fast-Sparse-View-360°-Reconstruction-with-Zero-Pretraining>ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining</a></li>
+        <li><a href=#3DGS-Avatar:-Animatable-Avatars-via-Deformable-3D-Gaussian-Splatting>3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting</a></li>
+        <li><a href=#ColNeRF:-Collaboration-for-Generalizable-Sparse-Input-Neural-Radiance-Field>ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field</a></li>
+        <li><a href=#Aleth-NeRF:-Illumination-Adaptive-NeRF-with-Concealing-Field-Assumption>Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption</a></li>
+        <li><a href=#iComMa:-Inverting-3D-Gaussians-Splatting-for-Camera-Pose-Estimation-via-Comparing-and-Matching>iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching</a></li>
+        <li><a href=#Scene-3-D-Reconstruction-System-in-Scattering-Medium>Scene 3-D Reconstruction System in Scattering Medium</a></li>
+        <li><a href=#CF-NeRF:-Camera-Parameter-Free-Neural-Radiance-Fields-with-Incremental-Learning>CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning</a></li>
+        <li><a href=#SpectralNeRF:-Physically-Based-Spectral-Rendering-with-Neural-Radiance-Field>SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## Visual Localization  
+## SFM  
 
-### [C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation](http://arxiv.org/abs/2312.08060)  
-Florian Fervers, Sebastian Bullinger, Christoph Bodensteiner, Michael Arens, Rainer Stiefelhagen  
+### [HeadRecon: High-Fidelity 3D Head Reconstruction from Monocular Video](http://arxiv.org/abs/2312.08863)  
+Xueying Wang, Juyong Zhang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    To find the geolocation of a street-view image, cross-view geolocalization (CVGL) methods typically perform image retrieval on a database of georeferenced aerial images and determine the location from the visually most similar match. Recent approaches focus mainly on settings where street-view and aerial images are preselected to align w.r.t. translation or orientation, but struggle in challenging real-world scenarios where varying camera poses have to be matched to the same aerial image. We propose a novel trainable retrieval architecture that uses bird's eye view (BEV) maps rather than vectors as embedding representation, and explicitly addresses the many-to-one ambiguity that arises in real-world scenarios. The BEV-based retrieval is trained using the same contrastive setting and loss as classical retrieval.   Our method C-BEV surpasses the state-of-the-art on the retrieval task on multiple datasets by a large margin. It is particularly effective in challenging many-to-one scenarios, e.g. increasing the top-1 recall on VIGOR's cross-area split with unknown orientation from 31.1% to 65.0%. Although the model is supervised only through a contrastive objective applied on image pairings, it additionally learns to infer the 3-DoF camera pose on the matching aerial image, and even yields a lower mean pose error than recent methods that are explicitly trained with metric groundtruth.  
+    Recently, the reconstruction of high-fidelity 3D head models from static portrait image has made great progress. However, most methods require multi-view or multi-illumination information, which therefore put forward high requirements for data acquisition. In this paper, we study the reconstruction of high-fidelity 3D head models from arbitrary monocular videos. Non-rigid structure from motion (NRSFM) methods have been widely used to solve such problems according to the two-dimensional correspondence between different frames. However, the inaccurate correspondence caused by high-complex hair structures and various facial expression changes would heavily influence the reconstruction accuracy. To tackle these problems, we propose a prior-guided dynamic implicit neural network. Specifically, we design a two-part dynamic deformation field to transform the current frame space to the canonical one. We further model the head geometry in the canonical space with a learnable signed distance field (SDF) and optimize it using the volumetric rendering with the guidance of two-main head priors to improve the reconstruction accuracy and robustness. Extensive ablation studies and comparisons with state-of-the-art methods demonstrate the effectiveness and robustness of our proposed method.  
   </ol>  
 </details>  
   
-### [Contextually Affinitive Neighborhood Refinery for Deep Clustering](http://arxiv.org/abs/2312.07806)  
-[[code](https://github.com/cly234/deepclustering-connr)]  
-Chunlin Yu, Ye Shi, Jingya Wang  
+### [CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning](http://arxiv.org/abs/2312.08760)  
+Qingsong Yan, Qiang Wang, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Previous endeavors in self-supervised learning have enlightened the research of deep clustering from an instance discrimination perspective. Built upon this foundation, recent studies further highlight the importance of grouping semantically similar instances. One effective method to achieve this is by promoting the semantic structure preserved by neighborhood consistency. However, the samples in the local neighborhood may be limited due to their close proximity to each other, which may not provide substantial and diverse supervision signals. Inspired by the versatile re-ranking methods in the context of image retrieval, we propose to employ an efficient online re-ranking process to mine more informative neighbors in a Contextually Affinitive (ConAff) Neighborhood, and then encourage the cross-view neighborhood consistency. To further mitigate the intrinsic neighborhood noises near cluster boundaries, we propose a progressively relaxed boundary filtering strategy to circumvent the issues brought by noisy neighbors. Our method can be easily integrated into the generic self-supervised frameworks and outperforms the state-of-the-art methods on several popular benchmarks.  
+    Neural Radiance Fields (NeRF) have demonstrated impressive performance in novel view synthesis. However, NeRF and most of its variants still rely on traditional complex pipelines to provide extrinsic and intrinsic camera parameters, such as COLMAP. Recent works, like NeRFmm, BARF, and L2G-NeRF, directly treat camera parameters as learnable and estimate them through differential volume rendering. However, these methods work for forward-looking scenes with slight motions and fail to tackle the rotation scenario in practice. To overcome this limitation, we propose a novel \underline{c}amera parameter \underline{f}ree neural radiance field (CF-NeRF), which incrementally reconstructs 3D representations and recovers the camera parameters inspired by incremental structure from motion (SfM). Given a sequence of images, CF-NeRF estimates the camera parameters of images one by one and reconstructs the scene through initialization, implicit localization, and implicit optimization. To evaluate our method, we use a challenging real-world dataset NeRFBuster which provides 12 scenes under complex trajectories. Results demonstrate that CF-NeRF is robust to camera rotation and achieves state-of-the-art results without providing prior information and constraints.  
   </ol>  
 </details>  
-**comments**: Accepted to NeurIPS 2023  
+**comments**: Accepted at the Thirty-Eighth AAAI Conference on Artificial
+  Intelligence (AAAI24)  
+  
+  
+
+
+
+## Visual Localization  
+
+### [Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition](http://arxiv.org/abs/2312.09028)  
+Oliver Grainge, Michael Milford, Indu Bodala, Sarvapali D. Ramchurn, Shoaib Ehsan  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Visual Place Recognition (VPR) is a critical task for performing global re-localization in visual perception systems. It requires the ability to accurately recognize a previously visited location under variations such as illumination, occlusion, appearance and viewpoint. In the case of robotic systems and augmented reality, the target devices for deployment are battery powered edge devices. Therefore whilst the accuracy of VPR methods is important so too is memory consumption and latency. Recently new works have focused on the recall@1 metric as a performance measure with limited focus on resource utilization. This has resulted in methods that use deep learning models too large to deploy on low powered edge devices. We hypothesize that these large models are highly over-parameterized and can be optimized to satisfy the constraints of a low powered embedded system whilst maintaining high recall performance. Our work studies the impact of compact convolutional network architecture design in combination with full-precision and mixed-precision post-training quantization on VPR performance. Importantly we not only measure performance via the recall@1 score but also measure memory consumption and latency. We characterize the design implications on memory, latency and recall scores and provide a number of design recommendations for VPR systems under these resource limitations.  
+  </ol>  
+</details>  
+  
+### [Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking](http://arxiv.org/abs/2312.08924)  
+Shitong Sun, Fanghua Ye, Shaogang Gong  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Composed image retrieval attempts to retrieve an image of interest from gallery images through a composed query of a reference image and its corresponding modified text. It has recently attracted attention due to the collaboration of information-rich images and concise language to precisely express the requirements of target images. Most of the existing composed image retrieval methods follow a supervised learning paradigm to perform training on a costly triplet dataset composed of a reference image, modified text, and a corresponding target image. To alleviate the demand for difficult-to-obtain labeled triplet data, recent methods have introduced zero-shot composed image retrieval (ZS-CIR), which aims to retrieve the target image without the supervision of human-labeled triplets but instead relies on image-text pairs or self-generated triplets. However, these methods are less computationally efficient due to the requirement of training and also less understandable, assuming that the interaction between image and text is conducted with implicit query embedding. In this work, we present a new Training-Free zero-shot Composed Image Retrieval (TFCIR) method which translates the query into explicit human-understandable text. This helps improve computation efficiency while maintaining the generalization of foundation models. Further, we introduce a Local Concept Reranking (LCR) mechanism to focus on discriminative local information extracted from the modified instruction. Extensive experiments on three ZS-CIR benchmarks show that the proposed approach can achieve comparable performances with state-of-the-art methods and significantly outperforms other training-free methods on the open domain datasets, CIRR and CIRCO, as well as the fashion domain dataset, FashionIQ.  
+  </ol>  
+</details>  
+  
+  
+
+
+
+## Keypoint Detection  
+
+### [VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data](http://arxiv.org/abs/2312.08871)  
+Jian Shi, Peter Wonka  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We present \textit{VoxelKP}, a novel fully sparse network architecture tailored for human keypoint estimation in LiDAR data. The key challenge is that objects are distributed sparsely in 3D space, while human keypoint detection requires detailed local information wherever humans are present. We propose four novel ideas in this paper. First, we propose sparse selective kernels to capture multi-scale context. Second, we introduce sparse box-attention to focus on learning spatial correlations between keypoints within each human instance. Third, we incorporate a spatial encoding to leverage absolute 3D coordinates when projecting 3D voxels to a 2D grid encoding a bird's eye view. Finally, we propose hybrid feature learning to combine the processing of per-voxel features with sparse convolution. We evaluate our method on the Waymo dataset and achieve an improvement of $27\%$ on the MPJPE metric compared to the state-of-the-art, \textit{HUM3DIL}, trained on the same data, and $12\%$ against the state-of-the-art, \textit{GC-KPL}, pretrained on a $25\times$ larger dataset. To the best of our knowledge, \textit{VoxelKP} is the first single-staged, fully sparse network that is specifically designed for addressing the challenging task of 3D keypoint estimation from LiDAR data, achieving state-of-the-art performances. Our code is available at \url{https://github.com/shijianjian/VoxelKP}.  
+  </ol>  
+</details>  
   
   
 
@@ -45,36 +100,87 @@ Chunlin Yu, Ye Shi, Jingya Wang
 
 ## NeRF  
 
-### [ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields](http://arxiv.org/abs/2312.08136)  
-Juan Luis Gonzalez Bello, Minh-Quan Viet Bui, Munchurl Kim  
+### [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](http://arxiv.org/abs/2312.09249)  
+Ruoxi Shi, Xinyue Wei, Cheng Wang, Hao Su  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Recent advances in neural rendering have shown that, albeit slow, implicit compact models can learn a scene's geometries and view-dependent appearances from multiple views. To maintain such a small memory footprint but achieve faster inference times, recent works have adopted `sampler' networks that adaptively sample a small subset of points along each ray in the implicit neural radiance fields. Although these methods achieve up to a 10 $\times$ reduction in rendering time, they still suffer from considerable quality degradation compared to the vanilla NeRF. In contrast, we propose ProNeRF, which provides an optimal trade-off between memory footprint (similar to NeRF), speed (faster than HyperReel), and quality (better than K-Planes). ProNeRF is equipped with a novel projection-aware sampling (PAS) network together with a new training strategy for ray exploration and exploitation, allowing for efficient fine-grained particle sampling. Our ProNeRF yields state-of-the-art metrics, being 15-23x faster with 0.65dB higher PSNR than NeRF and yielding 0.95dB higher PSNR than the best published sampler-based method, HyperReel. Our exploration and exploitation training strategy allows ProNeRF to learn the full scenes' color and density distributions while also learning efficient ray sampling focused on the highest-density regions. We provide extensive experimental results that support the effectiveness of our method on the widely adopted forward-facing and 360 datasets, LLFF and Blender, respectively.  
+    We present ZeroRF, a novel per-scene optimization method addressing the challenge of sparse view 360{\deg} reconstruction in neural field representations. Current breakthroughs like Neural Radiance Fields (NeRF) have demonstrated high-fidelity image synthesis but struggle with sparse input views. Existing methods, such as Generalizable NeRFs and per-scene optimization approaches, face limitations in data dependency, computational cost, and generalization across diverse scenarios. To overcome these challenges, we propose ZeroRF, whose key idea is to integrate a tailored Deep Image Prior into a factorized NeRF representation. Unlike traditional methods, ZeroRF parametrizes feature grids with a neural network generator, enabling efficient sparse view 360{\deg} reconstruction without any pretraining or additional regularization. Extensive experiments showcase ZeroRF's versatility and superiority in terms of both quality and speed, achieving state-of-the-art results on benchmark datasets. ZeroRF's significance extends to applications in 3D content generation and editing. Project page: https://sarahweiii.github.io/zerorf/  
   </ol>  
 </details>  
-**comments**: Visit our project website at
-  https://kaist-viclab.github.io/pronerf-site/  
+**comments**: Project page: https://sarahweiii.github.io/zerorf/  
   
-### [Neural Radiance Fields for Transparent Object Using Visual Hull](http://arxiv.org/abs/2312.08118)  
-Heechan Yoon, Seungkyu Lee  
+### [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](http://arxiv.org/abs/2312.09228)  
+Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Unlike opaque object, novel view synthesis of transparent object is a challenging task, because transparent object refracts light of background causing visual distortions on the transparent object surface along the viewpoint change. Recently introduced Neural Radiance Fields (NeRF) is a view synthesis method. Thanks to its remarkable performance improvement, lots of following applications based on NeRF in various topics have been developed. However, if an object with a different refractive index is included in a scene such as transparent object, NeRF shows limited performance because refracted light ray at the surface of the transparent object is not appropriately considered. To resolve the problem, we propose a NeRF-based method consisting of the following three steps: First, we reconstruct a three-dimensional shape of a transparent object using visual hull. Second, we simulate the refraction of the rays inside of the transparent object according to Snell's law. Last, we sample points through refracted rays and put them into NeRF. Experimental evaluation results demonstrate that our method addresses the limitation of conventional NeRF with transparent objects.  
+    We introduce an approach that creates animatable human avatars from monocular videos using 3D Gaussian Splatting (3DGS). Existing methods based on neural radiance fields (NeRFs) achieve high-quality novel-view/novel-pose image synthesis but often require days of training, and are extremely slow at inference time. Recently, the community has explored fast grid structures for efficient training of clothed avatars. Albeit being extremely fast at training, these methods can barely achieve an interactive rendering frame rate with around 15 FPS. In this paper, we use 3D Gaussian Splatting and learn a non-rigid deformation network to reconstruct animatable clothed human avatars that can be trained within 30 minutes and rendered at real-time frame rates (50+ FPS). Given the explicit nature of our representation, we further introduce as-isometric-as-possible regularizations on both the Gaussian mean vectors and the covariance matrices, enhancing the generalization of our model on highly articulated unseen poses. Experimental results show that our method achieves comparable and even better performance compared to state-of-the-art approaches on animatable avatar creation from a monocular input, while being 400x and 250x faster in training and inference, respectively.  
   </ol>  
 </details>  
   
-### [uSF: Learning Neural Semantic Field with Uncertainty](http://arxiv.org/abs/2312.08012)  
-[[code](https://github.com/sevashasla/usf)]  
-Vsevolod Skorokhodov, Darya Drozdova, Dmitry Yudin  
+### [ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field](http://arxiv.org/abs/2312.09095)  
+[[code](https://github.com/eezkni/colnerf)]  
+Zhangkai Ni, Peiqi Yang, Wenhan Yang, Lin Ma, Sam Kwong  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Recently, there has been an increased interest in NeRF methods which reconstruct differentiable representation of three-dimensional scenes. One of the main limitations of such methods is their inability to assess the confidence of the model in its predictions. In this paper, we propose a new neural network model for the formation of extended vector representations, called uSF, which allows the model to predict not only color and semantic label of each point, but also estimate the corresponding values of uncertainty. We show that with a small number of images available for training, a model quantifying uncertainty performs better than a model without such functionality. Code of the uSF approach is publicly available at https://github.com/sevashasla/usf/.  
+    Neural Radiance Fields (NeRF) have demonstrated impressive potential in synthesizing novel views from dense input, however, their effectiveness is challenged when dealing with sparse input. Existing approaches that incorporate additional depth or semantic supervision can alleviate this issue to an extent. However, the process of supervision collection is not only costly but also potentially inaccurate, leading to poor performance and generalization ability in diverse scenarios. In our work, we introduce a novel model: the Collaborative Neural Radiance Fields (ColNeRF) designed to work with sparse input. The collaboration in ColNeRF includes both the cooperation between sparse input images and the cooperation between the output of the neural radiation field. Through this, we construct a novel collaborative module that aligns information from various views and meanwhile imposes self-supervised constraints to ensure multi-view consistency in both geometry and appearance. A Collaborative Cross-View Volume Integration module (CCVI) is proposed to capture complex occlusions and implicitly infer the spatial location of objects. Moreover, we introduce self-supervision of target rays projected in multiple directions to ensure geometric and color consistency in adjacent regions. Benefiting from the collaboration at the input and output ends, ColNeRF is capable of capturing richer and more generalized scene representation, thereby facilitating higher-quality results of the novel view synthesis. Extensive experiments demonstrate that ColNeRF outperforms state-of-the-art sparse input generalizable NeRF methods. Furthermore, our approach exhibits superiority in fine-tuning towards adapting to new scenes, achieving competitive performance compared to per-scene optimized NeRF-based methods while significantly reducing computational costs. Our code is available at: https://github.com/eezkni/ColNeRF.  
   </ol>  
 </details>  
-**comments**: 12 pages, 4 figures  
+  
+### [Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption](http://arxiv.org/abs/2312.09093)  
+[[code](https://github.com/cuiziteng/Aleth-NeRF)]  
+Ziteng Cui, Lin Gu, Xiao Sun, Xianzheng Ma, Yu Qiao, Tatsuya Harada  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    The standard Neural Radiance Fields (NeRF) paradigm employs a viewer-centered methodology, entangling the aspects of illumination and material reflectance into emission solely from 3D points. This simplified rendering approach presents challenges in accurately modeling images captured under adverse lighting conditions, such as low light or over-exposure. Motivated by the ancient Greek emission theory that posits visual perception as a result of rays emanating from the eyes, we slightly refine the conventional NeRF framework to train NeRF under challenging light conditions and generate normal-light condition novel views unsupervised. We introduce the concept of a "Concealing Field," which assigns transmittance values to the surrounding air to account for illumination effects. In dark scenarios, we assume that object emissions maintain a standard lighting level but are attenuated as they traverse the air during the rendering process. Concealing Field thus compel NeRF to learn reasonable density and colour estimations for objects even in dimly lit situations. Similarly, the Concealing Field can mitigate over-exposed emissions during the rendering stage. Furthermore, we present a comprehensive multi-view dataset captured under challenging illumination conditions for evaluation. Our code and dataset available at https://github.com/cuiziteng/Aleth-NeRF  
+  </ol>  
+</details>  
+**comments**: AAAI 2024, code available at https://github.com/cuiziteng/Aleth-NeRF.
+  Modified version of previous paper arXiv:2303.05807  
+  
+### [iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching](http://arxiv.org/abs/2312.09031)  
+Yuan Sun, Xuan Wang, Yunfan Zhang, Jie Zhang, Caigui Jiang, Yu Guo, Fei Wang  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We present a method named iComMa to address the 6D pose estimation problem in computer vision. The conventional pose estimation methods typically rely on the target's CAD model or necessitate specific network training tailored to particular object classes. Some existing methods address mesh-free 6D pose estimation by employing the inversion of a Neural Radiance Field (NeRF), aiming to overcome the aforementioned constraints. However, it still suffers from adverse initializations. By contrast, we model the pose estimation as the problem of inverting the 3D Gaussian Splatting (3DGS) with both the comparing and matching loss. In detail, a render-and-compare strategy is adopted for the precise estimation of poses. Additionally, a matching module is designed to enhance the model's robustness against adverse initializations by minimizing the distances between 2D keypoints. This framework systematically incorporates the distinctive characteristics and inherent rationale of render-and-compare and matching-based approaches. This comprehensive consideration equips the framework to effectively address a broader range of intricate and challenging scenarios, including instances with substantial angular deviations, all while maintaining a high level of prediction accuracy. Experimental results demonstrate the superior precision and robustness of our proposed jointly optimized framework when evaluated on synthetic and complex real-world data in challenging scenarios.  
+  </ol>  
+</details>  
+**comments**: 10 pages, 5 figures  
+  
+### [Scene 3-D Reconstruction System in Scattering Medium](http://arxiv.org/abs/2312.09005)  
+Zhuoyifan Zhang, Lu Zhang, Liang Wang, Haoming Wu  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    The research on neural radiance fields for new view synthesis has experienced explosive growth with the development of new models and extensions. The NERF algorithm, suitable for underwater scenes or scattering media, is also evolving. Existing underwater 3D reconstruction systems still face challenges such as extensive training time and low rendering efficiency. This paper proposes an improved underwater 3D reconstruction system to address these issues and achieve rapid, high-quality 3D reconstruction.To begin with, we enhance underwater videos captured by a monocular camera to correct the poor image quality caused by the physical properties of the water medium while ensuring consistency in enhancement across adjacent frames. Subsequently, we perform keyframe selection on the video frames to optimize resource utilization and eliminate the impact of dynamic objects on the reconstruction results. The selected keyframes, after pose estimation using COLMAP, undergo a three-dimensional reconstruction improvement process using neural radiance fields based on multi-resolution hash coding for model construction and rendering.  
+  </ol>  
+</details>  
+  
+### [CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning](http://arxiv.org/abs/2312.08760)  
+Qingsong Yan, Qiang Wang, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Neural Radiance Fields (NeRF) have demonstrated impressive performance in novel view synthesis. However, NeRF and most of its variants still rely on traditional complex pipelines to provide extrinsic and intrinsic camera parameters, such as COLMAP. Recent works, like NeRFmm, BARF, and L2G-NeRF, directly treat camera parameters as learnable and estimate them through differential volume rendering. However, these methods work for forward-looking scenes with slight motions and fail to tackle the rotation scenario in practice. To overcome this limitation, we propose a novel \underline{c}amera parameter \underline{f}ree neural radiance field (CF-NeRF), which incrementally reconstructs 3D representations and recovers the camera parameters inspired by incremental structure from motion (SfM). Given a sequence of images, CF-NeRF estimates the camera parameters of images one by one and reconstructs the scene through initialization, implicit localization, and implicit optimization. To evaluate our method, we use a challenging real-world dataset NeRFBuster which provides 12 scenes under complex trajectories. Results demonstrate that CF-NeRF is robust to camera rotation and achieves state-of-the-art results without providing prior information and constraints.  
+  </ol>  
+</details>  
+**comments**: Accepted at the Thirty-Eighth AAAI Conference on Artificial
+  Intelligence (AAAI24)  
+  
+### [SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field](http://arxiv.org/abs/2312.08692)  
+[[code](https://github.com/liru0126/spectralnerf)]  
+Ru Li, Jia Liu, Guanghui Liu, Shengping Zhang, Bing Zeng, Shuaicheng Liu  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    In this paper, we propose SpectralNeRF, an end-to-end Neural Radiance Field (NeRF)-based architecture for high-quality physically based rendering from a novel spectral perspective. We modify the classical spectral rendering into two main steps, 1) the generation of a series of spectrum maps spanning different wavelengths, 2) the combination of these spectrum maps for the RGB output. Our SpectralNeRF follows these two steps through the proposed multi-layer perceptron (MLP)-based architecture (SpectralMLP) and Spectrum Attention UNet (SAUNet). Given the ray origin and the ray direction, the SpectralMLP constructs the spectral radiance field to obtain spectrum maps of novel views, which are then sent to the SAUNet to produce RGB images of white-light illumination. Applying NeRF to build up the spectral rendering is a more physically-based way from the perspective of ray-tracing. Further, the spectral radiance fields decompose difficult scenes and improve the performance of NeRF-based methods. Comprehensive experimental results demonstrate the proposed SpectralNeRF is superior to recent NeRF-based methods when synthesizing new views on synthetic and real datasets. The codes and datasets are available at https://github.com/liru0126/SpectralNeRF.  
+  </ol>  
+</details>  
+**comments**: Accepted by AAAI 2024  
   
   
 
