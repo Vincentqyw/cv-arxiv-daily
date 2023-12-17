@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -34,6 +34,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Magnetization Reversal of 50-nm-wide Ni81Fe19 Nanostripes by Ultrashort Magnons in Yttrium Iron Garnet for Memory-Enhanced Magnonic Circuits**|Shreyas S. Joglekar et.al.|[2312.09177](http://arxiv.org/abs/2312.09177)|null|
+|**2023-12-14**|**Memlumor: a luminescent memory device for photonic neuromorphic computing**|Alexandr Marunchenko et.al.|[2312.09170](http://arxiv.org/abs/2312.09170)|null|
+|**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084](http://arxiv.org/abs/2312.09084)|null|
+|**2023-12-14**|**DenRAM: Neuromorphic Dendritic Architecture with RRAM for Efficient Temporal Processing with Delays**|Simone DAgostino et.al.|[2312.08960](http://arxiv.org/abs/2312.08960)|null|
 |**2023-12-13**|**Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems**|Andrew C. Freeman et.al.|[2312.08213](http://arxiv.org/abs/2312.08213)|null|
 |**2023-12-13**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922](http://arxiv.org/abs/2312.07922)|**[link](https://github.com/mi804/revsnn)**|
 |**2023-12-12**|**Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling**|Guobin Shen et.al.|[2312.07625](http://arxiv.org/abs/2312.07625)|null|
@@ -245,6 +249,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Magnetization Reversal of 50-nm-wide Ni81Fe19 Nanostripes by Ultrashort Magnons in Yttrium Iron Garnet for Memory-Enhanced Magnonic Circuits**|Shreyas S. Joglekar et.al.|[2312.09177](http://arxiv.org/abs/2312.09177)|null|
+|**2023-12-14**|**Memlumor: a luminescent memory device for photonic neuromorphic computing**|Alexandr Marunchenko et.al.|[2312.09170](http://arxiv.org/abs/2312.09170)|null|
+|**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084](http://arxiv.org/abs/2312.09084)|null|
 |**2023-12-13**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922](http://arxiv.org/abs/2312.07922)|**[link](https://github.com/mi804/revsnn)**|
 |**2023-12-12**|**When Bio-Inspired Computing meets Deep Learning: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks from Artificial Neural Networks**|Gourav Datta et.al.|[2312.06900](http://arxiv.org/abs/2312.06900)|null|
 |**2023-12-11**|**Deep Photonic Reservoir Computer for Speech Recognition**|Enrico Picco et.al.|[2312.06558](http://arxiv.org/abs/2312.06558)|null|
@@ -363,6 +370,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency Modulated Auto-Encoder in Urban Scenes**|Tianchen Deng et.al.|[2312.09076](http://arxiv.org/abs/2312.09076)|null|
+|**2023-12-14**|**Symmetry Breaking and Equivariant Neural Networks**|Sékou-Oumar Kaba et.al.|[2312.09016](http://arxiv.org/abs/2312.09016)|null|
+|**2023-12-13**|**Representational constraints underlying similarity between task-optimized neural systems**|Tahereh Toosi et.al.|[2312.08545](http://arxiv.org/abs/2312.08545)|null|
 |**2023-12-12**|**Anatomically Constrained Implicit Face Models**|Prashanth Chandran et.al.|[2312.07538](http://arxiv.org/abs/2312.07538)|null|
 |**2023-12-11**|**Deciphering 'What' and 'Where' Visual Pathways from Spectral Clustering of Layer-Distributed Neural Representations**|Xiao Zhang et.al.|[2312.06716](http://arxiv.org/abs/2312.06716)|null|
 |**2023-12-09**|**Robo360: A 3D Omnispective Multi-Material Robotic Manipulation Dataset**|Litian Liang et.al.|[2312.06686](http://arxiv.org/abs/2312.06686)|null|
