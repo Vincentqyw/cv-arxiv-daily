@@ -3,24 +3,21 @@
   <ol>
     <li><a href=#slam>SLAM</a></li>
       <ul>
-        <li><a href=#Brain-Inspired-Visual-Odometry:-Balancing-Speed-and-Interpretability-through-a-System-of-Systems-Approach>Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach</a></li>
-        <li><a href=#Trajectory-Approximation-of-Video-Based-on-Phase-Correlation-for-Forward-Facing-Camera>Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera</a></li>
-      </ul>
-    </li>
-    <li><a href=#visual-localization>Visual Localization</a></li>
-      <ul>
-        <li><a href=#Aggregating-Multiple-Bio-Inspired-Image-Region-Classifiers-For-Effective-And-Lightweight-Visual-Place-Recognition>Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition</a></li>
-      </ul>
-    </li>
-    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
-      <ul>
-        <li><a href=#Adaptive-Distribution-Masked-Autoencoders-for-Continual-Test-Time-Adaptation>Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation</a></li>
+        <li><a href=#NeRF-VO:-Real-Time-Sparse-Visual-Odometry-with-Neural-Radiance-Fields>NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields</a></li>
+        <li><a href=#Ternary-type-Opacity-and-Hybrid-Odometry-for-RGB-only-NeRF-SLAM>Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#UniSDF:-Unifying-Neural-Representations-for-High-Fidelity-3D-Reconstruction-of-Complex-Scenes-with-Reflections>UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections</a></li>
-        <li><a href=#Reducing-Shape-Radiance-Ambiguity-in-Radiance-Fields-with-a-Closed-Form-Color-Estimation-Method>Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method</a></li>
+        <li><a href=#Virtual-Pets:-Animatable-Animal-Generation-in-3D-Scenes>Virtual Pets: Animatable Animal Generation in 3D Scenes</a></li>
+        <li><a href=#Carve3D:-Improving-Multi-view-Reconstruction-Consistency-for-Diffusion-Models-with-RL-Finetuning>Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning</a></li>
+        <li><a href=#SyncDreamer-for-3D-Reconstruction-of-Endangered-Animal-Species-with-NeRF-and-NeuS>SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS</a></li>
+        <li><a href=#Gaussian-Splitting-Algorithm-with-Color-and-Opacity-Depended-on-Viewing-Direction>Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction</a></li>
+        <li><a href=#DyBluRF:-Dynamic-Deblurring-Neural-Radiance-Fields-for-Blurry-Monocular-Video>DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video</a></li>
+        <li><a href=#Visual-Tomography:-Physically-Faithful-Volumetric-Models-of-Partially-Translucent-Objects>Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects</a></li>
+        <li><a href=#NeRF-VO:-Real-Time-Sparse-Visual-Odometry-with-Neural-Radiance-Fields>NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields</a></li>
+        <li><a href=#Ternary-type-Opacity-and-Hybrid-Odometry-for-RGB-only-NeRF-SLAM>Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM</a></li>
+        <li><a href=#ShowRoom3D:-Text-to-High-Quality-3D-Room-Generation-Using-3D-Priors>ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors</a></li>
       </ul>
     </li>
   </ol>
@@ -28,53 +25,22 @@
 
 ## SLAM  
 
-### [Brain-Inspired Visual Odometry: Balancing Speed and Interpretability through a System of Systems Approach](http://arxiv.org/abs/2312.13162)  
-Habib Boloorchi Tabrizi, Christopher Crick  
+### [NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields](http://arxiv.org/abs/2312.13471)  
+Jens Naumann, Binbin Xu, Stefan Leutenegger, Xingxing Zuo  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    In this study, we address the critical challenge of balancing speed and accuracy while maintaining interpretablity in visual odometry (VO) systems, a pivotal aspect in the field of autonomous navigation and robotics. Traditional VO systems often face a trade-off between computational speed and the precision of pose estimation. To tackle this issue, we introduce an innovative system that synergistically combines traditional VO methods with a specifically tailored fully connected network (FCN). Our system is unique in its approach to handle each degree of freedom independently within the FCN, placing a strong emphasis on causal inference to enhance interpretability. This allows for a detailed and accurate assessment of relative pose error (RPE) across various degrees of freedom, providing a more comprehensive understanding of parameter variations and movement dynamics in different environments. Notably, our system demonstrates a remarkable improvement in processing speed without compromising accuracy. In certain scenarios, it achieves up to a 5% reduction in Root Mean Square Error (RMSE), showcasing its ability to effectively bridge the gap between speed and accuracy that has long been a limitation in VO research. This advancement represents a significant step forward in developing more efficient and reliable VO systems, with wide-ranging applications in real-time navigation and robotic systems.  
+    We introduce a novel monocular visual odometry (VO) system, NeRF-VO, that integrates learning-based sparse visual odometry for low-latency camera tracking and a neural radiance scene representation for sophisticated dense reconstruction and novel view synthesis. Our system initializes camera poses using sparse visual odometry and obtains view-dependent dense geometry priors from a monocular depth prediction network. We harmonize the scale of poses and dense geometry, treating them as supervisory cues to train a neural implicit scene representation. NeRF-VO demonstrates exceptional performance in both photometric and geometric fidelity of the scene representation by jointly optimizing a sliding window of keyframed poses and the underlying dense geometry, which is accomplished through training the radiance field with volume rendering. We surpass state-of-the-art methods in pose estimation accuracy, novel view synthesis fidelity, and dense reconstruction quality across a variety of synthetic and real-world datasets, while achieving a higher camera tracking frequency and consuming less GPU memory.  
   </ol>  
 </details>  
-**comments**: https://www.american-cse.org/csci2023 is website of conference and
-  conference name is CSCI2023  
+**comments**: 10 tables, 4 figures  
   
-### [Trajectory Approximation of Video Based on Phase Correlation for Forward Facing Camera](http://arxiv.org/abs/2312.12680)  
-Abdulkadhem A. Abdulkadhem  
+### [Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM](http://arxiv.org/abs/2312.13332)  
+Junru Lin, Asen Nachkov, Songyou Peng, Luc Van Gool, Danda Pani Paudel  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    In this paper, we introduce an innovative approach for extracting trajectories from a camera sensor in GPS-denied environments, leveraging visual odometry. The system takes video footage captured by a forward-facing camera mounted on a vehicle as input, with the output being a chain code representing the camera's trajectory. The proposed methodology involves several key steps. Firstly, we employ phase correlation between consecutive frames of the video to extract essential information. Subsequently, we introduce a novel chain code method termed "dynamic chain code," which is based on the x-shift values derived from the phase correlation. The third step involves determining directional changes (forward, left, right) by establishing thresholds and extracting the corresponding chain code. This extracted code is then stored in a buffer for further processing. Notably, our system outperforms traditional methods reliant on spatial features, exhibiting greater speed and robustness in noisy environments. Importantly, our approach operates without external camera calibration information. Moreover, by incorporating visual odometry, our system enhances its accuracy in estimating camera motion, providing a more comprehensive understanding of trajectory dynamics. Finally, the system culminates in the visualization of the normalized camera motion trajectory.  
-  </ol>  
-</details>  
-  
-  
-
-
-
-## Visual Localization  
-
-### [Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition](http://arxiv.org/abs/2312.12995)  
-Bruno Arcanjo, Bruno Ferrarini, Maria Fasli, Michael Milford, Klaus D. McDonald-Maier, Shoaib Ehsan  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Visual place recognition (VPR) enables autonomous systems to localize themselves within an environment using image information. While VPR techniques built upon a Convolutional Neural Network (CNN) backbone dominate state-of-the-art VPR performance, their high computational requirements make them unsuitable for platforms equipped with low-end hardware. Recently, a lightweight VPR system based on multiple bio-inspired classifiers, dubbed DrosoNets, has been proposed, achieving great computational efficiency at the cost of reduced absolute place retrieval performance. In this work, we propose a novel multi-DrosoNet localization system, dubbed RegionDrosoNet, with significantly improved VPR performance, while preserving a low-computational profile. Our approach relies on specializing distinct groups of DrosoNets on differently sliced partitions of the original image, increasing extrinsic model differentiation. Furthermore, we introduce a novel voting module to combine the outputs of all DrosoNets into the final place prediction which considers multiple top refence candidates from each DrosoNet. RegionDrosoNet outperforms other lightweight VPR techniques when dealing with both appearance changes and viewpoint variations. Moreover, it competes with computationally expensive methods on some benchmark datasets at a small fraction of their online inference time.  
-  </ol>  
-</details>  
-  
-  
-
-
-
-## Keypoint Detection  
-
-### [Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](http://arxiv.org/abs/2312.12480)  
-Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandong Guo, Shanghang Zhang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Continual Test-Time Adaptation (CTTA) is proposed to migrate a source pre-trained model to continually changing target distributions, addressing real-world dynamism. Existing CTTA methods mainly rely on entropy minimization or teacher-student pseudo-labeling schemes for knowledge extraction in unlabeled target domains. However, dynamic data distributions cause miscalibrated predictions and noisy pseudo-labels in existing self-supervised learning methods, hindering the effective mitigation of error accumulation and catastrophic forgetting problems during the continual adaptation process. To tackle these issues, we propose a continual self-supervised method, Adaptive Distribution Masked Autoencoders (ADMA), which enhances the extraction of target domain knowledge while mitigating the accumulation of distribution shifts. Specifically, we propose a Distribution-aware Masking (DaM) mechanism to adaptively sample masked positions, followed by establishing consistency constraints between the masked target samples and the original target samples. Additionally, for masked tokens, we utilize an efficient decoder to reconstruct a hand-crafted feature descriptor (e.g., Histograms of Oriented Gradients), leveraging its invariant properties to boost task-relevant representations. Through conducting extensive experiments on four widely recognized benchmarks, our proposed method attains state-of-the-art performance in both classification and segmentation CTTA tasks.  
+    The opacity of rigid 3D scenes with opaque surfaces is considered to be of a binary type. However, we observed that this property is not followed by the existing RGB-only NeRF-SLAM. Therefore, we are motivated to introduce this prior into the RGB-only NeRF-SLAM pipeline. Unfortunately, the optimization through the volumetric rendering function does not facilitate easy integration of the desired prior. Instead, we observed that the opacity of ternary-type (TT) is well supported. In this work, we study why ternary-type opacity is well-suited and desired for the task at hand. In particular, we provide theoretical insights into the process of jointly optimizing radiance and opacity through the volumetric rendering process. Through exhaustive experiments on benchmark datasets, we validate our claim and provide insights into the optimization process, which we believe will unleash the potential of RGB-only NeRF-SLAM. To foster this line of research, we also propose a simple yet novel visual odometry scheme that uses a hybrid combination of volumetric and warping-based image renderings. More specifically, the proposed hybrid odometry (HO) additionally uses image warping-based coarse odometry, leading up to an order of magnitude final speed-up. Furthermore, we show that the proposed TT and HO well complement each other, offering state-of-the-art results on benchmark datasets in terms of both speed and accuracy.  
   </ol>  
 </details>  
   
@@ -84,26 +50,94 @@ Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandon
 
 ## NeRF  
 
-### [UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections](http://arxiv.org/abs/2312.13285)  
-Fangjinhua Wang, Marie-Julie Rakotosaona, Michael Niemeyer, Richard Szeliski, Marc Pollefeys, Federico Tombari  
+### [Virtual Pets: Animatable Animal Generation in 3D Scenes](http://arxiv.org/abs/2312.14154)  
+Yen-Chi Cheng, Chieh Hubert Lin, Chaoyang Wang, Yash Kant, Sergey Tulyakov, Alexander Schwing, Liangyan Gui, Hsin-Ying Lee  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Neural 3D scene representations have shown great potential for 3D reconstruction from 2D images. However, reconstructing real-world captures of complex scenes still remains a challenge. Existing generic 3D reconstruction methods often struggle to represent fine geometric details and do not adequately model reflective surfaces of large-scale scenes. Techniques that explicitly focus on reflective surfaces can model complex and detailed reflections by exploiting better reflection parameterizations. However, we observe that these methods are often not robust in real unbounded scenarios where non-reflective as well as reflective components are present. In this work, we propose UniSDF, a general purpose 3D reconstruction method that can reconstruct large complex scenes with reflections. We investigate both view-based as well as reflection-based color prediction parameterization techniques and find that explicitly blending these representations in 3D space enables reconstruction of surfaces that are more geometrically accurate, especially for reflective surfaces. We further combine this representation with a multi-resolution grid backbone that is trained in a coarse-to-fine manner, enabling faster reconstructions than prior methods. Extensive experiments on object-level datasets DTU, Shiny Blender as well as unbounded datasets Mip-NeRF 360 and Ref-NeRF real demonstrate that our method is able to robustly reconstruct complex large-scale scenes with fine details and reflective surfaces. Please see our project page at https://fangjinhuawang.github.io/UniSDF.  
+    Toward unlocking the potential of generative models in immersive 4D experiences, we introduce Virtual Pet, a novel pipeline to model realistic and diverse motions for target animal species within a 3D environment. To circumvent the limited availability of 3D motion data aligned with environmental geometry, we leverage monocular internet videos and extract deformable NeRF representations for the foreground and static NeRF representations for the background. For this, we develop a reconstruction strategy, encompassing species-level shared template learning and per-video fine-tuning. Utilizing the reconstructed data, we then train a conditional 3D motion model to learn the trajectory and articulation of foreground animals in the context of 3D backgrounds. We showcase the efficacy of our pipeline with comprehensive qualitative and quantitative evaluations using cat videos. We also demonstrate versatility across unseen cats and indoor environments, producing temporally coherent 4D outputs for enriched virtual experiences.  
   </ol>  
 </details>  
-**comments**: Project page: https://fangjinhuawang.github.io/UniSDF  
+**comments**: Preprint. Project page: https://yccyenchicheng.github.io/VirtualPets/  
   
-### [Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method](http://arxiv.org/abs/2312.12726)  
-[[code](https://github.com/qihanggh/closed-form-color-field)]  
-Qihang Fang, Yafei Song, Keqiang Li, Liefeng Bo  
+### [Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning](http://arxiv.org/abs/2312.13980)  
+Desai Xie, Jiahao Li, Hao Tan, Xin Sun, Zhixin Shu, Yi Zhou, Sai Bi, Sören Pirk, Arie E. Kaufman  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Neural radiance field (NeRF) enables the synthesis of cutting-edge realistic novel view images of a 3D scene. It includes density and color fields to model the shape and radiance of a scene, respectively. Supervised by the photometric loss in an end-to-end training manner, NeRF inherently suffers from the shape-radiance ambiguity problem, i.e., it can perfectly fit training views but does not guarantee decoupling the two fields correctly. To deal with this issue, existing works have incorporated prior knowledge to provide an independent supervision signal for the density field, including total variation loss, sparsity loss, distortion loss, etc. These losses are based on general assumptions about the density field, e.g., it should be smooth, sparse, or compact, which are not adaptive to a specific scene. In this paper, we propose a more adaptive method to reduce the shape-radiance ambiguity. The key is a rendering method that is only based on the density field. Specifically, we first estimate the color field based on the density field and posed images in a closed form. Then NeRF's rendering process can proceed. We address the problems in estimating the color field, including occlusion and non-uniformly distributed views. Afterward, it is applied to regularize NeRF's density field. As our regularization is guided by photometric loss, it is more adaptive compared to existing ones. Experimental results show that our method improves the density field of NeRF both qualitatively and quantitatively. Our code is available at https://github.com/qihangGH/Closed-form-color-field.  
+    Recent advancements in the text-to-3D task leverage finetuned text-to-image diffusion models to generate multi-view images, followed by NeRF reconstruction. Yet, existing supervised finetuned (SFT) diffusion models still suffer from multi-view inconsistency and the resulting NeRF artifacts. Although training longer with SFT improves consistency, it also causes distribution shift, which reduces diversity and realistic details. We argue that the SFT of multi-view diffusion models resembles the instruction finetuning stage of the LLM alignment pipeline and can benefit from RL finetuning (RLFT) methods. Essentially, RLFT methods optimize models beyond their SFT data distribution by using their own outputs, effectively mitigating distribution shift. To this end, we introduce Carve3D, a RLFT method coupled with the Multi-view Reconstruction Consistency (MRC) metric, to improve the consistency of multi-view diffusion models. To compute MRC on a set of multi-view images, we compare them with their corresponding renderings of the reconstructed NeRF at the same viewpoints. We validate the robustness of MRC with extensive experiments conducted under controlled inconsistency levels. We enhance the base RLFT algorithm to stabilize the training process, reduce distribution shift, and identify scaling laws. Through qualitative and quantitative experiments, along with a user study, we demonstrate Carve3D's improved multi-view consistency, the resulting superior NeRF reconstruction quality, and minimal distribution shift compared to longer SFT. Project webpage: https://desaixie.github.io/carve-3d.  
   </ol>  
 </details>  
-**comments**: This work has been published in NeurIPS 2023  
+**comments**: Project webpage: https://desaixie.github.io/carve-3d  
+  
+### [SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS](http://arxiv.org/abs/2312.13832)  
+Ahmet Haydar Ornek, Deniz Sen, Esmanur Civil  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    The main aim of this study is to demonstrate how innovative view synthesis and 3D reconstruction techniques can be used to create models of endangered species using monocular RGB images. To achieve this, we employed SyncDreamer to produce unique perspectives and NeuS and NeRF to reconstruct 3D representations. We chose four different animals, including the oriental stork, frog, dragonfly, and tiger, as our subjects for this study. Our results show that the combination of SyncDreamer, NeRF, and NeuS techniques can successfully create 3D models of endangered animals. However, we also observed that NeuS produced blurry images, while NeRF generated sharper but noisier images. This study highlights the potential of modeling endangered animals and offers a new direction for future research in this field. By showcasing the effectiveness of these advanced techniques, we hope to encourage further exploration and development of techniques for preserving and studying endangered species.  
+  </ol>  
+</details>  
+**comments**: 8 figures  
+  
+### [Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction](http://arxiv.org/abs/2312.13729)  
+[[code](https://github.com/gmum/ViewingDirectionGaussianSplatting)]  
+Dawid Malarz, Weronika Smolak, Jacek Tabor, Sławomir Tadeja, Przemysław Spurek  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Neural Radiance Fields (NeRFs) have demonstrated the remarkable potential of neural networks to capture the intricacies of 3D objects. By encoding the shape and color information within neural network weights, NeRFs excel at producing strikingly sharp novel views of 3D objects. Recently, numerous generalizations of NeRFs utilizing generative models have emerged, expanding its versatility. In contrast, Gaussian Splatting (GS) offers a similar renders quality with faster training and inference as it does not need neural networks to work. We encode information about the 3D objects in the set of Gaussian distributions that can be rendered in 3D similarly to classical meshes. Unfortunately, GS are difficult to condition since they usually require circa hundred thousand Gaussian components. To mitigate the caveats of both models, we propose a hybrid model that uses GS representation of the 3D object's shape and NeRF-based encoding of color and opacity. Our model uses Gaussian distributions with trainable positions (i.e. means of Gaussian), shape (i.e. covariance of Gaussian), color and opacity, and neural network, which takes parameters of Gaussian and viewing direction to produce changes in color and opacity. Consequently, our model better describes shadows, light reflections, and transparency of 3D objects.  
+  </ol>  
+</details>  
+  
+### [DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video](http://arxiv.org/abs/2312.13528)  
+Minh-Quan Viet Bui, Jongmin Park, Jihyong Oh, Munchurl Kim  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Video view synthesis, allowing for the creation of visually appealing frames from arbitrary viewpoints and times, offers immersive viewing experiences. Neural radiance fields, particularly NeRF, initially developed for static scenes, have spurred the creation of various methods for video view synthesis. However, the challenge for video view synthesis arises from motion blur, a consequence of object or camera movement during exposure, which hinders the precise synthesis of sharp spatio-temporal views. In response, we propose a novel dynamic deblurring NeRF framework for blurry monocular video, called DyBluRF, consisting of an Interleave Ray Refinement (IRR) stage and a Motion Decomposition-based Deblurring (MDD) stage. Our DyBluRF is the first that addresses and handles the novel view synthesis for blurry monocular video. The IRR stage jointly reconstructs dynamic 3D scenes and refines the inaccurate camera pose information to combat imprecise pose information extracted from the given blurry frames. The MDD stage is a novel incremental latent sharp-rays prediction (ILSP) approach for the blurry monocular video frames by decomposing the latent sharp rays into global camera motion and local object motion components. Extensive experimental results demonstrate that our DyBluRF outperforms qualitatively and quantitatively the very recent state-of-the-art methods. Our project page including source codes and pretrained model are publicly available at https://kaist-viclab.github.io/dyblurf-site/.  
+  </ol>  
+</details>  
+**comments**: The first three authors contributed equally to this work. Please
+  visit our project page at https://kaist-viclab.github.io/dyblurf-site/  
+  
+### [Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects](http://arxiv.org/abs/2312.13494)  
+David Nakath, Xiangyu Weng, Mengkun She, Kevin Köser  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    When created faithfully from real-world data, Digital 3D representations of objects can be useful for human or computer-assisted analysis. Such models can also serve for generating training data for machine learning approaches in settings where data is difficult to obtain or where too few training data exists, e.g. by providing novel views or images in varying conditions. While the vast amount of visual 3D reconstruction approaches focus on non-physical models, textured object surfaces or shapes, in this contribution we propose a volumetric reconstruction approach that obtains a physical model including the interior of partially translucent objects such as plankton or insects. Our technique photographs the object under different poses in front of a bright white light source and computes absorption and scattering per voxel. It can be interpreted as visual tomography that we solve by inverse raytracing. We additionally suggest a method to convert non-physical NeRF media into a physically-based volumetric grid for initialization and illustrate the usefulness of the approach using two real-world plankton validation sets, the lab-scanned models being finally also relighted and virtually submerged in a scenario with augmented medium and illumination conditions. Please visit the project homepage at www.marine.informatik.uni-kiel.de/go/vito  
+  </ol>  
+</details>  
+**comments**: Accepted for publication at 3DV '24  
+  
+### [NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields](http://arxiv.org/abs/2312.13471)  
+Jens Naumann, Binbin Xu, Stefan Leutenegger, Xingxing Zuo  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We introduce a novel monocular visual odometry (VO) system, NeRF-VO, that integrates learning-based sparse visual odometry for low-latency camera tracking and a neural radiance scene representation for sophisticated dense reconstruction and novel view synthesis. Our system initializes camera poses using sparse visual odometry and obtains view-dependent dense geometry priors from a monocular depth prediction network. We harmonize the scale of poses and dense geometry, treating them as supervisory cues to train a neural implicit scene representation. NeRF-VO demonstrates exceptional performance in both photometric and geometric fidelity of the scene representation by jointly optimizing a sliding window of keyframed poses and the underlying dense geometry, which is accomplished through training the radiance field with volume rendering. We surpass state-of-the-art methods in pose estimation accuracy, novel view synthesis fidelity, and dense reconstruction quality across a variety of synthetic and real-world datasets, while achieving a higher camera tracking frequency and consuming less GPU memory.  
+  </ol>  
+</details>  
+**comments**: 10 tables, 4 figures  
+  
+### [Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM](http://arxiv.org/abs/2312.13332)  
+Junru Lin, Asen Nachkov, Songyou Peng, Luc Van Gool, Danda Pani Paudel  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    The opacity of rigid 3D scenes with opaque surfaces is considered to be of a binary type. However, we observed that this property is not followed by the existing RGB-only NeRF-SLAM. Therefore, we are motivated to introduce this prior into the RGB-only NeRF-SLAM pipeline. Unfortunately, the optimization through the volumetric rendering function does not facilitate easy integration of the desired prior. Instead, we observed that the opacity of ternary-type (TT) is well supported. In this work, we study why ternary-type opacity is well-suited and desired for the task at hand. In particular, we provide theoretical insights into the process of jointly optimizing radiance and opacity through the volumetric rendering process. Through exhaustive experiments on benchmark datasets, we validate our claim and provide insights into the optimization process, which we believe will unleash the potential of RGB-only NeRF-SLAM. To foster this line of research, we also propose a simple yet novel visual odometry scheme that uses a hybrid combination of volumetric and warping-based image renderings. More specifically, the proposed hybrid odometry (HO) additionally uses image warping-based coarse odometry, leading up to an order of magnitude final speed-up. Furthermore, we show that the proposed TT and HO well complement each other, offering state-of-the-art results on benchmark datasets in terms of both speed and accuracy.  
+  </ol>  
+</details>  
+  
+### [ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors](http://arxiv.org/abs/2312.13324)  
+Weijia Mao, Yan-Pei Cao, Jia-Wei Liu, Zhongcong Xu, Mike Zheng Shou  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We introduce ShowRoom3D, a three-stage approach for generating high-quality 3D room-scale scenes from texts. Previous methods using 2D diffusion priors to optimize neural radiance fields for generating room-scale scenes have shown unsatisfactory quality. This is primarily attributed to the limitations of 2D priors lacking 3D awareness and constraints in the training methodology. In this paper, we utilize a 3D diffusion prior, MVDiffusion, to optimize the 3D room-scale scene. Our contributions are in two aspects. Firstly, we propose a progressive view selection process to optimize NeRF. This involves dividing the training process into three stages, gradually expanding the camera sampling scope. Secondly, we propose the pose transformation method in the second stage. It will ensure MVDiffusion provide the accurate view guidance. As a result, ShowRoom3D enables the generation of rooms with improved structural integrity, enhanced clarity from any view, reduced content repetition, and higher consistency across different perspectives. Extensive experiments demonstrate that our method, significantly outperforms state-of-the-art approaches by a large margin in terms of user study.  
+  </ol>  
+</details>  
   
   
 
