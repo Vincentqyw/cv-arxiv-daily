@@ -379,6 +379,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140](http://arxiv.org/abs/2312.14140)|null|
+|**2023-12-20**|**Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation**|Sudharshan Suresh et.al.|[2312.13469](http://arxiv.org/abs/2312.13469)|null|
 |**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285](http://arxiv.org/abs/2312.13285)|null|
 |**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277](http://arxiv.org/abs/2312.13277)|null|
 |**2023-12-20**|**MixRT: Mixed Neural Representations For Real-Time NeRF Rendering**|Chaojian Li et.al.|[2312.11841](http://arxiv.org/abs/2312.11841)|null|
@@ -703,6 +705,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Towards Distributed Semi-speculative Adaptive Anisotropic Parallel Mesh Generation**|Kevin Garner et.al.|[2312.13433](http://arxiv.org/abs/2312.13433)|null|
 |**2023-12-18**|**ACCL+: an FPGA-Based Collective Engine for Distributed Applications**|Zhenhao He et.al.|[2312.11742](http://arxiv.org/abs/2312.11742)|null|
 |**2023-10-10**|**Ultima: Robust and Tail-Optimal AllReduce for Distributed Deep Learning in the Cloud**|Ertza Warraich et.al.|[2310.06993](http://arxiv.org/abs/2310.06993)|null|
 |**2023-10-04**|**DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models**|Sam Ade Jacobs et.al.|[2309.14509](http://arxiv.org/abs/2309.14509)|null|
