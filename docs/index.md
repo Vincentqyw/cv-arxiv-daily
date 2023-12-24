@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -35,7 +35,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909](http://arxiv.org/abs/2312.12909)|**[link](https://github.com/kit-cel/optispike)**|
-|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|null|
+|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|**[link](https://github.com/yuanhangzhang98/collective_dynamics_neuristor)**|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
 |**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
 |**2023-12-14**|**Biorealistic Response in Optoelectrically-Driven Flexible Halide-Perovskite Single-Crystal Memristors**|Ivan Matchenya et.al.|[2312.09314](http://arxiv.org/abs/2312.09314)|null|
@@ -254,7 +254,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|null|
+|**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|**[link](https://github.com/yuanhangzhang98/collective_dynamics_neuristor)**|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
 |**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
 |**2023-12-14**|**Biorealistic Response in Optoelectrically-Driven Flexible Halide-Perovskite Single-Crystal Memristors**|Ivan Matchenya et.al.|[2312.09314](http://arxiv.org/abs/2312.09314)|null|
