@@ -174,7 +174,7 @@ layout: default
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150](http://arxiv.org/abs/2308.15150)|null|
 |**2023-08-30**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122](http://arxiv.org/abs/2308.15122)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
-|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
+|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529](http://arxiv.org/abs/2308.12529)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063](http://arxiv.org/abs/2308.12063)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053](http://arxiv.org/abs/2308.12053)|null|
@@ -328,7 +328,7 @@ layout: default
 |**2023-09-01**|**Multilayer Ferromagnetic Spintronic Devices for Neuromorphic Computing Applications**|Aijaz H. Lone et.al.|[2309.00476](http://arxiv.org/abs/2309.00476)|null|
 |**2023-08-30**|**Fully Non-Linear Neuromorphic Computing with Linear Wave Scattering**|Clara C. Wanjura et.al.|[2308.16181](http://arxiv.org/abs/2308.16181)|null|
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390](http://arxiv.org/abs/2308.15390)|**[link](https://github.com/grottoh/wta-network)**|
-|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|null|
+|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-09-07**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
@@ -423,7 +423,7 @@ layout: default
 |**2023-11-27**|**Spatially Adaptive Cloth Regression with Implicit Neural Representations**|Lei Shu et.al.|[2311.16344](http://arxiv.org/abs/2311.16344)|null|
 |**2023-11-27**|**Testing Assumptions Underlying a Unified Theory for the Origin of Grid Cells**|Rylan Schaeffer et.al.|[2311.16295](http://arxiv.org/abs/2311.16295)|null|
 |**2023-11-25**|**Task adaption by biologically inspired stochastic comodulation**|Gauthier Boeshertz et.al.|[2311.15053](http://arxiv.org/abs/2311.15053)|null|
-|**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|null|
+|**2023-11-25**|**Coordinate-Aware Modulation for Neural Fields**|Joo Chan Lee et.al.|[2311.14993](http://arxiv.org/abs/2311.14993)|**[link](https://github.com/maincold2/CAM)**|
 |**2023-11-24**|**Deep Learning for Automatic Strain Quantification in Arrhythmogenic Right Ventricular Cardiomyopathy**|Laura Alvarez-Florez et.al.|[2311.14448](http://arxiv.org/abs/2311.14448)|null|
 |**2023-11-21**|**TRIDENT: The Nonlinear Trilogy for Implicit Neural Representations**|Zhenda Shen et.al.|[2311.13610](http://arxiv.org/abs/2311.13610)|null|
 |**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|**[link](https://github.com/lapalap/invert)**|
@@ -457,7 +457,7 @@ layout: default
 |**2023-10-25**|**Towards Information Theory-Based Discovery of Equivariances**|Hippolyte Charvin et.al.|[2310.16555](http://arxiv.org/abs/2310.16555)|null|
 |**2023-10-23**|**Neural representation in active inference: using generative models to interact with -- and understand -- the lived world**|Giovanni Pezzulo et.al.|[2310.14810](http://arxiv.org/abs/2310.14810)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
-|**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184](http://arxiv.org/abs/2310.14184)|null|
+|**2023-10-22**|**Partition Speeds Up Learning Implicit Neural Representations Based on Exponential-Increase Hypothesis**|Ke Liu et.al.|[2310.14184](http://arxiv.org/abs/2310.14184)|**[link](https://github.com/1999kevin/inr-partition)**|
 |**2023-10-20**|**Visual Grounding Helps Learn Word Meanings in Low-Data Regimes**|Chengxu Zhuang et.al.|[2310.13257](http://arxiv.org/abs/2310.13257)|null|
 |**2023-10-19**|**SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes**|Ziyi Yang et.al.|[2310.13030](http://arxiv.org/abs/2310.13030)|**[link](https://github.com/ingra14m/sire-ir)**|
 |**2023-10-17**|**Learning Lens Blur Fields**|Esther Y. H. Lin et.al.|[2310.11535](http://arxiv.org/abs/2310.11535)|null|
