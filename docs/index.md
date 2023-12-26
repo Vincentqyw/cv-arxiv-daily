@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -34,6 +34,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**NeuroRIS: Neuromorphic-Inspired Metasurfaces**|Christos G. Tsinos et.al.|[2312.14548](http://arxiv.org/abs/2312.14548)|null|
+|**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261](http://arxiv.org/abs/2312.14261)|null|
 |**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909](http://arxiv.org/abs/2312.12909)|**[link](https://github.com/kit-cel/optispike)**|
 |**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|**[link](https://github.com/yuanhangzhang98/collective_dynamics_neuristor)**|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
@@ -254,6 +256,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Kernel Heterogeneity Improves Sparseness of Natural Images Representations**|Hugo J. Ladret et.al.|[2312.14685](http://arxiv.org/abs/2312.14685)|null|
+|**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261](http://arxiv.org/abs/2312.14261)|null|
 |**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|**[link](https://github.com/yuanhangzhang98/collective_dynamics_neuristor)**|
 |**2023-12-18**|**Delving Deeper Into Astromorphic Transformers**|Md Zesun Ahmed Mia et.al.|[2312.10925](http://arxiv.org/abs/2312.10925)|null|
 |**2023-12-15**|**Mutual synchronization in spin torque and spin Hall nano-oscillators**|Akash Kumar et.al.|[2312.09656](http://arxiv.org/abs/2312.09656)|null|
@@ -379,6 +383,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635](http://arxiv.org/abs/2312.14635)|null|
+|**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy et.al.|[2312.14432](http://arxiv.org/abs/2312.14432)|null|
 |**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140](http://arxiv.org/abs/2312.14140)|null|
 |**2023-12-20**|**Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation**|Sudharshan Suresh et.al.|[2312.13469](http://arxiv.org/abs/2312.13469)|null|
 |**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285](http://arxiv.org/abs/2312.13285)|null|
