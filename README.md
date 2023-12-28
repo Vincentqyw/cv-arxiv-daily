@@ -1,4 +1,4 @@
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -30,6 +30,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071](http://arxiv.org/abs/2312.16071)|null|
+|**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
 |**2023-12-22**|**NeuroRIS: Neuromorphic-Inspired Metasurfaces**|Christos G. Tsinos et.al.|[2312.14548](http://arxiv.org/abs/2312.14548)|null|
 |**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261](http://arxiv.org/abs/2312.14261)|null|
 |**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909](http://arxiv.org/abs/2312.12909)|**[link](https://github.com/kit-cel/optispike)**|
@@ -252,6 +254,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071](http://arxiv.org/abs/2312.16071)|null|
+|**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
 |**2023-12-22**|**Kernel Heterogeneity Improves Sparseness of Natural Images Representations**|Hugo J. Ladret et.al.|[2312.14685](http://arxiv.org/abs/2312.14685)|null|
 |**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261](http://arxiv.org/abs/2312.14261)|null|
 |**2023-12-20**|**Collective dynamics and long-range order in thermal neuristor networks**|Yuan-Hang Zhang et.al.|[2312.12899](http://arxiv.org/abs/2312.12899)|**[link](https://github.com/yuanhangzhang98/collective_dynamics_neuristor)**|
@@ -379,6 +383,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-25**|**Neural BSSRDF: Object Appearance Representation Including Heterogeneous Subsurface Scattering**|Thomson TG et.al.|[2312.15711](http://arxiv.org/abs/2312.15711)|null|
+|**2023-12-25**|**Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation**|Yingtai Li et.al.|[2312.15676](http://arxiv.org/abs/2312.15676)|null|
 |**2023-12-22**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635](http://arxiv.org/abs/2312.14635)|null|
 |**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy et.al.|[2312.14432](http://arxiv.org/abs/2312.14432)|null|
 |**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140](http://arxiv.org/abs/2312.14140)|null|
