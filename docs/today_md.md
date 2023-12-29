@@ -1,51 +1,43 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#sfm>SFM</a></li>
+    <li><a href=#slam>SLAM</a></li>
       <ul>
-        <li><a href=#Residual-Learning-for-Image-Point-Descriptors>Residual Learning for Image Point Descriptors</a></li>
+        <li><a href=#SR-LIVO:-LiDAR-Inertial-Visual-Odometry-and-Mapping-with-Sweep-Reconstruction>SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction</a></li>
       </ul>
     </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#Recursive-Distillation-for-Open-Set-Distributed-Robot-Localization>Recursive Distillation for Open-Set Distributed Robot Localization</a></li>
-        <li><a href=#Residual-Learning-for-Image-Point-Descriptors>Residual Learning for Image Point Descriptors</a></li>
-        <li><a href=#CaLDiff:-Camera-Localization-in-NeRF-via-Pose-Diffusion>CaLDiff: Camera Localization in NeRF via Pose Diffusion</a></li>
+        <li><a href=#LIP-Loc:-LiDAR-Image-Pretraining-for-Cross-Modal-Localization>LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization</a></li>
       </ul>
     </li>
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
       <ul>
-        <li><a href=#Residual-Learning-for-Image-Point-Descriptors>Residual Learning for Image Point Descriptors</a></li>
-      </ul>
-    </li>
-    <li><a href=#image-matching>Image Matching</a></li>
-      <ul>
-        <li><a href=#BEV-CV:-Birds-Eye-View-Transform-for-Cross-View-Geo-Localisation>BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation</a></li>
+        <li><a href=#Bezier-based-Regression-Feature-Descriptor-for-Deformable-Linear-Objects>Bezier-based Regression Feature Descriptor for Deformable Linear Objects</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#LangSplat:-3D-Language-Gaussian-Splatting>LangSplat: 3D Language Gaussian Splatting</a></li>
-        <li><a href=#2D-Guided-3D-Gaussian-Segmentation>2D-Guided 3D Gaussian Segmentation</a></li>
-        <li><a href=#Pano-NeRF:-Synthesizing-High-Dynamic-Range-Novel-Views-with-Geometry-from-Sparse-Low-Dynamic-Range-Panoramic-Images>Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images</a></li>
-        <li><a href=#Human101:-Training-100+FPS-Human-Gaussians-in-100s-from-1-View>Human101: Training 100+FPS Human Gaussians in 100s from 1 View</a></li>
-        <li><a href=#Efficient-Deformable-Tissue-Reconstruction-via-Orthogonal-Neural-Plane>Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane</a></li>
-        <li><a href=#CaLDiff:-Camera-Localization-in-NeRF-via-Pose-Diffusion>CaLDiff: Camera Localization in NeRF via Pose Diffusion</a></li>
+        <li><a href=#City-on-Web:-Real-time-Neural-Rendering-of-Large-scale-Scenes-on-the-Web>City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web</a></li>
+        <li><a href=#DL3DV-10K:-A-Large-Scale-Scene-Dataset-for-Deep-Learning-based-3D-Vision>DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision</a></li>
+        <li><a href=#SUNDIAL:-3D-Satellite-Understanding-through-Direct,-Ambient,-and-Complex-Lighting-Decomposition>SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition</a></li>
+        <li><a href=#INFAMOUS-NeRF:-ImproviNg-FAce-MOdeling-Using-Semantically-Aligned-Hypernetworks-with-Neural-Radiance-Fields>INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SFM  
+## SLAM  
 
-### [Residual Learning for Image Point Descriptors](http://arxiv.org/abs/2312.15471)  
-Rashik Shrestha, Ajad Chhatkuli, Menelaos Kanakis, Luc Van Gool  
+### [SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction](http://arxiv.org/abs/2312.16800)  
+Zikang Yuan, Jie Deng, Ruiye Ming, Fengtian Lang, Xin Yang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Local image feature descriptors have had a tremendous impact on the development and application of computer vision methods. It is therefore unsurprising that significant efforts are being made for learning-based image point descriptors. However, the advantage of learned methods over handcrafted methods in real applications is subtle and more nuanced than expected. Moreover, handcrafted descriptors such as SIFT and SURF still perform better point localization in Structure-from-Motion (SfM) compared to many learned counterparts. In this paper, we propose a very simple and effective approach to learning local image descriptors by using a hand-crafted detector and descriptor. Specifically, we choose to learn only the descriptors, supported by handcrafted descriptors while discarding the point localization head. We optimize the final descriptor by leveraging the knowledge already present in the handcrafted descriptor. Such an approach of optimization allows us to discard learning knowledge already present in non-differentiable functions such as the hand-crafted descriptors and only learn the residual knowledge in the main network branch. This offers 50X convergence speed compared to the standard baseline architecture of SuperPoint while at inference the combined descriptor provides superior performance over the learned and hand-crafted descriptors. This is done with minor increase in the computations over the baseline learned descriptor. Our approach has potential applications in ensemble learning and learning with non-differentiable functions. We perform experiments in matching, camera localization and Structure-from-Motion in order to showcase the advantages of our approach.  
+    Existing LiDAR-inertial-visual odometry and mapping (LIV-SLAM) systems mainly utilize the LiDAR-inertial odometry (LIO) module for structure reconstruction and the visual-inertial odometry (VIO) module for color rendering. However, the accuracy of VIO is often compromised by photometric changes, weak textures and motion blur, unlike the more robust LIO. This paper introduces SR-LIVO, an advanced and novel LIV-SLAM system employing sweep reconstruction to align reconstructed sweeps with image timestamps. This allows the LIO module to accurately determine states at all imaging moments, enhancing pose accuracy and processing efficiency. Experimental results on two public datasets demonstrate that: 1) our SRLIVO outperforms existing state-of-the-art LIV-SLAM systems in both pose accuracy and time efficiency; 2) our LIO-based pose estimation prove more accurate than VIO-based ones in several mainstream LIV-SLAM systems (including ours). We have released our source code to contribute to the community development in this field.  
   </ol>  
 </details>  
+**comments**: 7 pages, 6 figures, submitted to IEEE RA-L  
   
   
 
@@ -53,33 +45,16 @@ Rashik Shrestha, Ajad Chhatkuli, Menelaos Kanakis, Luc Van Gool
 
 ## Visual Localization  
 
-### [Recursive Distillation for Open-Set Distributed Robot Localization](http://arxiv.org/abs/2312.15897)  
-Kenta Tsukahara, Kanji Tanaka  
+### [LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization](http://arxiv.org/abs/2312.16648)  
+Sai Shubodh Puligilla, Mohammad Omama, Husain Zaidi, Udit Singh Parihar, Madhava Krishna  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    A typical assumption in state-of-the-art self-localization models is that an annotated training dataset is available for the target workspace. However, this is not necessarily true when a robot travels around the general open world. This work introduces a novel training scheme for open-world distributed robot systems. In our scheme, a robot (``student") can ask the other robots it meets at unfamiliar places (``teachers") for guidance. Specifically, a pseudo-training dataset is reconstructed from the teacher model and then used for continual learning of the student model under domain, class, and vocabulary incremental setup. Unlike typical knowledge transfer schemes, our scheme introduces only minimal assumptions on the teacher model, so that it can handle various types of open-set teachers, including those uncooperative, untrainable (e.g., image retrieval engines), or black-box teachers (i.e., data privacy). In this paper, we investigate a ranking function as an instance of such generic models, using a challenging data-free recursive distillation scenario, where a student once trained can recursively join the next-generation open teacher set.  
+    Global visual localization in LiDAR-maps, crucial for autonomous driving applications, remains largely unexplored due to the challenging issue of bridging the cross-modal heterogeneity gap. Popular multi-modal learning approach Contrastive Language-Image Pre-Training (CLIP) has popularized contrastive symmetric loss using batch construction technique by applying it to multi-modal domains of text and image. We apply this approach to the domains of 2D image and 3D LiDAR points on the task of cross-modal localization. Our method is explained as follows: A batch of N (image, LiDAR) pairs is constructed so as to predict what is the right match between N X N possible pairings across the batch by jointly training an image encoder and LiDAR encoder to learn a multi-modal embedding space. In this way, the cosine similarity between N positive pairings is maximized, whereas that between the remaining negative pairings is minimized. Finally, over the obtained similarity scores, a symmetric cross-entropy loss is optimized. To the best of our knowledge, this is the first work to apply batched loss approach to a cross-modal setting of image & LiDAR data and also to show Zero-shot transfer in a visual localization setting. We conduct extensive analyses on standard autonomous driving datasets such as KITTI and KITTI-360 datasets. Our method outperforms state-of-the-art recall@1 accuracy on the KITTI-360 dataset by 22.4%, using only perspective images, in contrast to the state-of-the-art approach, which utilizes the more informative fisheye images. Additionally, this superior performance is achieved without resorting to complex architectures. Moreover, we demonstrate the zero-shot capabilities of our model and we beat SOTA by 8% without even training on it. Furthermore, we establish the first benchmark for cross-modal localization on the KITTI dataset.  
   </ol>  
 </details>  
-**comments**: 5 pages, 4 figures, technical report  
-  
-### [Residual Learning for Image Point Descriptors](http://arxiv.org/abs/2312.15471)  
-Rashik Shrestha, Ajad Chhatkuli, Menelaos Kanakis, Luc Van Gool  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Local image feature descriptors have had a tremendous impact on the development and application of computer vision methods. It is therefore unsurprising that significant efforts are being made for learning-based image point descriptors. However, the advantage of learned methods over handcrafted methods in real applications is subtle and more nuanced than expected. Moreover, handcrafted descriptors such as SIFT and SURF still perform better point localization in Structure-from-Motion (SfM) compared to many learned counterparts. In this paper, we propose a very simple and effective approach to learning local image descriptors by using a hand-crafted detector and descriptor. Specifically, we choose to learn only the descriptors, supported by handcrafted descriptors while discarding the point localization head. We optimize the final descriptor by leveraging the knowledge already present in the handcrafted descriptor. Such an approach of optimization allows us to discard learning knowledge already present in non-differentiable functions such as the hand-crafted descriptors and only learn the residual knowledge in the main network branch. This offers 50X convergence speed compared to the standard baseline architecture of SuperPoint while at inference the combined descriptor provides superior performance over the learned and hand-crafted descriptors. This is done with minor increase in the computations over the baseline learned descriptor. Our approach has potential applications in ensemble learning and learning with non-differentiable functions. We perform experiments in matching, camera localization and Structure-from-Motion in order to showcase the advantages of our approach.  
-  </ol>  
-</details>  
-  
-### [CaLDiff: Camera Localization in NeRF via Pose Diffusion](http://arxiv.org/abs/2312.15242)  
-Rashik Shrestha, Bishad Koju, Abhigyan Bhusal, Danda Pani Paudel, François Rameau  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    With the widespread use of NeRF-based implicit 3D representation, the need for camera localization in the same representation becomes manifestly apparent. Doing so not only simplifies the localization process -- by avoiding an outside-the-NeRF-based localization -- but also has the potential to offer the benefit of enhanced localization. This paper studies the problem of localizing cameras in NeRF using a diffusion model for camera pose adjustment. More specifically, given a pre-trained NeRF model, we train a diffusion model that iteratively updates randomly initialized camera poses, conditioned upon the image to be localized. At test time, a new camera is localized in two steps: first, coarse localization using the proposed pose diffusion process, followed by local refinement steps of a pose inversion process in NeRF. In fact, the proposed camera localization by pose diffusion (CaLDiff) method also integrates the pose inversion steps within the diffusion process. Such integration offers significantly better localization, thanks to our downstream refinement-aware diffusion process. Our exhaustive experiments on challenging real-world data validate our method by providing significantly better results than the compared methods and the established baselines. Our source code will be made publicly available.  
-  </ol>  
-</details>  
+**comments**: To be presented at WACV-W 2024. Project page:
+  https://shubodhs.ai/liploc  
   
   
 
@@ -87,30 +62,14 @@ Rashik Shrestha, Bishad Koju, Abhigyan Bhusal, Danda Pani Paudel, François Rame
 
 ## Keypoint Detection  
 
-### [Residual Learning for Image Point Descriptors](http://arxiv.org/abs/2312.15471)  
-Rashik Shrestha, Ajad Chhatkuli, Menelaos Kanakis, Luc Van Gool  
+### [Bezier-based Regression Feature Descriptor for Deformable Linear Objects](http://arxiv.org/abs/2312.16502)  
+Fangqing Chen  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Local image feature descriptors have had a tremendous impact on the development and application of computer vision methods. It is therefore unsurprising that significant efforts are being made for learning-based image point descriptors. However, the advantage of learned methods over handcrafted methods in real applications is subtle and more nuanced than expected. Moreover, handcrafted descriptors such as SIFT and SURF still perform better point localization in Structure-from-Motion (SfM) compared to many learned counterparts. In this paper, we propose a very simple and effective approach to learning local image descriptors by using a hand-crafted detector and descriptor. Specifically, we choose to learn only the descriptors, supported by handcrafted descriptors while discarding the point localization head. We optimize the final descriptor by leveraging the knowledge already present in the handcrafted descriptor. Such an approach of optimization allows us to discard learning knowledge already present in non-differentiable functions such as the hand-crafted descriptors and only learn the residual knowledge in the main network branch. This offers 50X convergence speed compared to the standard baseline architecture of SuperPoint while at inference the combined descriptor provides superior performance over the learned and hand-crafted descriptors. This is done with minor increase in the computations over the baseline learned descriptor. Our approach has potential applications in ensemble learning and learning with non-differentiable functions. We perform experiments in matching, camera localization and Structure-from-Motion in order to showcase the advantages of our approach.  
+    In this paper, a feature extraction approach for the deformable linear object is presented, which uses a Bezier curve to represent the original geometric shape. The proposed extraction strategy is combined with a parameterization technique, the goal is to compute the regression features from the visual-feedback RGB image, and finally obtain the efficient shape feature in the low-dimensional latent space. Existing works of literature often fail to capture the complex characteristics in a unified framework. They also struggle in scenarios where only local shape descriptors are used to guide the robot to complete the manipulation. To address these challenges, we propose a feature extraction technique using a parameterization approach to generate the regression features, which leverages the power of the Bezier curve and linear regression. The proposed extraction method effectively captures topological features and node characteristics, making it well-suited for the deformation object manipulation task. Large mount of simulations are conducted to evaluate the presented method. Our results demonstrate that the proposed method outperforms existing methods in terms of prediction accuracy, robustness, and computational efficiency. Furthermore, our approach enables the extraction of meaningful insights from the predicted links, thereby contributing to a better understanding of the shape of the deformable linear objects. Overall, this work represents a significant step forward in the use of Bezier curve for shape representation.  
   </ol>  
 </details>  
-  
-  
-
-
-
-## Image Matching  
-
-### [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](http://arxiv.org/abs/2312.15363)  
-Tavis Shore, Simon Hadfield, Oscar Mendez  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Cross-view image matching for geo-localisation is a challenging problem due to the significant visual difference between aerial and ground-level viewpoints. The method provides localisation capabilities from geo-referenced images, eliminating the need for external devices or costly equipment. This enhances the capacity of agents to autonomously determine their position, navigate, and operate effectively in environments where GPS signals are unavailable. Current research employs a variety of techniques to reduce the domain gap such as applying polar transforms to aerial images or synthesising between perspectives. However, these approaches generally rely on having a 360{\deg} field of view, limiting real-world feasibility. We propose BEV-CV, an approach which introduces two key novelties. Firstly we bring ground-level images into a semantic Birds-Eye-View before matching embeddings, allowing for direct comparison with aerial segmentation representations. Secondly, we introduce the use of a Normalised Temperature-scaled Cross Entropy Loss to the sub-field, achieving faster convergence than with the standard triplet loss. BEV-CV achieves state-of-the-art recall accuracies, improving feature extraction Top-1 rates by more than 300%, and Top-1% rates by approximately 150% for 70{\deg} crops, and for orientation-aware application we achieve a 35% Top-1 accuracy increase with 70{\deg} crops.  
-  </ol>  
-</details>  
-**comments**: 8 pages, 6 figures  
   
   
 
@@ -118,61 +77,41 @@ Tavis Shore, Simon Hadfield, Oscar Mendez
 
 ## NeRF  
 
-### [LangSplat: 3D Language Gaussian Splatting](http://arxiv.org/abs/2312.16084)  
-Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister  
+### [City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web](http://arxiv.org/abs/2312.16457)  
+Kaiwen Song, Juyong Zhang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Human lives in a 3D world and commonly uses natural language to interact with a 3D scene. Modeling a 3D language field to support open-ended language queries in 3D has gained increasing attention recently. This paper introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces. Unlike existing methods that ground CLIP language embeddings in a NeRF model, LangSplat advances the field by utilizing a collection of 3D Gaussians, each encoding language features distilled from CLIP, to represent the language field. By employing a tile-based splatting technique for rendering language features, we circumvent the costly rendering process inherent in NeRF. Instead of directly learning CLIP embeddings, LangSplat first trains a scene-wise language autoencoder and then learns language features on the scene-specific latent space, thereby alleviating substantial memory demands imposed by explicit modeling. Existing methods struggle with imprecise and vague 3D language fields, which fail to discern clear boundaries between objects. We delve into this issue and propose to learn hierarchical semantics using SAM, thereby eliminating the need for extensively querying the language field across various scales and the regularization of DINO features. Extensive experiments on open-vocabulary 3D object localization and semantic segmentation demonstrate that LangSplat significantly outperforms the previous state-of-the-art method LERF by a large margin. Notably, LangSplat is extremely efficient, achieving a {\speed} $\times$ speedup compared to LERF at the resolution of 1440 $\times$ 1080. We strongly recommend readers to check out our video results at https://langsplat.github.io  
+    NeRF has significantly advanced 3D scene reconstruction, capturing intricate details across various environments. Existing methods have successfully leveraged radiance field baking to facilitate real-time rendering of small scenes. However, when applied to large-scale scenes, these techniques encounter significant challenges, struggling to provide a seamless real-time experience due to limited resources in computation, memory, and bandwidth. In this paper, we propose City-on-Web, which represents the whole scene by partitioning it into manageable blocks, each with its own Level-of-Detail, ensuring high fidelity, efficient memory management and fast rendering. Meanwhile, we carefully design the training and inference process such that the final rendering result on web is consistent with training. Thanks to our novel representation and carefully designed training/inference process, we are the first to achieve real-time rendering of large-scale scenes in resource-constrained environments. Extensive experimental results demonstrate that our method facilitates real-time rendering of large-scale scenes on a web platform, achieving 32FPS at 1080P resolution with an RTX 3060 GPU, while simultaneously achieving a quality that closely rivals that of state-of-the-art methods. Project page: https://ustc3dv.github.io/City-on-Web/  
   </ol>  
 </details>  
-**comments**: Project Page: https://langsplat.github.io  
+**comments**: Project page: https://ustc3dv.github.io/City-on-Web/  
   
-### [2D-Guided 3D Gaussian Segmentation](http://arxiv.org/abs/2312.16047)  
-Kun Lan, Haoran Li, Haolin Shi, Wenjun Wu, Yong Liao, Lin Wang, Pengyuan Zhou  
+### [DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision](http://arxiv.org/abs/2312.16256)  
+Lu Ling, Yichen Sheng, Zhi Tu, Wentian Zhao, Cheng Xin, Kun Wan, Lantao Yu, Qianyu Guo, Zixun Yu, Yawen Lu, Xuanmao Li, Xingpeng Sun, Rohan Ashok, Aniruddha Mukherjee, Hao Kang, Xiangrui Kong, Gang Hua, Tianti Zhang, Bedrich Benes, Aniket Bera  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Recently, 3D Gaussian, as an explicit 3D representation method, has demonstrated strong competitiveness over NeRF (Neural Radiance Fields) in terms of expressing complex scenes and training duration. These advantages signal a wide range of applications for 3D Gaussians in 3D understanding and editing. Meanwhile, the segmentation of 3D Gaussians is still in its infancy. The existing segmentation methods are not only cumbersome but also incapable of segmenting multiple objects simultaneously in a short amount of time. In response, this paper introduces a 3D Gaussian segmentation method implemented with 2D segmentation as supervision. This approach uses input 2D segmentation maps to guide the learning of the added 3D Gaussian semantic information, while nearest neighbor clustering and statistical filtering refine the segmentation results. Experiments show that our concise method can achieve comparable performances on mIOU and mAcc for multi-object segmentation as previous single-object segmentation methods.  
-  </ol>  
-</details>  
-  
-### [Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images](http://arxiv.org/abs/2312.15942)  
-Zhan Lu, Qian Zheng, Boxin Shi, Xudong Jiang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Panoramic imaging research on geometry recovery and High Dynamic Range (HDR) reconstruction becomes a trend with the development of Extended Reality (XR). Neural Radiance Fields (NeRF) provide a promising scene representation for both tasks without requiring extensive prior data. However, in the case of inputting sparse Low Dynamic Range (LDR) panoramic images, NeRF often degrades with under-constrained geometry and is unable to reconstruct HDR radiance from LDR inputs. We observe that the radiance from each pixel in panoramic images can be modeled as both a signal to convey scene lighting information and a light source to illuminate other pixels. Hence, we propose the irradiance fields from sparse LDR panoramic images, which increases the observation counts for faithful geometry recovery and leverages the irradiance-radiance attenuation for HDR reconstruction. Extensive experiments demonstrate that the irradiance fields outperform state-of-the-art methods on both geometry recovery and HDR reconstruction and validate their effectiveness. Furthermore, we show a promising byproduct of spatially-varying lighting estimation. The code is available at https://github.com/Lu-Zhan/Pano-NeRF.  
+    We have witnessed significant progress in deep learning-based 3D vision, ranging from neural radiance field (NeRF) based 3D representation learning to applications in novel view synthesis (NVS). However, existing scene-level datasets for deep learning-based 3D vision, limited to either synthetic environments or a narrow selection of real-world scenes, are quite insufficient. This insufficiency not only hinders a comprehensive benchmark of existing methods but also caps what could be explored in deep learning-based 3D analysis. To address this critical gap, we present DL3DV-10K, a large-scale scene dataset, featuring 51.2 million frames from 10,510 videos captured from 65 types of point-of-interest (POI) locations, covering both bounded and unbounded scenes, with different levels of reflection, transparency, and lighting. We conducted a comprehensive benchmark of recent NVS methods on DL3DV-10K, which revealed valuable insights for future research in NVS. In addition, we have obtained encouraging results in a pilot study to learn generalizable NeRF from DL3DV-10K, which manifests the necessity of a large-scale scene-level dataset to forge a path toward a foundation model for learning 3D representation. Our DL3DV-10K dataset, benchmark results, and models will be publicly accessible at https://dl3dv-10k.github.io/DL3DV-10K/.  
   </ol>  
 </details>  
   
-### [Human101: Training 100+FPS Human Gaussians in 100s from 1 View](http://arxiv.org/abs/2312.15258)  
-[[code](https://github.com/longxiang-ai/human101)]  
-Mingwei Li, Jiachen Tao, Zongxin Yang, Yi Yang  
+### [SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition](http://arxiv.org/abs/2312.16215)  
+Nikhil Behari, Akshat Dave, Kushagra Tiwary, William Yang, Ramesh Raskar  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Reconstructing the human body from single-view videos plays a pivotal role in the virtual reality domain. One prevalent application scenario necessitates the rapid reconstruction of high-fidelity 3D digital humans while simultaneously ensuring real-time rendering and interaction. Existing methods often struggle to fulfill both requirements. In this paper, we introduce Human101, a novel framework adept at producing high-fidelity dynamic 3D human reconstructions from 1-view videos by training 3D Gaussians in 100 seconds and rendering in 100+ FPS. Our method leverages the strengths of 3D Gaussian Splatting, which provides an explicit and efficient representation of 3D humans. Standing apart from prior NeRF-based pipelines, Human101 ingeniously applies a Human-centric Forward Gaussian Animation method to deform the parameters of 3D Gaussians, thereby enhancing rendering speed (i.e., rendering 1024-resolution images at an impressive 60+ FPS and rendering 512-resolution images at 100+ FPS). Experimental results indicate that our approach substantially eclipses current methods, clocking up to a 10 times surge in frames per second and delivering comparable or superior rendering quality. Code and demos will be released at https://github.com/longxiang-ai/Human101.  
+    3D modeling from satellite imagery is essential in areas of environmental science, urban planning, agriculture, and disaster response. However, traditional 3D modeling techniques face unique challenges in the remote sensing context, including limited multi-view baselines over extensive regions, varying direct, ambient, and complex illumination conditions, and time-varying scene changes across captures. In this work, we introduce SUNDIAL, a comprehensive approach to 3D reconstruction of satellite imagery using neural radiance fields. We jointly learn satellite scene geometry, illumination components, and sun direction in this single-model approach, and propose a secondary shadow ray casting technique to 1) improve scene geometry using oblique sun angles to render shadows, 2) enable physically-based disentanglement of scene albedo and illumination, and 3) determine the components of illumination from direct, ambient (sky), and complex sources. To achieve this, we incorporate lighting cues and geometric priors from remote sensing literature in a neural rendering approach, modeling physical properties of satellite scenes such as shadows, scattered sky illumination, and complex illumination and shading of vegetation and water. We evaluate the performance of SUNDIAL against existing NeRF-based techniques for satellite scene modeling and demonstrate improved scene and lighting disentanglement, novel view and lighting rendering, and geometry and sun direction estimation on challenging scenes with small baselines, sparse inputs, and variable illumination.  
   </ol>  
 </details>  
-**comments**: Website: https://github.com/longxiang-ai/Human101  
+**comments**: 8 pages, 6 figures  
   
-### [Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane](http://arxiv.org/abs/2312.15253)  
-[[code](https://github.com/loping151/forplane)]  
-Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, Wei Shen  
+### [INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields](http://arxiv.org/abs/2312.16197)  
+Andrew Hou, Feng Liu, Zhiyuan Ren, Michel Sarkis, Ning Bi, Yiying Tong, Xiaoming Liu  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Intraoperative imaging techniques for reconstructing deformable tissues in vivo are pivotal for advanced surgical systems. Existing methods either compromise on rendering quality or are excessively computationally intensive, often demanding dozens of hours to perform, which significantly hinders their practical application. In this paper, we introduce Fast Orthogonal Plane (Forplane), a novel, efficient framework based on neural radiance fields (NeRF) for the reconstruction of deformable tissues. We conceptualize surgical procedures as 4D volumes, and break them down into static and dynamic fields comprised of orthogonal neural planes. This factorization iscretizes the four-dimensional space, leading to a decreased memory usage and faster optimization. A spatiotemporal importance sampling scheme is introduced to improve performance in regions with tool occlusion as well as large motions and accelerate training. An efficient ray marching method is applied to skip sampling among empty regions, significantly improving inference speed. Forplane accommodates both binocular and monocular endoscopy videos, demonstrating its extensive applicability and flexibility. Our experiments, carried out on two in vivo datasets, the EndoNeRF and Hamlyn datasets, demonstrate the effectiveness of our framework. In all cases, Forplane substantially accelerates both the optimization process (by over 100 times) and the inference process (by over 15 times) while maintaining or even improving the quality across a variety of non-rigid deformations. This significant performance improvement promises to be a valuable asset for future intraoperative surgical applications. The code of our project is now available at https://github.com/Loping151/ForPlane.  
-  </ol>  
-</details>  
-  
-### [CaLDiff: Camera Localization in NeRF via Pose Diffusion](http://arxiv.org/abs/2312.15242)  
-Rashik Shrestha, Bishad Koju, Abhigyan Bhusal, Danda Pani Paudel, François Rameau  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    With the widespread use of NeRF-based implicit 3D representation, the need for camera localization in the same representation becomes manifestly apparent. Doing so not only simplifies the localization process -- by avoiding an outside-the-NeRF-based localization -- but also has the potential to offer the benefit of enhanced localization. This paper studies the problem of localizing cameras in NeRF using a diffusion model for camera pose adjustment. More specifically, given a pre-trained NeRF model, we train a diffusion model that iteratively updates randomly initialized camera poses, conditioned upon the image to be localized. At test time, a new camera is localized in two steps: first, coarse localization using the proposed pose diffusion process, followed by local refinement steps of a pose inversion process in NeRF. In fact, the proposed camera localization by pose diffusion (CaLDiff) method also integrates the pose inversion steps within the diffusion process. Such integration offers significantly better localization, thanks to our downstream refinement-aware diffusion process. Our exhaustive experiments on challenging real-world data validate our method by providing significantly better results than the compared methods and the established baselines. Our source code will be made publicly available.  
+    We propose INFAMOUS-NeRF, an implicit morphable face model that introduces hypernetworks to NeRF to improve the representation power in the presence of many training subjects. At the same time, INFAMOUS-NeRF resolves the classic hypernetwork tradeoff of representation power and editability by learning semantically-aligned latent spaces despite the subject-specific models, all without requiring a large pretrained model. INFAMOUS-NeRF further introduces a novel constraint to improve NeRF rendering along the face boundary. Our constraint can leverage photometric surface rendering and multi-view supervision to guide surface color prediction and improve rendering near the surface. Finally, we introduce a novel, loss-guided adaptive sampling method for more effective NeRF training by reducing the sampling redundancy. We show quantitatively and qualitatively that our method achieves higher representation power than prior face modeling methods in both controlled and in-the-wild settings. Code and models will be released upon publication.  
   </ol>  
 </details>  
   
