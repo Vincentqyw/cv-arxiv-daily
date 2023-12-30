@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -34,6 +34,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216](http://arxiv.org/abs/2312.17216)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071](http://arxiv.org/abs/2312.16071)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
 |**2023-12-22**|**NeuroRIS: Neuromorphic-Inspired Metasurfaces**|Christos G. Tsinos et.al.|[2312.14548](http://arxiv.org/abs/2312.14548)|null|
@@ -387,6 +388,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018](http://arxiv.org/abs/2312.17018)|null|
+|**2023-12-27**|**In-Hand 3D Object Reconstruction from a Monocular RGB Video**|Shijian Jiang et.al.|[2312.16425](http://arxiv.org/abs/2312.16425)|null|
 |**2023-12-25**|**Neural BSSRDF: Object Appearance Representation Including Heterogeneous Subsurface Scattering**|Thomson TG et.al.|[2312.15711](http://arxiv.org/abs/2312.15711)|null|
 |**2023-12-25**|**Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation**|Yingtai Li et.al.|[2312.15676](http://arxiv.org/abs/2312.15676)|null|
 |**2023-12-22**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635](http://arxiv.org/abs/2312.14635)|null|
@@ -660,7 +663,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-30**|**Computing Electrostatics of COVID-19 Proteins with Parallelized Boundary Integral Poisson-Boltzmann Solvers**|Xin Yang et.al.|[2312.10044](http://arxiv.org/abs/2312.10044)|null|
+|**2023-12-28**|**Optimized Parallelization of Boundary Integral Poisson-Boltzmann Solvers**|Xin Yang et.al.|[2312.10044](http://arxiv.org/abs/2312.10044)|null|
 |**2023-11-09**|**CloverLeaf on Intel Multi-Core CPUs: A Case Study in Write-Allocate Evasion**|Jan Laukemann et.al.|[2311.04797](http://arxiv.org/abs/2311.04797)|null|
 |**2023-10-23**|**System Characterization of a Human-Sized 3D Real-Time Magnetic Particle Imaging Scanner for Cerebral Applications**|Florian Thieben et.al.|[2310.15014](http://arxiv.org/abs/2310.15014)|null|
 |**2023-10-19**|**Accurate Coarse Residual for Two-Level Asynchronous Domain Decomposition Methods**|Guillaume Gbikpi-Benissan et.al.|[2310.12605](http://arxiv.org/abs/2310.12605)|null|
@@ -679,7 +682,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-30**|**Computing Electrostatics of COVID-19 Proteins with Parallelized Boundary Integral Poisson-Boltzmann Solvers**|Xin Yang et.al.|[2312.10044](http://arxiv.org/abs/2312.10044)|null|
+|**2023-12-28**|**Optimized Parallelization of Boundary Integral Poisson-Boltzmann Solvers**|Xin Yang et.al.|[2312.10044](http://arxiv.org/abs/2312.10044)|null|
 |**2023-10-25**|**PartRePer-MPI: Combining Fault Tolerance and Performance for MPI Applications**|Sarthak Joshi et.al.|[2310.16370](http://arxiv.org/abs/2310.16370)|null|
 |**2023-10-19**|**Accurate Coarse Residual for Two-Level Asynchronous Domain Decomposition Methods**|Guillaume Gbikpi-Benissan et.al.|[2310.12605](http://arxiv.org/abs/2310.12605)|null|
 |**2023-09-27**|**Advancing the distributed Multi-GPU ChASE library through algorithm optimization and NCCL library**|Xinzhe Wu et.al.|[2309.15595](http://arxiv.org/abs/2309.15595)|null|
