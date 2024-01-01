@@ -30,6 +30,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582](http://arxiv.org/abs/2312.17582)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216](http://arxiv.org/abs/2312.17216)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071](http://arxiv.org/abs/2312.16071)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
