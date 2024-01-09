@@ -1,49 +1,74 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#visual-localization>Visual Localization</a></li>
+    <li><a href=#slam>SLAM</a></li>
       <ul>
-        <li><a href=#Benchmarking-PathCLIP-for-Pathology-Image-Analysis>Benchmarking PathCLIP for Pathology Image Analysis</a></li>
+        <li><a href=#Amirkabir-campus-dataset:-Real-world-challenges-and-scenarios-of-Visual-Inertial-Odometry-(VIO)-for-visually-impaired-people>Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people</a></li>
       </ul>
     </li>
-    <li><a href=#image-matching>Image Matching</a></li>
+    <li><a href=#sfm>SFM</a></li>
       <ul>
-        <li><a href=#CoCoT:-Contrastive-Chain-of-Thought-Prompting-for-Large-Multimodal-Models-with-Multiple-Image-Inputs>CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs</a></li>
+        <li><a href=#A-Classification-of-Critical-Configurations-for-any-Number-of-Projective-Views>A Classification of Critical Configurations for any Number of Projective Views</a></li>
+      </ul>
+    </li>
+    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+      <ul>
+        <li><a href=#Flowmind2Digital:-The-First-Comprehensive-Flowmind-Recognition-and-Conversion-Approach>Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#Progress-and-Prospects-in-3D-Generative-AI:-A-Technical-Overview-including-3D-human>Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human</a></li>
-        <li><a href=#FED-NeRF:-Achieve-High-3D-Consistency-and-Temporal-Coherence-for-Face-Video-Editing-on-Dynamic-NeRF>FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF</a></li>
-        <li><a href=#Characterizing-Satellite-Geometry-via-Accelerated-3D-Gaussian-Splatting>Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting</a></li>
+        <li><a href=#A-Survey-on-3D-Gaussian-Splatting>A Survey on 3D Gaussian Splatting</a></li>
+        <li><a href=#NeRFmentation:-NeRF-based-Augmentation-for-Monocular-Depth-Estimation>NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation</a></li>
+        <li><a href=#RustNeRF:-Robust-Neural-Radiance-Field-with-Low-Quality-Images>RustNeRF: Robust Neural Radiance Field with Low-Quality Images</a></li>
+        <li><a href=#Hi-Map:-Hierarchical-Factorized-Radiance-Field-for-High-Fidelity-Monocular-Dense-Mapping>Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## Visual Localization  
+## SLAM  
 
-### [Benchmarking PathCLIP for Pathology Image Analysis](http://arxiv.org/abs/2401.02651)  
-Sunyi Zheng, Xiaonan Cui, Yuxuan Sun, Jingxiong Li, Honglin Li, Yunlong Zhang, Pingyi Chen, Xueping Jing, Zhaoxiang Ye, Lin Yang  
+### [Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people](http://arxiv.org/abs/2401.03604)  
+Ali Samadzadeh, Mohammad Hassan Mojab, Heydar Soudani, Seyed Hesamoddin Mireshghollah, Ahmad Nickabadi  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Accurate image classification and retrieval are of importance for clinical diagnosis and treatment decision-making. The recent contrastive language-image pretraining (CLIP) model has shown remarkable proficiency in understanding natural images. Drawing inspiration from CLIP, PathCLIP is specifically designed for pathology image analysis, utilizing over 200,000 image and text pairs in training. While the performance the PathCLIP is impressive, its robustness under a wide range of image corruptions remains unknown. Therefore, we conduct an extensive evaluation to analyze the performance of PathCLIP on various corrupted images from the datasets of Osteosarcoma and WSSS4LUAD. In our experiments, we introduce seven corruption types including brightness, contrast, Gaussian blur, resolution, saturation, hue, and markup at four severity levels. Through experiments, we find that PathCLIP is relatively robustness to image corruptions and surpasses OpenAI-CLIP and PLIP in zero-shot classification. Among the seven corruptions, blur and resolution can cause server performance degradation of the PathCLIP. This indicates that ensuring the quality of images is crucial before conducting a clinical test. Additionally, we assess the robustness of PathCLIP in the task of image-image retrieval, revealing that PathCLIP performs less effectively than PLIP on Osteosarcoma but performs better on WSSS4LUAD under diverse corruptions. Overall, PathCLIP presents impressive zero-shot classification and retrieval performance for pathology images, but appropriate care needs to be taken when using it. We hope this study provides a qualitative impression of PathCLIP and helps understand its differences from other CLIP models.  
+    Visual Inertial Odometry (VIO) algorithms estimate the accurate camera trajectory by using camera and Inertial Measurement Unit (IMU) sensors. The applications of VIO span a diverse range, including augmented reality and indoor navigation. VIO algorithms hold the potential to facilitate navigation for visually impaired individuals in both indoor and outdoor settings. Nevertheless, state-of-the-art VIO algorithms encounter substantial challenges in dynamic environments, particularly in densely populated corridors. Existing VIO datasets, e.g., ADVIO, typically fail to effectively exploit these challenges. In this paper, we introduce the Amirkabir campus dataset (AUT-VI) to address the mentioned problem and improve the navigation systems. AUT-VI is a novel and super-challenging dataset with 126 diverse sequences in 17 different locations. This dataset contains dynamic objects, challenging loop-closure/map-reuse, different lighting conditions, reflections, and sudden camera movements to cover all extreme navigation scenarios. Moreover, in support of ongoing development efforts, we have released the Android application for data capture to the public. This allows fellow researchers to easily capture their customized VIO dataset variations. In addition, we evaluate state-of-the-art Visual Inertial Odometry (VIO) and Visual Odometry (VO) methods on our dataset, emphasizing the essential need for this challenging dataset.  
   </ol>  
 </details>  
+**comments**: 7 pages, 4 figures  
   
   
 
 
 
-## Image Matching  
+## SFM  
 
-### [CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs](http://arxiv.org/abs/2401.02582)  
-Daoan Zhang, Junming Yang, Hanjia Lyu, Zijian Jin, Yuan Yao, Mingkai Chen, Jiebo Luo  
+### [A Classification of Critical Configurations for any Number of Projective Views](http://arxiv.org/abs/2401.03450)  
+Martin Bråtelund  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    When exploring the development of Artificial General Intelligence (AGI), a critical task for these models involves interpreting and processing information from multiple image inputs. However, Large Multimodal Models (LMMs) encounter two issues in such scenarios: (1) a lack of fine-grained perception, and (2) a tendency to blend information across multiple images. We first extensively investigate the capability of LMMs to perceive fine-grained visual details when dealing with multiple input images. The research focuses on two aspects: first, image-to-image matching (to evaluate whether LMMs can effectively reason and pair relevant images), and second, multi-image-to-text matching (to assess whether LMMs can accurately capture and summarize detailed image information). We conduct evaluations on a range of both open-source and closed-source large models, including GPT-4V, Gemini, OpenFlamingo, and MMICL. To enhance model performance, we further develop a Contrastive Chain-of-Thought (CoCoT) prompting approach based on multi-input multimodal models. This method requires LMMs to compare the similarities and differences among multiple image inputs, and then guide the models to answer detailed questions about multi-image inputs based on the identified similarities and differences. Our experimental results showcase CoCoT's proficiency in enhancing the multi-image comprehension capabilities of large multimodal models.  
+    Structure from motion is the process of recovering information about cameras and 3D scene from a set of images. Generally, in a noise-free setting, all information can be uniquely recovered if enough images and image points are provided. There are, however, certain cases where unique recovery is impossible, even in theory; these are called critical configurations. We use a recently developed algebraic approach to classify all critical configurations for any number of projective cameras. We show that they form well-known algebraic varieties, such as quadric surfaces and curves of degree at most 4. This paper also improves upon earlier results both by finding previously unknown critical configurations and by showing that some configurations previously believed to be critical are in fact not.  
+  </ol>  
+</details>  
+**comments**: 44 pages, 10 figures, submitted to International Journal of Computer
+  Vision. arXiv admin note: text overlap with arXiv:2112.05478,
+  arXiv:2112.05074  
+  
+  
+
+
+
+## Keypoint Detection  
+
+### [Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach](http://arxiv.org/abs/2401.03742)  
+Huanyu Liu, Jianfeng Cai, Tingjia Zhang, Hongsheng Li, Siyuan Wang, Guangming Zhu, Syed Afaq Ali Shah, Mohammed Bennamoun, Liang Zhang  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Flowcharts and mind maps, collectively known as flowmind, are vital in daily activities, with hand-drawn versions facilitating real-time collaboration. However, there's a growing need to digitize them for efficient processing. Automated conversion methods are essential to overcome manual conversion challenges. Existing sketch recognition methods face limitations in practical situations, being field-specific and lacking digital conversion steps. Our paper introduces the Flowmind2digital method and hdFlowmind dataset to address these challenges. Flowmind2digital, utilizing neural networks and keypoint detection, achieves a record 87.3% accuracy on our dataset, surpassing previous methods by 11.9%. The hdFlowmind dataset, comprising 1,776 annotated flowminds across 22 scenarios, outperforms existing datasets. Additionally, our experiments emphasize the importance of simple graphics, enhancing accuracy by 9.3%.  
   </ol>  
 </details>  
   
@@ -53,34 +78,42 @@ Daoan Zhang, Junming Yang, Hanjia Lyu, Zijian Jin, Yuan Yao, Mingkai Chen, Jiebo
 
 ## NeRF  
 
-### [Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human](http://arxiv.org/abs/2401.02620)  
-Song Bai, Jie Li  
+### [A Survey on 3D Gaussian Splatting](http://arxiv.org/abs/2401.03890)  
+Guikun Chen, Wenguan Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    While AI-generated text and 2D images continue to expand its territory, 3D generation has gradually emerged as a trend that cannot be ignored. Since the year 2023 an abundant amount of research papers has emerged in the domain of 3D generation. This growth encompasses not just the creation of 3D objects, but also the rapid development of 3D character and motion generation. Several key factors contribute to this progress. The enhanced fidelity in stable diffusion, coupled with control methods that ensure multi-view consistency, and realistic human models like SMPL-X, contribute synergistically to the production of 3D models with remarkable consistency and near-realistic appearances. The advancements in neural network-based 3D storing and rendering models, such as Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS), have accelerated the efficiency and realism of neural rendered models. Furthermore, the multimodality capabilities of large language models have enabled language inputs to transcend into human motion outputs. This paper aims to provide a comprehensive overview and summary of the relevant papers published mostly during the latter half year of 2023. It will begin by discussing the AI generated object models in 3D, followed by the generated 3D human models, and finally, the generated 3D human motions, culminating in a conclusive summary and a vision for the future.  
+    3D Gaussian splatting (3D GS) has recently emerged as a transformative technique in the explicit radiance field and computer graphics landscape. This innovative approach, characterized by the utilization of millions of 3D Gaussians, represents a significant departure from the neural radiance field (NeRF) methodologies, which predominantly use implicit, coordinate-based models to map spatial coordinates to pixel values. 3D GS, with its explicit scene representations and differentiable rendering algorithms, not only promises real-time rendering capabilities but also introduces unprecedented levels of control and editability. This positions 3D GS as a potential game-changer for the next generation of 3D reconstruction and representation. In the present paper, we provide the first systematic overview of the recent developments and critical contributions in the domain of 3D GS. We begin with a detailed exploration of the underlying principles and the driving forces behind the advent of 3D GS, setting the stage for understanding its significance. A focal point of our discussion is the practical applicability of 3D GS. By facilitating real-time performance, 3D GS opens up a plethora of applications, ranging from virtual reality to interactive media and beyond. This is complemented by a comparative analysis of leading 3D GS models, evaluated across various benchmark tasks to highlight their performance and practical utility. The survey concludes by identifying current challenges and suggesting potential avenues for future research in this domain. Through this survey, we aim to provide a valuable resource for both newcomers and seasoned researchers, fostering further exploration and advancement in applicable and explicit radiance field representation.  
+  </ol>  
+</details>  
+**comments**: Ongoing project  
+  
+### [NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation](http://arxiv.org/abs/2401.03771)  
+Casimir Feldmann, Niall Siegenheim, Nikolas Hars, Lovro Rabuzin, Mert Ertugrul, Luca Wolfart, Marc Pollefeys, Zuria Bauer, Martin R. Oswald  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    The capabilities of monocular depth estimation (MDE) models are limited by the availability of sufficient and diverse datasets. In the case of MDE models for autonomous driving, this issue is exacerbated by the linearity of the captured data trajectories. We propose a NeRF-based data augmentation pipeline to introduce synthetic data with more diverse viewing directions into training datasets and demonstrate the benefits of our approach to model performance and robustness. Our data augmentation pipeline, which we call "NeRFmentation", trains NeRFs on each scene in the dataset, filters out subpar NeRFs based on relevant metrics, and uses them to generate synthetic RGB-D images captured from new viewing directions. In this work, we apply our technique in conjunction with three state-of-the-art MDE architectures on the popular autonomous driving dataset KITTI, augmenting its training set of the Eigen split. We evaluate the resulting performance gain on the original test set, a separate popular driving set, and our own synthetic test set.  
   </ol>  
 </details>  
   
-### [FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF](http://arxiv.org/abs/2401.02616)  
-Hao Zhang, Yu-Wing Tai, Chi-Keung Tang  
+### [RustNeRF: Robust Neural Radiance Field with Low-Quality Images](http://arxiv.org/abs/2401.03257)  
+Mengfei Li, Ming Lu, Xiaofang Li, Shanghang Zhang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    The success of the GAN-NeRF structure has enabled face editing on NeRF to maintain 3D view consistency. However, achieving simultaneously multi-view consistency and temporal coherence while editing video sequences remains a formidable challenge. This paper proposes a novel face video editing architecture built upon the dynamic face GAN-NeRF structure, which effectively utilizes video sequences to restore the latent code and 3D face geometry. By editing the latent code, multi-view consistent editing on the face can be ensured, as validated by multiview stereo reconstruction on the resulting edited images in our dynamic NeRF. As the estimation of face geometries occurs on a frame-by-frame basis, this may introduce a jittering issue. We propose a stabilizer that maintains temporal coherence by preserving smooth changes of face expressions in consecutive frames. Quantitative and qualitative analyses reveal that our method, as the pioneering 4D face video editor, achieves state-of-the-art performance in comparison to existing 2D or 3D-based approaches independently addressing identity and motion. Codes will be released.  
+    Recent work on Neural Radiance Fields (NeRF) exploits multi-view 3D consistency, achieving impressive results in 3D scene modeling and high-fidelity novel-view synthesis. However, there are limitations. First, existing methods assume enough high-quality images are available for training the NeRF model, ignoring real-world image degradation. Second, previous methods struggle with ambiguity in the training set due to unmodeled inconsistencies among different views. In this work, we present RustNeRF for real-world high-quality NeRF. To improve NeRF's robustness under real-world inputs, we train a 3D-aware preprocessing network that incorporates real-world degradation modeling. We propose a novel implicit multi-view guidance to address information loss during image degradation and restoration. Extensive experiments demonstrate RustNeRF's advantages over existing approaches under real-world degradation. The code will be released.  
   </ol>  
 </details>  
-**comments**: Our code will be available at: https://github.com/ZHANG1023/FED-NeRF  
   
-### [Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting](http://arxiv.org/abs/2401.02588)  
-Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White  
+### [Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping](http://arxiv.org/abs/2401.03203)  
+Tongyan Hua, Haotian Bai, Zidong Cao, Ming Liu, Dacheng Tao, Lin Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    The accelerating deployment of spacecraft in orbit have generated interest in on-orbit servicing (OOS), inspection of spacecraft, and active debris removal (ADR). Such missions require precise rendezvous and proximity operations in the vicinity of non-cooperative, possible unknown, resident space objects. Safety concerns with manned missions and lag times with ground-based control necessitate complete autonomy. This requires robust characterization of the target's geometry. In this article, we present an approach for mapping geometries of satellites on orbit based on 3D Gaussian Splatting that can run on computing resources available on current spaceflight hardware. We demonstrate model training and 3D rendering performance on a hardware-in-the-loop satellite mock-up under several realistic lighting and motion conditions. Our model is shown to be capable of training on-board and rendering higher quality novel views of an unknown satellite nearly 2 orders of magnitude faster than previous NeRF-based algorithms. Such on-board capabilities are critical to enable downstream machine intelligence tasks necessary for autonomous guidance, navigation, and control tasks.  
+    In this paper, we introduce Hi-Map, a novel monocular dense mapping approach based on Neural Radiance Field (NeRF). Hi-Map is exceptional in its capacity to achieve efficient and high-fidelity mapping using only posed RGB inputs. Our method eliminates the need for external depth priors derived from e.g., a depth estimation model. Our key idea is to represent the scene as a hierarchical feature grid that encodes the radiance and then factorizes it into feature planes and vectors. As such, the scene representation becomes simpler and more generalizable for fast and smooth convergence on new observations. This allows for efficient computation while alleviating noise patterns by reducing the complexity of the scene representation. Buttressed by the hierarchical factorized representation, we leverage the Sign Distance Field (SDF) as a proxy of rendering for inferring the volume density, demonstrating high mapping fidelity. Moreover, we introduce a dual-path encoding strategy to strengthen the photometric cues and further boost the mapping quality, especially for the distant and textureless regions. Extensive experiments demonstrate our method's superiority in geometric and textural accuracy over the state-of-the-art NeRF-based monocular mapping methods.  
   </ol>  
 </details>  
-**comments**: 11 pages, 5 figures  
   
   
 
