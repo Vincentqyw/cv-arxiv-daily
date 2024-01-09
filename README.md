@@ -1,4 +1,4 @@
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -391,7 +391,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|null|
+|**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
 |**2024-01-01**|**Learn to integrate parts for whole through correlated neural variability**|Zhichao Zhu et.al.|[2401.00746](http://arxiv.org/abs/2401.00746)|**[link](https://github.com/brainsoupfactory/moment-neural-network)**|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018](http://arxiv.org/abs/2312.17018)|null|
