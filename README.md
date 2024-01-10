@@ -30,6 +30,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Multi-Neuron Representations of Hierarchical Concepts in Spiking Neural Networks**|Nancy A. Lynch et.al.|[2401.04628](http://arxiv.org/abs/2401.04628)|null|
+|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|**[link](https://gitlab.com/tud-hpsn/public)**|
+|**2024-01-09**|**Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks**|Yufei Guo et.al.|[2401.04486](http://arxiv.org/abs/2401.04486)|null|
+|**2024-01-07**|**Web Neural Network with Complete DiGraphs**|Frank Li et.al.|[2401.04134](http://arxiv.org/abs/2401.04134)|null|
 |**2024-01-08**|**Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks**|Qi Xu et.al.|[2401.03719](http://arxiv.org/abs/2401.03719)|null|
 |**2024-01-06**|**Cavity magnonics with domain walls in insulating ferromagnetic wires**|Mircea Trif et.al.|[2401.03164](http://arxiv.org/abs/2401.03164)|null|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020](http://arxiv.org/abs/2401.02020)|**[link](https://github.com/zk-zhou/spikformer)**|
@@ -263,6 +267,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|**[link](https://gitlab.com/tud-hpsn/public)**|
+|**2024-01-09**|**Analysis and design of rhythmic neuromorphic networks through dominance and bifurcations**|Omar Juarez-Alvarez et.al.|[2401.04324](http://arxiv.org/abs/2401.04324)|null|
 |**2024-01-06**|**Cavity magnonics with domain walls in insulating ferromagnetic wires**|Mircea Trif et.al.|[2401.03164](http://arxiv.org/abs/2401.03164)|null|
 |**2024-01-02**|**Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network**|Yongqi Ding et.al.|[2401.01912](http://arxiv.org/abs/2401.01912)|null|
 |**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071](http://arxiv.org/abs/2312.16071)|null|
