@@ -1,37 +1,47 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#sfm>SFM</a></li>
+    <li><a href=#slam>SLAM</a></li>
       <ul>
-        <li><a href=#Structure-from-Duplicates:-Neural-Inverse-Graphics-from-a-Pile-of-Objects>Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects</a></li>
+        <li><a href=#On-State-Estimation-in-Multi-Sensor-Fusion-Navigation:-Optimization-and-Filtering>On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering</a></li>
+        <li><a href=#Loss-it-right:-Euclidean-and-Riemannian-Metrics-in-Learning-based-Visual-Odometry>Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry</a></li>
       </ul>
     </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#Modality-Aware-Representation-Learning-for-Zero-shot-Sketch-based-Image-Retrieval>Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval</a></li>
+        <li><a href=#UAVD4L:-A-Large-Scale-Dataset-for-UAV-6-DoF-Localization>UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#InseRF:-Text-Driven-Generative-Object-Insertion-in-Neural-3D-Scenes>InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes</a></li>
-        <li><a href=#CTNeRF:-Cross-Time-Transformer-for-Dynamic-Neural-Radiance-Field-from-Monocular-Video>CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video</a></li>
+        <li><a href=#Fast-High-Dynamic-Range-Radiance-Fields-for-Dynamic-Scenes>Fast High Dynamic Range Radiance Fields for Dynamic Scenes</a></li>
+        <li><a href=#CoSSegGaussians:-Compact-and-Swift-Scene-Segmenting-3D-Gaussians>CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians</a></li>
+        <li><a href=#GO-NeRF:-Generating-Virtual-Objects-in-Neural-Radiance-Fields>GO-NeRF: Generating Virtual Objects in Neural Radiance Fields</a></li>
+        <li><a href=#Diffusion-Priors-for-Dynamic-View-Synthesis-from-Monocular-Videos>Diffusion Priors for Dynamic View Synthesis from Monocular Videos</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SFM  
+## SLAM  
 
-### [Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects](http://arxiv.org/abs/2401.05236)  
-[[code](https://github.com/tianhang-cheng/sfd)]  
-Tianhang Cheng, Wei-Chiu Ma, Kaiyu Guan, Antonio Torralba, Shenlong Wang  
+### [On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering](http://arxiv.org/abs/2401.05836)  
+Feng Zhu, Zhuo Xu, Xveqing Zhang, Yuantai Zhang, Weijie Chen, Xiaohong Zhang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Our world is full of identical objects (\emphe.g., cans of coke, cars of same model). These duplicates, when seen together, provide additional and strong cues for us to effectively reason about 3D. Inspired by this observation, we introduce Structure from Duplicates (SfD), a novel inverse graphics framework that reconstructs geometry, material, and illumination from a single image containing multiple identical objects. SfD begins by identifying multiple instances of an object within an image, and then jointly estimates the 6DoF pose for all instances.An inverse graphics pipeline is subsequently employed to jointly reason about the shape, material of the object, and the environment light, while adhering to the shared geometry and material constraint across instances. Our primary contributions involve utilizing object duplicates as a robust prior for single-image inverse graphics and proposing an in-plane rotation-robust Structure from Motion (SfM) formulation for joint 6-DoF object pose estimation. By leveraging multi-view cues from a single image, SfD generates more realistic and detailed 3D reconstructions, significantly outperforming existing single image reconstruction models and multi-view reconstruction approaches with a similar or greater number of observations.  
+    The essential of navigation, perception, and decision-making which are basic tasks for intelligent robots, is to estimate necessary system states. Among them, navigation is fundamental for other upper applications, providing precise position and orientation, by integrating measurements from multiple sensors. With observations of each sensor appropriately modelled, multi-sensor fusion tasks for navigation are reduced to the state estimation problem which can be solved by two approaches: optimization and filtering. Recent research has shown that optimization-based frameworks outperform filtering-based ones in terms of accuracy. However, both methods are based on maximum likelihood estimation (MLE) and should be theoretically equivalent with the same linearization points, observation model, measurements, and Gaussian noise assumption. In this paper, we deeply dig into the theories and existing strategies utilized in both optimization-based and filtering-based approaches. It is demonstrated that the two methods are equal theoretically, but this equivalence corrupts due to different strategies applied in real-time operation. By adjusting existing strategies of the filtering-based approaches, the Monte-Carlo simulation and vehicular ablation experiments based on visual odometry (VO) indicate that the strategy adjusted filtering strictly equals to optimization. Therefore, future research on sensor-fusion problems should concentrate on their own algorithms and strategies rather than state estimation approaches.  
   </ol>  
 </details>  
-**comments**: Code: https://github.com/Tianhang-Cheng/SfD  
+  
+### [Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry](http://arxiv.org/abs/2401.05396)  
+Olaya Álvarez-Tuñón, Yury Brodskiy, Erdal Kayacan  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    This paper overviews different pose representations and metric functions in visual odometry (VO) networks. The performance of VO networks heavily relies on how their architecture encodes the information. The choice of pose representation and loss function significantly impacts network convergence and generalization. We investigate these factors in the VO network DeepVO by implementing loss functions based on Euler, quaternion, and chordal distance and analyzing their influence on performance. The results of this study provide insights into how loss functions affect the designing of efficient and accurate VO networks for camera motion estimation. The experiments illustrate that a distance that complies with the mathematical requirements of a metric, such as the chordal distance, provides better generalization and faster convergence. The code for the experiments can be found at https://github.com/remaro-network/Loss_VO_right  
+  </ol>  
+</details>  
   
   
 
@@ -39,15 +49,14 @@ Tianhang Cheng, Wei-Chiu Ma, Kaiyu Guan, Antonio Torralba, Shenlong Wang
 
 ## Visual Localization  
 
-### [Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval](http://arxiv.org/abs/2401.04860)  
-Eunyi Lyou, Doyeon Lee, Jooeun Kim, Joonseok Lee  
+### [UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization](http://arxiv.org/abs/2401.05971)  
+Rouwan Wu, Xiaoya Cheng, Juelin Zhu, Xuxiang Liu, Maojun Zhang, Shen Yan  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Zero-shot learning offers an efficient solution for a machine learning model to treat unseen categories, avoiding exhaustive data collection. Zero-shot Sketch-based Image Retrieval (ZS-SBIR) simulates real-world scenarios where it is hard and costly to collect paired sketch-photo samples. We propose a novel framework that indirectly aligns sketches and photos by contrasting them through texts, removing the necessity of access to sketch-photo pairs. With an explicit modality encoding learned from data, our approach disentangles modality-agnostic semantics from modality-specific information, bridging the modality gap and enabling effective cross-modal content retrieval within a joint latent space. From comprehensive experiments, we verify the efficacy of the proposed model on ZS-SBIR, and it can be also applied to generalized and fine-grained settings.  
+    Despite significant progress in global localization of Unmanned Aerial Vehicles (UAVs) in GPS-denied environments, existing methods remain constrained by the availability of datasets. Current datasets often focus on small-scale scenes and lack viewpoint variability, accurate ground truth (GT) pose, and UAV build-in sensor data. To address these limitations, we introduce a large-scale 6-DoF UAV dataset for localization (UAVD4L) and develop a two-stage 6-DoF localization pipeline (UAVLoc), which consists of offline synthetic data generation and online visual localization. Additionally, based on the 6-DoF estimator, we design a hierarchical system for tracking ground target in 3D space. Experimental results on the new dataset demonstrate the effectiveness of the proposed approach. Code and dataset are available at https://github.com/RingoWRW/UAVD4L  
   </ol>  
 </details>  
-**comments**: Accepted at WACV 2024  
   
   
 
@@ -55,21 +64,41 @@ Eunyi Lyou, Doyeon Lee, Jooeun Kim, Joonseok Lee
 
 ## NeRF  
 
-### [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](http://arxiv.org/abs/2401.05335)  
-Mohamad Shahbazi, Liesbeth Claessens, Michael Niemeyer, Edo Collins, Alessio Tonioni, Luc Van Gool, Federico Tombari  
+### [Fast High Dynamic Range Radiance Fields for Dynamic Scenes](http://arxiv.org/abs/2401.06052)  
+Guanjun Wu, Taoran Yi, Jiemin Fang, Wenyu Liu, Xinggang Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    We introduce InseRF, a novel method for generative object insertion in the NeRF reconstructions of 3D scenes. Based on a user-provided textual description and a 2D bounding box in a reference viewpoint, InseRF generates new objects in 3D scenes. Recently, methods for 3D scene editing have been profoundly transformed, owing to the use of strong priors of text-to-image diffusion models in 3D generative modeling. Existing methods are mostly effective in editing 3D scenes via style and appearance changes or removing existing objects. Generating new objects, however, remains a challenge for such methods, which we address in this study. Specifically, we propose grounding the 3D object insertion to a 2D object insertion in a reference view of the scene. The 2D edit is then lifted to 3D using a single-view object reconstruction method. The reconstructed object is then inserted into the scene, guided by the priors of monocular depth estimation methods. We evaluate our method on various 3D scenes and provide an in-depth analysis of the proposed components. Our experiments with generative insertion of objects in several 3D scenes indicate the effectiveness of our method compared to the existing methods. InseRF is capable of controllable and 3D-consistent object insertion without requiring explicit 3D information as input. Please visit our project page at https://mohamad-shahbazi.github.io/inserf.  
+    Neural Radiances Fields (NeRF) and their extensions have shown great success in representing 3D scenes and synthesizing novel-view images. However, most NeRF methods take in low-dynamic-range (LDR) images, which may lose details, especially with nonuniform illumination. Some previous NeRF methods attempt to introduce high-dynamic-range (HDR) techniques but mainly target static scenes. To extend HDR NeRF methods to wider applications, we propose a dynamic HDR NeRF framework, named HDR-HexPlane, which can learn 3D scenes from dynamic 2D images captured with various exposures. A learnable exposure mapping function is constructed to obtain adaptive exposure values for each image. Based on the monotonically increasing prior, a camera response function is designed for stable learning. With the proposed model, high-quality novel-view images at any time point can be rendered with any desired exposure. We further construct a dataset containing multiple dynamic scenes captured with diverse exposures for evaluation. All the datasets and code are available at \url{https://guanjunwu.github.io/HDR-HexPlane/}.  
+  </ol>  
+</details>  
+**comments**: 3DV 2024. Project page: https://guanjunwu.github.io/HDR-HexPlane  
+  
+### [CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians](http://arxiv.org/abs/2401.05925)  
+Bin Dou, Tianyu Zhang, Yongjia Ma, Zhaohui Wang, Zejian Yuan  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We propose Compact and Swift Segmenting 3D Gaussians(CoSSegGaussians), a method for compact 3D-consistent scene segmentation at fast rendering speed with only RGB images input. Previous NeRF-based 3D segmentation methods have relied on implicit or voxel neural scene representation and ray-marching volume rendering which are time consuming. Recent 3D Gaussian Splatting significantly improves the rendering speed, however, existing Gaussians-based segmentation methods(eg: Gaussian Grouping) fail to provide compact segmentation masks especially in zero-shot segmentation, which is mainly caused by the lack of robustness and compactness for straightforwardly assigning learnable parameters to each Gaussian when encountering inconsistent 2D machine-generated labels. Our method aims to achieve compact and reliable zero-shot scene segmentation swiftly by mapping fused spatial and semantically meaningful features for each Gaussian point with a shallow decoding network. Specifically, our method firstly optimizes Gaussian points' position, convariance and color attributes under the supervision of RGB images. After Gaussian Locating, we distill multi-scale DINO features extracted from images through unprojection to each Gaussian, which is then incorporated with spatial features from the fast point features processing network, i.e. RandLA-Net. Then the shallow decoding MLP is applied to the multi-scale fused features to obtain compact segmentation. Experimental results show that our model can perform high-quality zero-shot scene segmentation, as our model outperforms other segmentation methods on both semantic and panoptic segmentation task, meanwhile consumes approximately only 10% segmenting time compared to NeRF-based segmentation. Code and more results will be available at https://David-Dou.github.io/CoSSegGaussians  
   </ol>  
 </details>  
   
-### [CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video](http://arxiv.org/abs/2401.04861)  
-Xingyu Miao, Yang Bai, Haoran Duan, Yawen Huang, Fan Wan, Yang Long, Yefeng Zheng  
+### [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](http://arxiv.org/abs/2401.05750)  
+Peng Dai, Feitong Tan, Xin Yu, Yinda Zhang, Xiaojuan Qi  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    The goal of our work is to generate high-quality novel views from monocular videos of complex and dynamic scenes. Prior methods, such as DynamicNeRF, have shown impressive performance by leveraging time-varying dynamic radiation fields. However, these methods have limitations when it comes to accurately modeling the motion of complex objects, which can lead to inaccurate and blurry renderings of details. To address this limitation, we propose a novel approach that builds upon a recent generalization NeRF, which aggregates nearby views onto new viewpoints. However, such methods are typically only effective for static scenes. To overcome this challenge, we introduce a module that operates in both the time and frequency domains to aggregate the features of object motion. This allows us to learn the relationship between frames and generate higher-quality images. Our experiments demonstrate significant improvements over state-of-the-art methods on dynamic scene datasets. Specifically, our approach outperforms existing methods in terms of both the accuracy and visual quality of the synthesized views.  
+    Despite advances in 3D generation, the direct creation of 3D objects within an existing 3D scene represented as NeRF remains underexplored. This process requires not only high-quality 3D object generation but also seamless composition of the generated 3D content into the existing NeRF. To this end, we propose a new method, GO-NeRF, capable of utilizing scene context for high-quality and harmonious 3D object generation within an existing NeRF. Our method employs a compositional rendering formulation that allows the generated 3D objects to be seamlessly composited into the scene utilizing learned 3D-aware opacity maps without introducing unintended scene modification. Moreover, we also develop tailored optimization objectives and training strategies to enhance the model's ability to exploit scene context and mitigate artifacts, such as floaters, originating from 3D object generation within a scene. Extensive experiments on both feed-forward and $360^o$ scenes show the superior performance of our proposed GO-NeRF in generating objects harmoniously composited with surrounding scenes and synthesizing high-quality novel view images. Project page at {\url{https://daipengwa.github.io/GO-NeRF/}.  
+  </ol>  
+</details>  
+**comments**: 12 pages  
+  
+### [Diffusion Priors for Dynamic View Synthesis from Monocular Videos](http://arxiv.org/abs/2401.05583)  
+Chaoyang Wang, Peiye Zhuang, Aliaksandr Siarohin, Junli Cao, Guocheng Qian, Hsin-Ying Lee, Sergey Tulyakov  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Dynamic novel view synthesis aims to capture the temporal evolution of visual content within videos. Existing methods struggle to distinguishing between motion and structure, particularly in scenarios where camera poses are either unknown or constrained compared to object motion. Furthermore, with information solely from reference images, it is extremely challenging to hallucinate unseen regions that are occluded or partially observed in the given videos. To address these issues, we first finetune a pretrained RGB-D diffusion model on the video frames using a customization technique. Subsequently, we distill the knowledge from the finetuned model to a 4D representations encompassing both dynamic and static Neural Radiance Fields (NeRF) components. The proposed pipeline achieves geometric consistency while preserving the scene identity. We perform thorough experiments to evaluate the efficacy of the proposed method qualitatively and quantitatively. Our results demonstrate the robustness and utility of our approach in challenging cases, further advancing dynamic novel view synthesis.  
   </ol>  
 </details>  
   
