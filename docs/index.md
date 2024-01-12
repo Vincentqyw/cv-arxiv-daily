@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.11
+## Updated on 2024.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
