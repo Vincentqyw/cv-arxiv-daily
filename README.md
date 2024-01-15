@@ -30,6 +30,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
+|**2024-01-12**|**A Brain-inspired Computational Model for Human-like Concept Learning**|Yuwei Wang et.al.|[2401.06471](http://arxiv.org/abs/2401.06471)|null|
 |**2024-01-09**|**Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning**|Ding Chen et.al.|[2401.05444](http://arxiv.org/abs/2401.05444)|null|
 |**2024-01-10**|**Self-generated spin-orbit torque driven by anomalous Hall current**|Eric Arturo Montoya et.al.|[2401.05006](http://arxiv.org/abs/2401.05006)|null|
 |**2024-01-09**|**Multi-Neuron Representations of Hierarchical Concepts in Spiking Neural Networks**|Nancy A. Lynch et.al.|[2401.04628](http://arxiv.org/abs/2401.04628)|null|
@@ -269,6 +271,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**NeuSpin: Design of a Reliable Edge Neuromorphic System Based on Spintronics for Green AI**|Soyed Tuhin Ahmed et.al.|[2401.06195](http://arxiv.org/abs/2401.06195)|null|
 |**2024-01-09**|**Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning**|Ding Chen et.al.|[2401.05444](http://arxiv.org/abs/2401.05444)|null|
 |**2024-01-10**|**Self-generated spin-orbit torque driven by anomalous Hall current**|Eric Arturo Montoya et.al.|[2401.05006](http://arxiv.org/abs/2401.05006)|null|
 |**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491](http://arxiv.org/abs/2401.04491)|null|
