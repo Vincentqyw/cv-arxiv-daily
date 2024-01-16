@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.15
+## Updated on 2024.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
