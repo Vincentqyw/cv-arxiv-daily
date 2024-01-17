@@ -30,6 +30,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-15**|**TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**|Donghyun Lee et.al.|[2401.08001](http://arxiv.org/abs/2401.08001)|null|
+|**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911](http://arxiv.org/abs/2401.06911)|null|
+|**2024-01-10**|**Grounded learning for compositional vector semantics**|Martha Lewis et.al.|[2401.06808](http://arxiv.org/abs/2401.06808)|null|
 |**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
 |**2024-01-12**|**A Brain-inspired Computational Model for Human-like Concept Learning**|Yuwei Wang et.al.|[2401.06471](http://arxiv.org/abs/2401.06471)|null|
 |**2024-01-09**|**Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning**|Ding Chen et.al.|[2401.05444](http://arxiv.org/abs/2401.05444)|null|
@@ -271,6 +274,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-14**|**Polariton lattices as binarized neuromorphic networks**|Evgeny Sedov et.al.|[2401.07232](http://arxiv.org/abs/2401.07232)|null|
+|**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911](http://arxiv.org/abs/2401.06911)|null|
 |**2024-01-11**|**NeuSpin: Design of a Reliable Edge Neuromorphic System Based on Spintronics for Green AI**|Soyed Tuhin Ahmed et.al.|[2401.06195](http://arxiv.org/abs/2401.06195)|null|
 |**2024-01-09**|**Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning**|Ding Chen et.al.|[2401.05444](http://arxiv.org/abs/2401.05444)|null|
 |**2024-01-10**|**Self-generated spin-orbit torque driven by anomalous Hall current**|Eric Arturo Montoya et.al.|[2401.05006](http://arxiv.org/abs/2401.05006)|null|
@@ -407,6 +412,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-15**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|null|
 |**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
 |**2024-01-01**|**Learn to integrate parts for whole through correlated neural variability**|Zhichao Zhu et.al.|[2401.00746](http://arxiv.org/abs/2401.00746)|**[link](https://github.com/brainsoupfactory/moment-neural-network)**|
