@@ -1,25 +1,123 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
+    <li><a href=#sfm>SFM</a></li>
+      <ul>
+        <li><a href=#Cross-Modal-Semi-Dense-6-DoF-Tracking-of-an-Event-Camera-in-Challenging-Conditions>Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions</a></li>
+      </ul>
+    </li>
+    <li><a href=#visual-localization>Visual Localization</a></li>
+      <ul>
+        <li><a href=#Siamese-Content-based-Search-Engine-for-a-More-Transparent-Skin-and-Breast-Cancer-Diagnosis-through-Histological-Imaging>Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging</a></li>
+        <li><a href=#Multi-Technique-Sequential-Information-Consistency-For-Dynamic-Visual-Place-Recognition-In-Changing-Environments>Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments</a></li>
+        <li><a href=#Exploring-Masked-Autoencoders-for-Sensor-Agnostic-Image-Retrieval-in-Remote-Sensing>Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing</a></li>
+        <li><a href=#HiHPQ:-Hierarchical-Hyperbolic-Product-Quantization-for-Unsupervised-Image-Retrieval>HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval</a></li>
+      </ul>
+    </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#TriNeRFLet:-A-Wavelet-Based-Multiscale-Triplane-NeRF-Representation>TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation</a></li>
+        <li><a href=#ProvNeRF:-Modeling-per-Point-Provenance-in-NeRFs-as-a-Stochastic-Process>ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process</a></li>
+        <li><a href=#Forging-Vision-Foundation-Models-for-Autonomous-Driving:-Challenges,-Methodologies,-and-Opportunities>Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities</a></li>
+        <li><a href=#6-DoF-Grasp-Pose-Evaluation-and-Optimization-via-Transfer-Learning-from-NeRFs>6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## NeRF  
+## SFM  
 
-### [TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation](http://arxiv.org/abs/2401.06191)  
-Rajaei Khatib, Raja Giryes  
+### [Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions](http://arxiv.org/abs/2401.08043)  
+Yi-Fan Zuo, Wanting Xu, Xia Wang, Yifu Wang, Laurent Kneip  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    In recent years, the neural radiance field (NeRF) model has gained popularity due to its ability to recover complex 3D scenes. Following its success, many approaches proposed different NeRF representations in order to further improve both runtime and performance. One such example is Triplane, in which NeRF is represented using three 2D feature planes. This enables easily using existing 2D neural networks in this framework, e.g., to generate the three planes. Despite its advantage, the triplane representation lagged behind in its 3D recovery quality compared to NeRF solutions. In this work, we propose TriNeRFLet, a 2D wavelet-based multiscale triplane representation for NeRF, which closes the 3D recovery performance gap and is competitive with current state-of-the-art methods. Building upon the triplane framework, we also propose a novel super-resolution (SR) technique that combines a diffusion model with TriNeRFLet for improving NeRF resolution.  
+    Vision-based localization is a cost-effective and thus attractive solution for many intelligent mobile platforms. However, its accuracy and especially robustness still suffer from low illumination conditions, illumination changes, and aggressive motion. Event-based cameras are bio-inspired visual sensors that perform well in HDR conditions and have high temporal resolution, and thus provide an interesting alternative in such challenging scenarios. While purely event-based solutions currently do not yet produce satisfying mapping results, the present work demonstrates the feasibility of purely event-based tracking if an alternative sensor is permitted for mapping. The method relies on geometric 3D-2D registration of semi-dense maps and events, and achieves highly reliable and accurate cross-modal tracking results. Practically relevant scenarios are given by depth camera-supported tracking or map-based localization with a semi-dense map prior created by a regular image-based visual SLAM or structure-from-motion system. Conventional edge-based 3D-2D alignment is extended by a novel polarity-aware registration that makes use of signed time-surface maps (STSM) obtained from event streams. We furthermore introduce a novel culling strategy for occluded points. Both modifications increase the speed of the tracker and its robustness against occlusions or large view-point variations. The approach is validated on many real datasets covering the above-mentioned challenging conditions, and compared against similar solutions realised with regular cameras.  
   </ol>  
 </details>  
-**comments**: webpage link: https://rajaeekh.github.io/trinerflet-web  
+**comments**: accepted by IEEE Transactions on Robotics (T-RO). arXiv admin note:
+  text overlap with arXiv:2202.02556  
+  
+  
+
+
+
+## Visual Localization  
+
+### [Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging](http://arxiv.org/abs/2401.08272)  
+Zahra Tabatabaei, Adrián Colomer, JAvier Oliver Moll, Valery Naranjo  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Computer Aid Diagnosis (CAD) has developed digital pathology with Deep Learning (DL)-based tools to assist pathologists in decision-making. Content-Based Histopathological Image Retrieval (CBHIR) is a novel tool to seek highly correlated patches in terms of similarity in histopathological features. In this work, we proposed two CBHIR approaches on breast (Breast-twins) and skin cancer (Skin-twins) data sets for robust and accurate patch-level retrieval, integrating a custom-built Siamese network as a feature extractor. The proposed Siamese network is able to generalize for unseen images by focusing on the similar histopathological features of the input pairs. The proposed CBHIR approaches are evaluated on the Breast (public) and Skin (private) data sets with top K accuracy. Finding the optimum amount of K is challenging, but also, as much as K increases, the dissimilarity between the query and the returned images increases which might mislead the pathologists. To the best of the author's belief, this paper is tackling this issue for the first time on histopathological images by evaluating the top first retrieved images. The Breast-twins model achieves 70% of the F1score at the top first, which exceeds the other state-of-the-art methods at a higher amount of K such as 5 and 400. Skin-twins overpasses the recently proposed Convolutional Auto Encoder (CAE) by 67%, increasing the precision. Besides, the Skin-twins model tackles the challenges of Spitzoid Tumors of Uncertain Malignant Potential (STUMP) to assist pathologists with retrieving top K images and their corresponding labels. So, this approach can offer a more explainable CAD tool to pathologists in terms of transparency, trustworthiness, or reliability among other characteristics.  
+  </ol>  
+</details>  
+  
+### [Multi-Technique Sequential Information Consistency For Dynamic Visual Place Recognition In Changing Environments](http://arxiv.org/abs/2401.08263)  
+Bruno Arcanjo, Bruno Ferrarini, Michael Milford, Klaus D. McDonald-Maier, Shoaib Ehsan  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Visual place recognition (VPR) is an essential component of robot navigation and localization systems that allows them to identify a place using only image data. VPR is challenging due to the significant changes in a place's appearance driven by different daily illumination, seasonal weather variations and diverse viewpoints. Currently, no single VPR technique excels in every environmental condition, each exhibiting unique benefits and shortcomings, and therefore combining multiple techniques can achieve more reliable VPR performance. Present multi-method approaches either rely on online ground-truth information, which is often not available, or on brute-force technique combination, potentially lowering performance with high variance technique sets. Addressing these shortcomings, we propose a VPR system dubbed Multi-Sequential Information Consistency (MuSIC) which leverages sequential information to select the most cohesive technique on an online per-frame basis. For each technique in a set, MuSIC computes their respective sequential consistencies by analysing the frame-to-frame continuity of their top match candidates, which are then directly compared to select the optimal technique for the current query image. The use of sequential information to select between VPR methods results in an overall VPR performance increase across different benchmark datasets, while avoiding the need for extra ground-truth of the runtime environment.  
+  </ol>  
+</details>  
+**comments**: arXiv admin note: text overlap with arXiv:2303.14247  
+  
+### [Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing](http://arxiv.org/abs/2401.07782)  
+[[code](https://github.com/jakhac/csmae)]  
+Jakob Hackstein, Gencer Sumbul, Kai Norman Clasen, Begüm Demir  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Self-supervised learning through masked autoencoders (MAEs) has recently attracted great attention for remote sensing (RS) image representation learning, and thus embodies a significant potential for content-based image retrieval (CBIR) from ever-growing RS image archives. However, the existing studies on MAEs in RS assume that the considered RS images are acquired by a single image sensor, and thus are only suitable for uni-modal CBIR problems. The effectiveness of MAEs for cross-sensor CBIR, which aims to search semantically similar images across different image modalities, has not been explored yet. In this paper, we take the first step to explore the effectiveness of MAEs for sensor-agnostic CBIR in RS. To this end, we present a systematic overview on the possible adaptations of the vanilla MAE to exploit masked image modeling on multi-sensor RS image archives (denoted as cross-sensor masked autoencoders [CSMAEs]). Based on different adjustments applied to the vanilla MAE, we introduce different CSMAE models. We also provide an extensive experimental analysis of these CSMAE models. We finally derive a guideline to exploit masked image modeling for uni-modal and cross-modal CBIR problems in RS. The code of this work is publicly available at https://github.com/jakhac/CSMAE.  
+  </ol>  
+</details>  
+**comments**: This work has been submitted to the IEEE for possible publication.
+  Our code is available at https://github.com/jakhac/CSMAE  
+  
+### [HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval](http://arxiv.org/abs/2401.07212)  
+Zexuan Qiu, Jiahong Liu, Yankai Chen, Irwin King  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Existing unsupervised deep product quantization methods primarily aim for the increased similarity between different views of the identical image, whereas the delicate multi-level semantic similarities preserved between images are overlooked. Moreover, these methods predominantly focus on the Euclidean space for computational convenience, compromising their ability to map the multi-level semantic relationships between images effectively. To mitigate these shortcomings, we propose a novel unsupervised product quantization method dubbed \textbf{Hi}erarchical \textbf{H}yperbolic \textbf{P}roduct \textbf{Q}uantization (HiHPQ), which learns quantized representations by incorporating hierarchical semantic similarity within hyperbolic geometry. Specifically, we propose a hyperbolic product quantizer, where the hyperbolic codebook attention mechanism and the quantized contrastive learning on the hyperbolic product manifold are introduced to expedite quantization. Furthermore, we propose a hierarchical semantics learning module, designed to enhance the distinction between similar and non-matching images for a query by utilizing the extracted hierarchical semantics as an additional training supervision. Experiments on benchmarks show that our proposed method outperforms state-of-the-art baselines.  
+  </ol>  
+</details>  
+**comments**: Accepted by AAAI 2024  
+  
+  
+
+
+
+## NeRF  
+
+### [ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process](http://arxiv.org/abs/2401.08140)  
+Kiyohiro Nakayama, Mikaela Angelina Uy, Yang You, Ke Li, Leonidas Guibas  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Neural radiance fields (NeRFs) have gained popularity across various applications. However, they face challenges in the sparse view setting, lacking sufficient constraints from volume rendering. Reconstructing and understanding a 3D scene from sparse and unconstrained cameras is a long-standing problem in classical computer vision with diverse applications. While recent works have explored NeRFs in sparse, unconstrained view scenarios, their focus has been primarily on enhancing reconstruction and novel view synthesis. Our approach takes a broader perspective by posing the question: "from where has each point been seen?" -- which gates how well we can understand and reconstruct it. In other words, we aim to determine the origin or provenance of each 3D point and its associated information under sparse, unconstrained views. We introduce ProvNeRF, a model that enriches a traditional NeRF representation by incorporating per-point provenance, modeling likely source locations for each point. We achieve this by extending implicit maximum likelihood estimation (IMLE) for stochastic processes. Notably, our method is compatible with any pre-trained NeRF model and the associated training camera poses. We demonstrate that modeling per-point provenance offers several advantages, including uncertainty estimation, criteria-based view selection, and improved novel view synthesis, compared to state-of-the-art methods.  
+  </ol>  
+</details>  
+  
+### [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](http://arxiv.org/abs/2401.08045)  
+[[code](https://github.com/zhanghm1995/forge_vfm4ad)]  
+Xu Yan, Haiming Zhang, Yingjie Cai, Jingming Guo, Weichao Qiu, Bin Gao, Kaiqiang Zhou, Yue Zhao, Huan Jin, Jiantao Gao, Zhen Li, Lihui Jiang, Wei Zhang, Hongbo Zhang, Dengxin Dai, Bingbing Liu  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    The rise of large foundation models, trained on extensive datasets, is revolutionizing the field of AI. Models such as SAM, DALL-E2, and GPT-4 showcase their adaptability by extracting intricate patterns and performing effectively across diverse tasks, thereby serving as potent building blocks for a wide range of AI applications. Autonomous driving, a vibrant front in AI applications, remains challenged by the lack of dedicated vision foundation models (VFMs). The scarcity of comprehensive training data, the need for multi-sensor integration, and the diverse task-specific architectures pose significant obstacles to the development of VFMs in this field. This paper delves into the critical challenge of forging VFMs tailored specifically for autonomous driving, while also outlining future directions. Through a systematic analysis of over 250 papers, we dissect essential techniques for VFM development, including data preparation, pre-training strategies, and downstream task adaptation. Moreover, we explore key advancements such as NeRF, diffusion models, 3D Gaussian Splatting, and world models, presenting a comprehensive roadmap for future research. To empower researchers, we have built and maintained https://github.com/zhanghm1995/Forge_VFM4AD, an open-access repository constantly updated with the latest advancements in forging VFMs for autonomous driving.  
+  </ol>  
+</details>  
+**comments**: Github Repo: https://github.com/zhanghm1995/Forge_VFM4AD  
+  
+### [6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs](http://arxiv.org/abs/2401.07935)  
+Gergely Sóti, Xi Huang, Christian Wurll, Björn Hein  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We address the problem of robotic grasping of known and unknown objects using implicit behavior cloning. We train a grasp evaluation model from a small number of demonstrations that outputs higher values for grasp candidates that are more likely to succeed in grasping. This evaluation model serves as an objective function, that we maximize to identify successful grasps. Key to our approach is the utilization of learned implicit representations of visual and geometric features derived from a pre-trained NeRF. Though trained exclusively in a simulated environment with simplified objects and 4-DoF top-down grasps, our evaluation model and optimization procedure demonstrate generalization to 6-DoF grasps and novel objects both in simulation and in real-world settings, without the need for additional data. Supplementary material is available at: https://gergely-soti.github.io/grasp  
+  </ol>  
+</details>  
   
   
 
