@@ -1,65 +1,37 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#slam>SLAM</a></li>
-      <ul>
-        <li><a href=#Event-Based-Visual-Odometry-on-Non-Holonomic-Ground-Vehicles>Event-Based Visual Odometry on Non-Holonomic Ground Vehicles</a></li>
-      </ul>
-    </li>
     <li><a href=#sfm>SFM</a></li>
       <ul>
-        <li><a href=#3D-Scene-Geometry-Estimation-from-360$^\circ$-Imagery:-A-Survey>3D Scene Geometry Estimation from 360$^\circ$ Imagery: A Survey</a></li>
-        <li><a href=#ICON:-Incremental-CONfidence-for-Joint-Pose-and-Radiance-Field-Optimization>ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization</a></li>
+        <li><a href=#3DMASC:-Accessible,-explainable-3D-point-clouds-classification.-Application-to-Bi-spectral-Topo-bathymetric-lidar-data>3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data</a></li>
       </ul>
     </li>
-    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+    <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#To-deform-or-not:-treatment-aware-longitudinal-registration-for-breast-DCE-MRI-during-neoadjuvant-chemotherapy-via-unsupervised-keypoints-detection>To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection</a></li>
+        <li><a href=#Cross-Modality-Perturbation-Synergy-Attack-for-Person-Re-identification>Cross-Modality Perturbation Synergy Attack for Person Re-identification</a></li>
+      </ul>
+    </li>
+    <li><a href=#image-matching>Image Matching</a></li>
+      <ul>
+        <li><a href=#Question-Answer-Cross-Language-Image-Matching-for-Weakly-Supervised-Semantic-Segmentation>Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#ICON:-Incremental-CONfidence-for-Joint-Pose-and-Radiance-Field-Optimization>ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization</a></li>
+        <li><a href=#IPR-NeRF:-Ownership-Verification-meets-Neural-Radiance-Field>IPR-NeRF: Ownership Verification meets Neural Radiance Field</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SLAM  
-
-### [Event-Based Visual Odometry on Non-Holonomic Ground Vehicles](http://arxiv.org/abs/2401.09331)  
-[[code](https://github.com/gowanting/nhevo)]  
-Wanting Xu, Si'ao Zhang, Li Cui, Xin Peng, Laurent Kneip  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Despite the promise of superior performance under challenging conditions, event-based motion estimation remains a hard problem owing to the difficulty of extracting and tracking stable features from event streams. In order to robustify the estimation, it is generally believed that fusion with other sensors is a requirement. In this work, we demonstrate reliable, purely event-based visual odometry on planar ground vehicles by employing the constrained non-holonomic motion model of Ackermann steering platforms. We extend single feature n-linearities for regular frame-based cameras to the case of quasi time-continuous event-tracks, and achieve a polynomial form via variable degree Taylor expansions. Robust averaging over multiple event tracks is simply achieved via histogram voting. As demonstrated on both simulated and real data, our algorithm achieves accurate and robust estimates of the vehicle's instantaneous rotational velocity, and thus results that are comparable to the delta rotations obtained by frame-based sensors under normal conditions. We furthermore significantly outperform the more traditional alternatives in challenging illumination scenarios. The code is available at \url{https://github.com/gowanting/NHEVO}.  
-  </ol>  
-</details>  
-**comments**: Accepted by 3DV 2024  
-  
-  
-
-
-
 ## SFM  
 
-### [3D Scene Geometry Estimation from 360 $^\circ$ Imagery: A Survey](http://arxiv.org/abs/2401.09252)  
-Thiago Lopes Trugillo da Silveira, Paulo Gamarra Lessa Pinto, Jeffri Erwin Murrugarra Llerena, Claudio Rosito Jung  
+### [3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data](http://arxiv.org/abs/2401.09481)  
+Mathilde Letard, Dimitri Lague, Arthur Le Guennec, Sébastien Lefèvre, Baptiste Feldmann, Paul Leroy, Daniel Girardeau-Montaut, Thomas Corpetti  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    This paper provides a comprehensive survey on pioneer and state-of-the-art 3D scene geometry estimation methodologies based on single, two, or multiple images captured under the omnidirectional optics. We first revisit the basic concepts of the spherical camera model, and review the most common acquisition technologies and representation formats suitable for omnidirectional (also called 360$^\circ$, spherical or panoramic) images and videos. We then survey monocular layout and depth inference approaches, highlighting the recent advances in learning-based solutions suited for spherical data. The classical stereo matching is then revised on the spherical domain, where methodologies for detecting and describing sparse and dense features become crucial. The stereo matching concepts are then extrapolated for multiple view camera setups, categorizing them among light fields, multi-view stereo, and structure from motion (or visual simultaneous localization and mapping). We also compile and discuss commonly adopted datasets and figures of merit indicated for each purpose and list recent results for completeness. We conclude this paper by pointing out current and future trends.  
-  </ol>  
-</details>  
-**comments**: Published in ACM Computing Surveys  
-  
-### [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](http://arxiv.org/abs/2401.08937)  
-Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, Kevin J Liang, Matt Feiszli  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiance Fields (NeRF) exhibit remarkable performance for Novel View Synthesis (NVS) given a set of 2D images. However, NeRF training requires accurate camera pose for each input view, typically obtained by Structure-from-Motion (SfM) pipelines. Recent works have attempted to relax this constraint, but they still often rely on decent initial poses which they can refine. Here we aim at removing the requirement for pose initialization. We present Incremental CONfidence (ICON), an optimization procedure for training NeRFs from 2D video frames. ICON only assumes smooth camera motion to estimate initial guess for poses. Further, ICON introduces ``confidence": an adaptive measure of model quality used to dynamically reweight gradients. ICON relies on high-confidence poses to learn NeRF, and high-confidence 3D structure (as encoded by NeRF) to learn poses. We show that ICON, without prior pose initialization, achieves superior performance in both CO3D and HO3D versus methods which use SfM pose.  
+    Three-dimensional data have become increasingly present in earth observation over the last decades. However, many 3D surveys are still underexploited due to the lack of accessible and explainable automatic classification methods, for example, new topo-bathymetric lidar data. In this work, we introduce explainable machine learning for 3D data classification using Multiple Attributes, Scales, and Clouds under 3DMASC, a new workflow. This workflow introduces multi-cloud classification through dual-cloud features, encrypting local spectral and geometrical ratios and differences. 3DMASC uses classical multi-scale descriptors adapted to all types of 3D point clouds and new ones based on their spatial variations. In this paper, we present the performances of 3DMASC for multi-class classification of topo-bathymetric lidar data in coastal and fluvial environments. We show how multivariate and embedded feature selection allows the building of optimized predictor sets of reduced complexity, and we identify features particularly relevant for coastal and riverine scene descriptions. Our results show the importance of dual-cloud features, lidar return-based attributes averaged over specific scales, and of statistics of dimensionality-based and spectral features. Additionally, they indicate that small to medium spherical neighbourhood diameters (<7 m) are sufficient to build effective classifiers, namely when combined with distance-to-ground or distance-to-water-surface features. Without using optional RGB information, and with a maximum of 37 descriptors, we obtain classification accuracies between 91 % for complex multi-class tasks and 98 % for lower-level processing using models trained on less than 2000 samples per class. Comparisons with classical point cloud classification methods show that 3DMASC features have a significantly improved descriptive power. Our contributions are made available through a plugin in the CloudCompare software, allowing non-specialist users to create classifiers for any type of 3D data characterized by 1 or 2 point clouds (airborne or terrestrial lidar, structure from motion), and two labelled topo-bathymetric lidar datasets, available on https://opentopography.org/.  
   </ol>  
 </details>  
   
@@ -67,17 +39,33 @@ Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, Kevin J Liang, Matt Feiszli
 
 
 
-## Keypoint Detection  
+## Visual Localization  
 
-### [To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection](http://arxiv.org/abs/2401.09336)  
-[[code](https://github.com/fiy2w/treatment-aware-longitudinal-registration)]  
-Luyi Han, Tao Tan, Tianyu Zhang, Yuan Gao, Xin Wang, Valentina Longo, Sofía Ventura-Díaz, Anna D'Angelo, Jonas Teuwen, Ritse Mann  
+### [Cross-Modality Perturbation Synergy Attack for Person Re-identification](http://arxiv.org/abs/2401.10090)  
+Yunpeng Gong, others  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Clinicians compare breast DCE-MRI after neoadjuvant chemotherapy (NAC) with pre-treatment scans to evaluate the response to NAC. Clinical evidence supports that accurate longitudinal deformable registration without deforming treated tumor regions is key to quantifying tumor changes. We propose a conditional pyramid registration network based on unsupervised keypoint detection and selective volume-preserving to quantify changes over time. In this approach, we extract the structural and the abnormal keypoints from DCE-MRI, apply the structural keypoints for the registration algorithm to restrict large deformation, and employ volume-preserving loss based on abnormal keypoints to keep the volume of the tumor unchanged after registration. We use a clinical dataset with 1630 MRI scans from 314 patients treated with NAC. The results demonstrate that our method registers with better performance and better volume preservation of the tumors. Furthermore, a local-global-combining biomarker based on the proposed method achieves high accuracy in pathological complete response (pCR) prediction, indicating that predictive information exists outside tumor regions. The biomarkers could potentially be used to avoid unnecessary surgeries for certain patients. It may be valuable for clinicians and/or computer systems to conduct follow-up tumor segmentation and response prediction on images registered by our method. Our code is available on \url{https://github.com/fiy2W/Treatment-aware-Longitudinal-Registration}.  
+    In recent years, there has been significant research focusing on addressing security concerns in single-modal person re-identification (ReID) systems that are based on RGB images. However, the safety of cross-modality scenarios, which are more commonly encountered in practical applications involving images captured by infrared cameras, has not received adequate attention. The main challenge in cross-modality ReID lies in effectively dealing with visual differences between different modalities. For instance, infrared images are typically grayscale, unlike visible images that contain color information. Existing attack methods have primarily focused on the characteristics of the visible image modality, overlooking the features of other modalities and the variations in data distribution among different modalities. This oversight can potentially undermine the effectiveness of these methods in image retrieval across diverse modalities. This study represents the first exploration into the security of cross-modality ReID models and proposes a universal perturbation attack specifically designed for cross-modality ReID. This attack optimizes perturbations by leveraging gradients from diverse modality data, thereby disrupting the discriminator and reinforcing the differences between modalities. We conducted experiments on two widely used cross-modality datasets, namely RegDB and SYSU, which not only demonstrated the effectiveness of our method but also provided insights for future enhancements in the robustness of cross-modality ReID systems.  
   </ol>  
 </details>  
+  
+  
+
+
+
+## Image Matching  
+
+### [Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation](http://arxiv.org/abs/2401.09883)  
+[[code](https://github.com/cvi-szu/qa-clims)]  
+Songhe Deng, Wei Zhuo, Jinheng Xie, Linlin Shen  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Class Activation Map (CAM) has emerged as a popular tool for weakly supervised semantic segmentation (WSSS), allowing the localization of object regions in an image using only image-level labels. However, existing CAM methods suffer from under-activation of target object regions and false-activation of background regions due to the fact that a lack of detailed supervision can hinder the model's ability to understand the image as a whole. In this paper, we propose a novel Question-Answer Cross-Language-Image Matching framework for WSSS (QA-CLIMS), leveraging the vision-language foundation model to maximize the text-based understanding of images and guide the generation of activation maps. First, a series of carefully designed questions are posed to the VQA (Visual Question Answering) model with Question-Answer Prompt Engineering (QAPE) to generate a corpus of both foreground target objects and backgrounds that are adaptive to query images. We then employ contrastive learning in a Region Image Text Contrastive (RITC) network to compare the obtained foreground and background regions with the generated corpus. Our approach exploits the rich textual information from the open vocabulary as additional supervision, enabling the model to generate high-quality CAMs with a more complete object region and reduce false-activation of background regions. We conduct extensive analysis to validate the proposed method and show that our approach performs state-of-the-art on both PASCAL VOC 2012 and MS COCO datasets. Code is available at: https://github.com/CVI-SZU/QA-CLIMS  
+  </ol>  
+</details>  
+**comments**: ACM MM 2023  
   
   
 
@@ -85,14 +73,15 @@ Luyi Han, Tao Tan, Tianyu Zhang, Yuan Gao, Xin Wang, Valentina Longo, Sofía Ven
 
 ## NeRF  
 
-### [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](http://arxiv.org/abs/2401.08937)  
-Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, Kevin J Liang, Matt Feiszli  
+### [IPR-NeRF: Ownership Verification meets Neural Radiance Field](http://arxiv.org/abs/2401.09495)  
+Win Kent Ong, Kam Woh Ng, Chee Seng Chan, Yi Zhe Song, Tao Xiang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Neural Radiance Fields (NeRF) exhibit remarkable performance for Novel View Synthesis (NVS) given a set of 2D images. However, NeRF training requires accurate camera pose for each input view, typically obtained by Structure-from-Motion (SfM) pipelines. Recent works have attempted to relax this constraint, but they still often rely on decent initial poses which they can refine. Here we aim at removing the requirement for pose initialization. We present Incremental CONfidence (ICON), an optimization procedure for training NeRFs from 2D video frames. ICON only assumes smooth camera motion to estimate initial guess for poses. Further, ICON introduces ``confidence": an adaptive measure of model quality used to dynamically reweight gradients. ICON relies on high-confidence poses to learn NeRF, and high-confidence 3D structure (as encoded by NeRF) to learn poses. We show that ICON, without prior pose initialization, achieves superior performance in both CO3D and HO3D versus methods which use SfM pose.  
+    Neural Radiance Field (NeRF) models have gained significant attention in the computer vision community in the recent past with state-of-the-art visual quality and produced impressive demonstrations. Since then, technopreneurs have sought to leverage NeRF models into a profitable business. Therefore, NeRF models make it worth the risk of plagiarizers illegally copying, re-distributing, or misusing those models. This paper proposes a comprehensive intellectual property (IP) protection framework for the NeRF model in both black-box and white-box settings, namely IPR-NeRF. In the black-box setting, a diffusion-based solution is introduced to embed and extract the watermark via a two-stage optimization process. In the white-box setting, a designated digital signature is embedded into the weights of the NeRF model by adopting the sign loss objective. Our extensive experiments demonstrate that not only does our approach maintain the fidelity (\ie, the rendering quality) of IPR-NeRF models, but it is also robust against both ambiguity and removal attacks compared to prior arts.  
   </ol>  
 </details>  
+**comments**: 21 pages  
   
   
 
