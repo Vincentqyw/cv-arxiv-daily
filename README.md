@@ -274,6 +274,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835](http://arxiv.org/abs/2401.09835)|null|
 |**2024-01-14**|**Polariton lattices as binarized neuromorphic networks**|Evgeny Sedov et.al.|[2401.07232](http://arxiv.org/abs/2401.07232)|null|
 |**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911](http://arxiv.org/abs/2401.06911)|null|
 |**2024-01-11**|**NeuSpin: Design of a Reliable Edge Neuromorphic System Based on Spintronics for Green AI**|Soyed Tuhin Ahmed et.al.|[2401.06195](http://arxiv.org/abs/2401.06195)|null|
@@ -412,9 +413,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
+|**2024-01-18**|**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**|Zhensu Sun et.al.|[2401.09964](http://arxiv.org/abs/2401.09964)|**[link](https://github.com/v587su/sec)**|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2024-01-16**|**Efficient Neural Representation of Volumetric Data using Coordinate-Based Networks**|Sudarshan Devkota et.al.|[2401.08840](http://arxiv.org/abs/2401.08840)|null|
-|**2024-01-15**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|null|
+|**2024-01-18**|**Improved Implicity Neural Representation with Fourier Bases Reparameterized Training**|Kexuan Shi et.al.|[2401.07402](http://arxiv.org/abs/2401.07402)|null|
 |**2024-01-04**|**Cool-Chic: Perceptually Tuned Low Complexity Overfitted Image Coder**|Théo Ladune et.al.|[2401.02156](http://arxiv.org/abs/2401.02156)|**[link](https://github.com/orange-opensource/cool-chic)**|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
 |**2024-01-01**|**Learn to integrate parts for whole through correlated neural variability**|Zhichao Zhu et.al.|[2401.00746](http://arxiv.org/abs/2401.00746)|**[link](https://github.com/brainsoupfactory/moment-neural-network)**|
