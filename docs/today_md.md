@@ -1,37 +1,53 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
+    <li><a href=#slam>SLAM</a></li>
+      <ul>
+        <li><a href=#Motion-Consistency-Loss-for-Monocular-Visual-Odometry-with-Attention-Based-Deep-Learning>Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning</a></li>
+      </ul>
+    </li>
     <li><a href=#sfm>SFM</a></li>
       <ul>
-        <li><a href=#3DMASC:-Accessible,-explainable-3D-point-clouds-classification.-Application-to-Bi-spectral-Topo-bathymetric-lidar-data>3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data</a></li>
+        <li><a href=#SCENES:-Subpixel-Correspondence-Estimation-With-Epipolar-Supervision>SCENES: Subpixel Correspondence Estimation With Epipolar Supervision</a></li>
       </ul>
     </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#Cross-Modality-Perturbation-Synergy-Attack-for-Person-Re-identification>Cross-Modality Perturbation Synergy Attack for Person Re-identification</a></li>
+        <li><a href=#CBVS:-A-Large-Scale-Chinese-Image-Text-Benchmark-for-Real-World-Short-Video-Search-Scenarios>CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios</a></li>
+        <li><a href=#PhotoScout:-Synthesis-Powered-Multi-Modal-Image-Search>PhotoScout: Synthesis-Powered Multi-Modal Image Search</a></li>
       </ul>
     </li>
     <li><a href=#image-matching>Image Matching</a></li>
       <ul>
-        <li><a href=#Question-Answer-Cross-Language-Image-Matching-for-Weakly-Supervised-Semantic-Segmentation>Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation</a></li>
-      </ul>
-    </li>
-    <li><a href=#nerf>NeRF</a></li>
-      <ul>
-        <li><a href=#IPR-NeRF:-Ownership-Verification-meets-Neural-Radiance-Field>IPR-NeRF: Ownership Verification meets Neural Radiance Field</a></li>
+        <li><a href=#SCENES:-Subpixel-Correspondence-Estimation-With-Epipolar-Supervision>SCENES: Subpixel Correspondence Estimation With Epipolar Supervision</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SFM  
+## SLAM  
 
-### [3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data](http://arxiv.org/abs/2401.09481)  
-Mathilde Letard, Dimitri Lague, Arthur Le Guennec, Sébastien Lefèvre, Baptiste Feldmann, Paul Leroy, Daniel Girardeau-Montaut, Thomas Corpetti  
+### [Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning](http://arxiv.org/abs/2401.10857)  
+André O. Françani, Marcos R. O. A. Maximo  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Three-dimensional data have become increasingly present in earth observation over the last decades. However, many 3D surveys are still underexploited due to the lack of accessible and explainable automatic classification methods, for example, new topo-bathymetric lidar data. In this work, we introduce explainable machine learning for 3D data classification using Multiple Attributes, Scales, and Clouds under 3DMASC, a new workflow. This workflow introduces multi-cloud classification through dual-cloud features, encrypting local spectral and geometrical ratios and differences. 3DMASC uses classical multi-scale descriptors adapted to all types of 3D point clouds and new ones based on their spatial variations. In this paper, we present the performances of 3DMASC for multi-class classification of topo-bathymetric lidar data in coastal and fluvial environments. We show how multivariate and embedded feature selection allows the building of optimized predictor sets of reduced complexity, and we identify features particularly relevant for coastal and riverine scene descriptions. Our results show the importance of dual-cloud features, lidar return-based attributes averaged over specific scales, and of statistics of dimensionality-based and spectral features. Additionally, they indicate that small to medium spherical neighbourhood diameters (<7 m) are sufficient to build effective classifiers, namely when combined with distance-to-ground or distance-to-water-surface features. Without using optional RGB information, and with a maximum of 37 descriptors, we obtain classification accuracies between 91 % for complex multi-class tasks and 98 % for lower-level processing using models trained on less than 2000 samples per class. Comparisons with classical point cloud classification methods show that 3DMASC features have a significantly improved descriptive power. Our contributions are made available through a plugin in the CloudCompare software, allowing non-specialist users to create classifiers for any type of 3D data characterized by 1 or 2 point clouds (airborne or terrestrial lidar, structure from motion), and two labelled topo-bathymetric lidar datasets, available on https://opentopography.org/.  
+    Deep learning algorithms have driven expressive progress in many complex tasks. The loss function is a core component of deep learning techniques, guiding the learning process of neural networks. This paper contributes by introducing a consistency loss for visual odometry with deep learning-based approaches. The motion consistency loss explores repeated motions that appear in consecutive overlapped video clips. Experimental results show that our approach increased the performance of a model on the KITTI odometry benchmark.  
+  </ol>  
+</details>  
+  
+  
+
+
+
+## SFM  
+
+### [SCENES: Subpixel Correspondence Estimation With Epipolar Supervision](http://arxiv.org/abs/2401.10886)  
+Dominik A. Kloepfer, João F. Henriques, Dylan Campbell  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Extracting point correspondences from two or more views of a scene is a fundamental computer vision problem with particular importance for relative camera pose estimation and structure-from-motion. Existing local feature matching approaches, trained with correspondence supervision on large-scale datasets, obtain highly-accurate matches on the test sets. However, they do not generalise well to new datasets with different characteristics to those they were trained on, unlike classic feature extractors. Instead, they require finetuning, which assumes that ground-truth correspondences or ground-truth camera poses and 3D structure are available. We relax this assumption by removing the requirement of 3D structure, e.g., depth maps or point clouds, and only require camera pose information, which can be obtained from odometry. We do so by replacing correspondence losses with epipolar losses, which encourage putative matches to lie on the associated epipolar line. While weaker than correspondence supervision, we observe that this cue is sufficient for finetuning existing models on new data. We then further relax the assumption of known camera poses by using pose estimates in a novel bootstrapping approach. We evaluate on highly challenging datasets, including an indoor drone dataset and an outdoor smartphone camera dataset, and obtain state-of-the-art results without strong supervision.  
   </ol>  
 </details>  
   
@@ -41,12 +57,21 @@ Mathilde Letard, Dimitri Lague, Arthur Le Guennec, Sébastien Lefèvre, Baptiste
 
 ## Visual Localization  
 
-### [Cross-Modality Perturbation Synergy Attack for Person Re-identification](http://arxiv.org/abs/2401.10090)  
-Yunpeng Gong, others  
+### [CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios](http://arxiv.org/abs/2401.10475)  
+Xiangshuo Qiao, Xianxin Li, Xiaozhe Qu, Jie Zhang, Yang Liu, Yu Luo, Cihang Jin, Jin Ma  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    In recent years, there has been significant research focusing on addressing security concerns in single-modal person re-identification (ReID) systems that are based on RGB images. However, the safety of cross-modality scenarios, which are more commonly encountered in practical applications involving images captured by infrared cameras, has not received adequate attention. The main challenge in cross-modality ReID lies in effectively dealing with visual differences between different modalities. For instance, infrared images are typically grayscale, unlike visible images that contain color information. Existing attack methods have primarily focused on the characteristics of the visible image modality, overlooking the features of other modalities and the variations in data distribution among different modalities. This oversight can potentially undermine the effectiveness of these methods in image retrieval across diverse modalities. This study represents the first exploration into the security of cross-modality ReID models and proposes a universal perturbation attack specifically designed for cross-modality ReID. This attack optimizes perturbations by leveraging gradients from diverse modality data, thereby disrupting the discriminator and reinforcing the differences between modalities. We conducted experiments on two widely used cross-modality datasets, namely RegDB and SYSU, which not only demonstrated the effectiveness of our method but also provided insights for future enhancements in the robustness of cross-modality ReID systems.  
+    Vision-Language Models pre-trained on large-scale image-text datasets have shown superior performance in downstream tasks such as image retrieval. Most of the images for pre-training are presented in the form of open domain common-sense visual elements. Differently, video covers in short video search scenarios are presented as user-originated contents that provide important visual summaries of videos. In addition, a portion of the video covers come with manually designed cover texts that provide semantic complements. In order to fill in the gaps in short video cover data, we establish the first large-scale cover-text benchmark for Chinese short video search scenarios. Specifically, we release two large-scale datasets CBVS-5M/10M to provide short video covers, and the manual fine-labeling dataset CBVS-20K to provide real user queries, which serves as an image-text benchmark test in the Chinese short video search field. To integrate the semantics of cover text in the case of modality missing, we propose UniCLIP where cover texts play a guiding role during training, however are not relied upon by inference. Extensive evaluation on CBVS-20K demonstrates the excellent performance of our proposal. UniCLIP has been deployed to Tencent's online video search systems with hundreds of millions of visits and achieved significant gains. The complete dataset, code and checkpoints will be available upon release.  
+  </ol>  
+</details>  
+  
+### [PhotoScout: Synthesis-Powered Multi-Modal Image Search](http://arxiv.org/abs/2401.10464)  
+Celeste Barnaby, Qiaochu Chen, Chenglong Wang, Isil Dillig  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Due to the availability of increasingly large amounts of visual data, there is a growing need for tools that can help users find relevant images. While existing tools can perform image retrieval based on similarity or metadata, they fall short in scenarios that necessitate semantic reasoning about the content of the image. This paper explores a new multi-modal image search approach that allows users to conveniently specify and perform semantic image search tasks. With our tool, PhotoScout, the user interactively provides natural language descriptions, positive and negative examples, and object tags to specify their search tasks. Under the hood, PhotoScout is powered by a program synthesis engine that generates visual queries in a domain-specific language and executes the synthesized program to retrieve the desired images. In a study with 25 participants, we observed that PhotoScout allows users to perform image retrieval tasks more accurately and with less manual effort.  
   </ol>  
 </details>  
   
@@ -56,32 +81,14 @@ Yunpeng Gong, others
 
 ## Image Matching  
 
-### [Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation](http://arxiv.org/abs/2401.09883)  
-[[code](https://github.com/cvi-szu/qa-clims)]  
-Songhe Deng, Wei Zhuo, Jinheng Xie, Linlin Shen  
+### [SCENES: Subpixel Correspondence Estimation With Epipolar Supervision](http://arxiv.org/abs/2401.10886)  
+Dominik A. Kloepfer, João F. Henriques, Dylan Campbell  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Class Activation Map (CAM) has emerged as a popular tool for weakly supervised semantic segmentation (WSSS), allowing the localization of object regions in an image using only image-level labels. However, existing CAM methods suffer from under-activation of target object regions and false-activation of background regions due to the fact that a lack of detailed supervision can hinder the model's ability to understand the image as a whole. In this paper, we propose a novel Question-Answer Cross-Language-Image Matching framework for WSSS (QA-CLIMS), leveraging the vision-language foundation model to maximize the text-based understanding of images and guide the generation of activation maps. First, a series of carefully designed questions are posed to the VQA (Visual Question Answering) model with Question-Answer Prompt Engineering (QAPE) to generate a corpus of both foreground target objects and backgrounds that are adaptive to query images. We then employ contrastive learning in a Region Image Text Contrastive (RITC) network to compare the obtained foreground and background regions with the generated corpus. Our approach exploits the rich textual information from the open vocabulary as additional supervision, enabling the model to generate high-quality CAMs with a more complete object region and reduce false-activation of background regions. We conduct extensive analysis to validate the proposed method and show that our approach performs state-of-the-art on both PASCAL VOC 2012 and MS COCO datasets. Code is available at: https://github.com/CVI-SZU/QA-CLIMS  
+    Extracting point correspondences from two or more views of a scene is a fundamental computer vision problem with particular importance for relative camera pose estimation and structure-from-motion. Existing local feature matching approaches, trained with correspondence supervision on large-scale datasets, obtain highly-accurate matches on the test sets. However, they do not generalise well to new datasets with different characteristics to those they were trained on, unlike classic feature extractors. Instead, they require finetuning, which assumes that ground-truth correspondences or ground-truth camera poses and 3D structure are available. We relax this assumption by removing the requirement of 3D structure, e.g., depth maps or point clouds, and only require camera pose information, which can be obtained from odometry. We do so by replacing correspondence losses with epipolar losses, which encourage putative matches to lie on the associated epipolar line. While weaker than correspondence supervision, we observe that this cue is sufficient for finetuning existing models on new data. We then further relax the assumption of known camera poses by using pose estimates in a novel bootstrapping approach. We evaluate on highly challenging datasets, including an indoor drone dataset and an outdoor smartphone camera dataset, and obtain state-of-the-art results without strong supervision.  
   </ol>  
 </details>  
-**comments**: ACM MM 2023  
-  
-  
-
-
-
-## NeRF  
-
-### [IPR-NeRF: Ownership Verification meets Neural Radiance Field](http://arxiv.org/abs/2401.09495)  
-Win Kent Ong, Kam Woh Ng, Chee Seng Chan, Yi Zhe Song, Tao Xiang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiance Field (NeRF) models have gained significant attention in the computer vision community in the recent past with state-of-the-art visual quality and produced impressive demonstrations. Since then, technopreneurs have sought to leverage NeRF models into a profitable business. Therefore, NeRF models make it worth the risk of plagiarizers illegally copying, re-distributing, or misusing those models. This paper proposes a comprehensive intellectual property (IP) protection framework for the NeRF model in both black-box and white-box settings, namely IPR-NeRF. In the black-box setting, a diffusion-based solution is introduced to embed and extract the watermark via a two-stage optimization process. In the white-box setting, a designated digital signature is embedded into the weights of the NeRF model by adopting the sign loss objective. Our extensive experiments demonstrate that not only does our approach maintain the fidelity (\ie, the rendering quality) of IPR-NeRF models, but it is also robust against both ambiguity and removal attacks compared to prior arts.  
-  </ol>  
-</details>  
-**comments**: 21 pages  
   
   
 
