@@ -34,6 +34,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793](http://arxiv.org/abs/2401.10793)|null|
+|**2024-01-19**|**Design Methodology for Silicon Organic Hybrid Modulators: From Physics to System-level Modeling**|Maryam Moridsadat et.al.|[2401.10701](http://arxiv.org/abs/2401.10701)|null|
 |**2024-01-15**|**TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**|Donghyun Lee et.al.|[2401.08001](http://arxiv.org/abs/2401.08001)|null|
 |**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911](http://arxiv.org/abs/2401.06911)|null|
 |**2024-01-10**|**Grounded learning for compositional vector semantics**|Martha Lewis et.al.|[2401.06808](http://arxiv.org/abs/2401.06808)|null|
@@ -278,6 +280,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Design Methodology for Silicon Organic Hybrid Modulators: From Physics to System-level Modeling**|Maryam Moridsadat et.al.|[2401.10701](http://arxiv.org/abs/2401.10701)|null|
 |**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835](http://arxiv.org/abs/2401.09835)|null|
 |**2024-01-14**|**Polariton lattices as binarized neuromorphic networks**|Evgeny Sedov et.al.|[2401.07232](http://arxiv.org/abs/2401.07232)|null|
 |**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911](http://arxiv.org/abs/2401.06911)|null|
