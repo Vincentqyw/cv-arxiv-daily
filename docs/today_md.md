@@ -1,94 +1,67 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#slam>SLAM</a></li>
-      <ul>
-        <li><a href=#Motion-Consistency-Loss-for-Monocular-Visual-Odometry-with-Attention-Based-Deep-Learning>Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning</a></li>
-      </ul>
-    </li>
     <li><a href=#sfm>SFM</a></li>
       <ul>
-        <li><a href=#SCENES:-Subpixel-Correspondence-Estimation-With-Epipolar-Supervision>SCENES: Subpixel Correspondence Estimation With Epipolar Supervision</a></li>
+        <li><a href=#HG3-NeRF:-Hierarchical-Geometric,-Semantic,-and-Photometric-Guided-Neural-Radiance-Fields-for-Sparse-View-Inputs>HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs</a></li>
       </ul>
     </li>
-    <li><a href=#visual-localization>Visual Localization</a></li>
+    <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#CBVS:-A-Large-Scale-Chinese-Image-Text-Benchmark-for-Real-World-Short-Video-Search-Scenarios>CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios</a></li>
-        <li><a href=#PhotoScout:-Synthesis-Powered-Multi-Modal-Image-Search>PhotoScout: Synthesis-Powered Multi-Modal Image Search</a></li>
-      </ul>
-    </li>
-    <li><a href=#image-matching>Image Matching</a></li>
-      <ul>
-        <li><a href=#SCENES:-Subpixel-Correspondence-Estimation-With-Epipolar-Supervision>SCENES: Subpixel Correspondence Estimation With Epipolar Supervision</a></li>
+        <li><a href=#Single-View-3D-Human-Digitalization-with-Large-Reconstruction-Models>Single-View 3D Human Digitalization with Large Reconstruction Models</a></li>
+        <li><a href=#Scaling-Face-Interaction-Graph-Networks-to-Real-World-Scenes>Scaling Face Interaction Graph Networks to Real World Scenes</a></li>
+        <li><a href=#HG3-NeRF:-Hierarchical-Geometric,-Semantic,-and-Photometric-Guided-Neural-Radiance-Fields-for-Sparse-View-Inputs>HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SLAM  
-
-### [Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning](http://arxiv.org/abs/2401.10857)  
-André O. Françani, Marcos R. O. A. Maximo  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Deep learning algorithms have driven expressive progress in many complex tasks. The loss function is a core component of deep learning techniques, guiding the learning process of neural networks. This paper contributes by introducing a consistency loss for visual odometry with deep learning-based approaches. The motion consistency loss explores repeated motions that appear in consecutive overlapped video clips. Experimental results show that our approach increased the performance of a model on the KITTI odometry benchmark.  
-  </ol>  
-</details>  
-  
-  
-
-
-
 ## SFM  
 
-### [SCENES: Subpixel Correspondence Estimation With Epipolar Supervision](http://arxiv.org/abs/2401.10886)  
-Dominik A. Kloepfer, João F. Henriques, Dylan Campbell  
+### [HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs](http://arxiv.org/abs/2401.11711)  
+Zelin Gao, Weichen Dai, Yu Zhang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Extracting point correspondences from two or more views of a scene is a fundamental computer vision problem with particular importance for relative camera pose estimation and structure-from-motion. Existing local feature matching approaches, trained with correspondence supervision on large-scale datasets, obtain highly-accurate matches on the test sets. However, they do not generalise well to new datasets with different characteristics to those they were trained on, unlike classic feature extractors. Instead, they require finetuning, which assumes that ground-truth correspondences or ground-truth camera poses and 3D structure are available. We relax this assumption by removing the requirement of 3D structure, e.g., depth maps or point clouds, and only require camera pose information, which can be obtained from odometry. We do so by replacing correspondence losses with epipolar losses, which encourage putative matches to lie on the associated epipolar line. While weaker than correspondence supervision, we observe that this cue is sufficient for finetuning existing models on new data. We then further relax the assumption of known camera poses by using pose estimates in a novel bootstrapping approach. We evaluate on highly challenging datasets, including an indoor drone dataset and an outdoor smartphone camera dataset, and obtain state-of-the-art results without strong supervision.  
+    Neural Radiance Fields (NeRF) have garnered considerable attention as a paradigm for novel view synthesis by learning scene representations from discrete observations. Nevertheless, NeRF exhibit pronounced performance degradation when confronted with sparse view inputs, consequently curtailing its further applicability. In this work, we introduce Hierarchical Geometric, Semantic, and Photometric Guided NeRF (HG3-NeRF), a novel methodology that can address the aforementioned limitation and enhance consistency of geometry, semantic content, and appearance across different views. We propose Hierarchical Geometric Guidance (HGG) to incorporate the attachment of Structure from Motion (SfM), namely sparse depth prior, into the scene representations. Different from direct depth supervision, HGG samples volume points from local-to-global geometric regions, mitigating the misalignment caused by inherent bias in the depth prior. Furthermore, we draw inspiration from notable variations in semantic consistency observed across images of different resolutions and propose Hierarchical Semantic Guidance (HSG) to learn the coarse-to-fine semantic content, which corresponds to the coarse-to-fine scene representations. Experimental results demonstrate that HG3-NeRF can outperform other state-of-the-art methods on different standard benchmarks and achieve high-fidelity synthesis results for sparse view inputs.  
   </ol>  
 </details>  
+**comments**: 13 pages, 6 figures  
   
   
 
 
 
-## Visual Localization  
+## NeRF  
 
-### [CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios](http://arxiv.org/abs/2401.10475)  
-Xiangshuo Qiao, Xianxin Li, Xiaozhe Qu, Jie Zhang, Yang Liu, Yu Luo, Cihang Jin, Jin Ma  
+### [Single-View 3D Human Digitalization with Large Reconstruction Models](http://arxiv.org/abs/2401.12175)  
+Zhenzhen Weng, Jingyuan Liu, Hao Tan, Zhan Xu, Yang Zhou, Serena Yeung-Levy, Jimei Yang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Vision-Language Models pre-trained on large-scale image-text datasets have shown superior performance in downstream tasks such as image retrieval. Most of the images for pre-training are presented in the form of open domain common-sense visual elements. Differently, video covers in short video search scenarios are presented as user-originated contents that provide important visual summaries of videos. In addition, a portion of the video covers come with manually designed cover texts that provide semantic complements. In order to fill in the gaps in short video cover data, we establish the first large-scale cover-text benchmark for Chinese short video search scenarios. Specifically, we release two large-scale datasets CBVS-5M/10M to provide short video covers, and the manual fine-labeling dataset CBVS-20K to provide real user queries, which serves as an image-text benchmark test in the Chinese short video search field. To integrate the semantics of cover text in the case of modality missing, we propose UniCLIP where cover texts play a guiding role during training, however are not relied upon by inference. Extensive evaluation on CBVS-20K demonstrates the excellent performance of our proposal. UniCLIP has been deployed to Tencent's online video search systems with hundreds of millions of visits and achieved significant gains. The complete dataset, code and checkpoints will be available upon release.  
+    In this paper, we introduce Human-LRM, a single-stage feed-forward Large Reconstruction Model designed to predict human Neural Radiance Fields (NeRF) from a single image. Our approach demonstrates remarkable adaptability in training using extensive datasets containing 3D scans and multi-view capture. Furthermore, to enhance the model's applicability for in-the-wild scenarios especially with occlusions, we propose a novel strategy that distills multi-view reconstruction into single-view via a conditional triplane diffusion model. This generative extension addresses the inherent variations in human body shapes when observed from a single view, and makes it possible to reconstruct the full body human from an occluded image. Through extensive experiments, we show that Human-LRM surpasses previous methods by a significant margin on several benchmarks.  
   </ol>  
 </details>  
   
-### [PhotoScout: Synthesis-Powered Multi-Modal Image Search](http://arxiv.org/abs/2401.10464)  
-Celeste Barnaby, Qiaochu Chen, Chenglong Wang, Isil Dillig  
+### [Scaling Face Interaction Graph Networks to Real World Scenes](http://arxiv.org/abs/2401.11985)  
+Tatiana Lopez-Guevara, Yulia Rubanova, William F. Whitney, Tobias Pfaff, Kimberly Stachenfeld, Kelsey R. Allen  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Due to the availability of increasingly large amounts of visual data, there is a growing need for tools that can help users find relevant images. While existing tools can perform image retrieval based on similarity or metadata, they fall short in scenarios that necessitate semantic reasoning about the content of the image. This paper explores a new multi-modal image search approach that allows users to conveniently specify and perform semantic image search tasks. With our tool, PhotoScout, the user interactively provides natural language descriptions, positive and negative examples, and object tags to specify their search tasks. Under the hood, PhotoScout is powered by a program synthesis engine that generates visual queries in a domain-specific language and executes the synthesized program to retrieve the desired images. In a study with 25 participants, we observed that PhotoScout allows users to perform image retrieval tasks more accurately and with less manual effort.  
+    Accurately simulating real world object dynamics is essential for various applications such as robotics, engineering, graphics, and design. To better capture complex real dynamics such as contact and friction, learned simulators based on graph networks have recently shown great promise. However, applying these learned simulators to real scenes comes with two major challenges: first, scaling learned simulators to handle the complexity of real world scenes which can involve hundreds of objects each with complicated 3D shapes, and second, handling inputs from perception rather than 3D state information. Here we introduce a method which substantially reduces the memory required to run graph-based learned simulators. Based on this memory-efficient simulation model, we then present a perceptual interface in the form of editable NeRFs which can convert real-world scenes into a structured representation that can be processed by graph network simulator. We show that our method uses substantially less memory than previous graph-based simulators while retaining their accuracy, and that the simulators learned in synthetic environments can be applied to real world scenes captured from multiple camera angles. This paves the way for expanding the application of learned simulators to settings where only perceptual information is available at inference time.  
   </ol>  
 </details>  
+**comments**: 16 pages, 12 figures  
   
-  
-
-
-
-## Image Matching  
-
-### [SCENES: Subpixel Correspondence Estimation With Epipolar Supervision](http://arxiv.org/abs/2401.10886)  
-Dominik A. Kloepfer, João F. Henriques, Dylan Campbell  
+### [HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs](http://arxiv.org/abs/2401.11711)  
+Zelin Gao, Weichen Dai, Yu Zhang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Extracting point correspondences from two or more views of a scene is a fundamental computer vision problem with particular importance for relative camera pose estimation and structure-from-motion. Existing local feature matching approaches, trained with correspondence supervision on large-scale datasets, obtain highly-accurate matches on the test sets. However, they do not generalise well to new datasets with different characteristics to those they were trained on, unlike classic feature extractors. Instead, they require finetuning, which assumes that ground-truth correspondences or ground-truth camera poses and 3D structure are available. We relax this assumption by removing the requirement of 3D structure, e.g., depth maps or point clouds, and only require camera pose information, which can be obtained from odometry. We do so by replacing correspondence losses with epipolar losses, which encourage putative matches to lie on the associated epipolar line. While weaker than correspondence supervision, we observe that this cue is sufficient for finetuning existing models on new data. We then further relax the assumption of known camera poses by using pose estimates in a novel bootstrapping approach. We evaluate on highly challenging datasets, including an indoor drone dataset and an outdoor smartphone camera dataset, and obtain state-of-the-art results without strong supervision.  
+    Neural Radiance Fields (NeRF) have garnered considerable attention as a paradigm for novel view synthesis by learning scene representations from discrete observations. Nevertheless, NeRF exhibit pronounced performance degradation when confronted with sparse view inputs, consequently curtailing its further applicability. In this work, we introduce Hierarchical Geometric, Semantic, and Photometric Guided NeRF (HG3-NeRF), a novel methodology that can address the aforementioned limitation and enhance consistency of geometry, semantic content, and appearance across different views. We propose Hierarchical Geometric Guidance (HGG) to incorporate the attachment of Structure from Motion (SfM), namely sparse depth prior, into the scene representations. Different from direct depth supervision, HGG samples volume points from local-to-global geometric regions, mitigating the misalignment caused by inherent bias in the depth prior. Furthermore, we draw inspiration from notable variations in semantic consistency observed across images of different resolutions and propose Hierarchical Semantic Guidance (HSG) to learn the coarse-to-fine semantic content, which corresponds to the coarse-to-fine scene representations. Experimental results demonstrate that HG3-NeRF can outperform other state-of-the-art methods on different standard benchmarks and achieve high-fidelity synthesis results for sparse view inputs.  
   </ol>  
 </details>  
+**comments**: 13 pages, 6 figures  
   
   
 
