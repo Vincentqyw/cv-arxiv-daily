@@ -30,6 +30,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
+|**2024-01-22**|**Laser-induced quenching of metastability at the Mott-insulator to metal transition**|Theodor Luibrand et.al.|[2401.11889](http://arxiv.org/abs/2401.11889)|null|
+|**2024-01-22**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687](http://arxiv.org/abs/2401.11687)|null|
 |**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793](http://arxiv.org/abs/2401.10793)|null|
 |**2024-01-19**|**Design Methodology for Silicon Organic Hybrid Modulators: From Physics to System-level Modeling**|Maryam Moridsadat et.al.|[2401.10701](http://arxiv.org/abs/2401.10701)|null|
 |**2024-01-15**|**TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**|Donghyun Lee et.al.|[2401.08001](http://arxiv.org/abs/2401.08001)|null|
@@ -276,6 +279,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
+|**2024-01-22**|**Laser-induced quenching of metastability at the Mott-insulator to metal transition**|Theodor Luibrand et.al.|[2401.11889](http://arxiv.org/abs/2401.11889)|null|
+|**2024-01-21**|**How Robust Are Energy-Based Models Trained With Equilibrium Propagation?**|Siddharth Mansingh et.al.|[2401.11543](http://arxiv.org/abs/2401.11543)|null|
 |**2024-01-19**|**Design Methodology for Silicon Organic Hybrid Modulators: From Physics to System-level Modeling**|Maryam Moridsadat et.al.|[2401.10701](http://arxiv.org/abs/2401.10701)|null|
 |**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835](http://arxiv.org/abs/2401.09835)|null|
 |**2024-01-14**|**Polariton lattices as binarized neuromorphic networks**|Evgeny Sedov et.al.|[2401.07232](http://arxiv.org/abs/2401.07232)|null|
@@ -416,6 +422,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-21**|**Continuous Field Reconstruction from Sparse Observations with Implicit Neural Networks**|Xihaier Luo et.al.|[2401.11611](http://arxiv.org/abs/2401.11611)|null|
+|**2024-01-20**|**HOSC: A Periodic Activation Function for Preserving Sharp Features in Implicit Neural Representations**|Danzel Serrano et.al.|[2401.10967](http://arxiv.org/abs/2401.10967)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
 |**2024-01-18**|**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**|Zhensu Sun et.al.|[2401.09964](http://arxiv.org/abs/2401.09964)|**[link](https://github.com/v587su/sec)**|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
