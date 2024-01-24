@@ -1,67 +1,45 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#sfm>SFM</a></li>
-      <ul>
-        <li><a href=#HG3-NeRF:-Hierarchical-Geometric,-Semantic,-and-Photometric-Guided-Neural-Radiance-Fields-for-Sparse-View-Inputs>HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs</a></li>
-      </ul>
-    </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#Single-View-3D-Human-Digitalization-with-Large-Reconstruction-Models>Single-View 3D Human Digitalization with Large Reconstruction Models</a></li>
-        <li><a href=#Scaling-Face-Interaction-Graph-Networks-to-Real-World-Scenes>Scaling Face Interaction Graph Networks to Real World Scenes</a></li>
-        <li><a href=#HG3-NeRF:-Hierarchical-Geometric,-Semantic,-and-Photometric-Guided-Neural-Radiance-Fields-for-Sparse-View-Inputs>HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs</a></li>
+        <li><a href=#NeRF-AD:-Neural-Radiance-Field-with-Attention-based-Disentanglement-for-Talking-Face-Synthesis>NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis</a></li>
+        <li><a href=#Exploration-and-Improvement-of-Nerf-based-3D-Scene-Editing-Techniques>Exploration and Improvement of Nerf-based 3D Scene Editing Techniques</a></li>
+        <li><a href=#Methods-and-strategies-for-improving-the-novel-view-synthesis-quality-of-neural-radiation-field>Methods and strategies for improving the novel view synthesis quality of neural radiation field</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SFM  
-
-### [HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs](http://arxiv.org/abs/2401.11711)  
-Zelin Gao, Weichen Dai, Yu Zhang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiance Fields (NeRF) have garnered considerable attention as a paradigm for novel view synthesis by learning scene representations from discrete observations. Nevertheless, NeRF exhibit pronounced performance degradation when confronted with sparse view inputs, consequently curtailing its further applicability. In this work, we introduce Hierarchical Geometric, Semantic, and Photometric Guided NeRF (HG3-NeRF), a novel methodology that can address the aforementioned limitation and enhance consistency of geometry, semantic content, and appearance across different views. We propose Hierarchical Geometric Guidance (HGG) to incorporate the attachment of Structure from Motion (SfM), namely sparse depth prior, into the scene representations. Different from direct depth supervision, HGG samples volume points from local-to-global geometric regions, mitigating the misalignment caused by inherent bias in the depth prior. Furthermore, we draw inspiration from notable variations in semantic consistency observed across images of different resolutions and propose Hierarchical Semantic Guidance (HSG) to learn the coarse-to-fine semantic content, which corresponds to the coarse-to-fine scene representations. Experimental results demonstrate that HG3-NeRF can outperform other state-of-the-art methods on different standard benchmarks and achieve high-fidelity synthesis results for sparse view inputs.  
-  </ol>  
-</details>  
-**comments**: 13 pages, 6 figures  
-  
-  
-
-
-
 ## NeRF  
 
-### [Single-View 3D Human Digitalization with Large Reconstruction Models](http://arxiv.org/abs/2401.12175)  
-Zhenzhen Weng, Jingyuan Liu, Hao Tan, Zhan Xu, Yang Zhou, Serena Yeung-Levy, Jimei Yang  
+### [NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis](http://arxiv.org/abs/2401.12568)  
+Chongke Bi, Xiaoxing Liu, Zhilei Liu  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    In this paper, we introduce Human-LRM, a single-stage feed-forward Large Reconstruction Model designed to predict human Neural Radiance Fields (NeRF) from a single image. Our approach demonstrates remarkable adaptability in training using extensive datasets containing 3D scans and multi-view capture. Furthermore, to enhance the model's applicability for in-the-wild scenarios especially with occlusions, we propose a novel strategy that distills multi-view reconstruction into single-view via a conditional triplane diffusion model. This generative extension addresses the inherent variations in human body shapes when observed from a single view, and makes it possible to reconstruct the full body human from an occluded image. Through extensive experiments, we show that Human-LRM surpasses previous methods by a significant margin on several benchmarks.  
+    Talking face synthesis driven by audio is one of the current research hotspots in the fields of multidimensional signal processing and multimedia. Neural Radiance Field (NeRF) has recently been brought to this research field in order to enhance the realism and 3D effect of the generated faces. However, most existing NeRF-based methods either burden NeRF with complex learning tasks while lacking methods for supervised multimodal feature fusion, or cannot precisely map audio to the facial region related to speech movements. These reasons ultimately result in existing methods generating inaccurate lip shapes. This paper moves a portion of NeRF learning tasks ahead and proposes a talking face synthesis method via NeRF with attention-based disentanglement (NeRF-AD). In particular, an Attention-based Disentanglement module is introduced to disentangle the face into Audio-face and Identity-face using speech-related facial action unit (AU) information. To precisely regulate how audio affects the talking face, we only fuse the Audio-face with audio feature. In addition, AU information is also utilized to supervise the fusion of these two modalities. Extensive qualitative and quantitative experiments demonstrate that our NeRF-AD outperforms state-of-the-art methods in generating realistic talking face videos, including image quality and lip synchronization. To view video results, please refer to https://xiaoxingliu02.github.io/NeRF-AD.  
+  </ol>  
+</details>  
+**comments**: Accepted by ICASSP 2024  
+  
+### [Exploration and Improvement of Nerf-based 3D Scene Editing Techniques](http://arxiv.org/abs/2401.12456)  
+Shun Fang, Ming Cui, Xing Feng, Yanan Zhang  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    NeRF's high-quality scene synthesis capability was quickly accepted by scholars in the years after it was proposed, and significant progress has been made in 3D scene representation and synthesis. However, the high computational cost limits intuitive and efficient editing of scenes, making NeRF's development in the scene editing field facing many challenges. This paper reviews the preliminary explorations of scholars on NeRF in the scene or object editing field in recent years, mainly changing the shape and texture of scenes or objects in new synthesized scenes; through the combination of residual models such as GaN and Transformer with NeRF, the generalization ability of NeRF scene editing has been further expanded, including realizing real-time new perspective editing feedback, multimodal editing of text synthesized 3D scenes, 4D synthesis performance, and in-depth exploration in light and shadow editing, initially achieving optimization of indirect touch editing and detail representation in complex scenes. Currently, most NeRF editing methods focus on the touch points and materials of indirect points, but when dealing with more complex or larger 3D scenes, it is difficult to balance accuracy, breadth, efficiency, and quality. Overcoming these challenges may become the direction of future NeRF 3D scene editing technology.  
   </ol>  
 </details>  
   
-### [Scaling Face Interaction Graph Networks to Real World Scenes](http://arxiv.org/abs/2401.11985)  
-Tatiana Lopez-Guevara, Yulia Rubanova, William F. Whitney, Tobias Pfaff, Kimberly Stachenfeld, Kelsey R. Allen  
+### [Methods and strategies for improving the novel view synthesis quality of neural radiation field](http://arxiv.org/abs/2401.12451)  
+Shun Fang, Ming Cui, Xing Feng, Yanna Lv  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Accurately simulating real world object dynamics is essential for various applications such as robotics, engineering, graphics, and design. To better capture complex real dynamics such as contact and friction, learned simulators based on graph networks have recently shown great promise. However, applying these learned simulators to real scenes comes with two major challenges: first, scaling learned simulators to handle the complexity of real world scenes which can involve hundreds of objects each with complicated 3D shapes, and second, handling inputs from perception rather than 3D state information. Here we introduce a method which substantially reduces the memory required to run graph-based learned simulators. Based on this memory-efficient simulation model, we then present a perceptual interface in the form of editable NeRFs which can convert real-world scenes into a structured representation that can be processed by graph network simulator. We show that our method uses substantially less memory than previous graph-based simulators while retaining their accuracy, and that the simulators learned in synthetic environments can be applied to real world scenes captured from multiple camera angles. This paves the way for expanding the application of learned simulators to settings where only perceptual information is available at inference time.  
+    Neural Radiation Field (NeRF) technology can learn a 3D implicit model of a scene from 2D images and synthesize realistic novel view images. This technology has received widespread attention from the industry and has good application prospects. In response to the problem that the rendering quality of NeRF images needs to be improved, many researchers have proposed various methods to improve the rendering quality in the past three years. The latest relevant papers are classified and reviewed, the technical principles behind quality improvement are analyzed, and the future evolution direction of quality improvement methods is discussed. This study can help researchers quickly understand the current state and evolutionary context of technology in this field, which is helpful in inspiring the development of more efficient algorithms and promoting the application of NeRF technology in related fields.  
   </ol>  
 </details>  
-**comments**: 16 pages, 12 figures  
-  
-### [HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs](http://arxiv.org/abs/2401.11711)  
-Zelin Gao, Weichen Dai, Yu Zhang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiance Fields (NeRF) have garnered considerable attention as a paradigm for novel view synthesis by learning scene representations from discrete observations. Nevertheless, NeRF exhibit pronounced performance degradation when confronted with sparse view inputs, consequently curtailing its further applicability. In this work, we introduce Hierarchical Geometric, Semantic, and Photometric Guided NeRF (HG3-NeRF), a novel methodology that can address the aforementioned limitation and enhance consistency of geometry, semantic content, and appearance across different views. We propose Hierarchical Geometric Guidance (HGG) to incorporate the attachment of Structure from Motion (SfM), namely sparse depth prior, into the scene representations. Different from direct depth supervision, HGG samples volume points from local-to-global geometric regions, mitigating the misalignment caused by inherent bias in the depth prior. Furthermore, we draw inspiration from notable variations in semantic consistency observed across images of different resolutions and propose Hierarchical Semantic Guidance (HSG) to learn the coarse-to-fine semantic content, which corresponds to the coarse-to-fine scene representations. Experimental results demonstrate that HG3-NeRF can outperform other state-of-the-art methods on different standard benchmarks and achieve high-fidelity synthesis results for sparse view inputs.  
-  </ol>  
-</details>  
-**comments**: 13 pages, 6 figures  
   
   
 
