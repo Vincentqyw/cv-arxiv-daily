@@ -1,43 +1,85 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
+    <li><a href=#visual-localization>Visual Localization</a></li>
+      <ul>
+        <li><a href=#Enhancing-Image-Retrieval-:-A-Comprehensive-Study-on-Photo-Search-using-the-CLIP-Mode>Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode</a></li>
+        <li><a href=#PlaceFormer:-Transformer-based-Visual-Place-Recognition-using-Multi-Scale-Patch-Selection-and-Fusion>PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion</a></li>
+        <li><a href=#SemanticSLAM:-Learning-based-Semantic-Map-Construction-and-Robust-Camera-Localization>SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization</a></li>
+      </ul>
+    </li>
+    <li><a href=#image-matching>Image Matching</a></li>
+      <ul>
+        <li><a href=#Linear-Relative-Pose-Estimation-Founded-on-Pose-only-Imaging-Geometry>Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry</a></li>
+      </ul>
+    </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#NeRF-AD:-Neural-Radiance-Field-with-Attention-based-Disentanglement-for-Talking-Face-Synthesis>NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis</a></li>
-        <li><a href=#Exploration-and-Improvement-of-Nerf-based-3D-Scene-Editing-Techniques>Exploration and Improvement of Nerf-based 3D Scene Editing Techniques</a></li>
-        <li><a href=#Methods-and-strategies-for-improving-the-novel-view-synthesis-quality-of-neural-radiation-field>Methods and strategies for improving the novel view synthesis quality of neural radiation field</a></li>
+        <li><a href=#EndoGaussians:-Single-View-Dynamic-Gaussian-Splatting-for-Deformable-Endoscopic-Tissues-Reconstruction>EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
+## Visual Localization  
+
+### [Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode](http://arxiv.org/abs/2401.13613)  
+Naresh Kumar Lahajal, Harini S  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Photo search, the task of retrieving images based on textual queries, has witnessed significant advancements with the introduction of CLIP (Contrastive Language-Image Pretraining) model. CLIP leverages a vision-language pre training approach, wherein it learns a shared representation space for images and text, enabling cross-modal understanding. This model demonstrates the capability to understand the semantic relationships between diverse image and text pairs, allowing for efficient and accurate retrieval of images based on natural language queries. By training on a large-scale dataset containing images and their associated textual descriptions, CLIP achieves remarkable generalization, providing a powerful tool for tasks such as zero-shot learning and few-shot classification. This abstract summarizes the foundational principles of CLIP and highlights its potential impact on advancing the field of photo search, fostering a seamless integration of natural language understanding and computer vision for improved information retrieval in multimedia applications  
+  </ol>  
+</details>  
+  
+### [PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion](http://arxiv.org/abs/2401.13082)  
+Shyam Sundar Kannan, Byung-Cheol Min  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Visual place recognition is a challenging task in the field of computer vision, and autonomous robotics and vehicles, which aims to identify a location or a place from visual inputs. Contemporary methods in visual place recognition employ convolutional neural networks and utilize every region within the image for the place recognition task. However, the presence of dynamic and distracting elements in the image may impact the effectiveness of the place recognition process. Therefore, it is meaningful to focus on task-relevant regions of the image for improved recognition. In this paper, we present PlaceFormer, a novel transformer-based approach for visual place recognition. PlaceFormer employs patch tokens from the transformer to create global image descriptors, which are then used for image retrieval. To re-rank the retrieved images, PlaceFormer merges the patch tokens from the transformer to form multi-scale patches. Utilizing the transformer's self-attention mechanism, it selects patches that correspond to task-relevant areas in an image. These selected patches undergo geometric verification, generating similarity scores across different patch sizes. Subsequently, spatial scores from each patch size are fused to produce a final similarity score. This score is then used to re-rank the images initially retrieved using global image descriptors. Extensive experiments on benchmark datasets demonstrate that PlaceFormer outperforms several state-of-the-art methods in terms of accuracy and computational efficiency, requiring less time and memory.  
+  </ol>  
+</details>  
+  
+### [SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization](http://arxiv.org/abs/2401.13076)  
+[[code](https://github.com/leomingyangli/semanticslam)]  
+Mingyang Li, Yue Ma, Qinru Qiu  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Current techniques in Visual Simultaneous Localization and Mapping (VSLAM) estimate camera displacement by comparing image features of consecutive scenes. These algorithms depend on scene continuity, hence requires frequent camera inputs. However, processing images frequently can lead to significant memory usage and computation overhead. In this study, we introduce SemanticSLAM, an end-to-end visual-inertial odometry system that utilizes semantic features extracted from an RGB-D sensor. This approach enables the creation of a semantic map of the environment and ensures reliable camera localization. SemanticSLAM is scene-agnostic, which means it doesn't require retraining for different environments. It operates effectively in indoor settings, even with infrequent camera input, without prior knowledge. The strength of SemanticSLAM lies in its ability to gradually refine the semantic map and improve pose estimation. This is achieved by a convolutional long-short-term-memory (ConvLSTM) network, trained to correct errors during map construction. Compared to existing VSLAM algorithms, SemanticSLAM improves pose estimation by 17%. The resulting semantic map provides interpretable information about the environment and can be easily applied to various downstream tasks, such as path planning, obstacle avoidance, and robot navigation. The code will be publicly available at https://github.com/Leomingyangli/SemanticSLAM  
+  </ol>  
+</details>  
+**comments**: 2023 IEEE Symposium Series on Computational Intelligence (SSCI) 6
+  pages  
+  
+  
+
+
+
+## Image Matching  
+
+### [Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry](http://arxiv.org/abs/2401.13357)  
+Qi Cai, Xinrui Li, Yuanxin Wu  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    How to efficiently and accurately handle image matching outliers is a critical issue in two-view relative estimation. The prevailing RANSAC method necessitates that the minimal point pairs be inliers. This paper introduces a linear relative pose estimation algorithm for n $( n \geq 6$) point pairs, which is founded on the recent pose-only imaging geometry to filter out outliers by proper reweighting. The proposed algorithm is able to handle planar degenerate scenes, and enhance robustness and accuracy in the presence of a substantial ratio of outliers. Specifically, we embed the linear global translation (LiGT) constraint into the strategies of iteratively reweighted least-squares (IRLS) and RANSAC so as to realize robust outlier removal. Simulations and real tests of the Strecha dataset show that the proposed algorithm achieves relative rotation accuracy improvement of 2 $\sim$ 10 times in face of as large as 80% outliers.  
+  </ol>  
+</details>  
+  
+  
+
+
+
 ## NeRF  
 
-### [NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis](http://arxiv.org/abs/2401.12568)  
-Chongke Bi, Xiaoxing Liu, Zhilei Liu  
+### [EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction](http://arxiv.org/abs/2401.13352)  
+Yangsen Chen, Hao Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Talking face synthesis driven by audio is one of the current research hotspots in the fields of multidimensional signal processing and multimedia. Neural Radiance Field (NeRF) has recently been brought to this research field in order to enhance the realism and 3D effect of the generated faces. However, most existing NeRF-based methods either burden NeRF with complex learning tasks while lacking methods for supervised multimodal feature fusion, or cannot precisely map audio to the facial region related to speech movements. These reasons ultimately result in existing methods generating inaccurate lip shapes. This paper moves a portion of NeRF learning tasks ahead and proposes a talking face synthesis method via NeRF with attention-based disentanglement (NeRF-AD). In particular, an Attention-based Disentanglement module is introduced to disentangle the face into Audio-face and Identity-face using speech-related facial action unit (AU) information. To precisely regulate how audio affects the talking face, we only fuse the Audio-face with audio feature. In addition, AU information is also utilized to supervise the fusion of these two modalities. Extensive qualitative and quantitative experiments demonstrate that our NeRF-AD outperforms state-of-the-art methods in generating realistic talking face videos, including image quality and lip synchronization. To view video results, please refer to https://xiaoxingliu02.github.io/NeRF-AD.  
-  </ol>  
-</details>  
-**comments**: Accepted by ICASSP 2024  
-  
-### [Exploration and Improvement of Nerf-based 3D Scene Editing Techniques](http://arxiv.org/abs/2401.12456)  
-Shun Fang, Ming Cui, Xing Feng, Yanan Zhang  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    NeRF's high-quality scene synthesis capability was quickly accepted by scholars in the years after it was proposed, and significant progress has been made in 3D scene representation and synthesis. However, the high computational cost limits intuitive and efficient editing of scenes, making NeRF's development in the scene editing field facing many challenges. This paper reviews the preliminary explorations of scholars on NeRF in the scene or object editing field in recent years, mainly changing the shape and texture of scenes or objects in new synthesized scenes; through the combination of residual models such as GaN and Transformer with NeRF, the generalization ability of NeRF scene editing has been further expanded, including realizing real-time new perspective editing feedback, multimodal editing of text synthesized 3D scenes, 4D synthesis performance, and in-depth exploration in light and shadow editing, initially achieving optimization of indirect touch editing and detail representation in complex scenes. Currently, most NeRF editing methods focus on the touch points and materials of indirect points, but when dealing with more complex or larger 3D scenes, it is difficult to balance accuracy, breadth, efficiency, and quality. Overcoming these challenges may become the direction of future NeRF 3D scene editing technology.  
-  </ol>  
-</details>  
-  
-### [Methods and strategies for improving the novel view synthesis quality of neural radiation field](http://arxiv.org/abs/2401.12451)  
-Shun Fang, Ming Cui, Xing Feng, Yanna Lv  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiation Field (NeRF) technology can learn a 3D implicit model of a scene from 2D images and synthesize realistic novel view images. This technology has received widespread attention from the industry and has good application prospects. In response to the problem that the rendering quality of NeRF images needs to be improved, many researchers have proposed various methods to improve the rendering quality in the past three years. The latest relevant papers are classified and reviewed, the technical principles behind quality improvement are analyzed, and the future evolution direction of quality improvement methods is discussed. This study can help researchers quickly understand the current state and evolutionary context of technology in this field, which is helpful in inspiring the development of more efficient algorithms and promoting the application of NeRF technology in related fields.  
+    The accurate 3D reconstruction of deformable soft body tissues from endoscopic videos is a pivotal challenge in medical applications such as VR surgery and medical image analysis. Existing methods often struggle with accuracy and the ambiguity of hallucinated tissue parts, limiting their practical utility. In this work, we introduce EndoGaussians, a novel approach that employs Gaussian Splatting for dynamic endoscopic 3D reconstruction. This method marks the first use of Gaussian Splatting in this context, overcoming the limitations of previous NeRF-based techniques. Our method sets new state-of-the-art standards, as demonstrated by quantitative assessments on various endoscope datasets. These advancements make our method a promising tool for medical professionals, offering more reliable and efficient 3D reconstructions for practical applications in the medical field.  
   </ol>  
 </details>  
   
