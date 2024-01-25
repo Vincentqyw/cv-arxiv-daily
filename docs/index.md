@@ -427,6 +427,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Task structure and nonlinearity jointly determine learned representational geometry**|Matteo Alleman et.al.|[2401.13558](http://arxiv.org/abs/2401.13558)|null|
+|**2024-01-24**|**Can GPT-3.5 Generate and Code Discharge Summaries?**|Matúš Falis et.al.|[2401.13512](http://arxiv.org/abs/2401.13512)|null|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
 |**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
