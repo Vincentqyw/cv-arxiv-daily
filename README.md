@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**Inverse analysis of granular flows using differentiable graph neural network simulator**|Yongjin Choi et.al.|[2401.13695](http://arxiv.org/abs/2401.13695)|null|
 |**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
 |**2023-10-11**|**ASV Station Keeping under Wind Disturbances using Neural Network Simulation Error Minimization Model Predictive Control**|Jalil Chavez-Galaviz et.al.|[2310.07892](http://arxiv.org/abs/2310.07892)|null|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
@@ -30,6 +31,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Heterogeneously Integrated Laser on Silicon with Non-Volatile Wavelength Tuning**|Bassem Tossoun et.al.|[2401.13757](http://arxiv.org/abs/2401.13757)|null|
 |**2024-01-23**|**A robust balancing mechanism for spiking neural networks**|Antonio Politi et.al.|[2401.12559](http://arxiv.org/abs/2401.12559)|null|
 |**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
 |**2024-01-22**|**Laser-induced quenching of metastability at the Mott-insulator to metal transition**|Theodor Luibrand et.al.|[2401.11889](http://arxiv.org/abs/2401.11889)|null|
@@ -280,6 +282,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Heterogeneously Integrated Laser on Silicon with Non-Volatile Wavelength Tuning**|Bassem Tossoun et.al.|[2401.13757](http://arxiv.org/abs/2401.13757)|null|
 |**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
 |**2024-01-22**|**Laser-induced quenching of metastability at the Mott-insulator to metal transition**|Theodor Luibrand et.al.|[2401.11889](http://arxiv.org/abs/2401.11889)|null|
 |**2024-01-21**|**How Robust Are Energy-Based Models Trained With Equilibrium Propagation?**|Siddharth Mansingh et.al.|[2401.11543](http://arxiv.org/abs/2401.11543)|null|
@@ -424,7 +427,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-24**|**Task structure and nonlinearity jointly determine learned representational geometry**|Matteo Alleman et.al.|[2401.13558](http://arxiv.org/abs/2401.13558)|null|
-|**2024-01-24**|**Can GPT-3.5 Generate and Code Discharge Summaries?**|Matúš Falis et.al.|[2401.13512](http://arxiv.org/abs/2401.13512)|null|
+|**2024-01-24**|**Can GPT-3.5 Generate and Code Discharge Summaries?**|Matúš Falis et.al.|[2401.13512](http://arxiv.org/abs/2401.13512)|**[link](https://github.com/edinburghclinicalnlp/chatgpt_icd_coding)**|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**Fast Implicit Neural Representation Image Codec in Resource-limited Devices**|Xiang Liu et.al.|[2401.12587](http://arxiv.org/abs/2401.12587)|null|
 |**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
