@@ -32,6 +32,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911](http://arxiv.org/abs/2401.17911)|null|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-30**|**jaxsnn: Event-driven Gradient Estimation for Analog Neuromorphic Hardware**|Eric Müller et.al.|[2401.16841](http://arxiv.org/abs/2401.16841)|null|
 |**2024-01-30**|**Towards Large-scale Network Emulation on Analog Neuromorphic Hardware**|Elias Arnold et.al.|[2401.16840](http://arxiv.org/abs/2401.16840)|null|
@@ -438,6 +439,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Advances in 3D Generation: A Survey**|Xiaoyu Li et.al.|[2401.17807](http://arxiv.org/abs/2401.17807)|null|
 |**2024-01-30**|**ReAlnet: Achieving More Human Brain-Like Vision via Human Neural Representational Alignment**|Zitong Lu et.al.|[2401.17231](http://arxiv.org/abs/2401.17231)|null|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613](http://arxiv.org/abs/2401.15613)|null|
 |**2024-01-26**|**Implicit Neural Representation for Physics-driven Actuated Soft Bodies**|Lingchen Yang et.al.|[2401.14861](http://arxiv.org/abs/2401.14861)|null|
@@ -731,6 +733,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
 |**2024-01-02**|**High-dimensional FGM-ResNet modelling of turbulent spray combustion: Effects of evaporation non-adiabacity and scalar correlation**|Dong Wang et.al.|[2401.01045](http://arxiv.org/abs/2401.01045)|null|
 |**2023-12-28**|**Optimized Parallelization of Boundary Integral Poisson-Boltzmann Solvers**|Xin Yang et.al.|[2312.10044](http://arxiv.org/abs/2312.10044)|null|
@@ -752,6 +755,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**Frustrated with MPI+Threads? Try MPIxThreads!**|Hui Zhou et.al.|[2401.16551](http://arxiv.org/abs/2401.16551)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
 |**2024-01-02**|**High-dimensional FGM-ResNet modelling of turbulent spray combustion: Effects of evaporation non-adiabacity and scalar correlation**|Dong Wang et.al.|[2401.01045](http://arxiv.org/abs/2401.01045)|null|
