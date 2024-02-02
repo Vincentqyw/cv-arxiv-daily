@@ -36,7 +36,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911](http://arxiv.org/abs/2401.17911)|null|
+|**2024-02-01**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449](http://arxiv.org/abs/2402.00449)|null|
+|**2024-02-01**|**LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model**|Zecheng Hao et.al.|[2402.00411](http://arxiv.org/abs/2402.00411)|null|
+|**2024-01-31**|**Excitability and memory in a time-delayed optoelectronic neuron**|Jonas Mayer Martins et.al.|[2402.00227](http://arxiv.org/abs/2402.00227)|null|
+|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911](http://arxiv.org/abs/2401.17911)|**[link](https://github.com/alexknipper/snnlp)**|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-30**|**jaxsnn: Event-driven Gradient Estimation for Analog Neuromorphic Hardware**|Eric Müller et.al.|[2401.16841](http://arxiv.org/abs/2401.16841)|null|
 |**2024-01-30**|**Towards Large-scale Network Emulation on Analog Neuromorphic Hardware**|Elias Arnold et.al.|[2401.16840](http://arxiv.org/abs/2401.16840)|null|
@@ -295,6 +298,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Excitability and memory in a time-delayed optoelectronic neuron**|Jonas Mayer Martins et.al.|[2402.00227](http://arxiv.org/abs/2402.00227)|null|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-30**|**jaxsnn: Event-driven Gradient Estimation for Analog Neuromorphic Hardware**|Eric Müller et.al.|[2401.16841](http://arxiv.org/abs/2401.16841)|null|
 |**2024-01-30**|**Towards Large-scale Network Emulation on Analog Neuromorphic Hardware**|Elias Arnold et.al.|[2401.16840](http://arxiv.org/abs/2401.16840)|null|
