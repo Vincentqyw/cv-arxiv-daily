@@ -1,92 +1,40 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#sfm>SFM</a></li>
-      <ul>
-        <li><a href=#Local-Feature-Matching-Using-Deep-Learning:-A-Survey>Local Feature Matching Using Deep Learning: A Survey</a></li>
-      </ul>
-    </li>
     <li><a href=#visual-localization>Visual Localization</a></li>
       <ul>
-        <li><a href=#Improved-Scene-Landmark-Detection-for-Camera-Localization>Improved Scene Landmark Detection for Camera Localization</a></li>
-        <li><a href=#Local-Feature-Matching-Using-Deep-Learning:-A-Survey>Local Feature Matching Using Deep Learning: A Survey</a></li>
-      </ul>
-    </li>
-    <li><a href=#image-matching>Image Matching</a></li>
-      <ul>
-        <li><a href=#Improved-Scene-Landmark-Detection-for-Camera-Localization>Improved Scene Landmark Detection for Camera Localization</a></li>
-        <li><a href=#Local-Feature-Matching-Using-Deep-Learning:-A-Survey>Local Feature Matching Using Deep Learning: A Survey</a></li>
+        <li><a href=#BrainSLAM:-SLAM-on-Neural-Population-Activity-Data>BrainSLAM: SLAM on Neural Population Activity Data</a></li>
+        <li><a href=#Night-Rider:-Nocturnal-Vision-aided-Localization-in-Streetlight-Maps-Using-Invariant-Extended-Kalman-Filtering>Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering</a></li>
       </ul>
     </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#CARFF:-Conditional-Auto-encoded-Radiance-Field-for-3D-Scene-Forecasting>CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting</a></li>
-        <li><a href=#Semantic-Anything-in-3D-Gaussians>Semantic Anything in 3D Gaussians</a></li>
+        <li><a href=#ViCA-NeRF:-View-Consistency-Aware-3D-Editing-of-Neural-Radiance-Fields>ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields</a></li>
+        <li><a href=#Emo-Avatar:-Efficient-Monocular-Video-Style-Avatar-through-Texture-Rendering>Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## SFM  
-
-### [Local Feature Matching Using Deep Learning: A Survey](http://arxiv.org/abs/2401.17592)  
-Shibiao Xu, Shunpeng Chen, Rongtao Xu, Changwei Wang, Peng Lu, Li Guo  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Local feature matching enjoys wide-ranging applications in the realm of computer vision, encompassing domains such as image retrieval, 3D reconstruction, and object recognition. However, challenges persist in improving the accuracy and robustness of matching due to factors like viewpoint and lighting variations. In recent years, the introduction of deep learning models has sparked widespread exploration into local feature matching techniques. The objective of this endeavor is to furnish a comprehensive overview of local feature matching methods. These methods are categorized into two key segments based on the presence of detectors. The Detector-based category encompasses models inclusive of Detect-then-Describe, Joint Detection and Description, Describe-then-Detect, as well as Graph Based techniques. In contrast, the Detector-free category comprises CNN Based, Transformer Based, and Patch Based methods. Our study extends beyond methodological analysis, incorporating evaluations of prevalent datasets and metrics to facilitate a quantitative comparison of state-of-the-art techniques. The paper also explores the practical application of local feature matching in diverse domains such as Structure from Motion, Remote Sensing Image Registration, and Medical Image Registration, underscoring its versatility and significance across various fields. Ultimately, we endeavor to outline the current challenges faced in this domain and furnish future research directions, thereby serving as a reference for researchers involved in local feature matching and its interconnected domains.  
-  </ol>  
-</details>  
-  
-  
-
-
-
 ## Visual Localization  
 
-### [Improved Scene Landmark Detection for Camera Localization](http://arxiv.org/abs/2401.18083)  
-[[code](https://github.com/microsoft/scenelandmarklocalization)]  
-Tien Do, Sudipta N. Sinha  
+### [BrainSLAM: SLAM on Neural Population Activity Data](http://arxiv.org/abs/2402.00588)  
+Kipp Freud, Nathan Lepora, Matt W. Jones, Cian O'Donnell  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Camera localization methods based on retrieval, local feature matching, and 3D structure-based pose estimation are accurate but require high storage, are slow, and are not privacy-preserving. A method based on scene landmark detection (SLD) was recently proposed to address these limitations. It involves training a convolutional neural network (CNN) to detect a few predetermined, salient, scene-specific 3D points or landmarks and computing camera pose from the associated 2D-3D correspondences. Although SLD outperformed existing learning-based approaches, it was notably less accurate than 3D structure-based methods. In this paper, we show that the accuracy gap was due to insufficient model capacity and noisy labels during training. To mitigate the capacity issue, we propose to split the landmarks into subgroups and train a separate network for each subgroup. To generate better training labels, we propose using dense reconstructions to estimate visibility of scene landmarks. Finally, we present a compact architecture to improve memory efficiency. Accuracy wise, our approach is on par with state of the art structure based methods on the INDOOR-6 dataset but runs significantly faster and uses less storage. Code and models can be found at https://github.com/microsoft/SceneLandmarkLocalization.  
+    Simultaneous localisation and mapping (SLAM) algorithms are commonly used in robotic systems for learning maps of novel environments. Brains also appear to learn maps, but the mechanisms are not known and it is unclear how to infer these maps from neural activity data. We present BrainSLAM; a method for performing SLAM using only population activity (local field potential, LFP) data simultaneously recorded from three brain regions in rats: hippocampus, prefrontal cortex, and parietal cortex. This system uses a convolutional neural network (CNN) to decode velocity and familiarity information from wavelet scalograms of neural local field potential data recorded from rats as they navigate a 2D maze. The CNN's output drives a RatSLAM-inspired architecture, powering an attractor network which performs path integration plus a separate system which performs `loop closure' (detecting previously visited locations and correcting map aliasing errors). Together, these three components can construct faithful representations of the environment while simultaneously tracking the animal's location. This is the first demonstration of inference of a spatial map from brain recordings. Our findings expand SLAM to a new modality, enabling a new method of mapping environments and facilitating a better understanding of the role of cognitive maps in navigation and decision making.  
   </ol>  
 </details>  
-**comments**: To be presented at 3DV 2024  
+**comments**: Accepted to the 23rd International Conference on Autonomous Agents
+  and Multiagent Systems. 2024  
   
-### [Local Feature Matching Using Deep Learning: A Survey](http://arxiv.org/abs/2401.17592)  
-Shibiao Xu, Shunpeng Chen, Rongtao Xu, Changwei Wang, Peng Lu, Li Guo  
+### [Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering](http://arxiv.org/abs/2402.00330)  
+Tianxiao Gao, Mingle Zhao, Chengzhong Xu, Hui Kong  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Local feature matching enjoys wide-ranging applications in the realm of computer vision, encompassing domains such as image retrieval, 3D reconstruction, and object recognition. However, challenges persist in improving the accuracy and robustness of matching due to factors like viewpoint and lighting variations. In recent years, the introduction of deep learning models has sparked widespread exploration into local feature matching techniques. The objective of this endeavor is to furnish a comprehensive overview of local feature matching methods. These methods are categorized into two key segments based on the presence of detectors. The Detector-based category encompasses models inclusive of Detect-then-Describe, Joint Detection and Description, Describe-then-Detect, as well as Graph Based techniques. In contrast, the Detector-free category comprises CNN Based, Transformer Based, and Patch Based methods. Our study extends beyond methodological analysis, incorporating evaluations of prevalent datasets and metrics to facilitate a quantitative comparison of state-of-the-art techniques. The paper also explores the practical application of local feature matching in diverse domains such as Structure from Motion, Remote Sensing Image Registration, and Medical Image Registration, underscoring its versatility and significance across various fields. Ultimately, we endeavor to outline the current challenges faced in this domain and furnish future research directions, thereby serving as a reference for researchers involved in local feature matching and its interconnected domains.  
-  </ol>  
-</details>  
-  
-  
-
-
-
-## Image Matching  
-
-### [Improved Scene Landmark Detection for Camera Localization](http://arxiv.org/abs/2401.18083)  
-[[code](https://github.com/microsoft/scenelandmarklocalization)]  
-Tien Do, Sudipta N. Sinha  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Camera localization methods based on retrieval, local feature matching, and 3D structure-based pose estimation are accurate but require high storage, are slow, and are not privacy-preserving. A method based on scene landmark detection (SLD) was recently proposed to address these limitations. It involves training a convolutional neural network (CNN) to detect a few predetermined, salient, scene-specific 3D points or landmarks and computing camera pose from the associated 2D-3D correspondences. Although SLD outperformed existing learning-based approaches, it was notably less accurate than 3D structure-based methods. In this paper, we show that the accuracy gap was due to insufficient model capacity and noisy labels during training. To mitigate the capacity issue, we propose to split the landmarks into subgroups and train a separate network for each subgroup. To generate better training labels, we propose using dense reconstructions to estimate visibility of scene landmarks. Finally, we present a compact architecture to improve memory efficiency. Accuracy wise, our approach is on par with state of the art structure based methods on the INDOOR-6 dataset but runs significantly faster and uses less storage. Code and models can be found at https://github.com/microsoft/SceneLandmarkLocalization.  
-  </ol>  
-</details>  
-**comments**: To be presented at 3DV 2024  
-  
-### [Local Feature Matching Using Deep Learning: A Survey](http://arxiv.org/abs/2401.17592)  
-Shibiao Xu, Shunpeng Chen, Rongtao Xu, Changwei Wang, Peng Lu, Li Guo  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Local feature matching enjoys wide-ranging applications in the realm of computer vision, encompassing domains such as image retrieval, 3D reconstruction, and object recognition. However, challenges persist in improving the accuracy and robustness of matching due to factors like viewpoint and lighting variations. In recent years, the introduction of deep learning models has sparked widespread exploration into local feature matching techniques. The objective of this endeavor is to furnish a comprehensive overview of local feature matching methods. These methods are categorized into two key segments based on the presence of detectors. The Detector-based category encompasses models inclusive of Detect-then-Describe, Joint Detection and Description, Describe-then-Detect, as well as Graph Based techniques. In contrast, the Detector-free category comprises CNN Based, Transformer Based, and Patch Based methods. Our study extends beyond methodological analysis, incorporating evaluations of prevalent datasets and metrics to facilitate a quantitative comparison of state-of-the-art techniques. The paper also explores the practical application of local feature matching in diverse domains such as Structure from Motion, Remote Sensing Image Registration, and Medical Image Registration, underscoring its versatility and significance across various fields. Ultimately, we endeavor to outline the current challenges faced in this domain and furnish future research directions, thereby serving as a reference for researchers involved in local feature matching and its interconnected domains.  
+    Vision-aided localization for low-cost mobile robots in diverse environments has attracted widespread attention recently. Although many current systems are applicable in daytime environments, nocturnal visual localization is still an open problem owing to the lack of stable visual information. An insight from most nocturnal scenes is that the static and bright streetlights are reliable visual information for localization. Hence we propose a nocturnal vision-aided localization system in streetlight maps with a novel data association and matching scheme using object detection methods. We leverage the Invariant Extended Kalman Filter (InEKF) to fuse IMU, odometer, and camera measurements for consistent state estimation at night. Furthermore, a tracking recovery module is also designed for tracking failures. Experiments on multiple real nighttime scenes validate that the system can achieve remarkably accurate and robust localization in nocturnal environments.  
   </ol>  
 </details>  
   
@@ -96,21 +44,23 @@ Shibiao Xu, Shunpeng Chen, Rongtao Xu, Changwei Wang, Peng Lu, Li Guo
 
 ## NeRF  
 
-### [CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting](http://arxiv.org/abs/2401.18075)  
-Jiezhi Yang, Khushi Desai, Charles Packer, Harshil Bhatia, Nicholas Rhinehart, Rowan McAllister, Joseph Gonzalez  
+### [ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields](http://arxiv.org/abs/2402.00864)  
+[[code](https://github.com/dongjiahua/vica-nerf)]  
+Jiahua Dong, Yu-Xiong Wang  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    We propose CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting, a method for predicting future 3D scenes given past observations, such as 2D ego-centric images. Our method maps an image to a distribution over plausible 3D latent scene configurations using a probabilistic encoder, and predicts the evolution of the hypothesized scenes through time. Our latent scene representation conditions a global Neural Radiance Field (NeRF) to represent a 3D scene model, which enables explainable predictions and straightforward downstream applications. This approach extends beyond previous neural rendering work by considering complex scenarios of uncertainty in environmental states and dynamics. We employ a two-stage training of Pose-Conditional-VAE and NeRF to learn 3D representations. Additionally, we auto-regressively predict latent scene representations as a partially observable Markov decision process, utilizing a mixture density network. We demonstrate the utility of our method in realistic scenarios using the CARLA driving simulator, where CARFF can be used to enable efficient trajectory and contingency planning in complex multi-agent autonomous driving scenarios involving visual occlusions.  
+    We introduce ViCA-NeRF, the first view-consistency-aware method for 3D editing with text instructions. In addition to the implicit neural radiance field (NeRF) modeling, our key insight is to exploit two sources of regularization that explicitly propagate the editing information across different views, thus ensuring multi-view consistency. For geometric regularization, we leverage the depth information derived from NeRF to establish image correspondences between different views. For learned regularization, we align the latent codes in the 2D diffusion model between edited and unedited images, enabling us to edit key views and propagate the update throughout the entire scene. Incorporating these two strategies, our ViCA-NeRF operates in two stages. In the initial stage, we blend edits from different views to create a preliminary 3D edit. This is followed by a second stage of NeRF training, dedicated to further refining the scene's appearance. Experimental results demonstrate that ViCA-NeRF provides more flexible, efficient (3 times faster) editing with higher levels of consistency and details, compared with the state of the art. Our code is publicly available.  
   </ol>  
 </details>  
+**comments**: Neurips2023; project page: https://github.com/Dongjiahua/VICA-NeRF  
   
-### [Semantic Anything in 3D Gaussians](http://arxiv.org/abs/2401.17857)  
-Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang  
+### [Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering](http://arxiv.org/abs/2402.00827)  
+Pinxin Liu, Luchuan Song, Daoan Zhang, Hang Hua, Yunlong Tang, Huaijin Tu, Jiebo Luo, Chenliang Xu  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    3D Gaussian Splatting has emerged as an alternative 3D representation of Neural Radiance Fields (NeRFs), benefiting from its high-quality rendering results and real-time rendering speed. Considering the 3D Gaussian representation remains unparsed, it is necessary first to execute object segmentation within this domain. Subsequently, scene editing and collision detection can be performed, proving vital to a multitude of applications, such as virtual reality (VR), augmented reality (AR), game/movie production, etc. In this paper, we propose a novel approach to achieve object segmentation in 3D Gaussian via an interactive procedure without any training process and learned parameters. We refer to the proposed method as SA-GS, for Segment Anything in 3D Gaussians. Given a set of clicked points in a single input view, SA-GS can generalize SAM to achieve 3D consistent segmentation via the proposed multi-view mask generation and view-wise label assignment methods. We also propose a cross-view label-voting approach to assign labels from different views. In addition, in order to address the boundary roughness issue of segmented objects resulting from the non-negligible spatial sizes of 3D Gaussian located at the boundary, SA-GS incorporates the simple but effective Gaussian Decomposition scheme. Extensive experiments demonstrate that SA-GS achieves high-quality 3D segmentation results, which can also be easily applied for scene editing and collision detection tasks. Codes will be released soon.  
+    Artistic video portrait generation is a significant and sought-after task in the fields of computer graphics and vision. While various methods have been developed that integrate NeRFs or StyleGANs with instructional editing models for creating and editing drivable portraits, these approaches face several challenges. They often rely heavily on large datasets, require extensive customization processes, and frequently result in reduced image quality. To address the above problems, we propose the Efficient Monotonic Video Style Avatar (Emo-Avatar) through deferred neural rendering that enhances StyleGAN's capacity for producing dynamic, drivable portrait videos. We proposed a two-stage deferred neural rendering pipeline. In the first stage, we utilize few-shot PTI initialization to initialize the StyleGAN generator through several extreme poses sampled from the video to capture the consistent representation of aligned faces from the target portrait. In the second stage, we propose a Laplacian pyramid for high-frequency texture sampling from UV maps deformed by dynamic flow of expression for motion-aware texture prior integration to provide torso features to enhance StyleGAN's ability to generate complete and upper body for portrait video rendering. Emo-Avatar reduces style customization time from hours to merely 5 minutes compared with existing methods. In addition, Emo-Avatar requires only a single reference image for editing and employs region-aware contrastive learning with semantic invariant CLIP guidance, ensuring consistent high-resolution output and identity preservation. Through both quantitative and qualitative assessments, Emo-Avatar demonstrates superior performance over existing methods in terms of training efficiency, rendering quality and editability in self- and cross-reenactment.  
   </ol>  
 </details>  
   
