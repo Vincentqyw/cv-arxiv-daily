@@ -1,66 +1,65 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
-    <li><a href=#visual-localization>Visual Localization</a></li>
-      <ul>
-        <li><a href=#BrainSLAM:-SLAM-on-Neural-Population-Activity-Data>BrainSLAM: SLAM on Neural Population Activity Data</a></li>
-        <li><a href=#Night-Rider:-Nocturnal-Vision-aided-Localization-in-Streetlight-Maps-Using-Invariant-Extended-Kalman-Filtering>Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering</a></li>
-      </ul>
-    </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#ViCA-NeRF:-View-Consistency-Aware-3D-Editing-of-Neural-Radiance-Fields>ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields</a></li>
-        <li><a href=#Emo-Avatar:-Efficient-Monocular-Video-Style-Avatar-through-Texture-Rendering>Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering</a></li>
+        <li><a href=#HyperPlanes:-Hypernetwork-Approach-to-Rapid-NeRF-Adaptation>HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation</a></li>
+        <li><a href=#Di-NeRF:-Distributed-NeRF-for-Collaborative-Learning-with-Unknown-Relative-Poses>Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses</a></li>
+        <li><a href=#GaMeS:-Mesh-Based-Adapting-and-Modification-of-Gaussian-Splatting>GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting</a></li>
+        <li><a href=#Efficient-Dynamic-NeRF-Based-Volumetric-Video-Coding-with-Rate-Distortion-Optimization>Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization</a></li>
+        <li><a href=#Taming-Uncertainty-in-Sparse-view-Generalizable-NeRF-via-Indirect-Diffusion-Guidance>Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-## Visual Localization  
-
-### [BrainSLAM: SLAM on Neural Population Activity Data](http://arxiv.org/abs/2402.00588)  
-Kipp Freud, Nathan Lepora, Matt W. Jones, Cian O'Donnell  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Simultaneous localisation and mapping (SLAM) algorithms are commonly used in robotic systems for learning maps of novel environments. Brains also appear to learn maps, but the mechanisms are not known and it is unclear how to infer these maps from neural activity data. We present BrainSLAM; a method for performing SLAM using only population activity (local field potential, LFP) data simultaneously recorded from three brain regions in rats: hippocampus, prefrontal cortex, and parietal cortex. This system uses a convolutional neural network (CNN) to decode velocity and familiarity information from wavelet scalograms of neural local field potential data recorded from rats as they navigate a 2D maze. The CNN's output drives a RatSLAM-inspired architecture, powering an attractor network which performs path integration plus a separate system which performs `loop closure' (detecting previously visited locations and correcting map aliasing errors). Together, these three components can construct faithful representations of the environment while simultaneously tracking the animal's location. This is the first demonstration of inference of a spatial map from brain recordings. Our findings expand SLAM to a new modality, enabling a new method of mapping environments and facilitating a better understanding of the role of cognitive maps in navigation and decision making.  
-  </ol>  
-</details>  
-**comments**: Accepted to the 23rd International Conference on Autonomous Agents
-  and Multiagent Systems. 2024  
-  
-### [Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering](http://arxiv.org/abs/2402.00330)  
-Tianxiao Gao, Mingle Zhao, Chengzhong Xu, Hui Kong  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Vision-aided localization for low-cost mobile robots in diverse environments has attracted widespread attention recently. Although many current systems are applicable in daytime environments, nocturnal visual localization is still an open problem owing to the lack of stable visual information. An insight from most nocturnal scenes is that the static and bright streetlights are reliable visual information for localization. Hence we propose a nocturnal vision-aided localization system in streetlight maps with a novel data association and matching scheme using object detection methods. We leverage the Invariant Extended Kalman Filter (InEKF) to fuse IMU, odometer, and camera measurements for consistent state estimation at night. Furthermore, a tracking recovery module is also designed for tracking failures. Experiments on multiple real nighttime scenes validate that the system can achieve remarkably accurate and robust localization in nocturnal environments.  
-  </ol>  
-</details>  
-  
-  
-
-
-
 ## NeRF  
 
-### [ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields](http://arxiv.org/abs/2402.00864)  
-[[code](https://github.com/dongjiahua/vica-nerf)]  
-Jiahua Dong, Yu-Xiong Wang  
+### [HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation](http://arxiv.org/abs/2402.01524)  
+[[code](https://github.com/gmum/hyperplanes)]  
+Paweł Batorski, Dawid Malarz, Marcin Przewięźlikowski, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    We introduce ViCA-NeRF, the first view-consistency-aware method for 3D editing with text instructions. In addition to the implicit neural radiance field (NeRF) modeling, our key insight is to exploit two sources of regularization that explicitly propagate the editing information across different views, thus ensuring multi-view consistency. For geometric regularization, we leverage the depth information derived from NeRF to establish image correspondences between different views. For learned regularization, we align the latent codes in the 2D diffusion model between edited and unedited images, enabling us to edit key views and propagate the update throughout the entire scene. Incorporating these two strategies, our ViCA-NeRF operates in two stages. In the initial stage, we blend edits from different views to create a preliminary 3D edit. This is followed by a second stage of NeRF training, dedicated to further refining the scene's appearance. Experimental results demonstrate that ViCA-NeRF provides more flexible, efficient (3 times faster) editing with higher levels of consistency and details, compared with the state of the art. Our code is publicly available.  
+    Neural radiance fields (NeRFs) are a widely accepted standard for synthesizing new 3D object views from a small number of base images. However, NeRFs have limited generalization properties, which means that we need to use significant computational resources to train individual architectures for each item we want to represent. To address this issue, we propose a few-shot learning approach based on the hypernetwork paradigm that does not require gradient optimization during inference. The hypernetwork gathers information from the training data and generates an update for universal weights. As a result, we have developed an efficient method for generating a high-quality 3D object representation from a small number of images in a single step. This has been confirmed by direct comparison with the state-of-the-art solutions and a comprehensive ablation study.  
   </ol>  
 </details>  
-**comments**: Neurips2023; project page: https://github.com/Dongjiahua/VICA-NeRF  
   
-### [Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering](http://arxiv.org/abs/2402.00827)  
-Pinxin Liu, Luchuan Song, Daoan Zhang, Hang Hua, Yunlong Tang, Huaijin Tu, Jiebo Luo, Chenliang Xu  
+### [Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses](http://arxiv.org/abs/2402.01485)  
+Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Artistic video portrait generation is a significant and sought-after task in the fields of computer graphics and vision. While various methods have been developed that integrate NeRFs or StyleGANs with instructional editing models for creating and editing drivable portraits, these approaches face several challenges. They often rely heavily on large datasets, require extensive customization processes, and frequently result in reduced image quality. To address the above problems, we propose the Efficient Monotonic Video Style Avatar (Emo-Avatar) through deferred neural rendering that enhances StyleGAN's capacity for producing dynamic, drivable portrait videos. We proposed a two-stage deferred neural rendering pipeline. In the first stage, we utilize few-shot PTI initialization to initialize the StyleGAN generator through several extreme poses sampled from the video to capture the consistent representation of aligned faces from the target portrait. In the second stage, we propose a Laplacian pyramid for high-frequency texture sampling from UV maps deformed by dynamic flow of expression for motion-aware texture prior integration to provide torso features to enhance StyleGAN's ability to generate complete and upper body for portrait video rendering. Emo-Avatar reduces style customization time from hours to merely 5 minutes compared with existing methods. In addition, Emo-Avatar requires only a single reference image for editing and employs region-aware contrastive learning with semantic invariant CLIP guidance, ensuring consistent high-resolution output and identity preservation. Through both quantitative and qualitative assessments, Emo-Avatar demonstrates superior performance over existing methods in terms of training efficiency, rendering quality and editability in self- and cross-reenactment.  
+    Collaborative mapping of unknown environments can be done faster and more robustly than a single robot. However, a collaborative approach requires a distributed paradigm to be scalable and deal with communication issues. This work presents a fully distributed algorithm enabling a group of robots to collectively optimize the parameters of a Neural Radiance Field (NeRF). The algorithm involves the communication of each robot's trained NeRF parameters over a mesh network, where each robot trains its NeRF and has access to its own visual data only. Additionally, the relative poses of all robots are jointly optimized alongside the model parameters, enabling mapping with unknown relative camera poses. We show that multi-robot systems can benefit from differentiable and robust 3D reconstruction optimized from multiple NeRFs. Experiments on real-world and synthetic data demonstrate the efficiency of the proposed algorithm. See the website of the project for videos of the experiments and supplementary material(https://sites.google.com/view/di-nerf/home).  
+  </ol>  
+</details>  
+**comments**: 9 pages, 11 figures, Submitted to IEEE-RA-L  
+  
+### [GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting](http://arxiv.org/abs/2402.01459)  
+[[code](https://github.com/waczjoan/gaussian-mesh-splatting)]  
+Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    In recent years, a range of neural network-based methods for image rendering have been introduced. For instance, widely-researched neural radiance fields (NeRF) rely on a neural network to represent 3D scenes, allowing for realistic view synthesis from a small number of 2D images. However, most NeRF models are constrained by long training and inference times. In comparison, Gaussian Splatting (GS) is a novel, state-of-theart technique for rendering points in a 3D scene by approximating their contribution to image pixels through Gaussian distributions, warranting fast training and swift, real-time rendering. A drawback of GS is the absence of a well-defined approach for its conditioning due to the necessity to condition several hundred thousand Gaussian components. To solve this, we introduce Gaussian Mesh Splatting (GaMeS) model, a hybrid of mesh and a Gaussian distribution, that pin all Gaussians splats on the object surface (mesh). The unique contribution of our methods is defining Gaussian splats solely based on their location on the mesh, allowing for automatic adjustments in position, scale, and rotation during animation. As a result, we obtain high-quality renders in the real-time generation of high-quality views. Furthermore, we demonstrate that in the absence of a predefined mesh, it is possible to fine-tune the initial mesh during the learning process.  
+  </ol>  
+</details>  
+  
+### [Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization](http://arxiv.org/abs/2402.01380)  
+Zhiyu Zhang, Guo Lu, Huanxiong Liang, Anni Tang, Qiang Hu, Li Song  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Volumetric videos, benefiting from immersive 3D realism and interactivity, hold vast potential for various applications, while the tremendous data volume poses significant challenges for compression. Recently, NeRF has demonstrated remarkable potential in volumetric video compression thanks to its simple representation and powerful 3D modeling capabilities, where a notable work is ReRF. However, ReRF separates the modeling from compression process, resulting in suboptimal compression efficiency. In contrast, in this paper, we propose a volumetric video compression method based on dynamic NeRF in a more compact manner. Specifically, we decompose the NeRF representation into the coefficient fields and the basis fields, incrementally updating the basis fields in the temporal domain to achieve dynamic modeling. Additionally, we perform end-to-end joint optimization on the modeling and compression process to further improve the compression efficiency. Extensive experiments demonstrate that our method achieves higher compression efficiency compared to ReRF on various datasets.  
+  </ol>  
+</details>  
+  
+### [Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance](http://arxiv.org/abs/2402.01217)  
+Yaokun Li, Chao Gou, Guang Tan  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Neural Radiance Fields (NeRF) have demonstrated effectiveness in synthesizing novel views. However, their reliance on dense inputs and scene-specific optimization has limited their broader applicability. Generalizable NeRFs (Gen-NeRF), while intended to address this, often produce blurring artifacts in unobserved regions with sparse inputs, which are full of uncertainty. In this paper, we aim to diminish the uncertainty in Gen-NeRF for plausible renderings. We assume that NeRF's inability to effectively mitigate this uncertainty stems from its inherent lack of generative capacity. Therefore, we innovatively propose an Indirect Diffusion-guided NeRF framework, termed ID-NeRF, to address this uncertainty from a generative perspective by leveraging a distilled diffusion prior as guidance. Specifically, to avoid model confusion caused by directly regularizing with inconsistent samplings as in previous methods, our approach introduces a strategy to indirectly inject the inherently missing imagination into the learned implicit function through a diffusion-guided latent space. Empirical evaluation across various benchmarks demonstrates the superior performance of our approach in handling uncertainty with sparse inputs.  
   </ol>  
 </details>  
   
