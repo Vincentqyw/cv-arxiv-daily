@@ -36,6 +36,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
+|**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
+|**2024-02-01**|**Benchmarking Spiking Neural Network Learning Methods with Varying Locality**|Jiaqi Lin et.al.|[2402.01782](http://arxiv.org/abs/2402.01782)|null|
 |**2024-02-02**|**Controllable frequency tunability and parabolic-like threshold current behavior in spin Hall nano-oscillators**|Arunima TM et.al.|[2402.01570](http://arxiv.org/abs/2402.01570)|null|
 |**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533](http://arxiv.org/abs/2402.01533)|null|
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287](http://arxiv.org/abs/2402.01287)|null|
@@ -302,6 +305,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-04**|**Neuromorphic hardware for sustainable AI data centers**|Bernhard Vogginger et.al.|[2402.02521](http://arxiv.org/abs/2402.02521)|null|
+|**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
 |**2024-02-02**|**Controllable frequency tunability and parabolic-like threshold current behavior in spin Hall nano-oscillators**|Arunima TM et.al.|[2402.01570](http://arxiv.org/abs/2402.01570)|null|
 |**2024-01-31**|**Excitability and memory in a time-delayed optoelectronic neuron**|Jonas Mayer Martins et.al.|[2402.00227](http://arxiv.org/abs/2402.00227)|null|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
@@ -452,8 +457,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-04**|**AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art**|Faizan Farooq Khan et.al.|[2402.02453](http://arxiv.org/abs/2402.02453)|**[link](https://github.com/faixan-khan/artneuralconstellation)**|
+|**2024-02-03**|**Implicit Neural Representation of Tileable Material Textures**|Hallison Paz et.al.|[2402.02208](http://arxiv.org/abs/2402.02208)|null|
 |**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
-|**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|null|
+|**2024-02-02**|**Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation**|Zihan Yu et.al.|[2402.01254](http://arxiv.org/abs/2402.01254)|**[link](https://github.com/laser2099/neural-trajectory-model)**|
 |**2024-01-31**|**Advances in 3D Generation: A Survey**|Xiaoyu Li et.al.|[2401.17807](http://arxiv.org/abs/2401.17807)|null|
 |**2024-01-30**|**ReAlnet: Achieving More Human Brain-Like Vision via Human Neural Representational Alignment**|Zitong Lu et.al.|[2401.17231](http://arxiv.org/abs/2401.17231)|null|
 |**2024-01-28**|**Towards Arbitrary-Scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework via Implicit Self-texture Enhancement**|Minghong Duan et.al.|[2401.15613](http://arxiv.org/abs/2401.15613)|null|
@@ -797,7 +804,7 @@ layout: default
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-08**|**GEAR: A GPU-Centric Experience Replay System for Large Reinforcement Learning Models**|Hanjing Wang et.al.|[2310.05205](http://arxiv.org/abs/2310.05205)|**[link](https://github.com/bigrl-team/gear)**|
 |**2023-11-20**|**The Graph Database Interface: Scaling Online Transactional and Analytical Graph Workloads to Hundreds of Thousands of Cores**|Maciej Besta et.al.|[2305.11162](http://arxiv.org/abs/2305.11162)|**[link](https://github.com/spcl/gdi-rma)**|
-|**2023-05-16**|**Method for portable, scalable, and performant GPU-accelerated simulation of multiphase compressible flow**|Anand Radhakrishnan et.al.|[2305.09163](http://arxiv.org/abs/2305.09163)|**[link](https://github.com/MFlowCode/MFC)**|
+|**2024-02-03**|**Method for portable, scalable, and performant GPU-accelerated simulation of multiphase compressible flow**|Anand Radhakrishnan et.al.|[2305.09163](http://arxiv.org/abs/2305.09163)|**[link](https://github.com/MFlowCode/MFC)**|
 |**2023-04-15**|**Datacenter Ethernet and RDMA: Issues at Hyperscale**|Torsten Hoefler et.al.|[2302.03337](http://arxiv.org/abs/2302.03337)|null|
 |**2022-12-20**|**Efficient RDMA Communication Protocols**|Konstantin Taranov et.al.|[2212.09134](http://arxiv.org/abs/2212.09134)|null|
 |**2022-11-28**|**Distributed Parallelization of xPU Stencil Computations in Julia**|Samuel Omlin et.al.|[2211.15716](http://arxiv.org/abs/2211.15716)|null|
