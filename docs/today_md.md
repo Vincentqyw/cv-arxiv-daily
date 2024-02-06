@@ -1,65 +1,75 @@
 <details>
   <summary><b>TOC</b></summary>
   <ol>
+    <li><a href=#visual-localization>Visual Localization</a></li>
+      <ul>
+        <li><a href=#Region-Based-Representations-Revisited>Region-Based Representations Revisited</a></li>
+        <li><a href=#Zero-shot-sketch-based-remote-sensing-image-retrieval-based-on-multi-level-and-attention-guided-tokenization>Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization</a></li>
+      </ul>
+    </li>
     <li><a href=#nerf>NeRF</a></li>
       <ul>
-        <li><a href=#HyperPlanes:-Hypernetwork-Approach-to-Rapid-NeRF-Adaptation>HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation</a></li>
-        <li><a href=#Di-NeRF:-Distributed-NeRF-for-Collaborative-Learning-with-Unknown-Relative-Poses>Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses</a></li>
-        <li><a href=#GaMeS:-Mesh-Based-Adapting-and-Modification-of-Gaussian-Splatting>GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting</a></li>
-        <li><a href=#Efficient-Dynamic-NeRF-Based-Volumetric-Video-Coding-with-Rate-Distortion-Optimization>Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization</a></li>
-        <li><a href=#Taming-Uncertainty-in-Sparse-view-Generalizable-NeRF-via-Indirect-Diffusion-Guidance>Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance</a></li>
+        <li><a href=#ViewFusion:-Learning-Composable-Diffusion-Models-for-Novel-View-Synthesis>ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis</a></li>
+        <li><a href=#ConRF:-Zero-shot-Stylization-of-3D-Scenes-with-Conditioned-Radiation-Fields>ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields</a></li>
+        <li><a href=#Robust-Inverse-Graphics-via-Probabilistic-Inference>Robust Inverse Graphics via Probabilistic Inference</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
+## Visual Localization  
+
+### [Region-Based Representations Revisited](http://arxiv.org/abs/2402.02352)  
+Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    We investigate whether region-based representations are effective for recognition. Regions were once a mainstay in recognition approaches, but pixel and patch-based features are now used almost exclusively. We show that recent class-agnostic segmenters like SAM can be effectively combined with strong unsupervised representations like DINOv2 and used for a wide variety of tasks, including semantic segmentation, object-based image retrieval, and multi-image analysis. Once the masks and features are extracted, these representations, even with linear decoders, enable competitive performance, making them well suited to applications that require custom queries. The compactness of the representation also makes it well-suited to video analysis and other problems requiring inference across many images.  
+  </ol>  
+</details>  
+  
+### [Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization](http://arxiv.org/abs/2402.02141)  
+Bo Yang, Chen Wang, Xiaoshuang Ma, Beiping Song, Zhuang Liu  
+<details>  
+  <summary>Abstract</summary>  
+  <ol>  
+    Effectively and efficiently retrieving images from remote sensing databases is a critical challenge in the realm of remote sensing big data. Utilizing hand-drawn sketches as retrieval inputs offers intuitive and user-friendly advantages, yet the potential of multi-level feature integration from sketches remains underexplored, leading to suboptimal retrieval performance. To address this gap, our study introduces a novel zero-shot, sketch-based retrieval method for remote sensing images, leveraging multi-level, attention-guided tokenization. This approach starts by employing multi-level self-attention feature extraction to tokenize the query sketches, as well as self-attention feature extraction to tokenize the candidate images. It then employs cross-attention mechanisms to establish token correspondence between these two modalities, facilitating the computation of sketch-to-image similarity. Our method demonstrates superior retrieval accuracy over existing sketch-based remote sensing image retrieval techniques, as evidenced by tests on four datasets. Notably, it also exhibits robust zero-shot learning capabilities and strong generalizability in handling unseen categories and novel remote sensing data. The method's scalability can be further enhanced by the pre-calculation of retrieval tokens for all candidate images in a database. This research underscores the significant potential of multi-level, attention-guided tokenization in cross-modal remote sensing image retrieval. For broader accessibility and research facilitation, we have made the code and dataset used in this study publicly available online. Code and dataset are available at https://github.com/Snowstormfly/Cross-modal-retrieval-MLAGT.  
+  </ol>  
+</details>  
+**comments**: 13 pages, 6 figures  
+  
+  
+
+
+
 ## NeRF  
 
-### [HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation](http://arxiv.org/abs/2402.01524)  
-[[code](https://github.com/gmum/hyperplanes)]  
-Paweł Batorski, Dawid Malarz, Marcin Przewięźlikowski, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek  
+### [ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis](http://arxiv.org/abs/2402.02906)  
+[[code](https://github.com/bronemos/view-fusion)]  
+Bernard Spiegl, Andrea Perin, Stéphane Deny, Alexander Ilin  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Neural radiance fields (NeRFs) are a widely accepted standard for synthesizing new 3D object views from a small number of base images. However, NeRFs have limited generalization properties, which means that we need to use significant computational resources to train individual architectures for each item we want to represent. To address this issue, we propose a few-shot learning approach based on the hypernetwork paradigm that does not require gradient optimization during inference. The hypernetwork gathers information from the training data and generates an update for universal weights. As a result, we have developed an efficient method for generating a high-quality 3D object representation from a small number of images in a single step. This has been confirmed by direct comparison with the state-of-the-art solutions and a comprehensive ablation study.  
+    Deep learning is providing a wealth of new approaches to the old problem of novel view synthesis, from Neural Radiance Field (NeRF) based approaches to end-to-end style architectures. Each approach offers specific strengths but also comes with specific limitations in their applicability. This work introduces ViewFusion, a state-of-the-art end-to-end generative approach to novel view synthesis with unparalleled flexibility. ViewFusion consists in simultaneously applying a diffusion denoising step to any number of input views of a scene, then combining the noise gradients obtained for each view with an (inferred) pixel-weighting mask, ensuring that for each region of the target scene only the most informative input views are taken into account. Our approach resolves several limitations of previous approaches by (1) being trainable and generalizing across multiple scenes and object classes, (2) adaptively taking in a variable number of pose-free views at both train and test time, (3) generating plausible views even in severely undetermined conditions (thanks to its generative nature) -- all while generating views of quality on par or even better than state-of-the-art methods. Limitations include not generating a 3D embedding of the scene, resulting in a relatively slow inference speed, and our method only being tested on the relatively small dataset NMR. Code is available.  
   </ol>  
 </details>  
   
-### [Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses](http://arxiv.org/abs/2402.01485)  
-Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi  
+### [ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields](http://arxiv.org/abs/2402.01950)  
+[[code](https://github.com/xingy038/conrf)]  
+Xingyu Miao, Yang Bai, Haoran Duan, Fan Wan, Yawen Huang, Yang Long, Yefeng Zheng  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Collaborative mapping of unknown environments can be done faster and more robustly than a single robot. However, a collaborative approach requires a distributed paradigm to be scalable and deal with communication issues. This work presents a fully distributed algorithm enabling a group of robots to collectively optimize the parameters of a Neural Radiance Field (NeRF). The algorithm involves the communication of each robot's trained NeRF parameters over a mesh network, where each robot trains its NeRF and has access to its own visual data only. Additionally, the relative poses of all robots are jointly optimized alongside the model parameters, enabling mapping with unknown relative camera poses. We show that multi-robot systems can benefit from differentiable and robust 3D reconstruction optimized from multiple NeRFs. Experiments on real-world and synthetic data demonstrate the efficiency of the proposed algorithm. See the website of the project for videos of the experiments and supplementary material(https://sites.google.com/view/di-nerf/home).  
-  </ol>  
-</details>  
-**comments**: 9 pages, 11 figures, Submitted to IEEE-RA-L  
-  
-### [GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting](http://arxiv.org/abs/2402.01459)  
-[[code](https://github.com/waczjoan/gaussian-mesh-splatting)]  
-Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    In recent years, a range of neural network-based methods for image rendering have been introduced. For instance, widely-researched neural radiance fields (NeRF) rely on a neural network to represent 3D scenes, allowing for realistic view synthesis from a small number of 2D images. However, most NeRF models are constrained by long training and inference times. In comparison, Gaussian Splatting (GS) is a novel, state-of-theart technique for rendering points in a 3D scene by approximating their contribution to image pixels through Gaussian distributions, warranting fast training and swift, real-time rendering. A drawback of GS is the absence of a well-defined approach for its conditioning due to the necessity to condition several hundred thousand Gaussian components. To solve this, we introduce Gaussian Mesh Splatting (GaMeS) model, a hybrid of mesh and a Gaussian distribution, that pin all Gaussians splats on the object surface (mesh). The unique contribution of our methods is defining Gaussian splats solely based on their location on the mesh, allowing for automatic adjustments in position, scale, and rotation during animation. As a result, we obtain high-quality renders in the real-time generation of high-quality views. Furthermore, we demonstrate that in the absence of a predefined mesh, it is possible to fine-tune the initial mesh during the learning process.  
+    Most of the existing works on arbitrary 3D NeRF style transfer required retraining on each single style condition. This work aims to achieve zero-shot controlled stylization in 3D scenes utilizing text or visual input as conditioning factors. We introduce ConRF, a novel method of zero-shot stylization. Specifically, due to the ambiguity of CLIP features, we employ a conversion process that maps the CLIP feature space to the style space of a pre-trained VGG network and then refine the CLIP multi-modal knowledge into a style transfer neural radiation field. Additionally, we use a 3D volumetric representation to perform local style transfer. By combining these operations, ConRF offers the capability to utilize either text or images as references, resulting in the generation of sequences with novel views enhanced by global or local stylization. Our experiment demonstrates that ConRF outperforms other existing methods for 3D scene and single-text stylization in terms of visual quality.  
   </ol>  
 </details>  
   
-### [Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization](http://arxiv.org/abs/2402.01380)  
-Zhiyu Zhang, Guo Lu, Huanxiong Liang, Anni Tang, Qiang Hu, Li Song  
+### [Robust Inverse Graphics via Probabilistic Inference](http://arxiv.org/abs/2402.01915)  
+Tuan Anh Le, Pavel Sountsov, Matthew D. Hoffman, Ben Lee, Brian Patton, Rif A. Saurous  
 <details>  
   <summary>Abstract</summary>  
   <ol>  
-    Volumetric videos, benefiting from immersive 3D realism and interactivity, hold vast potential for various applications, while the tremendous data volume poses significant challenges for compression. Recently, NeRF has demonstrated remarkable potential in volumetric video compression thanks to its simple representation and powerful 3D modeling capabilities, where a notable work is ReRF. However, ReRF separates the modeling from compression process, resulting in suboptimal compression efficiency. In contrast, in this paper, we propose a volumetric video compression method based on dynamic NeRF in a more compact manner. Specifically, we decompose the NeRF representation into the coefficient fields and the basis fields, incrementally updating the basis fields in the temporal domain to achieve dynamic modeling. Additionally, we perform end-to-end joint optimization on the modeling and compression process to further improve the compression efficiency. Extensive experiments demonstrate that our method achieves higher compression efficiency compared to ReRF on various datasets.  
-  </ol>  
-</details>  
-  
-### [Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance](http://arxiv.org/abs/2402.01217)  
-Yaokun Li, Chao Gou, Guang Tan  
-<details>  
-  <summary>Abstract</summary>  
-  <ol>  
-    Neural Radiance Fields (NeRF) have demonstrated effectiveness in synthesizing novel views. However, their reliance on dense inputs and scene-specific optimization has limited their broader applicability. Generalizable NeRFs (Gen-NeRF), while intended to address this, often produce blurring artifacts in unobserved regions with sparse inputs, which are full of uncertainty. In this paper, we aim to diminish the uncertainty in Gen-NeRF for plausible renderings. We assume that NeRF's inability to effectively mitigate this uncertainty stems from its inherent lack of generative capacity. Therefore, we innovatively propose an Indirect Diffusion-guided NeRF framework, termed ID-NeRF, to address this uncertainty from a generative perspective by leveraging a distilled diffusion prior as guidance. Specifically, to avoid model confusion caused by directly regularizing with inconsistent samplings as in previous methods, our approach introduces a strategy to indirectly inject the inherently missing imagination into the learned implicit function through a diffusion-guided latent space. Empirical evaluation across various benchmarks demonstrates the superior performance of our approach in handling uncertainty with sparse inputs.  
+    How do we infer a 3D scene from a single image in the presence of corruptions like rain, snow or fog? Straightforward domain randomization relies on knowing the family of corruptions ahead of time. Here, we propose a Bayesian approach-dubbed robust inverse graphics (RIG)-that relies on a strong scene prior and an uninformative uniform corruption prior, making it applicable to a wide range of corruptions. Given a single image, RIG performs posterior inference jointly over the scene and the corruption. We demonstrate this idea by training a neural radiance field (NeRF) scene prior and using a secondary NeRF to represent the corruptions over which we place an uninformative prior. RIG, trained only on clean data, outperforms depth estimators and alternative NeRF approaches that perform point estimation instead of full inference. The results hold for a number of scene prior architectures based on normalizing flows and diffusion models. For the latter, we develop reconstruction-guidance with auxiliary latents (ReGAL)-a diffusion conditioning algorithm that is applicable in the presence of auxiliary latent variables such as the corruption. RIG demonstrates how scene priors can be used beyond generation tasks.  
   </ol>  
 </details>  
   
