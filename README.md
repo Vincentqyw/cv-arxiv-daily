@@ -32,6 +32,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
 |**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
 |**2024-02-01**|**Benchmarking Spiking Neural Network Learning Methods with Varying Locality**|Jiaqi Lin et.al.|[2402.01782](http://arxiv.org/abs/2402.01782)|null|
@@ -301,6 +302,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-04**|**Neuromorphic hardware for sustainable AI data centers**|Bernhard Vogginger et.al.|[2402.02521](http://arxiv.org/abs/2402.02521)|null|
 |**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
 |**2024-02-02**|**Controllable frequency tunability and parabolic-like threshold current behavior in spin Hall nano-oscillators**|Arunima TM et.al.|[2402.01570](http://arxiv.org/abs/2402.01570)|null|
