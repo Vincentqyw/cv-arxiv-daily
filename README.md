@@ -32,6 +32,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Nonlinear behavior of area dependent interface type resistive switching devices**|Sahitya Yarragolla et.al.|[2402.04848](http://arxiv.org/abs/2402.04848)|null|
+|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798](http://arxiv.org/abs/2402.04798)|null|
+|**2024-02-07**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663](http://arxiv.org/abs/2402.04663)|null|
+|**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596](http://arxiv.org/abs/2402.04596)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
 |**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
@@ -302,6 +306,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Nonlinear behavior of area dependent interface type resistive switching devices**|Sahitya Yarragolla et.al.|[2402.04848](http://arxiv.org/abs/2402.04848)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
 |**2024-02-04**|**Neuromorphic hardware for sustainable AI data centers**|Bernhard Vogginger et.al.|[2402.02521](http://arxiv.org/abs/2402.02521)|null|
 |**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
