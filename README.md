@@ -32,6 +32,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
 |**2024-02-09**|**Towards Chip-in-the-loop Spiking Neural Network Training via Metropolis-Hastings Sampling**|Ali Safa et.al.|[2402.06284](http://arxiv.org/abs/2402.06284)|null|
 |**2024-02-09**|**Fine-Tuning Surrogate Gradient Learning for Optimal Hardware Performance in Spiking Neural Networks**|Ilkin Aliyev et.al.|[2402.06211](http://arxiv.org/abs/2402.06211)|null|
@@ -312,6 +313,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
 |**2024-02-07**|**Nonlinear behavior of area dependent interface type resistive switching devices**|Sahitya Yarragolla et.al.|[2402.04848](http://arxiv.org/abs/2402.04848)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
@@ -467,6 +469,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks**|Chengxi Zeng et.al.|[2402.08367](http://arxiv.org/abs/2402.08367)|null|
+|**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280](http://arxiv.org/abs/2402.08280)|**[link](https://github.com/ml-research/pix2code)**|
 |**2024-02-10**|**Training dynamics in Physics-Informed Neural Networks with feature mapping**|Chengxi Zeng et.al.|[2402.06955](http://arxiv.org/abs/2402.06955)|null|
 |**2024-02-05**|**Hybrid Neural Representations for Spherical Data**|Hyomin Kim et.al.|[2402.05965](http://arxiv.org/abs/2402.05965)|null|
 |**2024-02-08**|**Sandwiched Compression: Repurposing Standard Codecs with Neural Network Wrappers**|Onur G. Guleryuz et.al.|[2402.05887](http://arxiv.org/abs/2402.05887)|**[link](https://github.com/google/sandwiched_compression)**|
