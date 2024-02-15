@@ -36,6 +36,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks**|Zihang Song et.al.|[2402.09109](http://arxiv.org/abs/2402.09109)|null|
 |**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
 |**2024-02-09**|**Towards Chip-in-the-loop Spiking Neural Network Training via Metropolis-Hastings Sampling**|Ali Safa et.al.|[2402.06284](http://arxiv.org/abs/2402.06284)|null|
@@ -473,6 +474,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**When Representations Align: Universality in Representation Learning Dynamics**|Loek van Rossem et.al.|[2402.09142](http://arxiv.org/abs/2402.09142)|null|
+|**2024-02-14**|**CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding**|Qiongyi Zhou et.al.|[2402.08994](http://arxiv.org/abs/2402.08994)|**[link](https://github.com/clip-mused/clip-mused)**|
+|**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
+|**2024-02-14**|**DeepPolar: Inventing Nonlinear Large-Kernel Polar Codes via Deep Learning**|S Ashwin Hebbar et.al.|[2402.08864](http://arxiv.org/abs/2402.08864)|null|
+|**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks**|Chengxi Zeng et.al.|[2402.08367](http://arxiv.org/abs/2402.08367)|null|
 |**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280](http://arxiv.org/abs/2402.08280)|**[link](https://github.com/ml-research/pix2code)**|
 |**2024-02-10**|**Training dynamics in Physics-Informed Neural Networks with feature mapping**|Chengxi Zeng et.al.|[2402.06955](http://arxiv.org/abs/2402.06955)|null|
@@ -778,6 +784,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
+|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
 |**2024-01-02**|**High-dimensional FGM-ResNet modelling of turbulent spray combustion: Effects of evaporation non-adiabacity and scalar correlation**|Dong Wang et.al.|[2401.01045](http://arxiv.org/abs/2401.01045)|null|
@@ -800,6 +808,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
+|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**Frustrated with MPI+Threads? Try MPIxThreads!**|Hui Zhou et.al.|[2401.16551](http://arxiv.org/abs/2401.16551)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
