@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.16
+## Updated on 2024.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -480,7 +480,7 @@ layout: default
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
 |**2024-02-14**|**DeepPolar: Inventing Nonlinear Large-Kernel Polar Codes via Deep Learning**|S Ashwin Hebbar et.al.|[2402.08864](http://arxiv.org/abs/2402.08864)|null|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
-|**2024-02-13**|**RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks**|Chengxi Zeng et.al.|[2402.08367](http://arxiv.org/abs/2402.08367)|null|
+|**2024-02-13**|**RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks**|Chengxi Zeng et.al.|[2402.08367](http://arxiv.org/abs/2402.08367)|**[link](https://github.com/SimonZeng7108/RBF-PINN)**|
 |**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280](http://arxiv.org/abs/2402.08280)|**[link](https://github.com/ml-research/pix2code)**|
 |**2024-02-10**|**Training dynamics in Physics-Informed Neural Networks with feature mapping**|Chengxi Zeng et.al.|[2402.06955](http://arxiv.org/abs/2402.06955)|null|
 |**2024-02-05**|**Hybrid Neural Representations for Spherical Data**|Hyomin Kim et.al.|[2402.05965](http://arxiv.org/abs/2402.05965)|null|
