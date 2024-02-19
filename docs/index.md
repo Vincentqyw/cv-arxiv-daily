@@ -10,6 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation**|Kourosh Parand et.al.|[2402.10649](http://arxiv.org/abs/2402.10649)|null|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045](http://arxiv.org/abs/2401.15045)|null|
 |**2024-02-09**|**Inverse analysis of granular flows using differentiable graph neural network simulator**|Yongjin Choi et.al.|[2401.13695](http://arxiv.org/abs/2401.13695)|**[link](https://github.com/geoelements/gns)**|
 |**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
@@ -36,6 +37,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Controlled light distribution with coupled microresonator chains via Kerr symmetry breaking**|Alekhya Ghosh et.al.|[2402.10673](http://arxiv.org/abs/2402.10673)|null|
+|**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
+|**2024-02-15**|**Evaluating the transport properties of interface-type, analog memristors**|Sahitya V. Vegesna et.al.|[2402.10358](http://arxiv.org/abs/2402.10358)|null|
 |**2024-02-14**|**Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks**|Zihang Song et.al.|[2402.09109](http://arxiv.org/abs/2402.09109)|null|
 |**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
@@ -318,6 +322,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Controlled light distribution with coupled microresonator chains via Kerr symmetry breaking**|Alekhya Ghosh et.al.|[2402.10673](http://arxiv.org/abs/2402.10673)|null|
+|**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
+|**2024-02-15**|**Evaluating the transport properties of interface-type, analog memristors**|Sahitya V. Vegesna et.al.|[2402.10358](http://arxiv.org/abs/2402.10358)|null|
 |**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792](http://arxiv.org/abs/2402.09792)|null|
 |**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
