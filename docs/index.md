@@ -37,6 +37,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984](http://arxiv.org/abs/2402.11984)|**[link](https://github.com/pkuxmq/hlop-snn)**|
+|**2024-02-19**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748](http://arxiv.org/abs/2402.11748)|null|
+|**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662](http://arxiv.org/abs/2402.11662)|null|
+|**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612](http://arxiv.org/abs/2402.11612)|null|
+|**2024-02-18**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588](http://arxiv.org/abs/2402.11588)|null|
+|**2024-02-17**|**SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2402.11322](http://arxiv.org/abs/2402.11322)|null|
 |**2024-02-16**|**Controlled light distribution with coupled microresonator chains via Kerr symmetry breaking**|Alekhya Ghosh et.al.|[2402.10673](http://arxiv.org/abs/2402.10673)|null|
 |**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
 |**2024-02-15**|**Evaluating the transport properties of interface-type, analog memristors**|Sahitya V. Vegesna et.al.|[2402.10358](http://arxiv.org/abs/2402.10358)|null|
@@ -322,6 +328,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Factor Machine: Mixed-signal Architecture for Fine-Grained Graph-Based Computing**|Pitr Dudek et.al.|[2402.12130](http://arxiv.org/abs/2402.12130)|null|
+|**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984](http://arxiv.org/abs/2402.11984)|**[link](https://github.com/pkuxmq/hlop-snn)**|
+|**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662](http://arxiv.org/abs/2402.11662)|null|
 |**2024-02-16**|**Controlled light distribution with coupled microresonator chains via Kerr symmetry breaking**|Alekhya Ghosh et.al.|[2402.10673](http://arxiv.org/abs/2402.10673)|null|
 |**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
 |**2024-02-15**|**Evaluating the transport properties of interface-type, analog memristors**|Sahitya V. Vegesna et.al.|[2402.10358](http://arxiv.org/abs/2402.10358)|null|
@@ -482,6 +491,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-18**|**Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations**|Louis Jalouzot et.al.|[2402.11608](http://arxiv.org/abs/2402.11608)|null|
 |**2024-02-14**|**When Representations Align: Universality in Representation Learning Dynamics**|Loek van Rossem et.al.|[2402.09142](http://arxiv.org/abs/2402.09142)|null|
 |**2024-02-14**|**CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding**|Qiongyi Zhou et.al.|[2402.08994](http://arxiv.org/abs/2402.08994)|**[link](https://github.com/clip-mused/clip-mused)**|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
@@ -792,6 +802,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
 |**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
