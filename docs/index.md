@@ -328,7 +328,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-19**|**Factor Machine: Mixed-signal Architecture for Fine-Grained Graph-Based Computing**|Pitr Dudek et.al.|[2402.12130](http://arxiv.org/abs/2402.12130)|null|
+|**2024-02-20**|**Factor Machine: Mixed-signal Architecture for Fine-Grained Graph-Based Computing**|Piotr Dudek et.al.|[2402.12130](http://arxiv.org/abs/2402.12130)|null|
 |**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984](http://arxiv.org/abs/2402.11984)|**[link](https://github.com/pkuxmq/hlop-snn)**|
 |**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662](http://arxiv.org/abs/2402.11662)|null|
 |**2024-02-16**|**Controlled light distribution with coupled microresonator chains via Kerr symmetry breaking**|Alekhya Ghosh et.al.|[2402.10673](http://arxiv.org/abs/2402.10673)|null|
@@ -491,6 +491,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226](http://arxiv.org/abs/2402.13226)|null|
+|**2024-02-20**|**The dynamics of neural codes in biological and artificial neural networks**|Guillermo B. Morales et.al.|[2402.12796](http://arxiv.org/abs/2402.12796)|null|
+|**2024-02-20**|**PDEformer: Towards a Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2402.12652](http://arxiv.org/abs/2402.12652)|null|
 |**2024-02-18**|**Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations**|Louis Jalouzot et.al.|[2402.11608](http://arxiv.org/abs/2402.11608)|null|
 |**2024-02-14**|**When Representations Align: Universality in Representation Learning Dynamics**|Loek van Rossem et.al.|[2402.09142](http://arxiv.org/abs/2402.09142)|null|
 |**2024-02-14**|**CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding**|Qiongyi Zhou et.al.|[2402.08994](http://arxiv.org/abs/2402.08994)|**[link](https://github.com/clip-mused/clip-mused)**|
