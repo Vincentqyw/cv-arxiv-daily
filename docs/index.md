@@ -37,11 +37,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Scalable Superconductor Neuron with Ternary Synaptic Connections for Ultra-Fast SNN Hardware**|Mustafa Altay Karamuftuoglu et.al.|[2402.16384](http://arxiv.org/abs/2402.16384)|null|
+|**2024-02-25**|**Efficient Online Learning for Networks of Two-Compartment Spiking Neurons**|Yujia Yin et.al.|[2402.15969](http://arxiv.org/abs/2402.15969)|null|
 |**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984](http://arxiv.org/abs/2402.11984)|**[link](https://github.com/pkuxmq/hlop-snn)**|
-|**2024-02-19**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748](http://arxiv.org/abs/2402.11748)|**[link](https://github.com/synsense/haghighatshoarmuir2024)**|
+|**2024-02-25**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748](http://arxiv.org/abs/2402.11748)|**[link](https://github.com/synsense/haghighatshoarmuir2024)**|
 |**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662](http://arxiv.org/abs/2402.11662)|null|
 |**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612](http://arxiv.org/abs/2402.11612)|null|
-|**2024-02-18**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588](http://arxiv.org/abs/2402.11588)|null|
+|**2024-02-24**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588](http://arxiv.org/abs/2402.11588)|null|
 |**2024-02-17**|**SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2402.11322](http://arxiv.org/abs/2402.11322)|null|
 |**2024-02-16**|**Controlled light distribution with coupled microresonator chains via Kerr symmetry breaking**|Alekhya Ghosh et.al.|[2402.10673](http://arxiv.org/abs/2402.10673)|null|
 |**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
@@ -491,6 +493,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Smooth and Sparse Latent Dynamics in Operator Learning with Jerk Regularization**|Xiaoyu Xie et.al.|[2402.15636](http://arxiv.org/abs/2402.15636)|null|
 |**2024-02-22**|**Contrastive Learning of Shared Spatiotemporal EEG Representations Across Individuals for Naturalistic Neuroscience**|Xinke Shen et.al.|[2402.14213](http://arxiv.org/abs/2402.14213)|null|
 |**2024-02-23**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
 |**2024-02-21**|**Improving Efficiency of Iso-Surface Extraction on Implicit Neural Representations Using Uncertainty Propagation**|Haoyu Li et.al.|[2402.13861](http://arxiv.org/abs/2402.13861)|null|
