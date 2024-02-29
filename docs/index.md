@@ -37,6 +37,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Neuromorphic Event-Driven Semantic Communication in Microgrids**|Xiaoguang Diao et.al.|[2402.18390](http://arxiv.org/abs/2402.18390)|null|
 |**2024-02-26**|**Single Neuromorphic Memristor closely Emulates Multiple Synaptic Mechanisms for Energy Efficient Neural Networks**|Christoph Weilenmann et.al.|[2402.16628](http://arxiv.org/abs/2402.16628)|null|
 |**2024-02-27**|**Scalable Superconductor Neuron with Ternary Synaptic Connections for Ultra-Fast SNN Hardware**|Mustafa Altay Karamuftuoglu et.al.|[2402.16384](http://arxiv.org/abs/2402.16384)|null|
 |**2024-02-25**|**Efficient Online Learning for Networks of Two-Compartment Spiking Neurons**|Yujia Yin et.al.|[2402.15969](http://arxiv.org/abs/2402.15969)|null|
@@ -495,6 +496,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
+|**2024-02-28**|**Boosting Neural Representations for Videos with a Conditional Decoder**|Xinjie Zhang et.al.|[2402.18152](http://arxiv.org/abs/2402.18152)|null|
 |**2024-02-27**|**Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design**|Runze Li et.al.|[2402.17299](http://arxiv.org/abs/2402.17299)|null|
 |**2024-02-26**|**Towards Decoding Brain Activity During Passive Listening of Speech**|Milán András Fodor et.al.|[2402.16996](http://arxiv.org/abs/2402.16996)|**[link](https://github.com/milaniusz/speech2brain2speech)**|
 |**2024-02-26**|**Neural Population Geometry and Optimal Coding of Tasks with Shared Latent Structure**|Albert J. Wakhloo et.al.|[2402.16770](http://arxiv.org/abs/2402.16770)|null|
