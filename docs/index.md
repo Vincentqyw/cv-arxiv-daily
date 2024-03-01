@@ -37,6 +37,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**A Unified Evaluation Framework for Spiking Neural Network Hardware Accelerators Based on Emerging Non-Volatile Memory Devices**|Debasis Das et.al.|[2402.19139](http://arxiv.org/abs/2402.19139)|null|
+|**2024-02-29**|**Optimal ANN-SNN Conversion with Group Neurons**|Liuzhenghao Lv et.al.|[2402.19061](http://arxiv.org/abs/2402.19061)|**[link](https://github.com/lyu6poshao/ann2snn_gn)**|
+|**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994](http://arxiv.org/abs/2402.18994)|**[link](https://github.com/kmheckel/spyx)**|
 |**2024-02-28**|**Neuromorphic Event-Driven Semantic Communication in Microgrids**|Xiaoguang Diao et.al.|[2402.18390](http://arxiv.org/abs/2402.18390)|null|
 |**2024-02-26**|**Single Neuromorphic Memristor closely Emulates Multiple Synaptic Mechanisms for Energy Efficient Neural Networks**|Christoph Weilenmann et.al.|[2402.16628](http://arxiv.org/abs/2402.16628)|null|
 |**2024-02-27**|**Scalable Superconductor Neuron with Ternary Synaptic Connections for Ultra-Fast SNN Hardware**|Mustafa Altay Karamuftuoglu et.al.|[2402.16384](http://arxiv.org/abs/2402.16384)|null|
@@ -332,6 +335,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994](http://arxiv.org/abs/2402.18994)|**[link](https://github.com/kmheckel/spyx)**|
 |**2024-02-26**|**Single Neuromorphic Memristor closely Emulates Multiple Synaptic Mechanisms for Energy Efficient Neural Networks**|Christoph Weilenmann et.al.|[2402.16628](http://arxiv.org/abs/2402.16628)|null|
 |**2024-02-20**|**Factor Machine: Mixed-signal Architecture for Fine-Grained Graph-Based Computing**|Piotr Dudek et.al.|[2402.12130](http://arxiv.org/abs/2402.12130)|null|
 |**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984](http://arxiv.org/abs/2402.11984)|**[link](https://github.com/pkuxmq/hlop-snn)**|
@@ -496,6 +500,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771](http://arxiv.org/abs/2402.18771)|null|
 |**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
 |**2024-02-28**|**Boosting Neural Representations for Videos with a Conditional Decoder**|Xinjie Zhang et.al.|[2402.18152](http://arxiv.org/abs/2402.18152)|null|
 |**2024-02-27**|**Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design**|Runze Li et.al.|[2402.17299](http://arxiv.org/abs/2402.17299)|null|
@@ -504,7 +509,7 @@ layout: default
 |**2024-02-26**|**Neural Mesh Fusion: Unsupervised 3D Planar Surface Understanding**|Farhad G. Zanjani et.al.|[2402.16739](http://arxiv.org/abs/2402.16739)|null|
 |**2024-02-23**|**Smooth and Sparse Latent Dynamics in Operator Learning with Jerk Regularization**|Xiaoyu Xie et.al.|[2402.15636](http://arxiv.org/abs/2402.15636)|null|
 |**2024-02-22**|**Contrastive Learning of Shared Spatiotemporal EEG Representations Across Individuals for Naturalistic Neuroscience**|Xinke Shen et.al.|[2402.14213](http://arxiv.org/abs/2402.14213)|null|
-|**2024-02-23**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
+|**2024-02-29**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
 |**2024-02-21**|**Improving Efficiency of Iso-Surface Extraction on Implicit Neural Representations Using Uncertainty Propagation**|Haoyu Li et.al.|[2402.13861](http://arxiv.org/abs/2402.13861)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510](http://arxiv.org/abs/2402.13510)|null|
 |**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226](http://arxiv.org/abs/2402.13226)|null|
@@ -890,7 +895,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|null|
+|**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
 |**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
 |**2024-01-11**|**HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis**|Shiwei Zhang et.al.|[2401.05965](http://arxiv.org/abs/2401.05965)|**[link](https://github.com/alibaba/hap)**|
 |**2023-12-20**|**Towards Distributed Semi-speculative Adaptive Anisotropic Parallel Mesh Generation**|Kevin Garner et.al.|[2312.13433](http://arxiv.org/abs/2312.13433)|null|
