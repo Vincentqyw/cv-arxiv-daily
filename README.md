@@ -511,7 +511,7 @@
 |**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226](http://arxiv.org/abs/2402.13226)|null|
 |**2024-02-20**|**The dynamics of neural codes in biological and artificial neural networks**|Guillermo B. Morales et.al.|[2402.12796](http://arxiv.org/abs/2402.12796)|null|
 |**2024-02-20**|**PDEformer: Towards a Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2402.12652](http://arxiv.org/abs/2402.12652)|null|
-|**2024-02-18**|**Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations**|Louis Jalouzot et.al.|[2402.11608](http://arxiv.org/abs/2402.11608)|null|
+|**2024-02-18**|**Metric-Learning Encoding Models Identify Processing Profiles of Linguistic Features in BERT's Representations**|Louis Jalouzot et.al.|[2402.11608](http://arxiv.org/abs/2402.11608)|**[link](https://github.com/LouisJalouzot/MLEM)**|
 |**2024-02-14**|**When Representations Align: Universality in Representation Learning Dynamics**|Loek van Rossem et.al.|[2402.09142](http://arxiv.org/abs/2402.09142)|null|
 |**2024-02-14**|**CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding**|Qiongyi Zhou et.al.|[2402.08994](http://arxiv.org/abs/2402.08994)|**[link](https://github.com/clip-mused/clip-mused)**|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|null|
