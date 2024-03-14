@@ -1,4 +1,4 @@
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -33,10 +33,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-04**|**High-speed Low-consumption sEMG-based Transient-state micro-Gesture Recognition by Spiking Neural Network**|Youfang Han et.al.|[2403.06998](http://arxiv.org/abs/2403.06998)|null|
+|**2024-03-13**|**High-speed Low-consumption sEMG-based Transient-state micro-Gesture Recognition**|Youfang Han et.al.|[2403.06998](http://arxiv.org/abs/2403.06998)|null|
 |**2024-03-10**|**Finding Visual Saliency in Continuous Spike Stream**|Lin Zhu et.al.|[2403.06233](http://arxiv.org/abs/2403.06233)|**[link](https://github.com/bit-vision/svs)**|
 |**2024-03-09**|**sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks**|Qu Yang et.al.|[2403.05772](http://arxiv.org/abs/2403.05772)|null|
-|**2024-03-07**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
+|**2024-03-13**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
 |**2024-03-07**|**Noisy Spiking Actor Network for Exploration**|Ding Chen et.al.|[2403.04162](http://arxiv.org/abs/2403.04162)|null|
 |**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775](http://arxiv.org/abs/2403.03775)|null|
 |**2024-03-06**|**Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN**|Biswadeep Chakraborty et.al.|[2403.03409](http://arxiv.org/abs/2403.03409)|null|
@@ -344,7 +344,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-11**|**The Ouroboros of Memristors: Neural Networks Facilitating Memristor Programming**|Zhenming Yu et.al.|[2403.06712](http://arxiv.org/abs/2403.06712)|null|
-|**2024-03-07**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
+|**2024-03-13**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
 |**2024-03-05**|**Linear Codes for Hyperdimensional Computing**|Netanel Raviv et.al.|[2403.03278](http://arxiv.org/abs/2403.03278)|null|
 |**2024-03-05**|**Mem-elements based Neuromorphic Hardware for Neural Network Application**|Ankur Singh et.al.|[2403.03002](http://arxiv.org/abs/2403.03002)|null|
 |**2024-03-04**|**Analysis and Fully Memristor-based Reservoir Computing for Temporal Data Classification**|Ankur Singh et.al.|[2403.01827](http://arxiv.org/abs/2403.01827)|null|
@@ -870,7 +870,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|null|
+|**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
 |**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518](http://arxiv.org/abs/2403.02518)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
 |**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
