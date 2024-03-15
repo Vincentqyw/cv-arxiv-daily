@@ -37,6 +37,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274](http://arxiv.org/abs/2403.09274)|**[link](https://github.com/myuansun/eventrpg)**|
+|**2024-03-14**|**Temporal Signal Processing with Nonlocal Optical Metasurfaces**|Michele Cotrufo et.al.|[2403.09087](http://arxiv.org/abs/2403.09087)|null|
+|**2024-03-13**|**Neuromorphic force-control in an industrial task: validating energy and latency benefits**|Camilo Amaya et.al.|[2403.08928](http://arxiv.org/abs/2403.08928)|null|
 |**2024-03-13**|**High-speed Low-consumption sEMG-based Transient-state micro-Gesture Recognition**|Youfang Han et.al.|[2403.06998](http://arxiv.org/abs/2403.06998)|null|
 |**2024-03-10**|**Finding Visual Saliency in Continuous Spike Stream**|Lin Zhu et.al.|[2403.06233](http://arxiv.org/abs/2403.06233)|**[link](https://github.com/bit-vision/svs)**|
 |**2024-03-09**|**sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks**|Qu Yang et.al.|[2403.05772](http://arxiv.org/abs/2403.05772)|null|
@@ -347,6 +350,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Temporal Signal Processing with Nonlocal Optical Metasurfaces**|Michele Cotrufo et.al.|[2403.09087](http://arxiv.org/abs/2403.09087)|null|
+|**2024-03-13**|**Neuromorphic force-control in an industrial task: validating energy and latency benefits**|Camilo Amaya et.al.|[2403.08928](http://arxiv.org/abs/2403.08928)|null|
 |**2024-03-11**|**The Ouroboros of Memristors: Neural Networks Facilitating Memristor Programming**|Zhenming Yu et.al.|[2403.06712](http://arxiv.org/abs/2403.06712)|null|
 |**2024-03-13**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
 |**2024-03-05**|**Linear Codes for Hyperdimensional Computing**|Netanel Raviv et.al.|[2403.03278](http://arxiv.org/abs/2403.03278)|null|
@@ -518,6 +523,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**SketchINR: A First Look into Sketches as Implicit Neural Representations**|Hmrishav Bandyopadhyay et.al.|[2403.09344](http://arxiv.org/abs/2403.09344)|null|
+|**2024-03-14**|**A Hierarchical Fused Quantum Fuzzy Neural Network for Image Classification**|Sheng-Yao Wu et.al.|[2403.09318](http://arxiv.org/abs/2403.09318)|null|
+|**2024-03-13**|**Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields**|Ashish Sinha et.al.|[2403.08974](http://arxiv.org/abs/2403.08974)|null|
 |**2024-03-13**|**A Novel Implicit Neural Representation for Volume Data**|Armin Sheibanifard et.al.|[2403.08566](http://arxiv.org/abs/2403.08566)|null|
 |**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|null|
 |**2024-03-11**|**Multi-Scale Implicit Transformer with Re-parameterize for Arbitrary-Scale Super-Resolution**|Jinchen Zhu et.al.|[2403.06536](http://arxiv.org/abs/2403.06536)|null|
@@ -851,6 +859,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
 |**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
@@ -876,6 +885,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
 |**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518](http://arxiv.org/abs/2403.02518)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
