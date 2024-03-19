@@ -1,4 +1,4 @@
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -355,7 +355,7 @@
 |**2024-03-13**|**Scalable On-Chip Optical Linear Processing Unit Using a Single Thin-Film Lithium Niobate Ring Modulator**|Zhaoang Deng et.al.|[2403.04216](http://arxiv.org/abs/2403.04216)|null|
 |**2024-03-05**|**Linear Codes for Hyperdimensional Computing**|Netanel Raviv et.al.|[2403.03278](http://arxiv.org/abs/2403.03278)|null|
 |**2024-03-05**|**Mem-elements based Neuromorphic Hardware for Neural Network Application**|Ankur Singh et.al.|[2403.03002](http://arxiv.org/abs/2403.03002)|null|
-|**2024-03-04**|**Analysis and Fully Memristor-based Reservoir Computing for Temporal Data Classification**|Ankur Singh et.al.|[2403.01827](http://arxiv.org/abs/2403.01827)|null|
+|**2024-03-16**|**Analysis and Fully Memristor-based Reservoir Computing for Temporal Data Classification**|Ankur Singh et.al.|[2403.01827](http://arxiv.org/abs/2403.01827)|null|
 |**2024-03-01**|**Event-Driven Learning for Spiking Neural Networks**|Wenjie Wei et.al.|[2403.00270](http://arxiv.org/abs/2403.00270)|null|
 |**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994](http://arxiv.org/abs/2402.18994)|**[link](https://github.com/kmheckel/spyx)**|
 |**2024-02-26**|**Single Neuromorphic Memristor closely Emulates Multiple Synaptic Mechanisms for Energy Efficient Neural Networks**|Christoph Weilenmann et.al.|[2402.16628](http://arxiv.org/abs/2402.16628)|null|
