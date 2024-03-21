@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -646,7 +646,7 @@ layout: default
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-13**|**Training Self-localization Models for Unseen Unfamiliar Places via Teacher-to-Student Data-Free Knowledge Transfer**|Kenta Tsukahara et.al.|[2403.10552](http://arxiv.org/abs/2403.10552)|null|
-|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
+|**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-14**|**VDNA-PR: Using General Dataset Representations for Robust Sequential Visual Place Recognition**|Benjamin Ramtoula et.al.|[2403.09025](http://arxiv.org/abs/2403.09025)|null|
