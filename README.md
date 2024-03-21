@@ -33,6 +33,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
+|**2024-03-20**|**Ultrahigh Frequency and Multi-channel Output in Skyrmion Based Nano-oscillator**|Abhishek Sharma et.al.|[2403.13478](http://arxiv.org/abs/2403.13478)|null|
 |**2024-03-19**|**Interlayer Dzyaloshinskii-Moriya interaction in synthetic ferrimagnets**|Shen Li et.al.|[2403.12642](http://arxiv.org/abs/2403.12642)|null|
 |**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
 |**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462](http://arxiv.org/abs/2403.12462)|null|
@@ -355,6 +357,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
+|**2024-03-20**|**Ultrahigh Frequency and Multi-channel Output in Skyrmion Based Nano-oscillator**|Abhishek Sharma et.al.|[2403.13478](http://arxiv.org/abs/2403.13478)|null|
 |**2024-03-19**|**Interlayer Dzyaloshinskii-Moriya interaction in synthetic ferrimagnets**|Shen Li et.al.|[2403.12642](http://arxiv.org/abs/2403.12642)|null|
 |**2024-03-18**|**Advancing Neuromorphic Computing: Mixed-Signal Design Techniques Leveraging Brain Code Units and Fundamental Code Units**|Murat Isik et.al.|[2403.11563](http://arxiv.org/abs/2403.11563)|null|
 |**2024-03-15**|**X-ray Nano-imaging of a Heterogeneous Structural Phase Transition in V2O3**|Ziming Shao et.al.|[2403.10719](http://arxiv.org/abs/2403.10719)|null|
@@ -533,8 +537,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
 |**2024-03-19**|**VQ-NeRV: A Vector Quantized Neural Representation for Videos**|Yunjie Xu et.al.|[2403.12401](http://arxiv.org/abs/2403.12401)|**[link](https://github.com/magicffourier/vq-nerv)**|
-|**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
+|**2024-03-20**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
 |**2024-03-18**|**Inter-individual and inter-site neural code conversion and image reconstruction without shared stimuli**|Haibao Wang et.al.|[2403.11517](http://arxiv.org/abs/2403.11517)|null|
 |**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|null|
