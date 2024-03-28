@@ -37,6 +37,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**A survey on learning models of spiking neural membrane systems and spiking neural networks**|Prithwineel Paul et.al.|[2403.18609](http://arxiv.org/abs/2403.18609)|null|
+|**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
+|**2024-03-27**|**FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion**|Xiaofeng Wu et.al.|[2403.18388](http://arxiv.org/abs/2403.18388)|null|
+|**2024-03-27**|**Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification**|Qingyu Wang et.al.|[2403.18228](http://arxiv.org/abs/2403.18228)|null|
 |**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
 |**2024-03-26**|**Random-coupled Neural Network**|Haoran Liu et.al.|[2403.17512](http://arxiv.org/abs/2403.17512)|null|
 |**2024-03-25**|**Enhancing Graph Representation Learning with Attention-Driven Spiking Neural Networks**|Huifeng Yin et.al.|[2403.17040](http://arxiv.org/abs/2403.17040)|null|
