@@ -553,6 +553,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua et.al.|[2403.19473](http://arxiv.org/abs/2403.19473)|null|
+|**2024-03-28**|**D'OH: Decoder-Only random Hypernetworks for Implicit Neural Representations**|Cameron Gordon et.al.|[2403.19163](http://arxiv.org/abs/2403.19163)|null|
 |**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
 |**2024-03-26**|**Neural category**|Neha Gupta et.al.|[2403.17558](http://arxiv.org/abs/2403.17558)|null|
 |**2024-03-26**|**Properties of graphs of neural codes**|Suhith K N et.al.|[2403.17548](http://arxiv.org/abs/2403.17548)|null|
