@@ -37,6 +37,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Prospects for non-linear memristors as so-far missing core hardware element for transferless data computing and storage**|Heidemarie Schmidt et.al.|[2403.20051](http://arxiv.org/abs/2403.20051)|null|
+|**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/abs/2403.19724)|null|
 |**2024-03-27**|**A survey on learning models of spiking neural membrane systems and spiking neural networks**|Prithwineel Paul et.al.|[2403.18609](http://arxiv.org/abs/2403.18609)|null|
 |**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
 |**2024-03-27**|**FTBC: Forward Temporal Bias Correction for Optimizing ANN-SNN Conversion**|Xiaofeng Wu et.al.|[2403.18388](http://arxiv.org/abs/2403.18388)|null|
@@ -375,6 +377,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Prospects for non-linear memristors as so-far missing core hardware element for transferless data computing and storage**|Heidemarie Schmidt et.al.|[2403.20051](http://arxiv.org/abs/2403.20051)|null|
+|**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/abs/2403.19724)|null|
 |**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
 |**2024-03-26**|**Random-coupled Neural Network**|Haoran Liu et.al.|[2403.17512](http://arxiv.org/abs/2403.17512)|null|
 |**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
@@ -557,6 +561,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua et.al.|[2403.19473](http://arxiv.org/abs/2403.19473)|null|
 |**2024-03-28**|**D'OH: Decoder-Only random Hypernetworks for Implicit Neural Representations**|Cameron Gordon et.al.|[2403.19163](http://arxiv.org/abs/2403.19163)|null|
 |**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
@@ -991,6 +996,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey**|Wejdene Haouari et.al.|[2403.19805](http://arxiv.org/abs/2403.19805)|null|
 |**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
 |**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
 |**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
