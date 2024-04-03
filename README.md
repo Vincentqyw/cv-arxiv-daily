@@ -33,6 +33,13 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
+|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
+|**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
+|**2024-04-01**|**Parallel Proportional Fusion of Spiking Quantum Neural Network for Optimizing Image Classification**|Zuyu Xu et.al.|[2404.01359](http://arxiv.org/abs/2404.01359)|null|
+|**2024-04-01**|**SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**|Wenrui Li et.al.|[2404.01174](http://arxiv.org/abs/2404.01174)|null|
+|**2024-03-30**|**SpikingJET: Enhancing Fault Injection for Fully and Convolutional Spiking Neural Networks**|Anil Bayram Gogebakan et.al.|[2404.00383](http://arxiv.org/abs/2404.00383)|null|
 |**2024-03-29**|**Prospects for non-linear memristors as so-far missing core hardware element for transferless data computing and storage**|Heidemarie Schmidt et.al.|[2403.20051](http://arxiv.org/abs/2403.20051)|null|
 |**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/abs/2403.19724)|null|
 |**2024-03-27**|**A survey on learning models of spiking neural membrane systems and spiking neural networks**|Prithwineel Paul et.al.|[2403.18609](http://arxiv.org/abs/2403.18609)|null|
@@ -373,6 +380,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-02**|**Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck**|Yuzhen Ke et.al.|[2404.01804](http://arxiv.org/abs/2404.01804)|null|
+|**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
+|**2024-03-30**|**Continual Learning for Autonomous Robots: A Prototype-based Approach**|Elvin Hajizada et.al.|[2404.00418](http://arxiv.org/abs/2404.00418)|null|
 |**2024-03-29**|**Prospects for non-linear memristors as so-far missing core hardware element for transferless data computing and storage**|Heidemarie Schmidt et.al.|[2403.20051](http://arxiv.org/abs/2403.20051)|null|
 |**2024-03-28**|**Towards Reverse-Engineering the Brain: Brain-Derived Neuromorphic Computing Approach with Photonic, Electronic, and Ionic Dynamicity in 3D integrated circuits**|S. J. Ben Yoo et.al.|[2403.19724](http://arxiv.org/abs/2403.19724)|null|
 |**2024-03-26**|**Magnonic inverse-design processor**|Noura Zenbaa et.al.|[2403.17724](http://arxiv.org/abs/2403.17724)|null|
@@ -557,6 +568,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining**|Xiang Chen et.al.|[2404.01547](http://arxiv.org/abs/2404.01547)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034](http://arxiv.org/abs/2403.20034)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-28**|**Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM**|Tongyan Hua et.al.|[2403.19473](http://arxiv.org/abs/2403.19473)|null|
 |**2024-03-28**|**D'OH: Decoder-Only random Hypernetworks for Implicit Neural Representations**|Cameron Gordon et.al.|[2403.19163](http://arxiv.org/abs/2403.19163)|null|
