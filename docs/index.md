@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -38,7 +38,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
-|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-03**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
 |**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
 |**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
 |**2024-04-01**|**Parallel Proportional Fusion of Spiking Quantum Neural Network for Optimizing Image Classification**|Zuyu Xu et.al.|[2404.01359](http://arxiv.org/abs/2404.01359)|null|
@@ -384,7 +384,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-03**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
 |**2024-04-02**|**Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck**|Yuzhen Ke et.al.|[2404.01804](http://arxiv.org/abs/2404.01804)|null|
 |**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
 |**2024-03-30**|**Continual Learning for Autonomous Robots: A Prototype-based Approach**|Elvin Hajizada et.al.|[2404.00418](http://arxiv.org/abs/2404.00418)|null|
