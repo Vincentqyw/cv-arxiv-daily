@@ -1,4 +1,4 @@
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -37,7 +37,7 @@
 |**2024-04-02**|**A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture**|Shadi Matinizadeh et.al.|[2404.02248](http://arxiv.org/abs/2404.02248)|null|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
 |**2024-04-03**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
-|**2024-04-02**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
+|**2024-04-04**|**A Methodology for Improving Accuracy of Embedded Spiking Neural Networks through Kernel Size Scaling**|Rachmad Vidya Wicaksana Putra et.al.|[2404.01685](http://arxiv.org/abs/2404.01685)|null|
 |**2024-04-01**|**Information Processing in Hybrid Photonic Electrical Reservoir Computing**|Prabhav Gaur et.al.|[2404.01479](http://arxiv.org/abs/2404.01479)|null|
 |**2024-04-01**|**Parallel Proportional Fusion of Spiking Quantum Neural Network for Optimizing Image Classification**|Zuyu Xu et.al.|[2404.01359](http://arxiv.org/abs/2404.01359)|null|
 |**2024-04-01**|**SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**|Wenrui Li et.al.|[2404.01174](http://arxiv.org/abs/2404.01174)|null|
