@@ -37,6 +37,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714](http://arxiv.org/abs/2404.03714)|null|
 |**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
 |**2024-04-04**|**Electronic ferroelectricity in monolayer graphene for multifunctional neuromorphic electronics**|Le Zhang et.al.|[2404.03410](http://arxiv.org/abs/2404.03410)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325](http://arxiv.org/abs/2404.03325)|null|
@@ -389,6 +390,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023](http://arxiv.org/abs/2404.04023)|null|
 |**2024-04-04**|**Electronic ferroelectricity in monolayer graphene for multifunctional neuromorphic electronics**|Le Zhang et.al.|[2404.03410](http://arxiv.org/abs/2404.03410)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325](http://arxiv.org/abs/2404.03325)|null|
 |**2024-04-03**|**Spin-NeuroMem: A Low-Power Neuromorphic Associative Memory Design Based on Spintronic Devices**|Siqing Fu et.al.|[2404.02463](http://arxiv.org/abs/2404.02463)|null|
@@ -581,6 +583,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
 |**2024-04-03**|**A Differentiable Integer Linear Programming Solver for Explanation-Based Natural Language Inference**|Mokanarangan Thayaparan et.al.|[2404.02625](http://arxiv.org/abs/2404.02625)|null|
