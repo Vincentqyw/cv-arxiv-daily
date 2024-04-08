@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -37,7 +37,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
+|**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
 |**2024-04-04**|**Electronic ferroelectricity in monolayer graphene for multifunctional neuromorphic electronics**|Le Zhang et.al.|[2404.03410](http://arxiv.org/abs/2404.03410)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325](http://arxiv.org/abs/2404.03325)|null|
 |**2024-04-03**|**Spin-NeuroMem: A Low-Power Neuromorphic Associative Memory Design Based on Spintronic Devices**|Siqing Fu et.al.|[2404.02463](http://arxiv.org/abs/2404.02463)|null|
