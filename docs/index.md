@@ -706,7 +706,7 @@ layout: default
 |**2023-12-04**|**Hyperspectral Image Compression Using Sampling and Implicit Neural Representations**|Shima Rezasoltani et.al.|[2312.01558](http://arxiv.org/abs/2312.01558)|null|
 |**2023-12-03**|**MoEC: Mixture of Experts Implicit Neural Compression**|Jianchen Zhao et.al.|[2312.01361](http://arxiv.org/abs/2312.01361)|null|
 |**2023-12-02**|**Spectral-wise Implicit Neural Representation for Hyperspectral Image Reconstruction**|Huan Chen et.al.|[2312.01061](http://arxiv.org/abs/2312.01061)|null|
-|**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
+|**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|**[link](https://github.com/HengyiWang/MorpheuS)**|
 |**2023-12-01**|**Unsupervised Adaptive Implicit Neural Representation Learning for Scan-Specific MRI Reconstruction**|Junwei Yang et.al.|[2312.00677](http://arxiv.org/abs/2312.00677)|null|
 |**2023-11-30**|**DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting**|Agelos Kratimenos et.al.|[2312.00112](http://arxiv.org/abs/2312.00112)|null|
 |**2023-11-30**|**A Compact Implicit Neural Representation for Efficient Storage of Massive 4D Functional Magnetic Resonance Imaging**|Ruoran Li et.al.|[2312.00082](http://arxiv.org/abs/2312.00082)|null|
