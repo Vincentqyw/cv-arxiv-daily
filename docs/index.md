@@ -10,6 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
 |**2024-02-16**|**Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation**|Kourosh Parand et.al.|[2402.10649](http://arxiv.org/abs/2402.10649)|null|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045](http://arxiv.org/abs/2401.15045)|null|
 |**2024-02-09**|**Inverse analysis of granular flows using differentiable graph neural network simulator**|Yongjin Choi et.al.|[2401.13695](http://arxiv.org/abs/2401.13695)|**[link](https://github.com/geoelements/gns)**|
@@ -37,6 +38,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
+|**2024-04-08**|**Linear and Nonlinear Coupling of Twin-Resonators with Kerr Nonlinearity**|Arghadeep Pal et.al.|[2404.05646](http://arxiv.org/abs/2404.05646)|null|
+|**2024-04-06**|**Efficient Learning Using Spiking Neural Networks Equipped With Affine Encoders and Decoders**|A. Martina Neuman et.al.|[2404.04549](http://arxiv.org/abs/2404.04549)|null|
 |**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714](http://arxiv.org/abs/2404.03714)|null|
 |**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493](http://arxiv.org/abs/2404.03493)|null|
 |**2024-04-04**|**Electronic ferroelectricity in monolayer graphene for multifunctional neuromorphic electronics**|Le Zhang et.al.|[2404.03410](http://arxiv.org/abs/2404.03410)|null|
@@ -390,6 +394,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
+|**2024-04-08**|**Linear and Nonlinear Coupling of Twin-Resonators with Kerr Nonlinearity**|Arghadeep Pal et.al.|[2404.05646](http://arxiv.org/abs/2404.05646)|null|
 |**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023](http://arxiv.org/abs/2404.04023)|null|
 |**2024-04-04**|**Electronic ferroelectricity in monolayer graphene for multifunctional neuromorphic electronics**|Le Zhang et.al.|[2404.03410](http://arxiv.org/abs/2404.03410)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325](http://arxiv.org/abs/2404.03325)|null|
@@ -583,6 +589,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|null|
+|**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
+|**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
+|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|null|
 |**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
@@ -948,7 +958,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-27**|**Design and Implementation of an Analysis Pipeline for Heterogeneous Data**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**Design and Implementation of an Analysis Pipeline for Heterogeneous Data**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
@@ -976,6 +987,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
