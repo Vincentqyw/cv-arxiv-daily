@@ -1,4 +1,4 @@
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1032,7 +1032,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-28**|**Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey**|Wejdene Haouari et.al.|[2403.19805](http://arxiv.org/abs/2403.19805)|null|
+|**2024-04-08**|**Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey**|Wejdene Haouari et.al.|[2403.19805](http://arxiv.org/abs/2403.19805)|null|
 |**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
 |**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
 |**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
