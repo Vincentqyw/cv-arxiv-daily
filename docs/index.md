@@ -38,6 +38,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469](http://arxiv.org/abs/2404.06469)|null|
+|**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858](http://arxiv.org/abs/2404.05858)|null|
+|**2024-04-08**|**Slax: A Composable JAX Library for Rapid and Flexible Prototyping of Spiking Neural Networks**|Thomas M. Summe et.al.|[2404.05807](http://arxiv.org/abs/2404.05807)|null|
 |**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
 |**2024-04-08**|**Linear and Nonlinear Coupling of Twin-Resonators with Kerr Nonlinearity**|Arghadeep Pal et.al.|[2404.05646](http://arxiv.org/abs/2404.05646)|null|
 |**2024-04-06**|**Efficient Learning Using Spiking Neural Networks Equipped With Affine Encoders and Decoders**|A. Martina Neuman et.al.|[2404.04549](http://arxiv.org/abs/2404.04549)|null|
@@ -394,6 +397,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**A Large-Scale Simulation Method for Neuromorphic Circuits**|Amir Shahhosseini et.al.|[2404.06255](http://arxiv.org/abs/2404.06255)|null|
+|**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858](http://arxiv.org/abs/2404.05858)|null|
 |**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
 |**2024-04-08**|**Linear and Nonlinear Coupling of Twin-Resonators with Kerr Nonlinearity**|Arghadeep Pal et.al.|[2404.05646](http://arxiv.org/abs/2404.05646)|null|
 |**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023](http://arxiv.org/abs/2404.04023)|null|
