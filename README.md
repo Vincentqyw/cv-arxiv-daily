@@ -1,4 +1,4 @@
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -590,10 +590,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|null|
+|**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|**[link](https://github.com/wookyounghan/jdec)**|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236](http://arxiv.org/abs/2404.05236)|null|
 |**2024-04-07**|**CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data**|Wei Fang et.al.|[2404.04878](http://arxiv.org/abs/2404.04878)|null|
-|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|null|
+|**2024-04-05**|**Rethinking Non-Negative Matrix Factorization with Implicit Neural Representations**|Krishna Subramani et.al.|[2404.04439](http://arxiv.org/abs/2404.04439)|**[link](https://github.com/subramanikrishna/in-nmf)**|
 |**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-04**|**CSR-dMRI: Continuous Super-Resolution of Diffusion MRI with Anatomical Structure-assisted Implicit Neural Representation Learning**|Ruoyou Wu et.al.|[2404.03209](http://arxiv.org/abs/2404.03209)|null|
 |**2024-04-03**|**Unsupervised Occupancy Learning from Sparse Point Cloud**|Amine Ouasfi et.al.|[2404.02759](http://arxiv.org/abs/2404.02759)|null|
@@ -959,7 +959,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
 |**2024-04-08**|**Design and Implementation of an Analysis Pipeline for Heterogeneous Data**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
@@ -988,7 +988,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
