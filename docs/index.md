@@ -397,6 +397,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628](http://arxiv.org/abs/2404.06628)|null|
 |**2024-04-09**|**A Large-Scale Simulation Method for Neuromorphic Circuits**|Amir Shahhosseini et.al.|[2404.06255](http://arxiv.org/abs/2404.06255)|null|
 |**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858](http://arxiv.org/abs/2404.05858)|null|
 |**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
