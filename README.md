@@ -243,7 +243,7 @@
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978](http://arxiv.org/abs/2310.14978)|null|
 |**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
 |**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621](http://arxiv.org/abs/2310.14621)|**[link](https://github.com/linzhanghan/smnn)**|
-|**2023-10-23**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576](http://arxiv.org/abs/2310.14576)|null|
+|**2023-10-23**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576](http://arxiv.org/abs/2310.14576)|**[link](https://github.com/risingentropy/pfa)**|
 |**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844](http://arxiv.org/abs/2310.13844)|null|
 |**2023-10-18**|**Moire synaptic transistor for homogeneous-architecture reservoir computing**|Pengfei Wang et.al.|[2310.11743](http://arxiv.org/abs/2310.11743)|null|
 |**2023-10-16**|**Physical learning of power-efficient solutions**|Menachem Stern et.al.|[2310.10437](http://arxiv.org/abs/2310.10437)|null|
@@ -633,7 +633,7 @@
 |**2024-03-14**|**A Hierarchical Fused Quantum Fuzzy Neural Network for Image Classification**|Sheng-Yao Wu et.al.|[2403.09318](http://arxiv.org/abs/2403.09318)|null|
 |**2024-03-13**|**Representing Anatomical Trees by Denoising Diffusion of Implicit Neural Fields**|Ashish Sinha et.al.|[2403.08974](http://arxiv.org/abs/2403.08974)|**[link](https://github.com/sinashish/treediffusion)**|
 |**2024-03-13**|**A Novel Implicit Neural Representation for Volume Data**|Armin Sheibanifard et.al.|[2403.08566](http://arxiv.org/abs/2403.08566)|null|
-|**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|null|
+|**2024-03-14**|**GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting**|Xinjie Zhang et.al.|[2403.08551](http://arxiv.org/abs/2403.08551)|**[link](https://github.com/xinjie-q/gaussianimage)**|
 |**2024-03-11**|**Multi-Scale Implicit Transformer with Re-parameterize for Arbitrary-Scale Super-Resolution**|Jinchen Zhu et.al.|[2403.06536](http://arxiv.org/abs/2403.06536)|null|
 |**2024-03-11**|**See Through Their Minds: Learning Transferable Neural Representation from Cross-Subject fMRI**|Yulong Liu et.al.|[2403.06361](http://arxiv.org/abs/2403.06361)|null|
 |**2024-03-10**|**Cracking the neural code for word recognition in convolutional neural networks**|Aakash Agrawal et.al.|[2403.06159](http://arxiv.org/abs/2403.06159)|null|
