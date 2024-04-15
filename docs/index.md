@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -10,6 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
 |**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
 |**2024-02-16**|**Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation**|Kourosh Parand et.al.|[2402.10649](http://arxiv.org/abs/2402.10649)|null|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045](http://arxiv.org/abs/2401.15045)|null|
@@ -397,6 +398,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Electron-phonon interaction, magnetic phase transition, charge density waves and resistive switching in VS2 and VSe2 revealed by Yanson point contact spectroscopy**|D. L. Bashlakov et.al.|[2404.08269](http://arxiv.org/abs/2404.08269)|null|
 |**2024-04-09**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628](http://arxiv.org/abs/2404.06628)|null|
 |**2024-04-09**|**A Large-Scale Simulation Method for Neuromorphic Circuits**|Amir Shahhosseini et.al.|[2404.06255](http://arxiv.org/abs/2404.06255)|null|
 |**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858](http://arxiv.org/abs/2404.05858)|null|
@@ -595,6 +597,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Source Invariance and Probabilistic Transfer: A Testable Theory of Probabilistic Neural Representations**|Samuel Lippl et.al.|[2404.08101](http://arxiv.org/abs/2404.08101)|null|
 |**2024-04-11**|**Accurate neural quantum states for interacting lattice bosons**|Zakari Denis et.al.|[2404.07869](http://arxiv.org/abs/2404.07869)|null|
 |**2024-04-11**|**Sketch-Plan-Generalize: Continual Few-Shot Learning of Inductively Generalizable Spatial Concepts for Language-Guided Robot Manipulation**|Namasivayam Kalithasan et.al.|[2404.07774](http://arxiv.org/abs/2404.07774)|null|
 |**2024-04-03**|**JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients**|Woo Kyoung Han et.al.|[2404.05558](http://arxiv.org/abs/2404.05558)|**[link](https://github.com/wookyounghan/jdec)**|
