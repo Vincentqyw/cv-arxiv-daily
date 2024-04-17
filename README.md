@@ -35,6 +35,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
+|**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
+|**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210](http://arxiv.org/abs/2404.10210)|null|
 |**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331](http://arxiv.org/abs/2404.09331)|null|
 |**2024-04-12**|**An Integrated Toolbox for Creating Neuromorphic Edge Applications**|Lars Niedermeier et.al.|[2404.08726](http://arxiv.org/abs/2404.08726)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469](http://arxiv.org/abs/2404.06469)|null|
@@ -396,6 +399,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
+|**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
 |**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331](http://arxiv.org/abs/2404.09331)|null|
 |**2024-04-12**|**Electron-phonon interaction, magnetic phase transition, charge density waves and resistive switching in VS2 and VSe2 revealed by Yanson point contact spectroscopy**|D. L. Bashlakov et.al.|[2404.08269](http://arxiv.org/abs/2404.08269)|null|
 |**2024-04-09**|**Quantum graph models for transport in filamentary switching**|Alison A. Silva et.al.|[2404.06628](http://arxiv.org/abs/2404.06628)|null|
@@ -596,6 +601,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans**|Mark C. Eid et.al.|[2404.10766](http://arxiv.org/abs/2404.10766)|null|
+|**2024-04-16**|**Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration**|Jing Zeng et.al.|[2404.10218](http://arxiv.org/abs/2404.10218)|null|
 |**2024-04-15**|**Q2A: Querying Implicit Fully Continuous Feature Pyramid to Align Features for Medical Image Segmentation**|Jiahao Yu et.al.|[2404.09472](http://arxiv.org/abs/2404.09472)|null|
 |**2024-04-13**|**PNeRV: Enhancing Spatial Consistency via Pyramidal Neural Representation for Videos**|Qi Zhao et.al.|[2404.08921](http://arxiv.org/abs/2404.08921)|null|
 |**2024-04-11**|**Source Invariance and Probabilistic Transfer: A Testable Theory of Probabilistic Neural Representations**|Samuel Lippl et.al.|[2404.08101](http://arxiv.org/abs/2404.08101)|null|
