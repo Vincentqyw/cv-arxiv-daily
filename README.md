@@ -399,6 +399,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Sup3r: A Semi-Supervised Algorithm for increasing Sparsity, Stability, and Separability in Hierarchy Of Time-Surfaces architectures**|Marco Rasetto et.al.|[2404.12402](http://arxiv.org/abs/2404.12402)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
 |**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
 |**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331](http://arxiv.org/abs/2404.09331)|null|
