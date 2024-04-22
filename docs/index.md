@@ -655,7 +655,7 @@ layout: default
 |**2024-03-10**|**Cracking the neural code for word recognition in convolutional neural networks**|Aakash Agrawal et.al.|[2403.06159](http://arxiv.org/abs/2403.06159)|null|
 |**2024-03-07**|**Image Coding for Machines with Edge Information Learning Using Segment Anything**|Takahiro Shindo et.al.|[2403.04173](http://arxiv.org/abs/2403.04173)|null|
 |**2024-03-04**|**Ice-Tide: Implicit Cryo-ET Imaging and Deformation Estimation**|Valentin Debarnot et.al.|[2403.02182](http://arxiv.org/abs/2403.02182)|**[link](https://github.com/swing-research/implicit-cryo-electron-tomography)**|
-|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771](http://arxiv.org/abs/2402.18771)|null|
+|**2024-02-29**|**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**|Ziyue Feng et.al.|[2402.18771](http://arxiv.org/abs/2402.18771)|**[link](https://github.com/oppo-us-research/naruto)**|
 |**2024-02-28**|**NERV++: An Enhanced Implicit Neural Video Representation**|Ahmed Ghorbel et.al.|[2402.18305](http://arxiv.org/abs/2402.18305)|null|
 |**2024-03-08**|**Boosting Neural Representations for Videos with a Conditional Decoder**|Xinjie Zhang et.al.|[2402.18152](http://arxiv.org/abs/2402.18152)|**[link](https://github.com/xinjie-q/boosting-nerv)**|
 |**2024-02-27**|**Mesh-Agnostic Decoders for Supercritical Airfoil Prediction and Inverse Design**|Runze Li et.al.|[2402.17299](http://arxiv.org/abs/2402.17299)|null|
