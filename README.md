@@ -35,6 +35,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Bistable Organic Electrochemical Transistors: Enthalpy vs. Entropy**|Lukas M. Bongartz et.al.|[2404.14362](http://arxiv.org/abs/2404.14362)|null|
+|**2024-04-22**|**Multi-mem behavior at reduced voltages in La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$ perovskite modified with Sm:CeO$_2$**|Wilson Román Acevedo et.al.|[2404.14231](http://arxiv.org/abs/2404.14231)|null|
+|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
+|**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888](http://arxiv.org/abs/2404.13888)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
 |**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
 |**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210](http://arxiv.org/abs/2404.10210)|null|
@@ -399,6 +403,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Bistable Organic Electrochemical Transistors: Enthalpy vs. Entropy**|Lukas M. Bongartz et.al.|[2404.14362](http://arxiv.org/abs/2404.14362)|null|
+|**2024-04-22**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325](http://arxiv.org/abs/2404.14325)|null|
+|**2024-04-22**|**Multi-mem behavior at reduced voltages in La $_{1/2}$Sr$_{1/2}$Mn$_{1/2}$Co$_{1/2}$O$_{3-x}$ perovskite modified with Sm:CeO$_2$**|Wilson Román Acevedo et.al.|[2404.14231](http://arxiv.org/abs/2404.14231)|null|
 |**2024-04-15**|**Sup3r: A Semi-Supervised Algorithm for increasing Sparsity, Stability, and Separability in Hierarchy Of Time-Surfaces architectures**|Marco Rasetto et.al.|[2404.12402](http://arxiv.org/abs/2404.12402)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
 |**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597](http://arxiv.org/abs/2404.10597)|null|
@@ -602,6 +609,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
+|**2024-04-20**|**NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature**|Qiujie Dong et.al.|[2404.13420](http://arxiv.org/abs/2404.13420)|null|
 |**2024-04-16**|**RapidVol: Rapid Reconstruction of 3D Ultrasound Volumes from Sensorless 2D Scans**|Mark C. Eid et.al.|[2404.10766](http://arxiv.org/abs/2404.10766)|null|
 |**2024-04-16**|**Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration**|Jing Zeng et.al.|[2404.10218](http://arxiv.org/abs/2404.10218)|null|
 |**2024-04-15**|**Q2A: Querying Implicit Fully Continuous Feature Pyramid to Align Features for Medical Image Segmentation**|Jiahao Yu et.al.|[2404.09472](http://arxiv.org/abs/2404.09472)|null|
