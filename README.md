@@ -1,4 +1,4 @@
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -993,7 +993,7 @@
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
 |**2024-02-19**|**Designing and Prototyping Extensions to MPI in MPICH**|Hui Zhou et.al.|[2402.12274](http://arxiv.org/abs/2402.12274)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
-|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
+|**2024-04-23**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
 |**2024-01-02**|**High-dimensional FGM-ResNet modelling of turbulent spray combustion: Effects of evaporation non-adiabacity and scalar correlation**|Dong Wang et.al.|[2401.01045](http://arxiv.org/abs/2401.01045)|null|
@@ -1022,7 +1022,7 @@
 |**2024-03-09**|**XFLUIDS: A SYCL-based unified cross-architecture heterogeneous simulation solver for compressible reacting flows**|Jinlong Li et.al.|[2403.05910](http://arxiv.org/abs/2403.05910)|**[link](https://github.com/xfluids/xfluids)**|
 |**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518](http://arxiv.org/abs/2403.02518)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
-|**2024-02-14**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
+|**2024-04-23**|**MPIrigen: MPI Code Generation through Domain-Specific Language Models**|Nadav Schneider et.al.|[2402.09126](http://arxiv.org/abs/2402.09126)|**[link](https://github.com/scientific-computing-lab-nrcn/mpi-rigen)**|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
 |**2024-01-29**|**Frustrated with MPI+Threads? Try MPIxThreads!**|Hui Zhou et.al.|[2401.16551](http://arxiv.org/abs/2401.16551)|null|
 |**2024-01-29**|**KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics**|Ian C. T. May et.al.|[2401.16543](http://arxiv.org/abs/2401.16543)|null|
