@@ -39,6 +39,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
+|**2024-04-28**|**Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm**|Sai Sukruth Bezugam et.al.|[2404.18066](http://arxiv.org/abs/2404.18066)|null|
+|**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
 |**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335](http://arxiv.org/abs/2404.17335)|null|
 |**2024-04-26**|**Defending Spiking Neural Networks against Adversarial Attacks through Image Purification**|Weiran Chen et.al.|[2404.17092](http://arxiv.org/abs/2404.17092)|null|
@@ -419,6 +422,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
+|**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
 |**2024-04-25**|**Asynchronous Neuromorphic Optimization with Lava**|Shay Snyder et.al.|[2404.17052](http://arxiv.org/abs/2404.17052)|null|
 |**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048](http://arxiv.org/abs/2404.17048)|null|
@@ -632,6 +637,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451](http://arxiv.org/abs/2404.16451)|**[link](https://github.com/hezongyao/lmf)**|
 |**2024-04-23**|**Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion**|Yu-Jie Liang et.al.|[2404.15174](http://arxiv.org/abs/2404.15174)|null|
 |**2024-04-23**|**HOIN: High-Order Implicit Neural Representations**|Yang Chen et.al.|[2404.14674](http://arxiv.org/abs/2404.14674)|null|
@@ -1072,6 +1078,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-27**|**ALock: Asymmetric Lock Primitive for RDMA Systems**|Amanda Baran et.al.|[2404.17980](http://arxiv.org/abs/2404.17980)|null|
 |**2024-04-29**|**Holmes: Towards Distributed Training Across Clusters with Heterogeneous NIC Environment**|Fei Yang et.al.|[2312.03549](http://arxiv.org/abs/2312.03549)|null|
 |**2023-10-17**|**NP-RDMA: Using Commodity RDMA without Pinning Memory**|Huijun Shen et.al.|[2310.11062](http://arxiv.org/abs/2310.11062)|null|
 |**2023-10-08**|**GEAR: A GPU-Centric Experience Replay System for Large Reinforcement Learning Models**|Hanjing Wang et.al.|[2310.05205](http://arxiv.org/abs/2310.05205)|**[link](https://github.com/bigrl-team/gear)**|
