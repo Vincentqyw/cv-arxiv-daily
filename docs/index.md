@@ -39,6 +39,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Weight Sparsity Complements Activity Sparsity in Neuromorphic Language Models**|Rishav Mukherji et.al.|[2405.00433](http://arxiv.org/abs/2405.00433)|null|
+|**2024-05-01**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
 |**2024-04-30**|**Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks**|Lorenzo Pes et.al.|[2404.19419](http://arxiv.org/abs/2404.19419)|null|
 |**2024-04-30**|**DelGrad: Exact gradients in spiking networks for learning transmission delays and weights**|Julian Göltz et.al.|[2404.19165](http://arxiv.org/abs/2404.19165)|null|
 |**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
@@ -424,6 +426,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
 |**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
@@ -639,6 +642,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods**|Xia Li et.al.|[2405.00430](http://arxiv.org/abs/2405.00430)|null|
 |**2024-04-30**|**A rank decomposition for the topological classification of neural representations**|Kosio Beshkov et.al.|[2404.19710](http://arxiv.org/abs/2404.19710)|null|
 |**2024-04-29**|**Distributed Stochastic Optimization of a Neural Representation Network for Time-Space Tomography Reconstruction**|K. Aditya Mohan et.al.|[2404.19075](http://arxiv.org/abs/2404.19075)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
@@ -1023,6 +1027,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**A Communication Avoiding and Reducing Algorithm for Symmetric Eigenproblem for Very Small Matrices**|Takahiro Katagiri et.al.|[2405.00326](http://arxiv.org/abs/2405.00326)|null|
 |**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
 |**2024-04-08**|**Design and Implementation of an Analysis Pipeline for Heterogeneous Data**|Arup Kumar Sarker et.al.|[2403.15721](http://arxiv.org/abs/2403.15721)|null|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
@@ -1052,6 +1057,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**A Communication Avoiding and Reducing Algorithm for Symmetric Eigenproblem for Very Small Matrices**|Takahiro Katagiri et.al.|[2405.00326](http://arxiv.org/abs/2405.00326)|null|
 |**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|**[link](https://github.com/kamping-site/kamping)**|
 |**2024-03-15**|**Efficient All-electron Hybrid Density Functionals for Atomistic Simulations Beyond 10,000 Atoms**|Sebastian Kokott et.al.|[2403.10343](http://arxiv.org/abs/2403.10343)|null|
 |**2024-02-07**|**Comparison of edge computing methods in Internet of Things architectures for efficient estimation of indoor environmental parameters with Machine Learning**|Jose-Carlos Gamazo-Real et.al.|[2403.08810](http://arxiv.org/abs/2403.08810)|null|
