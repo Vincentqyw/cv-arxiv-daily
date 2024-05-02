@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -666,7 +666,7 @@ layout: default
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
 |**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695](http://arxiv.org/abs/2404.18695)|null|
-|**2024-04-29**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
+|**2024-05-01**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
 |**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
 |**2024-04-25**|**CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**|Samia Shafique et.al.|[2404.16972](http://arxiv.org/abs/2404.16972)|null|
 |**2024-04-29**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
@@ -1865,7 +1865,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-30**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
+|**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
 |**2024-04-29**|**SAGS: Structure-Aware 3D Gaussian Splatting**|Evangelos Ververas et.al.|[2404.19149](http://arxiv.org/abs/2404.19149)|null|
 |**2024-04-29**|**GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting**|Bo Chen et.al.|[2404.19040](http://arxiv.org/abs/2404.19040)|null|
