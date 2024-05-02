@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -45,7 +45,7 @@ layout: default
 |**2024-04-28**|**Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm**|Sai Sukruth Bezugam et.al.|[2404.18066](http://arxiv.org/abs/2404.18066)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
-|**2024-04-26**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335](http://arxiv.org/abs/2404.17335)|null|
+|**2024-05-01**|**A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation**|Xin Zhang et.al.|[2404.17335](http://arxiv.org/abs/2404.17335)|null|
 |**2024-04-26**|**Defending Spiking Neural Networks against Adversarial Attacks through Image Purification**|Weiran Chen et.al.|[2404.17092](http://arxiv.org/abs/2404.17092)|null|
 |**2024-04-25**|**Asynchronous Neuromorphic Optimization with Lava**|Shay Snyder et.al.|[2404.17052](http://arxiv.org/abs/2404.17052)|null|
 |**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048](http://arxiv.org/abs/2404.17048)|null|
