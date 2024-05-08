@@ -37,6 +37,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
+|**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289](http://arxiv.org/abs/2405.04289)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
+|**2024-05-07**|**Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks**|Hamed Poursiami et.al.|[2405.04049](http://arxiv.org/abs/2405.04049)|null|
+|**2024-05-07**|**Anomalous Gate-tunable Capacitance in Graphene Moiré Heterostructures**|Linshang Chen et.al.|[2405.03976](http://arxiv.org/abs/2405.03976)|null|
 |**2024-05-04**|**Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures**|Jiaqi Lin et.al.|[2405.02546](http://arxiv.org/abs/2405.02546)|null|
 |**2024-05-03**|**A Spiking Neural Network Decoder for Implantable Brain Machine Interfaces and its Sparsity-aware Deployment on RISC-V Microcontrollers**|Jiawei Liao et.al.|[2405.02146](http://arxiv.org/abs/2405.02146)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
@@ -429,6 +433,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
+|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
+|**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289](http://arxiv.org/abs/2405.04289)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
+|**2024-05-07**|**Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks**|Hamed Poursiami et.al.|[2405.04049](http://arxiv.org/abs/2405.04049)|null|
+|**2024-05-07**|**Anomalous Gate-tunable Capacitance in Graphene Moiré Heterostructures**|Linshang Chen et.al.|[2405.03976](http://arxiv.org/abs/2405.03976)|null|
 |**2024-05-06**|**Speckle pattern analysis of PVK:rGO composite based memristor device**|Ramin Jamali et.al.|[2405.03369](http://arxiv.org/abs/2405.03369)|null|
 |**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
 |**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
