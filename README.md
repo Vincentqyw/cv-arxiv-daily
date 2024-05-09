@@ -1,4 +1,4 @@
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -441,7 +441,7 @@
 |**2024-05-06**|**Speckle pattern analysis of PVK:rGO composite based memristor device**|Ramin Jamali et.al.|[2405.03369](http://arxiv.org/abs/2405.03369)|null|
 |**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
 |**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
-|**2024-05-01**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
+|**2024-05-07**|**Covariant spatio-temporal receptive fields for neuromorphic computing**|Jens Egholm Pedersen et.al.|[2405.00318](http://arxiv.org/abs/2405.00318)|**[link](https://github.com/jegp/nrf)**|
 |**2024-04-29**|**Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**|Mark Schöne et.al.|[2404.18508](http://arxiv.org/abs/2404.18508)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719](http://arxiv.org/abs/2404.17719)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456](http://arxiv.org/abs/2404.17456)|null|
@@ -660,7 +660,7 @@
 |**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
 |**2024-05-06**|**3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation**|Xingguang Zhong et.al.|[2405.03388](http://arxiv.org/abs/2405.03388)|**[link](https://github.com/prbonn/4dndf)**|
 |**2024-05-06**|**Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner**|Tong Nie et.al.|[2405.03185](http://arxiv.org/abs/2405.03185)|null|
-|**2024-05-04**|**Leveraging the Human Ventral Visual Stream to Improve Neural Network Robustness**|Zhenan Shao et.al.|[2405.02564](http://arxiv.org/abs/2405.02564)|null|
+|**2024-05-04**|**Leveraging the Human Ventral Visual Stream to Improve Neural Network Robustness**|Zhenan Shao et.al.|[2405.02564](http://arxiv.org/abs/2405.02564)|**[link](https://github.com/shaox192/NeuralGuidance)**|
 |**2024-05-03**|**Implicit Neural Representations for Robust Joint Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2405.02509](http://arxiv.org/abs/2405.02509)|null|
 |**2024-05-01**|**Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods**|Xia Li et.al.|[2405.00430](http://arxiv.org/abs/2405.00430)|null|
 |**2024-04-30**|**A rank decomposition for the topological classification of neural representations**|Kosio Beshkov et.al.|[2404.19710](http://arxiv.org/abs/2404.19710)|null|
