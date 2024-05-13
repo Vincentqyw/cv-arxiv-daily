@@ -189,7 +189,7 @@
 |**2024-01-23**|**A robust balancing mechanism for spiking neural networks**|Antonio Politi et.al.|[2401.12559](http://arxiv.org/abs/2401.12559)|null|
 |**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
 |**2024-01-22**|**Laser-induced quenching of metastability at the Mott-insulator to metal transition**|Theodor Luibrand et.al.|[2401.11889](http://arxiv.org/abs/2401.11889)|null|
-|**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687](http://arxiv.org/abs/2401.11687)|null|
+|**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687](http://arxiv.org/abs/2401.11687)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793](http://arxiv.org/abs/2401.10793)|null|
 |**2024-01-19**|**Design Methodology for Silicon Organic Hybrid Modulators: From Physics to System-level Modeling**|Maryam Moridsadat et.al.|[2401.10701](http://arxiv.org/abs/2401.10701)|null|
 |**2024-01-15**|**TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**|Donghyun Lee et.al.|[2401.08001](http://arxiv.org/abs/2401.08001)|null|
