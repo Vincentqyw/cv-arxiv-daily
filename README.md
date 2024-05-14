@@ -663,6 +663,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-11**|**Unsupervised Density Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2405.07047](http://arxiv.org/abs/2405.07047)|null|
+|**2024-05-10**|**Nonlinear classification of neural manifolds with contextual information**|Francesca Mignacco et.al.|[2405.06851](http://arxiv.org/abs/2405.06851)|null|
 |**2024-05-09**|**Contribution of Coincidence Detection to Speech Segregation in Noisy Environments**|Asaf Zorea et.al.|[2405.06072](http://arxiv.org/abs/2405.06072)|null|
 |**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858](http://arxiv.org/abs/2405.05858)|null|
 |**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807](http://arxiv.org/abs/2405.05807)|null|
