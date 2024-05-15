@@ -41,6 +41,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392](http://arxiv.org/abs/2405.08392)|null|
 |**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277](http://arxiv.org/abs/2405.06277)|**[link](https://github.com/mingtian99/esdnet)**|
 |**2024-05-09**|**A minimal dynamical system and analog circuit for non-associative learning**|Matthew Smart et.al.|[2405.05770](http://arxiv.org/abs/2405.05770)|null|
 |**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/abs/2405.05432)|null|
@@ -441,6 +442,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392](http://arxiv.org/abs/2405.08392)|null|
 |**2024-05-09**|**A minimal dynamical system and analog circuit for non-associative learning**|Matthew Smart et.al.|[2405.05770](http://arxiv.org/abs/2405.05770)|null|
 |**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/abs/2405.05432)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
@@ -667,6 +669,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|null|
+|**2024-05-14**|**EEG-Features for Generalized Deepfake Detection**|Arian Beckmann et.al.|[2405.08527](http://arxiv.org/abs/2405.08527)|null|
+|**2024-05-14**|**Achieving Resolution-Agnostic DNN-based Image Watermarking:A Novel Perspective of Implicit Neural Representation**|Yuchen Wang et.al.|[2405.08340](http://arxiv.org/abs/2405.08340)|null|
+|**2024-05-13**|**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**|Oli Danyi Liu et.al.|[2405.08237](http://arxiv.org/abs/2405.08237)|null|
 |**2024-05-11**|**Unsupervised Density Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2405.07047](http://arxiv.org/abs/2405.07047)|null|
 |**2024-05-10**|**Nonlinear classification of neural manifolds with contextual information**|Francesca Mignacco et.al.|[2405.06851](http://arxiv.org/abs/2405.06851)|null|
 |**2024-05-09**|**Contribution of Coincidence Detection to Speech Segregation in Noisy Environments**|Asaf Zorea et.al.|[2405.06072](http://arxiv.org/abs/2405.06072)|null|
