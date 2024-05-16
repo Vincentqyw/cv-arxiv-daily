@@ -1,4 +1,4 @@
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -442,7 +442,7 @@
 |**2024-05-09**|**A minimal dynamical system and analog circuit for non-associative learning**|Matthew Smart et.al.|[2405.05770](http://arxiv.org/abs/2405.05770)|null|
 |**2024-05-08**|**2D ferroelectrics and ferroelectrics with 2D: materials and device prospects**|Chloe Leblanc et.al.|[2405.05432](http://arxiv.org/abs/2405.05432)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
-|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
+|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|**[link](https://github.com/Parsa-Research-Laboratory/lmao)**|
 |**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289](http://arxiv.org/abs/2405.04289)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
 |**2024-05-07**|**Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks**|Hamed Poursiami et.al.|[2405.04049](http://arxiv.org/abs/2405.04049)|null|
 |**2024-05-07**|**Anomalous Gate-tunable Capacitance in Graphene Moiré Heterostructures**|Linshang Chen et.al.|[2405.03976](http://arxiv.org/abs/2405.03976)|null|
