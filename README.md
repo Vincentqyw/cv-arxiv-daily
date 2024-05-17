@@ -37,6 +37,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**In-situ optical vector analysis based on integrated lithium niobate single-sideband modulators**|Hanke Feng et.al.|[2405.10109](http://arxiv.org/abs/2405.10109)|null|
 |**2024-05-15**|**Scalable single-microring hybrid III-V/Si lasers for emerging narrow-linewidth applications**|Jiawei Wang et.al.|[2405.09020](http://arxiv.org/abs/2405.09020)|null|
 |**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392](http://arxiv.org/abs/2405.08392)|null|
 |**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277](http://arxiv.org/abs/2405.06277)|**[link](https://github.com/mingtian99/esdnet)**|
@@ -439,6 +440,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**In-situ optical vector analysis based on integrated lithium niobate single-sideband modulators**|Hanke Feng et.al.|[2405.10109](http://arxiv.org/abs/2405.10109)|null|
 |**2024-05-15**|**Scalable single-microring hybrid III-V/Si lasers for emerging narrow-linewidth applications**|Jiawei Wang et.al.|[2405.09020](http://arxiv.org/abs/2405.09020)|null|
 |**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392](http://arxiv.org/abs/2405.08392)|null|
 |**2024-05-09**|**A minimal dynamical system and analog circuit for non-associative learning**|Matthew Smart et.al.|[2405.05770](http://arxiv.org/abs/2405.05770)|null|
