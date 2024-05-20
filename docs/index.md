@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -673,7 +673,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|null|
+|**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|**[link](https://github.com/SonyCSLParis/audio-representations)**|
 |**2024-05-14**|**EEG-Features for Generalized Deepfake Detection**|Arian Beckmann et.al.|[2405.08527](http://arxiv.org/abs/2405.08527)|null|
 |**2024-05-14**|**Achieving Resolution-Agnostic DNN-based Image Watermarking:A Novel Perspective of Implicit Neural Representation**|Yuchen Wang et.al.|[2405.08340](http://arxiv.org/abs/2405.08340)|null|
 |**2024-05-13**|**A predictive learning model can simulate temporal dynamics and context effects found in neural representations of continuous speech**|Oli Danyi Liu et.al.|[2405.08237](http://arxiv.org/abs/2405.08237)|null|
