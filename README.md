@@ -1,4 +1,4 @@
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -37,6 +37,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Memristive response and neuromorphic functionality of polycrystalline ferroelectric Ca:HfO $_{2}$ -based devices**|C. Ferreyra et.al.|[2405.10909](http://arxiv.org/abs/2405.10909)|null|
+|**2024-05-17**|**General oracle inequalities for a penalized log-likelihood criterion based on non-stationary data**|Julien Aubert et.al.|[2405.10582](http://arxiv.org/abs/2405.10582)|null|
 |**2024-05-16**|**In-situ optical vector analysis based on integrated lithium niobate single-sideband modulators**|Hanke Feng et.al.|[2405.10109](http://arxiv.org/abs/2405.10109)|null|
 |**2024-05-15**|**Scalable single-microring hybrid III-V/Si lasers for emerging narrow-linewidth applications**|Jiawei Wang et.al.|[2405.09020](http://arxiv.org/abs/2405.09020)|null|
 |**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392](http://arxiv.org/abs/2405.08392)|null|
@@ -440,6 +442,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Memristive response and neuromorphic functionality of polycrystalline ferroelectric Ca:HfO $_{2}$ -based devices**|C. Ferreyra et.al.|[2405.10909](http://arxiv.org/abs/2405.10909)|null|
 |**2024-05-16**|**In-situ optical vector analysis based on integrated lithium niobate single-sideband modulators**|Hanke Feng et.al.|[2405.10109](http://arxiv.org/abs/2405.10109)|null|
 |**2024-05-15**|**Scalable single-microring hybrid III-V/Si lasers for emerging narrow-linewidth applications**|Jiawei Wang et.al.|[2405.09020](http://arxiv.org/abs/2405.09020)|null|
 |**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392](http://arxiv.org/abs/2405.08392)|null|
@@ -669,6 +672,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Nonparametric Teaching of Implicit Neural Representations**|Chen Zhang et.al.|[2405.10531](http://arxiv.org/abs/2405.10531)|null|
 |**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|**[link](https://github.com/SonyCSLParis/audio-representations)**|
 |**2024-05-14**|**EEG-Features for Generalized Deepfake Detection**|Arian Beckmann et.al.|[2405.08527](http://arxiv.org/abs/2405.08527)|null|
 |**2024-05-14**|**Achieving Resolution-Agnostic DNN-based Image Watermarking:A Novel Perspective of Implicit Neural Representation**|Yuchen Wang et.al.|[2405.08340](http://arxiv.org/abs/2405.08340)|null|
