@@ -672,6 +672,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**The Projective Wave Theory of Consciousness**|Robert Worden et.al.|[2405.12071](http://arxiv.org/abs/2405.12071)|null|
+|**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
+|**2024-05-19**|**Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural signals**|Hui Zheng et.al.|[2405.11459](http://arxiv.org/abs/2405.11459)|null|
+|**2024-05-18**|**HR Human: Modeling Human Avatars with Triangular Mesh and High-Resolution Textures from Videos**|Qifeng Chen et.al.|[2405.11270](http://arxiv.org/abs/2405.11270)|null|
 |**2024-05-17**|**Nonparametric Teaching of Implicit Neural Representations**|Chen Zhang et.al.|[2405.10531](http://arxiv.org/abs/2405.10531)|null|
 |**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|**[link](https://github.com/SonyCSLParis/audio-representations)**|
 |**2024-05-14**|**EEG-Features for Generalized Deepfake Detection**|Arian Beckmann et.al.|[2405.08527](http://arxiv.org/abs/2405.08527)|null|
