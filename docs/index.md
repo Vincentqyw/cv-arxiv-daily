@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1084,7 +1084,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-21**|**Cache Blocking of Distributed-Memory Parallel Matrix Power Kernels**|Dane C. Lacey et.al.|[2405.12525](http://arxiv.org/abs/2405.12525)|null|
+|**2024-05-22**|**Cache Blocking of Distributed-Memory Parallel Matrix Power Kernels**|Dane C. Lacey et.al.|[2405.12525](http://arxiv.org/abs/2405.12525)|null|
 |**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|**[link](https://github.com/tim-li/cutn-qsvm)**|
 |**2024-05-03**|**Performance Analysis of an Optimization Algorithm for Metamaterial Design on the Integrated High-Performance Computing and Quantum Systems**|Seongmin Kim et.al.|[2405.02211](http://arxiv.org/abs/2405.02211)|null|
 |**2024-05-01**|**A Communication Avoiding and Reducing Algorithm for Symmetric Eigenproblem for Very Small Matrices**|Takahiro Katagiri et.al.|[2405.00326](http://arxiv.org/abs/2405.00326)|null|
