@@ -41,6 +41,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Neuromorphic dreaming: A pathway to efficient learning in artificial agents**|Ingo Blakowski et.al.|[2405.15616](http://arxiv.org/abs/2405.15616)|null|
+|**2024-05-24**|**A generalized neural tangent kernel for surrogate gradient learning**|Luke Eilers et.al.|[2405.15539](http://arxiv.org/abs/2405.15539)|null|
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
 |**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474](http://arxiv.org/abs/2405.14474)|null|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
@@ -454,6 +456,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Neuromorphic dreaming: A pathway to efficient learning in artificial agents**|Ingo Blakowski et.al.|[2405.15616](http://arxiv.org/abs/2405.15616)|null|
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
 |**2024-05-22**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
 |**2024-05-17**|**Memristive response and neuromorphic functionality of polycrystalline ferroelectric Ca:HfO $_{2}$ -based devices**|C. Ferreyra et.al.|[2405.10909](http://arxiv.org/abs/2405.10909)|null|
@@ -686,6 +689,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**CPT-Interp: Continuous sPatial and Temporal Motion Modeling for 4D Medical Image Interpolation**|Xia Li et.al.|[2405.15385](http://arxiv.org/abs/2405.15385)|null|
 |**2024-05-22**|**NeurCross: A Self-Supervised Neural Approach for Representing Cross Fields in Quad Mesh Generation**|Qiujie Dong et.al.|[2405.13745](http://arxiv.org/abs/2405.13745)|null|
 |**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
 |**2024-05-20**|**ASMR: Activation-sharing Multi-resolution Coordinate Networks For Efficient Inference**|Jason Chun Lok Li et.al.|[2405.12398](http://arxiv.org/abs/2405.12398)|**[link](https://github.com/stevolopolis/asmr)**|
