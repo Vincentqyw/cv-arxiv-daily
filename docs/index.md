@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -47,7 +47,7 @@ layout: default
 |**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474](http://arxiv.org/abs/2405.14474)|null|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
 |**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|null|
-|**2024-05-22**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
+|**2024-05-26**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
 |**2024-05-22**|**Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning**|Yimeng Shan et.al.|[2405.13672](http://arxiv.org/abs/2405.13672)|null|
 |**2024-05-22**|**Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals**|Christian Holberg et.al.|[2405.13587](http://arxiv.org/abs/2405.13587)|null|
 |**2024-05-21**|**Training and inference in the ReckON RSNN architecture implemented on a MPSoC**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
@@ -458,7 +458,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-24**|**Neuromorphic dreaming: A pathway to efficient learning in artificial agents**|Ingo Blakowski et.al.|[2405.15616](http://arxiv.org/abs/2405.15616)|null|
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
-|**2024-05-22**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
+|**2024-05-26**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
 |**2024-05-17**|**Memristive response and neuromorphic functionality of polycrystalline ferroelectric Ca:HfO $_{2}$ -based devices**|C. Ferreyra et.al.|[2405.10909](http://arxiv.org/abs/2405.10909)|null|
 |**2024-05-16**|**In-situ optical vector analysis based on integrated lithium niobate single-sideband modulators**|Hanke Feng et.al.|[2405.10109](http://arxiv.org/abs/2405.10109)|null|
 |**2024-05-15**|**Scalable single-microring hybrid III-V/Si lasers for emerging narrow-linewidth applications**|Jiawei Wang et.al.|[2405.09020](http://arxiv.org/abs/2405.09020)|null|
