@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -20,7 +20,7 @@ layout: default
 |**2024-05-23**|**CoPeD-Advancing Multi-Robot Collaborative Perception: A Comprehensive Dataset in Real-World Environments**|Yang Zhou et.al.|[2405.14731](http://arxiv.org/abs/2405.14731)|**[link](https://github.com/arplaboratory/coped)**|
 |**2024-05-23**|**Efficient Robot Learning for Perception and Mapping**|Niclas Vödisch et.al.|[2405.14688](http://arxiv.org/abs/2405.14688)|null|
 |**2024-05-22**|**Monocular Gaussian SLAM with Language Extended Loop Closure**|Tian Lan et.al.|[2405.13748](http://arxiv.org/abs/2405.13748)|null|
-|**2024-05-21**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563](http://arxiv.org/abs/2405.12563)|**[link](https://github.com/dhchung/nv_lio)**|
+|**2024-05-26**|**NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments**|Dongha Chung et.al.|[2405.12563](http://arxiv.org/abs/2405.12563)|**[link](https://github.com/dhchung/nv_lio)**|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
 |**2024-05-24**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176](http://arxiv.org/abs/2405.11176)|null|
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129](http://arxiv.org/abs/2405.11129)|**[link](https://github.com/antonio521/motiongs)**|
@@ -691,7 +691,7 @@ layout: default
 |**2024-05-24**|**Self-distilled Dynamic Fusion Network for Language-based Fashion Retrieval**|Yiming Wu et.al.|[2405.15451](http://arxiv.org/abs/2405.15451)|null|
 |**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|**[link](https://github.com/intellisensing/uav-visloc)**|
 |**2024-05-19**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526](http://arxiv.org/abs/2405.11526)|null|
-|**2024-05-17**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
+|**2024-05-26**|**CCTNet: A Circular Convolutional Transformer Network for LiDAR-based Place Recognition Handling Movable Objects Occlusion**|Gang Wang et.al.|[2405.10793](http://arxiv.org/abs/2405.10793)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
