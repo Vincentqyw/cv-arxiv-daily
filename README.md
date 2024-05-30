@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
 |**2024-04-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
@@ -37,6 +38,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration**|Sophie Jaffard et.al.|[2405.18828](http://arxiv.org/abs/2405.18828)|null|
+|**2024-05-28**|**Emergence and long-term maintenance of modularity in spiking neural networks with plasticity**|Raphäel Bergoin et.al.|[2405.18587](http://arxiv.org/abs/2405.18587)|null|
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019](http://arxiv.org/abs/2405.18019)|null|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903](http://arxiv.org/abs/2405.17903)|null|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851](http://arxiv.org/abs/2405.16851)|null|
@@ -690,6 +693,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**3D Neural Edge Reconstruction**|Lei Li et.al.|[2405.19295](http://arxiv.org/abs/2405.19295)|null|
+|**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
+|**2024-05-29**|**MindSemantix: Deciphering Brain Visual Experiences with a Brain-Language Model**|Ziqi Ren et.al.|[2405.18812](http://arxiv.org/abs/2405.18812)|null|
+|**2024-05-29**|**Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI**|Wei-Bang Jiang et.al.|[2405.18765](http://arxiv.org/abs/2405.18765)|**[link](https://github.com/935963004/labram)**|
 |**2024-05-28**|**Towards a Sampling Theory for Implicit Neural Representations**|Mahrokh Najaf et.al.|[2405.18410](http://arxiv.org/abs/2405.18410)|null|
 |**2024-05-28**|**A Grid-Free Fluid Solver based on Gaussian Spatial Representation**|Jingrui Xing et.al.|[2405.18133](http://arxiv.org/abs/2405.18133)|null|
 |**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818](http://arxiv.org/abs/2405.17818)|null|
@@ -1030,6 +1037,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-05-21**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-02-22**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|**[link](https://github.com/brainpy/brainpy-iclr24-reproducibility)**|
