@@ -42,6 +42,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
+|**2024-05-30**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687](http://arxiv.org/abs/2405.19687)|**[link](https://github.com/ridgerchu/sad)**|
 |**2024-05-29**|**CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration**|Sophie Jaffard et.al.|[2405.18828](http://arxiv.org/abs/2405.18828)|null|
 |**2024-05-28**|**Emergence and long-term maintenance of modularity in spiking neural networks with plasticity**|Raphäel Bergoin et.al.|[2405.18587](http://arxiv.org/abs/2405.18587)|null|
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019](http://arxiv.org/abs/2405.18019)|null|
@@ -464,6 +466,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
+|**2024-05-30**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687](http://arxiv.org/abs/2405.19687)|**[link](https://github.com/ridgerchu/sad)**|
 |**2024-05-24**|**Neuromorphic dreaming: A pathway to efficient learning in artificial agents**|Ingo Blakowski et.al.|[2405.15616](http://arxiv.org/abs/2405.15616)|null|
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
 |**2024-05-26**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
@@ -697,6 +701,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**HINT: Learning Complete Human Neural Representations from Limited Viewpoints**|Alessandro Sanvito et.al.|[2405.19712](http://arxiv.org/abs/2405.19712)|null|
 |**2024-05-29**|**3D Neural Edge Reconstruction**|Lei Li et.al.|[2405.19295](http://arxiv.org/abs/2405.19295)|null|
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
 |**2024-05-29**|**MindSemantix: Deciphering Brain Visual Experiences with a Brain-Language Model**|Ziqi Ren et.al.|[2405.18812](http://arxiv.org/abs/2405.18812)|null|
@@ -1124,6 +1129,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
 |**2024-05-22**|**Cache Blocking of Distributed-Memory Parallel Matrix Power Kernels**|Dane C. Lacey et.al.|[2405.12525](http://arxiv.org/abs/2405.12525)|null|
 |**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|**[link](https://github.com/tim-li/cutn-qsvm)**|
@@ -1158,6 +1164,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
 |**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|**[link](https://github.com/tim-li/cutn-qsvm)**|
 |**2024-05-03**|**Performance Analysis of an Optimization Algorithm for Metamaterial Design on the Integrated High-Performance Computing and Quantum Systems**|Seongmin Kim et.al.|[2405.02211](http://arxiv.org/abs/2405.02211)|null|
