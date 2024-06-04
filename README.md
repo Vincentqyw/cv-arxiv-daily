@@ -7,6 +7,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-29**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
+|**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
 |**2024-04-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
