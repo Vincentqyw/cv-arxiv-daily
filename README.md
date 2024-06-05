@@ -39,6 +39,15 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
+|**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883](http://arxiv.org/abs/2406.01883)|null|
+|**2024-06-03**|**Pattern Formation in a Spiking Neural-Field of Renewal Neurons**|Gregory Dumont et.al.|[2406.01167](http://arxiv.org/abs/2406.01167)|null|
+|**2024-06-03**|**Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning**|Yaxin Li et.al.|[2406.01072](http://arxiv.org/abs/2406.01072)|null|
+|**2024-06-01**|**Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors**|Mustafa Sakhai et.al.|[2406.00473](http://arxiv.org/abs/2406.00473)|null|
+|**2024-06-01**|**Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks**|Lihao Wang et.al.|[2406.00405](http://arxiv.org/abs/2406.00405)|null|
+|**2024-06-01**|**Understanding the Convergence in Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2406.00389](http://arxiv.org/abs/2406.00389)|null|
+|**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239](http://arxiv.org/abs/2406.00239)|null|
+|**2024-05-31**|**Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection**|Sebastian Otte et.al.|[2406.00177](http://arxiv.org/abs/2406.00177)|null|
 |**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
 |**2024-05-30**|**Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems**|Kyle Henke et.al.|[2405.20525](http://arxiv.org/abs/2405.20525)|null|
 |**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355](http://arxiv.org/abs/2405.20355)|null|
@@ -466,6 +475,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
+|**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883](http://arxiv.org/abs/2406.01883)|null|
+|**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
+|**2024-06-01**|**Real-Time State Modulation and Acquisition Circuit in Neuromorphic Memristive Systems**|Shengbo Wang et.al.|[2406.00378](http://arxiv.org/abs/2406.00378)|null|
 |**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
 |**2024-05-30**|**Comparing Quantum Annealing and Spiking Neuromorphic Computing for Sampling Binary Sparse Coding QUBO Problems**|Kyle Henke et.al.|[2405.20525](http://arxiv.org/abs/2405.20525)|null|
 |**2024-05-30**|**Adsorption of Mo and O at S-vacancy on ReS2 surface of ReS2/MoTe2 vdW heterointerface**|Puneet Kumar Shaw et.al.|[2405.19927](http://arxiv.org/abs/2405.19927)|null|
@@ -703,6 +716,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
+|**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
+|**2024-06-03**|**MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild**|Zeren Jiang et.al.|[2406.01595](http://arxiv.org/abs/2406.01595)|null|
+|**2024-06-01**|**Modeling Randomly Observed Spatiotemporal Dynamical Systems**|Valerii Iakovlev et.al.|[2406.00368](http://arxiv.org/abs/2406.00368)|null|
+|**2024-05-31**|**ImplicitTerrain: a Continuous Surface Model for Terrain Data Analysis**|Haoan Feng et.al.|[2406.00227](http://arxiv.org/abs/2406.00227)|null|
 |**2024-05-30**|**HINT: Learning Complete Human Neural Representations from Limited Viewpoints**|Alessandro Sanvito et.al.|[2405.19712](http://arxiv.org/abs/2405.19712)|null|
 |**2024-05-29**|**3D Neural Edge Reconstruction**|Lei Li et.al.|[2405.19295](http://arxiv.org/abs/2405.19295)|null|
 |**2024-05-29**|**Implicit Neural Image Field for Biological Microscopy Image Compression**|Gaole Dai et.al.|[2405.19012](http://arxiv.org/abs/2405.19012)|**[link](https://github.com/pku-hmi/inif)**|
@@ -1131,6 +1149,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
 |**2024-05-22**|**Cache Blocking of Distributed-Memory Parallel Matrix Power Kernels**|Dane C. Lacey et.al.|[2405.12525](http://arxiv.org/abs/2405.12525)|null|
@@ -1166,6 +1185,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
 |**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|**[link](https://github.com/tim-li/cutn-qsvm)**|
