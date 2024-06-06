@@ -43,6 +43,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470](http://arxiv.org/abs/2406.03470)|null|
+|**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287](http://arxiv.org/abs/2406.03287)|**[link](https://github.com/xingrun-xing/spikelm)**|
+|**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054](http://arxiv.org/abs/2406.03054)|null|
+|**2024-06-05**|**When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron**|Xuerui Qiu et.al.|[2406.03046](http://arxiv.org/abs/2406.03046)|**[link](https://github.com/bollossom/iclr_tiny_snn)**|
+|**2024-06-05**|**Rethinking Spiking Neural Networks as State Space Models**|Malyaban Bal et.al.|[2406.02923](http://arxiv.org/abs/2406.02923)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883](http://arxiv.org/abs/2406.01883)|null|
 |**2024-06-03**|**Pattern Formation in a Spiking Neural-Field of Renewal Neurons**|Gregory Dumont et.al.|[2406.01167](http://arxiv.org/abs/2406.01167)|null|
@@ -479,6 +484,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Exploiting Chaotic Dynamics as Deep Neural Networks**|Shuhong Liu et.al.|[2406.02580](http://arxiv.org/abs/2406.02580)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883](http://arxiv.org/abs/2406.01883)|null|
 |**2024-06-03**|**A 0.96pJ/SOP, 30.23K-neuron/mm^2 Heterogeneous Neuromorphic Chip With Fullerene-like Interconnection Topology for Edge-AI Computing**|P. J. Zhou et.al.|[2406.01151](http://arxiv.org/abs/2406.01151)|null|
@@ -720,6 +726,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Neural Representations of Dynamic Visual Stimuli**|Jacob Yeung et.al.|[2406.02659](http://arxiv.org/abs/2406.02659)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
 |**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
 |**2024-06-03**|**MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild**|Zeren Jiang et.al.|[2406.01595](http://arxiv.org/abs/2406.01595)|null|
