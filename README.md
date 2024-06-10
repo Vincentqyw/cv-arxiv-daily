@@ -482,6 +482,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks**|Naresh Ravichandran et.al.|[2406.04733](http://arxiv.org/abs/2406.04733)|null|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
 |**2024-05-29**|**Exploiting Chaotic Dynamics as Deep Neural Networks**|Shuhong Liu et.al.|[2406.02580](http://arxiv.org/abs/2406.02580)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349](http://arxiv.org/abs/2406.02349)|**[link](https://github.com/tank-jiang/cade4snn)**|
@@ -725,6 +726,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Normal-guided Detail-Preserving Neural Implicit Functions for High-Fidelity 3D Surface Reconstruction**|Aarya Patel et.al.|[2406.04861](http://arxiv.org/abs/2406.04861)|null|
+|**2024-06-06**|**Continuous Attractor Networks for Laplace Neural Manifolds**|Bryan C. Daniels et.al.|[2406.04545](http://arxiv.org/abs/2406.04545)|null|
 |**2024-06-06**|**A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation**|Ruihe Wang et.al.|[2406.04253](http://arxiv.org/abs/2406.04253)|null|
 |**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249](http://arxiv.org/abs/2406.04249)|null|
 |**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178](http://arxiv.org/abs/2406.04178)|null|
@@ -1257,6 +1260,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
 |**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869](http://arxiv.org/abs/2405.20869)|null|
 |**2024-05-05**|**Towards a Flexible and High-Fidelity Approach to Distributed DNN Training Emulation**|Banruo Liu et.al.|[2405.02969](http://arxiv.org/abs/2405.02969)|null|
 |**2024-04-13**|**PID-Comm: A Fast and Flexible Collective Communication Framework for Commodity Processing-in-DIMM Devices**|Si Ung Noh et.al.|[2404.08871](http://arxiv.org/abs/2404.08871)|**[link](https://github.com/ais-snu/pid-comm)**|
