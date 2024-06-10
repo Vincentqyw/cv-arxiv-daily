@@ -410,7 +410,7 @@
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|**[link](https://github.com/neurocomplab-psu/spikingbert)**|
-|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|**[link](https://github.com/stonezwr/TSSL-BP)**|
 |**2023-08-26**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455](http://arxiv.org/abs/2308.09455)|null|
 |**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
@@ -678,7 +678,7 @@
 |**2023-09-07**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
-|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|**[link](https://github.com/stonezwr/TSSL-BP)**|
 |**2023-08-17**|**Pattern recognition using spiking antiferromagnetic neurons**|Hannah Bradley et.al.|[2308.09071](http://arxiv.org/abs/2308.09071)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049](http://arxiv.org/abs/2308.09049)|null|
 |**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227](http://arxiv.org/abs/2308.08227)|**[link](https://github.com/biclab/asa-snn)**|
@@ -777,7 +777,7 @@
 |**2024-05-04**|**Leveraging the Human Ventral Visual Stream to Improve Neural Network Robustness**|Zhenan Shao et.al.|[2405.02564](http://arxiv.org/abs/2405.02564)|**[link](https://github.com/shaox192/NeuralGuidance)**|
 |**2024-05-03**|**Implicit Neural Representations for Robust Joint Sparse-View CT Reconstruction**|Jiayang Shi et.al.|[2405.02509](http://arxiv.org/abs/2405.02509)|null|
 |**2024-05-01**|**Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods**|Xia Li et.al.|[2405.00430](http://arxiv.org/abs/2405.00430)|null|
-|**2024-04-30**|**A rank decomposition for the topological classification of neural representations**|Kosio Beshkov et.al.|[2404.19710](http://arxiv.org/abs/2404.19710)|null|
+|**2024-04-30**|**A rank decomposition for the topological classification of neural representations**|Kosio Beshkov et.al.|[2404.19710](http://arxiv.org/abs/2404.19710)|**[link](https://github.com/kbeshkov/top-mfld-class)**|
 |**2024-04-29**|**Distributed Stochastic Optimization of a Neural Representation Network for Time-Space Tomography Reconstruction**|K. Aditya Mohan et.al.|[2404.19075](http://arxiv.org/abs/2404.19075)|null|
 |**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
 |**2024-04-25**|**Latent Modulated Function for Computational Optimal Continuous Image Representation**|Zongyao He et.al.|[2404.16451](http://arxiv.org/abs/2404.16451)|**[link](https://github.com/hezongyao/lmf)**|
@@ -854,7 +854,7 @@
 |**2024-02-14**|**When Representations Align: Universality in Representation Learning Dynamics**|Loek van Rossem et.al.|[2402.09142](http://arxiv.org/abs/2402.09142)|null|
 |**2024-02-14**|**CLIP-MUSED: CLIP-Guided Multi-Subject Visual Neural Information Semantic Decoding**|Qiongyi Zhou et.al.|[2402.08994](http://arxiv.org/abs/2402.08994)|**[link](https://github.com/clip-mused/clip-mused)**|
 |**2024-02-14**|**DUDF: Differentiable Unsigned Distance Fields with Hyperbolic Scaling**|Miguel Fainstein et.al.|[2402.08876](http://arxiv.org/abs/2402.08876)|**[link](https://github.com/LIA-DiTella/DiffUDF)**|
-|**2024-02-14**|**DeepPolar: Inventing Nonlinear Large-Kernel Polar Codes via Deep Learning**|S Ashwin Hebbar et.al.|[2402.08864](http://arxiv.org/abs/2402.08864)|null|
+|**2024-02-14**|**DeepPolar: Inventing Nonlinear Large-Kernel Polar Codes via Deep Learning**|S Ashwin Hebbar et.al.|[2402.08864](http://arxiv.org/abs/2402.08864)|**[link](https://github.com/hebbarashwin/deeppolar)**|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784](http://arxiv.org/abs/2402.08784)|null|
 |**2024-02-13**|**RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural Networks**|Chengxi Zeng et.al.|[2402.08367](http://arxiv.org/abs/2402.08367)|**[link](https://github.com/SimonZeng7108/RBF-PINN)**|
 |**2024-02-13**|**Pix2Code: Learning to Compose Neural Visual Concepts as Programs**|Antonia Wüst et.al.|[2402.08280](http://arxiv.org/abs/2402.08280)|**[link](https://github.com/ml-research/pix2code)**|
