@@ -1,4 +1,4 @@
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1281,6 +1281,19 @@
 |**2023-06-25**|**M $^3$ SC: A Generic Dataset for Mixed Multi-Modal (MMM) Sensing and Communication Integration**|Xiang Cheng et.al.|[2306.14125](http://arxiv.org/abs/2306.14125)|null|
 |**2023-06-16**|**ZeRO++: Extremely Efficient Collective Communication for Giant Model Training**|Guanhua Wang et.al.|[2306.10209](http://arxiv.org/abs/2306.10209)|**[link](https://github.com/microsoft/DeepSpeed)**|
 |**2023-05-31**|**A Survey of Potential MPI Complex Collectives: Large-Scale Mining and Analysis of HPC Applications**|Pouya Haghi et.al.|[2305.19946](http://arxiv.org/abs/2305.19946)|null|
+
+{{< /table >}}
+
+## Asynchronous Progress
+
+{{< table "table-responsive" >}}
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2022-11-12**|**Asynchronous progressive iterative approximation method for least-squares fitting**|Nian-Ci Wu et.al.|[2211.06556](http://arxiv.org/abs/2211.06556)|null|
+|**2024-02-05**|**Temporal Team Semantics Revisited**|Jens Oliver Gutsfeld et.al.|[2110.12699](http://arxiv.org/abs/2110.12699)|null|
+|**2020-12-05**|**An Improved Framework of GPU Computing for CFD Applications on Structured Grids using OpenACC**|Weicheng Xue et.al.|[2012.02925](http://arxiv.org/abs/2012.02925)|null|
+|**2020-06-04**|**Multi-GPU Performance Optimization of a CFD Code using OpenACC on Different Platforms**|Weicheng Xue et.al.|[2006.02602](http://arxiv.org/abs/2006.02602)|null|
+|**2016-09-27**|**Asynchronous progress design for a MPI-based PGAS one-sided communication system**|Huan Zhou et.al.|[1609.08574](http://arxiv.org/abs/1609.08574)|null|
 
 {{< /table >}}
 
