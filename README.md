@@ -40,6 +40,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling**|Sai Sanjeet et.al.|[2406.06879](http://arxiv.org/abs/2406.06879)|null|
 |**2024-06-10**|**NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks**|Yuqi Ma et.al.|[2406.06305](http://arxiv.org/abs/2406.06305)|null|
 |**2024-06-10**|**Applications and resource estimates for open system simulation on a quantum computer**|Evgeny Mozgunov et.al.|[2406.06281](http://arxiv.org/abs/2406.06281)|null|
 |**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075](http://arxiv.org/abs/2406.06075)|null|
@@ -733,6 +734,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images**|Yufei Han et.al.|[2406.07111](http://arxiv.org/abs/2406.07111)|null|
 |**2024-06-09**|**A Low Rank Neural Representation of Entropy Solutions**|Donsub Rim et.al.|[2406.05694](http://arxiv.org/abs/2406.05694)|null|
 |**2024-06-07**|**Normal-guided Detail-Preserving Neural Implicit Functions for High-Fidelity 3D Surface Reconstruction**|Aarya Patel et.al.|[2406.04861](http://arxiv.org/abs/2406.04861)|null|
 |**2024-06-06**|**Continuous Attractor Networks for Laplace Neural Manifolds**|Bryan C. Daniels et.al.|[2406.04545](http://arxiv.org/abs/2406.04545)|null|
