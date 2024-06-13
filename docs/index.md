@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -15,7 +15,7 @@ layout: default
 |**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
-|**2024-04-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
+|**2024-06-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
 |**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
 |**2024-02-16**|**Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation**|Kourosh Parand et.al.|[2402.10649](http://arxiv.org/abs/2402.10649)|null|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045](http://arxiv.org/abs/2401.15045)|null|
