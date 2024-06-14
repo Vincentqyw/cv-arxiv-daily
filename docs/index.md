@@ -740,6 +740,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409](http://arxiv.org/abs/2406.09409)|null|
+|**2024-06-13**|**OpenMaterial: A Comprehensive Dataset of Complex Materials for 3D Reconstruction**|Zheng Dang et.al.|[2406.08894](http://arxiv.org/abs/2406.08894)|null|
+|**2024-06-13**|**Generalizable Implicit Neural Representation As a Universal Spatiotemporal Traffic Data Learner**|Tong Nie et.al.|[2406.08743](http://arxiv.org/abs/2406.08743)|null|
 |**2024-06-11**|**NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images**|Yufei Han et.al.|[2406.07111](http://arxiv.org/abs/2406.07111)|null|
 |**2024-06-09**|**A Low Rank Neural Representation of Entropy Solutions**|Donsub Rim et.al.|[2406.05694](http://arxiv.org/abs/2406.05694)|null|
 |**2024-06-07**|**Normal-guided Detail-Preserving Neural Implicit Functions for High-Fidelity 3D Surface Reconstruction**|Aarya Patel et.al.|[2406.04861](http://arxiv.org/abs/2406.04861)|null|
