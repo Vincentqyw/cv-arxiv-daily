@@ -754,7 +754,7 @@ layout: default
 |**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|**[link](https://github.com/GGorMM1/QIREN)**|
 |**2024-06-04**|**Neural Representations of Dynamic Visual Stimuli**|Jacob Yeung et.al.|[2406.02659](http://arxiv.org/abs/2406.02659)|null|
 |**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529](http://arxiv.org/abs/2406.02529)|**[link](https://github.com/joeshenouda/relu-inrs)**|
-|**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|null|
+|**2024-06-04**|**Image steganography based on generative implicit neural representation**|Zhong Yangjie et.al.|[2406.01918](http://arxiv.org/abs/2406.01918)|**[link](https://github.com/twinlj77/GFNNS)**|
 |**2024-06-03**|**MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild**|Zeren Jiang et.al.|[2406.01595](http://arxiv.org/abs/2406.01595)|null|
 |**2024-06-01**|**Modeling Randomly Observed Spatiotemporal Dynamical Systems**|Valerii Iakovlev et.al.|[2406.00368](http://arxiv.org/abs/2406.00368)|null|
 |**2024-05-31**|**ImplicitTerrain: a Continuous Surface Model for Terrain Data Analysis**|Haoan Feng et.al.|[2406.00227](http://arxiv.org/abs/2406.00227)|null|
