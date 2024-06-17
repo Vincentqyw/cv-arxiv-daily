@@ -40,6 +40,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Exemplar LCA-Decoder: A Scalable Framework for On-Chip Learning**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066](http://arxiv.org/abs/2406.10066)|null|
+|**2024-06-14**|**Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks**|Yingchao Yu et.al.|[2406.09680](http://arxiv.org/abs/2406.09680)|null|
 |**2024-06-12**|**ExoSpikeNet: A Light Curve Analysis Based Spiking Neural Network for Exoplanet Detection**|Maneet Chatterjee et.al.|[2406.07927](http://arxiv.org/abs/2406.07927)|null|
 |**2024-06-12**|**Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks**|Lin Zuo et.al.|[2406.07862](http://arxiv.org/abs/2406.07862)|null|
 |**2024-06-11**|**SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling**|Sai Sanjeet et.al.|[2406.06879](http://arxiv.org/abs/2406.06879)|null|
@@ -489,6 +491,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Exemplar LCA-Decoder: A Scalable Framework for On-Chip Learning**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066](http://arxiv.org/abs/2406.10066)|null|
 |**2024-06-10**|**Applications and resource estimates for open system simulation on a quantum computer**|Evgeny Mozgunov et.al.|[2406.06281](http://arxiv.org/abs/2406.06281)|null|
 |**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075](http://arxiv.org/abs/2406.06075)|null|
 |**2024-06-08**|**Spiking Neural Networks with Consistent Mapping Relations Allow High-Accuracy Inference**|Yang Li et.al.|[2406.05371](http://arxiv.org/abs/2406.05371)|null|
@@ -736,6 +739,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**$S^3$ -- Semantic Signal Separation**|Márton Kardos et.al.|[2406.09556](http://arxiv.org/abs/2406.09556)|null|
 |**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409](http://arxiv.org/abs/2406.09409)|null|
 |**2024-06-13**|**OpenMaterial: A Comprehensive Dataset of Complex Materials for 3D Reconstruction**|Zheng Dang et.al.|[2406.08894](http://arxiv.org/abs/2406.08894)|null|
 |**2024-06-13**|**Generalizable Implicit Neural Representation As a Universal Spatiotemporal Traffic Data Learner**|Tong Nie et.al.|[2406.08743](http://arxiv.org/abs/2406.08743)|null|
@@ -1276,6 +1280,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Faster Convergence on Heterogeneous Federated Edge Learning: An Adaptive Sidelink-Assisted Data Multicasting Approach**|Gang Hu et.al.|[2406.09776](http://arxiv.org/abs/2406.09776)|null|
 |**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
 |**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869](http://arxiv.org/abs/2405.20869)|null|
 |**2024-05-05**|**Towards a Flexible and High-Fidelity Approach to Distributed DNN Training Emulation**|Banruo Liu et.al.|[2405.02969](http://arxiv.org/abs/2405.02969)|null|
