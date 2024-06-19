@@ -40,6 +40,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726](http://arxiv.org/abs/2406.12726)|null|
+|**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552](http://arxiv.org/abs/2406.12552)|null|
+|**2024-06-18**|**SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning**|Qiugang Zhan et.al.|[2406.12200](http://arxiv.org/abs/2406.12200)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778](http://arxiv.org/abs/2406.11778)|null|
 |**2024-06-15**|**Feedback-voltage driven chaos in three-terminal spin-torque oscillator**|Tomohiro Taniguchi et.al.|[2406.10493](http://arxiv.org/abs/2406.10493)|null|
 |**2024-06-14**|**Exemplar LCA-Decoder: A Scalable Framework for On-Chip Learning**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066](http://arxiv.org/abs/2406.10066)|null|
@@ -743,6 +746,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
 |**2024-06-16**|**Latent Communication in Artificial Neural Networks**|Luca Moschella et.al.|[2406.11014](http://arxiv.org/abs/2406.11014)|null|
 |**2024-06-18**|**$S^3$ -- Semantic Signal Separation**|Márton Kardos et.al.|[2406.09556](http://arxiv.org/abs/2406.09556)|null|
 |**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409](http://arxiv.org/abs/2406.09409)|null|
@@ -1192,6 +1196,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
 |**2024-06-08**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
@@ -1229,6 +1234,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
