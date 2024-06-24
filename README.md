@@ -40,6 +40,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112](http://arxiv.org/abs/2406.15112)|null|
+|**2024-06-21**|**Thickness-dependent properties of transparent conductive oxides for epsilon-near-zero applications**|Jacek Gosciniak et.al.|[2406.15081](http://arxiv.org/abs/2406.15081)|null|
+|**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034](http://arxiv.org/abs/2406.15034)|null|
+|**2024-06-21**|**Model Predictive Control of the Neural Manifold**|Christof Fehrman et.al.|[2406.14801](http://arxiv.org/abs/2406.14801)|null|
 |**2024-06-20**|**RTFormer: Re-parameter TSBN Spiking Transformer**|Hongzhi Wang et.al.|[2406.14180](http://arxiv.org/abs/2406.14180)|null|
 |**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178](http://arxiv.org/abs/2406.14178)|null|
 |**2024-06-19**|**Q-SNNs: Quantized Spiking Neural Networks**|Wenjie Wei et.al.|[2406.13672](http://arxiv.org/abs/2406.13672)|null|
@@ -503,6 +507,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Thickness-dependent properties of transparent conductive oxides for epsilon-near-zero applications**|Jacek Gosciniak et.al.|[2406.15081](http://arxiv.org/abs/2406.15081)|null|
 |**2024-06-19**|**Hardware Realization of Neuromorphic Computing with a 4-Port Photonic Reservoir for Modulation Format Identification**|Enes Şeker et.al.|[2406.13549](http://arxiv.org/abs/2406.13549)|null|
 |**2024-06-19**|**Measurement of the Crystallization and Phase Transition of Niobium Dioxide Thin-Films for Neuromorphic Computing Applications Using a Tube Furnace Optical Transmission System**|Zachary R. Robinson et.al.|[2406.13523](http://arxiv.org/abs/2406.13523)|null|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
@@ -755,6 +760,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**CoCPF: Coordinate-based Continuous Projection Field for Ill-Posed Inverse Problem in Imaging**|Zixuan Chen et.al.|[2406.14976](http://arxiv.org/abs/2406.14976)|null|
 |**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
 |**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
