@@ -44,6 +44,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing**|Erik B. Terres-Escudero et.al.|[2406.16479](http://arxiv.org/abs/2406.16479)|**[link](https://github.com/erikberter/hebbian_ffa)**|
 |**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112](http://arxiv.org/abs/2406.15112)|null|
 |**2024-06-21**|**Thickness-dependent properties of transparent conductive oxides for epsilon-near-zero applications**|Jacek Gosciniak et.al.|[2406.15081](http://arxiv.org/abs/2406.15081)|null|
 |**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034](http://arxiv.org/abs/2406.15034)|null|
@@ -511,6 +512,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing**|Erik B. Terres-Escudero et.al.|[2406.16479](http://arxiv.org/abs/2406.16479)|**[link](https://github.com/erikberter/hebbian_ffa)**|
 |**2024-06-21**|**Thickness-dependent properties of transparent conductive oxides for epsilon-near-zero applications**|Jacek Gosciniak et.al.|[2406.15081](http://arxiv.org/abs/2406.15081)|null|
 |**2024-06-19**|**Hardware Realization of Neuromorphic Computing with a 4-Port Photonic Reservoir for Modulation Format Identification**|Enes Şeker et.al.|[2406.13549](http://arxiv.org/abs/2406.13549)|null|
 |**2024-06-19**|**Measurement of the Crystallization and Phase Transition of Niobium Dioxide Thin-Films for Neuromorphic Computing Applications Using a Tube Furnace Optical Transmission System**|Zachary R. Robinson et.al.|[2406.13523](http://arxiv.org/abs/2406.13523)|null|
