@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -767,7 +767,7 @@ layout: default
 |**2024-06-21**|**CoCPF: Coordinate-based Continuous Projection Field for Ill-Posed Inverse Problem in Imaging**|Zixuan Chen et.al.|[2406.14976](http://arxiv.org/abs/2406.14976)|null|
 |**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
 |**2024-06-19**|**Enhance the Image: Super Resolution using Artificial Intelligence in MRI**|Ziyu Li et.al.|[2406.13625](http://arxiv.org/abs/2406.13625)|null|
-|**2024-06-18**|**What makes two models think alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
+|**2024-06-24**|**What Makes Two Language Models Think Alike?**|Jeanne Salle et.al.|[2406.12620](http://arxiv.org/abs/2406.12620)|null|
 |**2024-06-16**|**Latent Communication in Artificial Neural Networks**|Luca Moschella et.al.|[2406.11014](http://arxiv.org/abs/2406.11014)|null|
 |**2024-06-18**|**$S^3$ -- Semantic Signal Separation**|Márton Kardos et.al.|[2406.09556](http://arxiv.org/abs/2406.09556)|**[link](https://github.com/x-tabdeveloping/turftopic)**|
 |**2024-06-13**|**CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**|Sachin Shah et.al.|[2406.09409](http://arxiv.org/abs/2406.09409)|null|
