@@ -44,6 +44,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks**|Thomas Louis et.al.|[2406.18350](http://arxiv.org/abs/2406.18350)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
 |**2024-06-25**|**EON-1: A Brain-Inspired Processor for Near-Sensor Extreme Edge Online Feature Extraction**|Alexandra Dobrita et.al.|[2406.17285](http://arxiv.org/abs/2406.17285)|null|
 |**2024-06-24**|**Optical Control of Adaptive Nanoscale Domain Networks**|Marc Zajac et.al.|[2406.17067](http://arxiv.org/abs/2406.17067)|null|
@@ -773,6 +774,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Script-Agnostic Language Identification**|Milind Agarwal et.al.|[2406.17901](http://arxiv.org/abs/2406.17901)|null|
 |**2024-06-25**|**Sparse-view Signal-domain Photoacoustic Tomography Reconstruction Method Based on Neural Representation**|Bowei Yao et.al.|[2406.17578](http://arxiv.org/abs/2406.17578)|null|
 |**2024-06-21**|**CoCPF: Coordinate-based Continuous Projection Field for Ill-Posed Inverse Problem in Imaging**|Zixuan Chen et.al.|[2406.14976](http://arxiv.org/abs/2406.14976)|null|
 |**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
@@ -1266,6 +1268,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Composing Distributed Computations Through Task and Kernel Fusion**|Rohan Yadav et.al.|[2406.18109](http://arxiv.org/abs/2406.18109)|null|
 |**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
