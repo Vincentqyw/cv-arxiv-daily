@@ -1,4 +1,4 @@
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -40,7 +40,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|null|
+|**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|**[link](https://github.com/Lvchangze/snn)**|
 |**2024-06-26**|**Physics-based Modeling and Simulation of Nanoparticle Networks**|Torben Hemke et.al.|[2406.18666](http://arxiv.org/abs/2406.18666)|null|
 |**2024-06-26**|**On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks**|Thomas Louis et.al.|[2406.18350](http://arxiv.org/abs/2406.18350)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
