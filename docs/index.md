@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -10,7 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
+|**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
 |**2024-06-25**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
@@ -1153,7 +1153,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-28**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
+|**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
 |**2024-06-25**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-05-21**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|**[link](https://github.com/cihakh/RobustCertaintyEncoding)**|
