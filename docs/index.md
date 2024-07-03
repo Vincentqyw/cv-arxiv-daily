@@ -45,6 +45,13 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
+|**2024-07-01**|**Phase jumps in Josephson junctions with time-dependent spin-orbit coupling**|David Monroe et.al.|[2407.01847](http://arxiv.org/abs/2407.01847)|null|
+|**2024-07-01**|**Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network**|Hyunseok Oh et.al.|[2407.01645](http://arxiv.org/abs/2407.01645)|**[link](https://github.com/snuhcs/snn_signgd)**|
+|**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931](http://arxiv.org/abs/2407.00931)|null|
+|**2024-07-01**|**Large-Amplitude, Easy-Plane Spin-Orbit Torque Oscillators Driven by Out-of-Plane Spin Current: A Micromagnetic Study**|Daniel Kubler et.al.|[2407.00895](http://arxiv.org/abs/2407.00895)|null|
+|**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641](http://arxiv.org/abs/2407.00641)|null|
+|**2024-06-27**|**Modeling Performance of Data Collection Systems for High-Energy Physics**|Wilkie Olin-Ammentorp et.al.|[2407.00123](http://arxiv.org/abs/2407.00123)|null|
 |**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645](http://arxiv.org/abs/2406.19645)|null|
 |**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230](http://arxiv.org/abs/2406.19230)|**[link](https://github.com/Lvchangze/snn)**|
 |**2024-06-26**|**Physics-based Modeling and Simulation of Nanoparticle Networks**|Torben Hemke et.al.|[2406.18666](http://arxiv.org/abs/2406.18666)|null|
@@ -521,6 +528,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
+|**2024-07-01**|**Phase jumps in Josephson junctions with time-dependent spin-orbit coupling**|David Monroe et.al.|[2407.01847](http://arxiv.org/abs/2407.01847)|null|
+|**2024-07-01**|**Large-Amplitude, Easy-Plane Spin-Orbit Torque Oscillators Driven by Out-of-Plane Spin Current: A Micromagnetic Study**|Daniel Kubler et.al.|[2407.00895](http://arxiv.org/abs/2407.00895)|null|
+|**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641](http://arxiv.org/abs/2407.00641)|null|
+|**2024-06-27**|**Modeling Performance of Data Collection Systems for High-Energy Physics**|Wilkie Olin-Ammentorp et.al.|[2407.00123](http://arxiv.org/abs/2407.00123)|null|
 |**2024-06-28**|**Versatile CMOS Analog LIF Neuron for Memristor-Integrated Neuromorphic Circuits**|Nikhil Garg et.al.|[2406.19667](http://arxiv.org/abs/2406.19667)|null|
 |**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645](http://arxiv.org/abs/2406.19645)|null|
 |**2024-06-26**|**Physics-based Modeling and Simulation of Nanoparticle Networks**|Torben Hemke et.al.|[2406.18666](http://arxiv.org/abs/2406.18666)|null|
@@ -781,6 +793,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
+|**2024-07-01**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
+|**2024-06-29**|**Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization**|Hongjun Choi et.al.|[2407.00356](http://arxiv.org/abs/2407.00356)|null|
 |**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
 |**2024-06-25**|**Script-Agnostic Language Identification**|Milind Agarwal et.al.|[2406.17901](http://arxiv.org/abs/2406.17901)|null|
 |**2024-06-25**|**Sparse-view Signal-domain Photoacoustic Tomography Reconstruction Method Based on Neural Representation**|Bowei Yao et.al.|[2406.17578](http://arxiv.org/abs/2406.17578)|null|
@@ -1336,6 +1351,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-30**|**Challenging the Need for Packet Spraying in Large-Scale Distributed Training**|Vamsi Addanki et.al.|[2407.00550](http://arxiv.org/abs/2407.00550)|null|
 |**2024-06-28**|**FRED: Flexible REduction-Distribution Interconnect and Communication Implementation for Wafer-Scale Distributed Training of DNN Models**|Saeed Rashidi et.al.|[2406.19580](http://arxiv.org/abs/2406.19580)|null|
 |**2024-06-14**|**Faster Convergence on Heterogeneous Federated Edge Learning: An Adaptive Sidelink-Assisted Data Multicasting Approach**|Gang Hu et.al.|[2406.09776](http://arxiv.org/abs/2406.09776)|null|
 |**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
