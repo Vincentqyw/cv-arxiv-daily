@@ -524,6 +524,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151](http://arxiv.org/abs/2407.03151)|null|
 |**2024-07-02**|**Roadmap to Neuromorphic Computing with Emerging Technologies**|Adnan Mehonic et.al.|[2407.02353](http://arxiv.org/abs/2407.02353)|null|
 |**2024-07-01**|**Phase jumps in Josephson junctions with time-dependent spin-orbit coupling**|David Monroe et.al.|[2407.01847](http://arxiv.org/abs/2407.01847)|null|
 |**2024-07-01**|**Large-Amplitude, Easy-Plane Spin-Orbit Torque Oscillators Driven by Out-of-Plane Spin Current: A Micromagnetic Study**|Daniel Kubler et.al.|[2407.00895](http://arxiv.org/abs/2407.00895)|null|
@@ -789,6 +790,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**IM-MoCo: Self-supervised MRI Motion Correction using Motion-Guided Implicit Neural Representations**|Ziad Al-Haj Hemidi et.al.|[2407.02974](http://arxiv.org/abs/2407.02974)|**[link](https://github.com/mdl-uzl/miccai24_immoco)**|
+|**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744](http://arxiv.org/abs/2407.02744)|null|
+|**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-01**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
 |**2024-06-29**|**Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization**|Hongjun Choi et.al.|[2407.00356](http://arxiv.org/abs/2407.00356)|null|
