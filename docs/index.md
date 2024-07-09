@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -805,7 +805,7 @@ layout: default
 |**2024-07-03**|**Highly Accelerated MRI via Implicit Neural Representation Guided Posterior Sampling of Diffusion Models**|Jiayue Chu et.al.|[2407.02744](http://arxiv.org/abs/2407.02744)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-04**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
-|**2024-07-01**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
+|**2024-07-07**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
 |**2024-06-29**|**Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization**|Hongjun Choi et.al.|[2407.00356](http://arxiv.org/abs/2407.00356)|null|
 |**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
 |**2024-06-25**|**Script-Agnostic Language Identification**|Milind Agarwal et.al.|[2406.17901](http://arxiv.org/abs/2406.17901)|null|
@@ -1364,7 +1364,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-30**|**Challenging the Need for Packet Spraying in Large-Scale Distributed Training**|Vamsi Addanki et.al.|[2407.00550](http://arxiv.org/abs/2407.00550)|null|
 |**2024-06-28**|**FRED: Flexible REduction-Distribution Interconnect and Communication Implementation for Wafer-Scale Distributed Training of DNN Models**|Saeed Rashidi et.al.|[2406.19580](http://arxiv.org/abs/2406.19580)|null|
-|**2024-06-14**|**Faster Convergence on Heterogeneous Federated Edge Learning: An Adaptive Sidelink-Assisted Data Multicasting Approach**|Gang Hu et.al.|[2406.09776](http://arxiv.org/abs/2406.09776)|null|
+|**2024-07-08**|**Faster Convergence on Heterogeneous Federated Edge Learning: An Adaptive Clustered Data Sharing Approach**|Gang Hu et.al.|[2406.09776](http://arxiv.org/abs/2406.09776)|null|
 |**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
 |**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869](http://arxiv.org/abs/2405.20869)|null|
 |**2024-05-05**|**Towards a Flexible and High-Fidelity Approach to Distributed DNN Training Emulation**|Banruo Liu et.al.|[2405.02969](http://arxiv.org/abs/2405.02969)|null|
