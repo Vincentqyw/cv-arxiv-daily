@@ -1,4 +1,4 @@
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -12,7 +12,7 @@
 |**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
-|**2024-06-12**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
+|**2024-07-10**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
 |**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
 |**2024-02-16**|**Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation**|Kourosh Parand et.al.|[2402.10649](http://arxiv.org/abs/2402.10649)|null|
 |**2024-01-26**|**Emulating Complex Synapses Using Interlinked Proton Conductors**|Lifu Zhang et.al.|[2401.15045](http://arxiv.org/abs/2401.15045)|null|
@@ -41,6 +41,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[2407.07020](http://arxiv.org/abs/2407.07020)|null|
+|**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
+|**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
+|**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
 |**2024-07-08**|**Multi-Bit Mechanism: A Novel Information Transmission Paradigm for Spiking Neural Networks**|Yongjun Xiao et.al.|[2407.05739](http://arxiv.org/abs/2407.05739)|null|
 |**2024-07-07**|**Ternary Spike-based Neuromorphic Signal Processing System**|Shuai Wang et.al.|[2407.05310](http://arxiv.org/abs/2407.05310)|null|
 |**2024-07-07**|**FastSpiker: Enabling Fast Training for Spiking Neural Networks on Event-based Data through Learning Rate Enhancements for Autonomous Embedded Systems**|Iqra Bano et.al.|[2407.05262](http://arxiv.org/abs/2407.05262)|null|
@@ -532,7 +536,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-07**|**Prospective Messaging: Learning in Networks with Communication Delays**|Ryan Fayyazi et.al.|[2407.05494](http://arxiv.org/abs/2407.05494)|null|
+|**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
+|**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
+|**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
+|**2024-07-09**|**Prospective Messaging: Learning in Networks with Communication Delays**|Ryan Fayyazi et.al.|[2407.05494](http://arxiv.org/abs/2407.05494)|null|
 |**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
 |**2024-07-04**|**Predictive Coding Networks and Inference Learning: Tutorial and Survey**|Björn van Zwol et.al.|[2407.04117](http://arxiv.org/abs/2407.04117)|null|
 |**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
@@ -803,6 +810,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**PDEformer-1: A Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2407.06664](http://arxiv.org/abs/2407.06664)|null|
+|**2024-07-09**|**Implicit Regression in Subspace for High-Sensitivity CEST Imaging**|Chu Chen et.al.|[2407.06614](http://arxiv.org/abs/2407.06614)|null|
+|**2024-07-08**|**Characterization of topological structures in different neural network architectures**|Paweł Świder et.al.|[2407.06286](http://arxiv.org/abs/2407.06286)|null|
 |**2024-07-08**|**LINEAR: Learning Implicit Neural Representation With Explicit Physical Priors for Accelerated Quantitative T1rho Mapping**|Yuanyuan Liu et.al.|[2407.05617](http://arxiv.org/abs/2407.05617)|null|
 |**2024-07-04**|**Limited-View Photoacoustic Imaging Reconstruction Via High-quality Self-supervised Neural Representation**|Youshen xiao et.al.|[2407.03663](http://arxiv.org/abs/2407.03663)|null|
 |**2024-07-03**|**IM-MoCo: Self-supervised MRI Motion Correction using Motion-Guided Implicit Neural Representations**|Ziad Al-Haj Hemidi et.al.|[2407.02974](http://arxiv.org/abs/2407.02974)|**[link](https://github.com/mdl-uzl/miccai24_immoco)**|
@@ -1270,7 +1280,7 @@
 |---|---|---|---|---|
 |**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
-|**2024-06-08**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
+|**2024-07-09**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
