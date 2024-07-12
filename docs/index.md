@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -46,7 +46,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[2407.07020](http://arxiv.org/abs/2407.07020)|null|
-|**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
+|**2024-07-11**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
 |**2024-07-08**|**Multi-Bit Mechanism: A Novel Information Transmission Paradigm for Spiking Neural Networks**|Yongjun Xiao et.al.|[2407.05739](http://arxiv.org/abs/2407.05739)|null|
@@ -540,7 +540,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
+|**2024-07-11**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
 |**2024-07-09**|**Prospective Messaging: Learning in Networks with Communication Delays**|Ryan Fayyazi et.al.|[2407.05494](http://arxiv.org/abs/2407.05494)|null|
