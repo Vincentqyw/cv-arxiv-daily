@@ -41,6 +41,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
+|**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|null|
+|**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356](http://arxiv.org/abs/2407.08356)|null|
+|**2024-07-11**|**Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2407.08130](http://arxiv.org/abs/2407.08130)|null|
 |**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[2407.07020](http://arxiv.org/abs/2407.07020)|null|
 |**2024-07-11**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
@@ -536,6 +540,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**A Comprehensive Convolutional Neural Network Architecture Design using Magnetic Skyrmion and Domain Wall**|Saumya Gupta et.al.|[2407.08469](http://arxiv.org/abs/2407.08469)|null|
+|**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|null|
 |**2024-07-11**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
@@ -810,6 +816,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
 |**2024-07-10**|**Neural Geometry Processing via Spherical Neural Surfaces**|Romy Williamson et.al.|[2407.07755](http://arxiv.org/abs/2407.07755)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
 |**2024-07-10**|**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**|Aggelina Chatziagapi et.al.|[2407.07284](http://arxiv.org/abs/2407.07284)|null|
