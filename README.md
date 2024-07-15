@@ -1,4 +1,4 @@
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -816,7 +816,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
+|**2024-07-12**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
 |**2024-07-10**|**Neural Geometry Processing via Spherical Neural Surfaces**|Romy Williamson et.al.|[2407.07755](http://arxiv.org/abs/2407.07755)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
 |**2024-07-10**|**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**|Aggelina Chatziagapi et.al.|[2407.07284](http://arxiv.org/abs/2407.07284)|null|
