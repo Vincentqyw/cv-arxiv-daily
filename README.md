@@ -1,4 +1,4 @@
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -43,7 +43,7 @@
 |---|---|---|---|---|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260](http://arxiv.org/abs/2407.09260)|null|
 |**2024-07-12**|**Multistate ferroelectric diodes with high electroresistance based on van der Waals heterostructures**|Soumya Sarkar et.al.|[2407.09175](http://arxiv.org/abs/2407.09175)|null|
-|**2024-07-12**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083](http://arxiv.org/abs/2407.09083)|null|
+|**2024-07-15**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083](http://arxiv.org/abs/2407.09083)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 |**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|null|
 |**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356](http://arxiv.org/abs/2407.08356)|null|
@@ -550,7 +550,7 @@
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452](http://arxiv.org/abs/2407.06452)|null|
 |**2024-07-09**|**Prospective Messaging: Learning in Networks with Communication Delays**|Ryan Fayyazi et.al.|[2407.05494](http://arxiv.org/abs/2407.05494)|null|
-|**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
+|**2024-07-13**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106](http://arxiv.org/abs/2407.05106)|**[link](https://github.com/qiwang233/dailydvs-200)**|
 |**2024-07-04**|**Predictive Coding Networks and Inference Learning: Tutorial and Survey**|Björn van Zwol et.al.|[2407.04117](http://arxiv.org/abs/2407.04117)|null|
 |**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076](http://arxiv.org/abs/2407.04076)|null|
 |**2024-07-04**|**A Generalized Spiking Locally Competitive Algorithm for Multiple Optimization Problems**|Xuexing Du et.al.|[2407.03930](http://arxiv.org/abs/2407.03930)|null|
@@ -1297,7 +1297,7 @@
 |**2024-07-09**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
-|**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
+|**2024-07-12**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
 |**2024-05-22**|**Cache Blocking of Distributed-Memory Parallel Matrix Power Kernels**|Dane C. Lacey et.al.|[2405.12525](http://arxiv.org/abs/2405.12525)|null|
 |**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|**[link](https://github.com/tim-li/cutn-qsvm)**|
 |**2024-05-03**|**Performance Analysis of an Optimization Algorithm for Metamaterial Design on the Integrated High-Performance Computing and Quantum Systems**|Seongmin Kim et.al.|[2405.02211](http://arxiv.org/abs/2405.02211)|null|
@@ -1337,7 +1337,7 @@
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
-|**2024-05-22**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
+|**2024-07-12**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
 |**2024-05-08**|**cuTN-QSVM: cuTensorNet-accelerated Quantum Support Vector Machine with cuQuantum SDK**|Kuan-Cheng Chen et.al.|[2405.02630](http://arxiv.org/abs/2405.02630)|**[link](https://github.com/tim-li/cutn-qsvm)**|
 |**2024-05-03**|**Performance Analysis of an Optimization Algorithm for Metamaterial Design on the Integrated High-Performance Computing and Quantum Systems**|Seongmin Kim et.al.|[2405.02211](http://arxiv.org/abs/2405.02211)|null|
 |**2024-05-01**|**A Communication Avoiding and Reducing Algorithm for Symmetric Eigenproblem for Very Small Matrices**|Takahiro Katagiri et.al.|[2405.00326](http://arxiv.org/abs/2405.00326)|null|
