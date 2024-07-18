@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -831,11 +831,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-15**|**Balancing the Scales: Reinforcement Learning for Fair Classification**|Leon Eshuijs et.al.|[2407.10629](http://arxiv.org/abs/2407.10629)|null|
 |**2024-07-13**|**Metric Learning for Clifford Group Equivariant Neural Networks**|Riccardo Ali et.al.|[2407.09926](http://arxiv.org/abs/2407.09926)|**[link](https://github.com/rick-ali/metric-learning-for-cgenns)**|
-|**2024-07-13**|**Uncovering Weaknesses in Neural Code Generation**|Xiaoli Lian et.al.|[2407.09793](http://arxiv.org/abs/2407.09793)|null|
+|**2024-07-17**|**Uncovering Weaknesses in Neural Code Generation**|Xiaoli Lian et.al.|[2407.09793](http://arxiv.org/abs/2407.09793)|null|
 |**2024-07-12**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
 |**2024-07-10**|**Neural Geometry Processing via Spherical Neural Surfaces**|Romy Williamson et.al.|[2407.07755](http://arxiv.org/abs/2407.07755)|null|
 |**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
-|**2024-07-10**|**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**|Aggelina Chatziagapi et.al.|[2407.07284](http://arxiv.org/abs/2407.07284)|null|
+|**2024-07-17**|**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**|Aggelina Chatziagapi et.al.|[2407.07284](http://arxiv.org/abs/2407.07284)|null|
 |**2024-07-09**|**PDEformer-1: A Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2407.06664](http://arxiv.org/abs/2407.06664)|null|
 |**2024-07-09**|**Implicit Regression in Subspace for High-Sensitivity CEST Imaging**|Chu Chen et.al.|[2407.06614](http://arxiv.org/abs/2407.06614)|null|
 |**2024-07-08**|**Characterization of topological structures in different neural network architectures**|Paweł Świder et.al.|[2407.06286](http://arxiv.org/abs/2407.06286)|null|
