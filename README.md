@@ -42,6 +42,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534](http://arxiv.org/abs/2407.13534)|null|
+|**2024-07-18**|**Neuromorphic Circuit Simulation with Memristors: Design and Evaluation Using MemTorch for MNIST and CIFAR**|Julio Souto et.al.|[2407.13410](http://arxiv.org/abs/2407.13410)|null|
+|**2024-07-18**|**Optical control of multiple resistance levels in graphene for memristic applications**|Harsimran Kaur Mann et.al.|[2407.13387](http://arxiv.org/abs/2407.13387)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516](http://arxiv.org/abs/2407.12516)|null|
 |**2024-07-15**|**Restricted Boltzmann Machine for Modeling Complex Physical Systems: A Case Study in Artificial Spin Ice**|Rehana Begum Popy et.al.|[2407.11165](http://arxiv.org/abs/2407.11165)|null|
 |**2024-07-13**|**Time-Integrated Spike-Timing-Dependent-Plasticity**|William Gebhardt et.al.|[2407.10028](http://arxiv.org/abs/2407.10028)|null|
@@ -547,6 +550,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534](http://arxiv.org/abs/2407.13534)|null|
+|**2024-07-18**|**Neuromorphic Circuit Simulation with Memristors: Design and Evaluation Using MemTorch for MNIST and CIFAR**|Julio Souto et.al.|[2407.13410](http://arxiv.org/abs/2407.13410)|null|
+|**2024-07-18**|**Optical control of multiple resistance levels in graphene for memristic applications**|Harsimran Kaur Mann et.al.|[2407.13387](http://arxiv.org/abs/2407.13387)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516](http://arxiv.org/abs/2407.12516)|null|
 |**2024-07-15**|**Restricted Boltzmann Machine for Modeling Complex Physical Systems: A Case Study in Artificial Spin Ice**|Rehana Begum Popy et.al.|[2407.11165](http://arxiv.org/abs/2407.11165)|null|
 |**2024-07-15**|**Correlations Are Ruining Your Gradient Descent**|Nasir Ahmad et.al.|[2407.10780](http://arxiv.org/abs/2407.10780)|null|
@@ -827,6 +833,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338](http://arxiv.org/abs/2407.13338)|null|
+|**2024-07-17**|**A Resolution Independent Neural Operator**|Bahador Bahmani et.al.|[2407.13010](http://arxiv.org/abs/2407.13010)|null|
 |**2024-07-15**|**Balancing the Scales: Reinforcement Learning for Fair Classification**|Leon Eshuijs et.al.|[2407.10629](http://arxiv.org/abs/2407.10629)|**[link](https://github.com/watermeleon/RL_for_imbalanced_classification)**|
 |**2024-07-13**|**Metric Learning for Clifford Group Equivariant Neural Networks**|Riccardo Ali et.al.|[2407.09926](http://arxiv.org/abs/2407.09926)|**[link](https://github.com/rick-ali/metric-learning-for-cgenns)**|
 |**2024-07-17**|**Uncovering Weaknesses in Neural Code Generation**|Xiaoli Lian et.al.|[2407.09793](http://arxiv.org/abs/2407.09793)|null|
@@ -1303,6 +1311,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
 |**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
@@ -1343,6 +1352,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
 |**2024-07-08**|**High-order accurate entropy stable schemes for compressible Euler equations with van der Waals equation of state on adaptive moving meshes**|Shangting Li et.al.|[2407.05568](http://arxiv.org/abs/2407.05568)|null|
 |**2024-06-26**|**Composing Distributed Computations Through Task and Kernel Fusion**|Rohan Yadav et.al.|[2406.18109](http://arxiv.org/abs/2406.18109)|null|
