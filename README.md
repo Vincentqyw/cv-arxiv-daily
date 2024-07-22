@@ -285,7 +285,7 @@
 |**2024-02-04**|**Integrated Magneto-photonic Non-Volatile Multi-Bit Memory**|Hamed Pezeshki et.al.|[2402.02485](http://arxiv.org/abs/2402.02485)|null|
 |**2024-02-01**|**Benchmarking Spiking Neural Network Learning Methods with Varying Locality**|Jiaqi Lin et.al.|[2402.01782](http://arxiv.org/abs/2402.01782)|null|
 |**2024-02-02**|**Controllable frequency tunability and parabolic-like threshold current behavior in spin Hall nano-oscillators**|Arunima TM et.al.|[2402.01570](http://arxiv.org/abs/2402.01570)|null|
-|**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533](http://arxiv.org/abs/2402.01533)|null|
+|**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533](http://arxiv.org/abs/2402.01533)|**[link](https://github.com/microsoft/seqsnn)**|
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287](http://arxiv.org/abs/2402.01287)|null|
 |**2024-02-01**|**BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic Architectures against Model Inversion Attacks**|Hamed Poursiami et.al.|[2402.00906](http://arxiv.org/abs/2402.00906)|null|
 |**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449](http://arxiv.org/abs/2402.00449)|null|
@@ -854,7 +854,7 @@
 |**2024-07-07**|**Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction**|Yiqun Lin et.al.|[2407.01090](http://arxiv.org/abs/2407.01090)|**[link](https://github.com/xmed-lab/dif-gaussian)**|
 |**2024-06-29**|**Enhancing Accuracy and Parameter-Efficiency of Neural Representations for Network Parameterization**|Hongjun Choi et.al.|[2407.00356](http://arxiv.org/abs/2407.00356)|null|
 |**2024-06-27**|**PNeRV: A Polynomial Neural Representation for Videos**|Sonam Gupta et.al.|[2406.19299](http://arxiv.org/abs/2406.19299)|null|
-|**2024-06-25**|**Script-Agnostic Language Identification**|Milind Agarwal et.al.|[2406.17901](http://arxiv.org/abs/2406.17901)|null|
+|**2024-06-25**|**Script-Agnostic Language Identification**|Milind Agarwal et.al.|[2406.17901](http://arxiv.org/abs/2406.17901)|**[link](https://github.com/joshua-otten/script-agnostic-lang-id)**|
 |**2024-06-25**|**Sparse-view Signal-domain Photoacoustic Tomography Reconstruction Method Based on Neural Representation**|Bowei Yao et.al.|[2406.17578](http://arxiv.org/abs/2406.17578)|null|
 |**2024-06-21**|**CoCPF: Coordinate-based Continuous Projection Field for Ill-Posed Inverse Problem in Imaging**|Zixuan Chen et.al.|[2406.14976](http://arxiv.org/abs/2406.14976)|null|
 |**2024-06-19**|**INFusion: Diffusion Regularized Implicit Neural Representations for 2D and 3D accelerated MRI reconstruction**|Yamin Arefeen et.al.|[2406.13895](http://arxiv.org/abs/2406.13895)|null|
@@ -1415,7 +1415,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-12**|**Enabling Elastic Model Serving with MultiWorld**|Myungjin Lee et.al.|[2407.08980](http://arxiv.org/abs/2407.08980)|null|
+|**2024-07-12**|**Enabling Elastic Model Serving with MultiWorld**|Myungjin Lee et.al.|[2407.08980](http://arxiv.org/abs/2407.08980)|**[link](https://github.com/cisco-open/pymultiworld)**|
 |**2024-07-10**|**Inference Performance Optimization for Large Language Models on CPUs**|Pujiang He et.al.|[2407.07304](http://arxiv.org/abs/2407.07304)|**[link](https://github.com/intel/xfastertransformer)**|
 |**2024-06-30**|**Challenging the Need for Packet Spraying in Large-Scale Distributed Training**|Vamsi Addanki et.al.|[2407.00550](http://arxiv.org/abs/2407.00550)|null|
 |**2024-06-28**|**FRED: Flexible REduction-Distribution Interconnect and Communication Implementation for Wafer-Scale Distributed Training of DNN Models**|Saeed Rashidi et.al.|[2406.19580](http://arxiv.org/abs/2406.19580)|null|
