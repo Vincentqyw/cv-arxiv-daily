@@ -1,4 +1,4 @@
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -843,7 +843,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|null|
+|**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
 |**2024-07-23**|**Energy-information trade-off makes the cortical critical power law the optimal coding**|Tsuyoshi Tatsukawa et.al.|[2407.16215](http://arxiv.org/abs/2407.16215)|null|
 |**2024-07-23**|**Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data**|Atul Kumar et.al.|[2407.16119](http://arxiv.org/abs/2407.16119)|null|
 |**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355](http://arxiv.org/abs/2407.15355)|**[link](https://github.com/roninton/anr)**|
@@ -1430,7 +1430,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-21**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
+|**2024-07-23**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
 |**2024-07-12**|**Enabling Elastic Model Serving with MultiWorld**|Myungjin Lee et.al.|[2407.08980](http://arxiv.org/abs/2407.08980)|**[link](https://github.com/cisco-open/pymultiworld)**|
 |**2024-07-10**|**Inference Performance Optimization for Large Language Models on CPUs**|Pujiang He et.al.|[2407.07304](http://arxiv.org/abs/2407.07304)|**[link](https://github.com/intel/xfastertransformer)**|
 |**2024-06-30**|**Challenging the Need for Packet Spraying in Large-Scale Distributed Training**|Vamsi Addanki et.al.|[2407.00550](http://arxiv.org/abs/2407.00550)|null|
