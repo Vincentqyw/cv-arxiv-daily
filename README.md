@@ -1,4 +1,4 @@
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -48,7 +48,7 @@
 |**2024-07-24**|**Selective and Quasi-continuous Switching of Ferroelectric Chern Insulator Device for Neuromorphic Computing**|Moyu Chen et.al.|[2407.17010](http://arxiv.org/abs/2407.17010)|null|
 |**2024-07-23**|**Phase Symmetry Breaking of Counterpropagating Light in Microresonators for Switches and Logic Gates**|Alekhya Ghosh et.al.|[2407.16625](http://arxiv.org/abs/2407.16625)|null|
 |**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398](http://arxiv.org/abs/2407.16398)|**[link](https://github.com/deanbrand/QSNN)**|
-|**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|null|
+|**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152](http://arxiv.org/abs/2407.15152)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
 |**2024-07-20**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883](http://arxiv.org/abs/2407.14883)|null|
 |**2024-07-19**|**Transformation of Analog to Digital Resistive Switching in Cu Implanted ITO/NiO/Ag Device for Neuromorphic Applications**|Sourav Bhakta et.al.|[2407.14437](http://arxiv.org/abs/2407.14437)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097](http://arxiv.org/abs/2407.14097)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
@@ -1333,7 +1333,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-25**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
+|**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
@@ -1376,7 +1376,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-25**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
+|**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
