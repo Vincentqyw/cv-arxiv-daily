@@ -46,6 +46,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099](http://arxiv.org/abs/2407.20099)|**[link](https://github.com/KemingWu/RSC-SNN)**|
+|**2024-07-28**|**Rouser: Robust SNN training using adaptive threshold learning**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566](http://arxiv.org/abs/2407.19566)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625](http://arxiv.org/abs/2407.18625)|null|
 |**2024-07-25**|**The Emergence of Mem-Emitters**|Victor Lopez-Richard et.al.|[2407.18164](http://arxiv.org/abs/2407.18164)|null|
@@ -857,6 +859,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
+|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
+|**2024-07-28**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
+|**2024-07-28**|**FINER++: Building a Family of Variable-periodic Functions for Activating Implicit Neural Representation**|Hao Zhu et.al.|[2407.19434](http://arxiv.org/abs/2407.19434)|null|
 |**2024-07-26**|**Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations**|Zipeng Wang et.al.|[2407.18500](http://arxiv.org/abs/2407.18500)|null|
 |**2024-07-25**|**GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution**|Jintong Hu et.al.|[2407.18046](http://arxiv.org/abs/2407.18046)|null|
 |**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
@@ -1342,6 +1348,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
@@ -1385,6 +1392,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
 |**2024-07-01**|**Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0**|Kacper Derlatka et.al.|[2407.13712](http://arxiv.org/abs/2407.13712)|null|
