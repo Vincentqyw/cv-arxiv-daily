@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -47,7 +47,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947](http://arxiv.org/abs/2407.20947)|null|
-|**2024-07-30**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708](http://arxiv.org/abs/2407.20708)|**[link](https://github.com/biclab/spikeyolo)**|
+|**2024-07-31**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708](http://arxiv.org/abs/2407.20708)|**[link](https://github.com/biclab/spikeyolo)**|
 |**2024-07-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633](http://arxiv.org/abs/2407.20633)|null|
 |**2024-07-30**|**Exploring Liquid Neural Networks on Loihi-2**|Wiktoria Agata Pawlak et.al.|[2407.20590](http://arxiv.org/abs/2407.20590)|null|
 |**2024-07-30**|**Neuromorphic on-chip reservoir computing with spiking neural network architectures**|Samip Karki et.al.|[2407.20547](http://arxiv.org/abs/2407.20547)|null|
@@ -1277,7 +1277,7 @@ layout: default
 |**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
 |**2024-06-25**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
-|**2024-05-21**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|**[link](https://github.com/cihakh/RobustCertaintyEncoding)**|
+|**2024-07-30**|**Robustly encoding certainty in a metastable neural circuit model**|Heather L Cihak et.al.|[2405.13182](http://arxiv.org/abs/2405.13182)|**[link](https://github.com/cihakh/RobustCertaintyEncoding)**|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
 |**2024-02-22**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|**[link](https://github.com/brainpy/brainpy-iclr24-reproducibility)**|
 |**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
@@ -1366,7 +1366,7 @@ layout: default
 |**2024-07-13**|**Automatic Parallel Tempering Markov Chain Monte Carlo with Nii-C**|Sheng Jin et.al.|[2407.09915](http://arxiv.org/abs/2407.09915)|**[link](https://github.com/shengjin/nii-c)**|
 |**2024-06-25**|**Hybrid Classical-Quantum Simulation of MaxCut using QAOA-in-QAOA**|Aniello Esposito et.al.|[2406.17383](http://arxiv.org/abs/2406.17383)|null|
 |**2024-06-18**|**Faithful Density-Peaks Clustering via Matrix Computations on MPI Parallelization System**|Ji Xu et.al.|[2406.12297](http://arxiv.org/abs/2406.12297)|**[link](https://github.com/alanxuji/faithpdp)**|
-|**2024-07-09**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
+|**2024-07-31**|**Understanding GPU Triggering APIs for MPI+X Communication**|Patrick G. Bridges et.al.|[2406.05594](http://arxiv.org/abs/2406.05594)|null|
 |**2024-06-03**|**A GPU-ready pseudo-spectral method for direct numerical simulations of multiphase turbulence**|Alessio Roccon et.al.|[2406.01322](http://arxiv.org/abs/2406.01322)|null|
 |**2024-05-30**|**Some New Approaches to MPI Implementations**|Yuqing Xiong et.al.|[2405.19731](http://arxiv.org/abs/2405.19731)|null|
 |**2024-07-12**|**MPI Progress For All**|Hui Zhou et.al.|[2405.13807](http://arxiv.org/abs/2405.13807)|null|
