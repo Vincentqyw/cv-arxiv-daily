@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**IVISIT: An Interactive Visual Simulation Tool for system simulation, visualization, optimization, and parameter management**|Andreas Knoblauch et.al.|[2408.03341](http://arxiv.org/abs/2408.03341)|null|
 |**2024-06-17**|**Brain Dialogue Interface (BDI): A User-Friendly fMRI Model for Interactive Brain Decoding**|Heng Huang et.al.|[2407.09509](http://arxiv.org/abs/2407.09509)|null|
 |**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708](http://arxiv.org/abs/2406.19708)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762](http://arxiv.org/abs/2406.03762)|null|
@@ -42,6 +43,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Optimizing Hybrid Ferromagnetic Metal-Ferrimagnetic Insulator Spin-Hall Nano-Oscillators: A Micromagnetic Study**|Robert Xi et.al.|[2408.03846](http://arxiv.org/abs/2408.03846)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
 |**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125](http://arxiv.org/abs/2408.02125)|null|
 |**2024-08-04**|**Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification**|Arkaprava Gupta et.al.|[2408.01996](http://arxiv.org/abs/2408.01996)|null|
@@ -582,6 +584,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884](http://arxiv.org/abs/2408.03884)|null|
+|**2024-08-07**|**Optimizing Hybrid Ferromagnetic Metal-Ferrimagnetic Insulator Spin-Hall Nano-Oscillators: A Micromagnetic Study**|Robert Xi et.al.|[2408.03846](http://arxiv.org/abs/2408.03846)|null|
 |**2024-08-01**|**Solid-State Oxide-Ion Synaptic Transistor for Neuromorphic Computing**|Philipp Langner et.al.|[2408.01469](http://arxiv.org/abs/2408.01469)|null|
 |**2024-08-02**|**General-purpose Dataflow Model with Neuromorphic Primitives**|Weihao Zhang et.al.|[2408.01090](http://arxiv.org/abs/2408.01090)|null|
 |**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611](http://arxiv.org/abs/2408.00611)|null|
@@ -879,6 +883,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
 |**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395](http://arxiv.org/abs/2407.21395)|null|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
