@@ -43,6 +43,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156](http://arxiv.org/abs/2408.05156)|null|
+|**2024-08-09**|**Overcoming the Limitations of Layer Synchronization in Spiking Neural Networks**|Roel Koopman et.al.|[2408.05098](http://arxiv.org/abs/2408.05098)|null|
 |**2024-08-07**|**Optimizing Hybrid Ferromagnetic Metal-Ferrimagnetic Insulator Spin-Hall Nano-Oscillators: A Micromagnetic Study**|Robert Xi et.al.|[2408.03846](http://arxiv.org/abs/2408.03846)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
 |**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125](http://arxiv.org/abs/2408.02125)|null|
@@ -584,6 +587,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-08**|**Nanocomposites of ferrocenyl-modified gold clusters and semiconducting polymers that integrate field-effect transistor and flash memory in a single neuromorphic device**|Deepa Singh et.al.|[2408.04139](http://arxiv.org/abs/2408.04139)|null|
 |**2024-07-29**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884](http://arxiv.org/abs/2408.03884)|null|
 |**2024-08-07**|**Optimizing Hybrid Ferromagnetic Metal-Ferrimagnetic Insulator Spin-Hall Nano-Oscillators: A Micromagnetic Study**|Robert Xi et.al.|[2408.03846](http://arxiv.org/abs/2408.03846)|null|
@@ -884,6 +888,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[2408.04683](http://arxiv.org/abs/2408.04683)|null|
+|**2024-08-08**|**Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings**|Jinzhao Zhou et.al.|[2408.04679](http://arxiv.org/abs/2408.04679)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|null|
 |**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
