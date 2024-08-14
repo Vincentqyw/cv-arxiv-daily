@@ -43,6 +43,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968](http://arxiv.org/abs/2408.06968)|null|
+|**2024-08-10**|**Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2408.06383](http://arxiv.org/abs/2408.06383)|null|
+|**2024-08-09**|**The probabilistic world II : Quantum mechanics from classical statistics**|C. Wetterich et.al.|[2408.06379](http://arxiv.org/abs/2408.06379)|null|
 |**2024-08-11**|**On the Solvability of the {XOR} Problem by Spiking Neural Networks**|Bernhard A. Moser et.al.|[2408.05845](http://arxiv.org/abs/2408.05845)|null|
 |**2024-08-13**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156](http://arxiv.org/abs/2408.05156)|**[link](https://github.com/NECOTIS/Keyword-Spotting-with-PDM)**|
@@ -588,6 +591,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**The probabilistic world II : Quantum mechanics from classical statistics**|C. Wetterich et.al.|[2408.06379](http://arxiv.org/abs/2408.06379)|null|
 |**2024-08-13**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-08**|**Nanocomposites of ferrocenyl-modified gold clusters and semiconducting polymers that integrate field-effect transistor and flash memory in a single neuromorphic device**|Deepa Singh et.al.|[2408.04139](http://arxiv.org/abs/2408.04139)|null|
 |**2024-07-29**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884](http://arxiv.org/abs/2408.03884)|null|
@@ -889,6 +893,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Implicit Neural Representation For Accurate CFD Flow Field Prediction**|Laurent de Vito et.al.|[2408.06486](http://arxiv.org/abs/2408.06486)|null|
 |**2024-08-12**|**Uncertainty-Informed Volume Visualization using Implicit Neural Representation**|Shanu Saklani et.al.|[2408.06018](http://arxiv.org/abs/2408.06018)|null|
 |**2024-08-10**|**Residual-INR: Communication Efficient On-Device Learning Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2408.05617](http://arxiv.org/abs/2408.05617)|null|
 |**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
@@ -1388,6 +1393,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
 |**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
@@ -1432,6 +1438,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
 |**2024-07-29**|**Enabling Message Passing Interface Containers on the LUMI Supercomputer**|Alfio Lazzaro et.al.|[2407.19928](http://arxiv.org/abs/2407.19928)|null|
 |**2024-07-26**|**Optimal Broadcast Schedules in Logarithmic Time with Applications to Broadcast, All-Broadcast, Reduction and All-Reduction**|Jesper Larsson Träff et.al.|[2407.18004](http://arxiv.org/abs/2407.18004)|null|
 |**2024-07-24**|**Enhanced SMC $^2$ : Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296](http://arxiv.org/abs/2407.17296)|null|
