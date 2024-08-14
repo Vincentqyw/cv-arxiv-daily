@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -48,7 +48,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-11**|**On the Solvability of the {XOR} Problem by Spiking Neural Networks**|Bernhard A. Moser et.al.|[2408.05845](http://arxiv.org/abs/2408.05845)|null|
-|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-13**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156](http://arxiv.org/abs/2408.05156)|**[link](https://github.com/NECOTIS/Keyword-Spotting-with-PDM)**|
 |**2024-08-09**|**Overcoming the Limitations of Layer Synchronization in Spiking Neural Networks**|Roel Koopman et.al.|[2408.05098](http://arxiv.org/abs/2408.05098)|null|
 |**2024-08-07**|**Optimizing Hybrid Ferromagnetic Metal-Ferrimagnetic Insulator Spin-Hall Nano-Oscillators: A Micromagnetic Study**|Robert Xi et.al.|[2408.03846](http://arxiv.org/abs/2408.03846)|null|
@@ -592,7 +592,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-13**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-08**|**Nanocomposites of ferrocenyl-modified gold clusters and semiconducting polymers that integrate field-effect transistor and flash memory in a single neuromorphic device**|Deepa Singh et.al.|[2408.04139](http://arxiv.org/abs/2408.04139)|null|
 |**2024-07-29**|**Quantum Computing and Neuromorphic Computing for Safe, Reliable, and explainable Multi-Agent Reinforcement Learning: Optimal Control in Autonomous Robotics**|Mazyar Taghavi et.al.|[2408.03884](http://arxiv.org/abs/2408.03884)|null|
 |**2024-08-07**|**Optimizing Hybrid Ferromagnetic Metal-Ferrimagnetic Insulator Spin-Hall Nano-Oscillators: A Micromagnetic Study**|Robert Xi et.al.|[2408.03846](http://arxiv.org/abs/2408.03846)|null|
