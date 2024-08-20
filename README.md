@@ -1,4 +1,4 @@
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -912,7 +912,7 @@
 |**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
 |**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[2408.04683](http://arxiv.org/abs/2408.04683)|null|
 |**2024-08-08**|**Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings**|Jinzhao Zhou et.al.|[2408.04679](http://arxiv.org/abs/2408.04679)|null|
-|**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|null|
+|**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|**[link](https://github.com/v587su/FDI)**|
 |**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
 |**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395](http://arxiv.org/abs/2407.21395)|**[link](https://github.com/eric-qi/hiner)**|
@@ -1519,7 +1519,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-14**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802](http://arxiv.org/abs/2408.07802)|null|
+|**2024-08-17**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802](http://arxiv.org/abs/2408.07802)|null|
 |**2024-08-12**|**HiCCL: A Hierarchical Collective Communication Library**|Mert Hidayetoglu et.al.|[2408.05962](http://arxiv.org/abs/2408.05962)|null|
 |**2024-08-05**|**Enabling Practical Transparent Checkpointing for MPI: A Topological Sort Approach**|Yao Xu et.al.|[2408.02218](http://arxiv.org/abs/2408.02218)|null|
 |**2024-07-23**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
