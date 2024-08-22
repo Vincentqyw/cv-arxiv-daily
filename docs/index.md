@@ -47,6 +47,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
+|**2024-08-17**|**Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks**|Yongqi Ding et.al.|[2408.11067](http://arxiv.org/abs/2408.11067)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900](http://arxiv.org/abs/2408.10900)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces et.al.|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-18**|**Transient current responses of organic electrochemical transistors by vertical ionic diffusion and electrolyte resistance**|Juan Bisquert et.al.|[2408.09507](http://arxiv.org/abs/2408.09507)|null|
@@ -606,6 +608,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Spin-wave assisted synchronization in 2D arrays of spin torque oscillators**|Fangzhou Ai et.al.|[2408.11343](http://arxiv.org/abs/2408.11343)|null|
 |**2024-08-19**|**Volatile MoS ${_2}$ Memristors with Lateral Silver Ion Migration for Artificial Neuron Applications**|Sofia Cruces et.al.|[2408.09780](http://arxiv.org/abs/2408.09780)|null|
 |**2024-08-18**|**Transient current responses of organic electrochemical transistors by vertical ionic diffusion and electrolyte resistance**|Juan Bisquert et.al.|[2408.09507](http://arxiv.org/abs/2408.09507)|null|
 |**2024-08-16**|**Leaky-Integrate-Fire Neuron via Synthetic Antiferromagnetic Coupling and Spin-Orbit Torque**|Badsha Sekh et.al.|[2408.08525](http://arxiv.org/abs/2408.08525)|null|
