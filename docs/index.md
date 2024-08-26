@@ -942,7 +942,7 @@ layout: default
 |**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395](http://arxiv.org/abs/2407.21395)|**[link](https://github.com/eric-qi/hiner)**|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
-|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
+|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|**[link](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf)**|
 |**2024-07-30**|**Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture**|ShahRukh Athar et.al.|[2407.19593](http://arxiv.org/abs/2407.19593)|null|
 |**2024-07-28**|**FINER++: Building a Family of Variable-periodic Functions for Activating Implicit Neural Representation**|Hao Zhu et.al.|[2407.19434](http://arxiv.org/abs/2407.19434)|null|
 |**2024-07-26**|**Revisit Event Generation Model: Self-Supervised Learning of Event-to-Video Reconstruction with Implicit Neural Representations**|Zipeng Wang et.al.|[2407.18500](http://arxiv.org/abs/2407.18500)|null|
