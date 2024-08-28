@@ -49,6 +49,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**|Xinyi Chen et.al.|[2408.14917](http://arxiv.org/abs/2408.14917)|null|
+|**2024-08-27**|**SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models**|Shuaijie Shen et.al.|[2408.14909](http://arxiv.org/abs/2408.14909)|null|
 |**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437](http://arxiv.org/abs/2408.14437)|null|
 |**2024-08-26**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
 |**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379](http://arxiv.org/abs/2408.13379)|null|
@@ -932,6 +934,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries**|Amine Ouasfi et.al.|[2408.15114](http://arxiv.org/abs/2408.15114)|null|
+|**2024-08-27**|**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**|Ran Yu et.al.|[2408.14997](http://arxiv.org/abs/2408.14997)|null|
+|**2024-08-27**|**OctFusion: Octree-based Diffusion Models for 3D Shape Generation**|Bojun Xiong et.al.|[2408.14732](http://arxiv.org/abs/2408.14732)|**[link](https://github.com/octree-nn/octfusion)**|
 |**2024-08-25**|**FreqINR: Frequency Consistency for Implicit Neural Representation with Adaptive DCT Frequency Loss**|Meiyi Wei et.al.|[2408.13716](http://arxiv.org/abs/2408.13716)|null|
 |**2024-08-21**|**Topological Representational Similarity Analysis in Brains and Beyond**|Baihan Lin et.al.|[2408.11948](http://arxiv.org/abs/2408.11948)|null|
 |**2024-08-20**|**Manifold Transform by Recurrent Cortical Circuit Enhances Robust Encoding of Familiar Stimuli**|Weifan Wang et.al.|[2408.10873](http://arxiv.org/abs/2408.10873)|null|
@@ -1553,6 +1558,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**On the Encoding Process in Decentralized Systems**|Canran Wang et.al.|[2408.15203](http://arxiv.org/abs/2408.15203)|null|
 |**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
 |**2024-08-17**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802](http://arxiv.org/abs/2408.07802)|null|
 |**2024-08-12**|**HiCCL: A Hierarchical Collective Communication Library**|Mert Hidayetoglu et.al.|[2408.05962](http://arxiv.org/abs/2408.05962)|null|
