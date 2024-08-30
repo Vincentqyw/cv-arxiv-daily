@@ -45,6 +45,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
+|**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564](http://arxiv.org/abs/2408.16564)|null|
+|**2024-08-29**|**Spiking Diffusion Models**|Jiahang Cao et.al.|[2408.16467](http://arxiv.org/abs/2408.16467)|**[link](https://github.com/andycao1125/sdm)**|
+|**2024-08-28**|**Accelerating Sensor Fusion in Neuromorphic Computing: A Case Study on Loihi-2**|Murat Isik et.al.|[2408.16096](http://arxiv.org/abs/2408.16096)|null|
 |**2024-08-28**|**NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks**|Xiao Li et.al.|[2408.15663](http://arxiv.org/abs/2408.15663)|null|
 |**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
 |**2024-08-27**|**PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**|Xinyi Chen et.al.|[2408.14917](http://arxiv.org/abs/2408.14917)|null|
@@ -619,6 +623,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
+|**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632](http://arxiv.org/abs/2408.16632)|null|
+|**2024-08-28**|**Accelerating Sensor Fusion in Neuromorphic Computing: A Case Study on Loihi-2**|Murat Isik et.al.|[2408.16096](http://arxiv.org/abs/2408.16096)|null|
 |**2024-08-28**|**Emulating Brain-like Rapid Learning in Neuromorphic Edge Computing**|Kenneth Stewart et.al.|[2408.15800](http://arxiv.org/abs/2408.15800)|**[link](https://github.com/nmi-lab/snn_maml)**|
 |**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437](http://arxiv.org/abs/2408.14437)|null|
 |**2024-08-23**|**Towards Neuromorphic Processing for Next-Generation MU-MIMO Detection**|G. N. Katsaros et.al.|[2408.13128](http://arxiv.org/abs/2408.13128)|null|
