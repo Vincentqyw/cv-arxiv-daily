@@ -306,10 +306,10 @@ layout: default
 |**2024-03-20**|**Picosecond Femtojoule Resistive Switching in Nanoscale VO $_{2}$ Memristors**|S. W. Schmid et.al.|[2403.13530](http://arxiv.org/abs/2403.13530)|null|
 |**2024-03-20**|**Ultrahigh Frequency and Multi-channel Output in Skyrmion Based Nano-oscillator**|Abhishek Sharma et.al.|[2403.13478](http://arxiv.org/abs/2403.13478)|null|
 |**2024-03-19**|**Interlayer Dzyaloshinskii-Moriya interaction in synthetic ferrimagnets**|Shen Li et.al.|[2403.12642](http://arxiv.org/abs/2403.12642)|null|
-|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|null|
+|**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574](http://arxiv.org/abs/2403.12574)|**[link](https://github.com/windere/eas-snn)**|
 |**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462](http://arxiv.org/abs/2403.12462)|null|
 |**2024-03-18**|**Advancing Neuromorphic Computing: Mixed-Signal Design Techniques Leveraging Brain Code Units and Fundamental Code Units**|Murat Isik et.al.|[2403.11563](http://arxiv.org/abs/2403.11563)|null|
-|**2024-03-22**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-22**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|**[link](https://github.com/bic-l/spiking-wavelet-transformer)**|
 |**2024-03-15**|**X-ray Nano-imaging of a Heterogeneous Structural Phase Transition in V2O3**|Ziming Shao et.al.|[2403.10719](http://arxiv.org/abs/2403.10719)|null|
 |**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677](http://arxiv.org/abs/2403.10677)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173](http://arxiv.org/abs/2403.10173)|null|
@@ -574,7 +574,7 @@ layout: default
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369](http://arxiv.org/abs/2308.04369)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171](http://arxiv.org/abs/2308.04171)|null|
 |**2023-08-02**|**Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms**|Qingyu Wang et.al.|[2308.02557](http://arxiv.org/abs/2308.02557)|null|
-|**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
+|**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|**[link](https://gitlab.univ-lille.fr/fox/snn-pcn/)**|
 |**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787](http://arxiv.org/abs/2308.00787)|**[link](https://github.com/zhaxidele/har-with-snn)**|
 |**2023-08-01**|**Gradient Scaling on Deep Spiking Neural Networks with Spike-Dependent Local Information**|Seongsik Park et.al.|[2308.00558](http://arxiv.org/abs/2308.00558)|null|
 |**2023-07-30**|**Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16236](http://arxiv.org/abs/2307.16236)|null|
@@ -906,7 +906,7 @@ layout: default
 |**2023-08-10**|**Effect of memristorś potentiation-depression curves peculiarities in the convergence of physical perceptrons**|Walter Quiñonez et.al.|[2308.05779](http://arxiv.org/abs/2308.05779)|null|
 |**2023-08-08**|**Reconfigurable elastic neuromorphic metasurfaces towards mechanical intelligence and cognitive wave-based computing**|M. Moghaddaszadeh et.al.|[2308.04002](http://arxiv.org/abs/2308.04002)|null|
 |**2023-08-07**|**Parametric excitations of coupled nanomagnets**|Domonkos Laszlo Farkas et.al.|[2308.03327](http://arxiv.org/abs/2308.03327)|null|
-|**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|null|
+|**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194](http://arxiv.org/abs/2308.02194)|**[link](https://gitlab.univ-lille.fr/fox/snn-pcn/)**|
 |**2023-07-28**|**Analog programming of CMOS-compatible Al $_2$O$_3$/TiO$_\textrm{2-x}$ memristor at 4.2 K after metal-insulator transition suppression by cryogenic reforming**|Pierre-Antoine Mouny et.al.|[2307.15538](http://arxiv.org/abs/2307.15538)|null|
 |**2023-07-27**|**Functional Specification of the RAVENS Neuroprocessor**|Adam Z. Foshie et.al.|[2307.15232](http://arxiv.org/abs/2307.15232)|null|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
