@@ -49,12 +49,14 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
 |**2024-09-04**|**A Low-Cost Real-Time Spiking System for Obstacle Detection based on Ultrasonic Sensors and Rate Coding**|Alvaro Ayuso-Martinez et.al.|[2409.02680](http://arxiv.org/abs/2409.02680)|null|
 |**2024-09-04**|**A design of magnetic tunnel junctions for the deployment of neuromorphic hardware for edge computing**|Davi Rodrigues et.al.|[2409.02528](http://arxiv.org/abs/2409.02528)|null|
 |**2024-09-03**|**Internal Representations in Spiking Neural Networks, criticality and the Renormalization Group**|João Henrique de Sant'Ana et.al.|[2409.02238](http://arxiv.org/abs/2409.02238)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
-|**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|null|
+|**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|**[link](https://github.com/fmi-basel/neural-decoding-RSNN)**|
 |**2024-09-03**|**ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**|Shiting Xiao et.al.|[2409.01564](http://arxiv.org/abs/2409.01564)|null|
 |**2024-09-02**|**Two-junction model in different percolation regimes of silver nanowires networks**|J. I. Diaz Schneider et.al.|[2409.01318](http://arxiv.org/abs/2409.01318)|null|
 |**2024-09-04**|**CoLaNET -- A Spiking Neural Network with Columnar Layered Architecture for Classification**|Mikhail Kiselev et.al.|[2409.01230](http://arxiv.org/abs/2409.01230)|null|
@@ -638,9 +640,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
 |**2024-09-04**|**A design of magnetic tunnel junctions for the deployment of neuromorphic hardware for edge computing**|Davi Rodrigues et.al.|[2409.02528](http://arxiv.org/abs/2409.02528)|null|
-|**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|null|
+|**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|**[link](https://github.com/fmi-basel/neural-decoding-RSNN)**|
 |**2024-09-02**|**Two-junction model in different percolation regimes of silver nanowires networks**|J. I. Diaz Schneider et.al.|[2409.01318](http://arxiv.org/abs/2409.01318)|null|
 |**2024-09-01**|**Designing high endurance Hf0.5Zr0.5O2 capacitors through engineered recovery from fatigue for non-volatile ferroelectric memory and neuromorphic hardware**|Xinye Li et.al.|[2409.00635](http://arxiv.org/abs/2409.00635)|null|
 |**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
@@ -960,6 +964,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
 |**2024-09-04**|**Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**|Shuaifeng Jiang et.al.|[2409.02564](http://arxiv.org/abs/2409.02564)|null|
 |**2024-09-02**|**Understanding Multimodal Hallucination with Parameter-Free Representation Alignment**|Yueqian Wang et.al.|[2409.01151](http://arxiv.org/abs/2409.01151)|**[link](https://github.com/yellow-binary-tree/pfram)**|
 |**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013](http://arxiv.org/abs/2409.01013)|null|
