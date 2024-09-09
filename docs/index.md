@@ -49,6 +49,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
+|**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
+|**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](http://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
 |**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
@@ -640,6 +643,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
 |**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
@@ -1601,6 +1605,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Revisiting the Time Cost Model of AllReduce**|Dian Xiong et.al.|[2409.04202](http://arxiv.org/abs/2409.04202)|null|
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
 |**2024-09-02**|**LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs**|Mo Sun et.al.|[2409.00918](http://arxiv.org/abs/2409.00918)|null|
 |**2024-08-27**|**On the Encoding Process in Decentralized Systems**|Canran Wang et.al.|[2408.15203](http://arxiv.org/abs/2408.15203)|null|
