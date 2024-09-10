@@ -1,4 +1,4 @@
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -964,7 +964,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
+|**2024-09-09**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
 |**2024-09-04**|**Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**|Shuaifeng Jiang et.al.|[2409.02564](http://arxiv.org/abs/2409.02564)|null|
 |**2024-09-02**|**Understanding Multimodal Hallucination with Parameter-Free Representation Alignment**|Yueqian Wang et.al.|[2409.01151](http://arxiv.org/abs/2409.01151)|**[link](https://github.com/yellow-binary-tree/pfram)**|
 |**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013](http://arxiv.org/abs/2409.01013)|null|
