@@ -1,4 +1,4 @@
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -973,7 +973,7 @@
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**BrainDecoder: Style-Based Visual Decoding of EEG Signals**|Minsuk Choi et.al.|[2409.05279](http://arxiv.org/abs/2409.05279)|null|
 |**2024-09-06**|**NeCA: 3D Coronary Artery Tree Reconstruction from Two 2D Projections by Neural Implicit Representation**|Yiying Wang et.al.|[2409.04596](http://arxiv.org/abs/2409.04596)|**[link](https://github.com/WangStephen/NeCA)**|
-|**2024-09-06**|**Diff-INR: Generative Regularization for Electrical Impedance Tomography**|Bowen Tong et.al.|[2409.04494](http://arxiv.org/abs/2409.04494)|null|
+|**2024-09-10**|**Diff-INR: Generative Regularization for Electrical Impedance Tomography**|Bowen Tong et.al.|[2409.04494](http://arxiv.org/abs/2409.04494)|null|
 |**2024-09-09**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
 |**2024-09-04**|**Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field with Neural Representations**|Shuaifeng Jiang et.al.|[2409.02564](http://arxiv.org/abs/2409.02564)|null|
 |**2024-09-02**|**Understanding Multimodal Hallucination with Parameter-Free Representation Alignment**|Yueqian Wang et.al.|[2409.01151](http://arxiv.org/abs/2409.01151)|**[link](https://github.com/yellow-binary-tree/pfram)**|
