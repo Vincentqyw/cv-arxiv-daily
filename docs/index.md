@@ -974,6 +974,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**A Latent Implicit 3D Shape Model for Multiple Levels of Detail**|Benoit Guillard et.al.|[2409.06231](http://arxiv.org/abs/2409.06231)|null|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**BrainDecoder: Style-Based Visual Decoding of EEG Signals**|Minsuk Choi et.al.|[2409.05279](http://arxiv.org/abs/2409.05279)|null|
 |**2024-09-06**|**NeCA: 3D Coronary Artery Tree Reconstruction from Two 2D Projections by Neural Implicit Representation**|Yiying Wang et.al.|[2409.04596](http://arxiv.org/abs/2409.04596)|**[link](https://github.com/WangStephen/NeCA)**|
