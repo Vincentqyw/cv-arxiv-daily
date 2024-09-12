@@ -49,6 +49,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610](http://arxiv.org/abs/2409.05610)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
 |**2024-09-08**|**Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks**|Hanqi Chen et.al.|[2409.04978](http://arxiv.org/abs/2409.04978)|**[link](https://github.com/chrazqee/mpe-psn)**|
@@ -647,6 +648,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
 |**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|null|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
@@ -974,6 +976,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
+|**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
+|**2024-09-11**|**Fast Medical Shape Reconstruction via Meta-learned Implicit Neural Representations**|Gaia Romana De Paolis et.al.|[2409.07100](http://arxiv.org/abs/2409.07100)|null|
+|**2024-09-10**|**Universal scale-free representations in human visual cortex**|Raj Magesh Gauthaman et.al.|[2409.06843](http://arxiv.org/abs/2409.06843)|null|
 |**2024-09-10**|**A Latent Implicit 3D Shape Model for Multiple Levels of Detail**|Benoit Guillard et.al.|[2409.06231](http://arxiv.org/abs/2409.06231)|null|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**BrainDecoder: Style-Based Visual Decoding of EEG Signals**|Minsuk Choi et.al.|[2409.05279](http://arxiv.org/abs/2409.05279)|null|
