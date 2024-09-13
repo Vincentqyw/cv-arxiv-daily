@@ -10,6 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**A White-Box Deep-Learning Method for Electrical Energy System Modeling Based on Kolmogorov-Arnold Network**|Zhenghao Zhou et.al.|[2409.08044](http://arxiv.org/abs/2409.08044)|null|
 |**2024-08-21**|**Topological Representational Similarity Analysis in Brains and Beyond**|Baihan Lin et.al.|[2408.11948](http://arxiv.org/abs/2408.11948)|null|
 |**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885](http://arxiv.org/abs/2408.11885)|null|
 |**2024-08-10**|**IVISIT: An Interactive Visual Simulation Tool for system simulation, visualization, optimization, and parameter management**|Andreas Knoblauch et.al.|[2408.03341](http://arxiv.org/abs/2408.03341)|null|
@@ -49,6 +50,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
+|**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833](http://arxiv.org/abs/2409.07833)|null|
+|**2024-09-12**|**Training Spiking Neural Networks via Augmented Direct Feedback Alignment**|Yongbo Zhang et.al.|[2409.07776](http://arxiv.org/abs/2409.07776)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610](http://arxiv.org/abs/2409.05610)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
@@ -648,6 +652,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
 |**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|null|
@@ -1600,6 +1605,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**External Memories of PDP Switches for In-Network Implementable Functions Placement: Deep Learning Based Reconfiguration of SFCs**|Somayeh Kianpisheh et.al.|[2409.08043](http://arxiv.org/abs/2409.08043)|null|
 |**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147](http://arxiv.org/abs/2408.08147)|null|
 |**2024-07-13**|**SeqBalance: Congestion-Aware Load Balancing with no Reordering for RoCE**|Huimin Luo et.al.|[2407.09808](http://arxiv.org/abs/2407.09808)|null|
 |**2024-04-27**|**ALock: Asymmetric Lock Primitive for RDMA Systems**|Amanda Baran et.al.|[2404.17980](http://arxiv.org/abs/2404.17980)|null|
