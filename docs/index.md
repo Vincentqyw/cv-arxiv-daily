@@ -50,6 +50,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Neuromorphic Spintronics**|Atreya Majumdar et.al.|[2409.10290](http://arxiv.org/abs/2409.10290)|null|
+|**2024-09-14**|**Relaxation Time of Multipore Nanofluidic Memristors for Neuromorphic Applications**|Agustin Bou et.al.|[2409.09327](http://arxiv.org/abs/2409.09327)|null|
+|**2024-09-14**|**Spintronic Neuron Using a Magnetic Tunnel Junction for Low-Power Neuromorphic Computing**|Steven Louis et.al.|[2409.09268](http://arxiv.org/abs/2409.09268)|null|
+|**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105](http://arxiv.org/abs/2409.09105)|null|
 |**2024-09-13**|**Efficient FPGA Implementation of an Optimized SNN-based DFE for Optical Communications**|Mohamed Moursi et.al.|[2409.08698](http://arxiv.org/abs/2409.08698)|null|
 |**2024-09-13**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833](http://arxiv.org/abs/2409.07833)|null|
@@ -653,6 +657,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Neuromorphic Spintronics**|Atreya Majumdar et.al.|[2409.10290](http://arxiv.org/abs/2409.10290)|null|
+|**2024-09-14**|**Relaxation Time of Multipore Nanofluidic Memristors for Neuromorphic Applications**|Agustin Bou et.al.|[2409.09327](http://arxiv.org/abs/2409.09327)|null|
+|**2024-09-14**|**Spintronic Neuron Using a Magnetic Tunnel Junction for Low-Power Neuromorphic Computing**|Steven Louis et.al.|[2409.09268](http://arxiv.org/abs/2409.09268)|null|
+|**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105](http://arxiv.org/abs/2409.09105)|null|
 |**2024-09-13**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
@@ -982,6 +990,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-15**|**Learning Transferable Features for Implicit Neural Representations**|Kushal Vyas et.al.|[2409.09566](http://arxiv.org/abs/2409.09566)|null|
+|**2024-09-14**|**Estimating Neural Orientation Distribution Fields on High Resolution Diffusion MRI Scans**|Mohammed Munzer Dwedari et.al.|[2409.09387](http://arxiv.org/abs/2409.09387)|**[link](https://github.com/munzerdw/nodf-hashenc)**|
+|**2024-09-14**|**Implicit Neural Representations with Fourier Kolmogorov-Arnold Networks**|Ali Mehrabian et.al.|[2409.09323](http://arxiv.org/abs/2409.09323)|null|
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 |**2024-09-11**|**Fast Medical Shape Reconstruction via Meta-learned Implicit Neural Representations**|Gaia Romana De Paolis et.al.|[2409.07100](http://arxiv.org/abs/2409.07100)|null|
