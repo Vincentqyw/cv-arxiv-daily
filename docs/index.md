@@ -1001,7 +1001,7 @@ layout: default
 |**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
 |**2024-09-18**|**Monomial Matrix Group Equivariant Neural Functional Networks**|Hoang V. Tran et.al.|[2409.11697](http://arxiv.org/abs/2409.11697)|null|
 |**2024-09-17**|**Compact Implicit Neural Representations for Plane Wave Images**|Mathilde Monvoisin et.al.|[2409.11370](http://arxiv.org/abs/2409.11370)|null|
-|**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|**[link](https://github.com/Lukeli0425/NF-APACT)**|
+|**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|null|
 |**2024-09-18**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836](http://arxiv.org/abs/2409.10836)|null|
 |**2024-09-15**|**Learning Transferable Features for Implicit Neural Representations**|Kushal Vyas et.al.|[2409.09566](http://arxiv.org/abs/2409.09566)|null|
 |**2024-09-14**|**Estimating Neural Orientation Distribution Fields on High Resolution Diffusion MRI Scans**|Mohammed Munzer Dwedari et.al.|[2409.09387](http://arxiv.org/abs/2409.09387)|**[link](https://github.com/munzerdw/nodf-hashenc)**|
