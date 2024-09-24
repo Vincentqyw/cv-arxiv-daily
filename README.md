@@ -668,7 +668,7 @@
 |**2024-09-13**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-11**|**Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications**|Sameer Kumar Mallik et.al.|[2409.07357](http://arxiv.org/abs/2409.07357)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
-|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|null|
+|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|**[link](https://github.com/neurogeometry/sparse_learning)**|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
 |**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
