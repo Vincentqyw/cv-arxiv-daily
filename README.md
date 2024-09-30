@@ -1,4 +1,4 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -76,7 +76,7 @@
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610](http://arxiv.org/abs/2409.05610)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386](http://arxiv.org/abs/2409.05386)|null|
 |**2024-09-08**|**Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks**|Hanqi Chen et.al.|[2409.04978](http://arxiv.org/abs/2409.04978)|**[link](https://github.com/chrazqee/mpe-psn)**|
-|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|null|
+|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|**[link](https://github.com/neurogeometry/sparse_learning)**|
 |**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428](http://arxiv.org/abs/2409.04428)|null|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](http://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
@@ -1064,7 +1064,7 @@
 |**2024-08-08**|**Eliminating Backdoors in Neural Code Models via Trigger Inversion**|Weisong Sun et.al.|[2408.04683](http://arxiv.org/abs/2408.04683)|null|
 |**2024-08-08**|**Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings**|Jinzhao Zhou et.al.|[2408.04679](http://arxiv.org/abs/2408.04679)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|**[link](https://github.com/v587su/FDI)**|
-|**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|null|
+|**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|**[link](https://github.com/Felixduelmer/phocus)**|
 |**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
 |**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395](http://arxiv.org/abs/2407.21395)|**[link](https://github.com/eric-qi/hiner)**|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
