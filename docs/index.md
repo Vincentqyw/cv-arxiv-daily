@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1026,7 +1026,7 @@ layout: default
 |**2024-09-25**|**Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation**|Qing Wu et.al.|[2409.16921](http://arxiv.org/abs/2409.16921)|null|
 |**2024-09-24**|**Modern Hopfield Networks meet Encoded Neural Representations -- Addressing Practical Considerations**|Satyananda Kashyap et.al.|[2409.16408](http://arxiv.org/abs/2409.16408)|null|
 |**2024-09-25**|**Ring Artifacts Removal Based on Implicit Neural Representation of Sinogram Data**|Ligen Shi et.al.|[2409.15731](http://arxiv.org/abs/2409.15731)|null|
-|**2024-09-23**|**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild**|Chen Guo et.al.|[2409.15269](http://arxiv.org/abs/2409.15269)|null|
+|**2024-09-28**|**ReLoo: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild**|Chen Guo et.al.|[2409.15269](http://arxiv.org/abs/2409.15269)|null|
 |**2024-09-22**|**Frequency-regularized Neural Representation Method for Sparse-view Tomographic Reconstruction**|Jingmou Xian et.al.|[2409.14394](http://arxiv.org/abs/2409.14394)|null|
 |**2024-09-21**|**Implicit Neural Representations for Speed-of-Sound Estimation in Ultrasound**|Michal Byra et.al.|[2409.14035](http://arxiv.org/abs/2409.14035)|null|
 |**2024-09-20**|**Occupancy-Based Dual Contouring**|Jisung Hwang et.al.|[2409.13418](http://arxiv.org/abs/2409.13418)|**[link](https://github.com/kaist-visual-ai-group/odc)**|
