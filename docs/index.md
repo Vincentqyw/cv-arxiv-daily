@@ -52,6 +52,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764](http://arxiv.org/abs/2409.19764)|null|
+|**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
 |**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
 |**2024-09-26**|**Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics**|Cornelia Sheeran et.al.|[2409.17693](http://arxiv.org/abs/2409.17693)|null|
@@ -1018,6 +1020,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904](http://arxiv.org/abs/2409.19904)|null|
+|**2024-09-28**|**Towards Croppable Implicit Neural Representations**|Maor Ashkenazi et.al.|[2409.19472](http://arxiv.org/abs/2409.19472)|**[link](https://github.com/maorash/local-global-inrs)**|
+|**2024-09-28**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
 |**2024-09-27**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 |**2024-09-27**|**AM-MTEEG: Multi-task EEG classification based on impulsive associative memory**|Junyan Li et.al.|[2409.18375](http://arxiv.org/abs/2409.18375)|null|
 |**2024-09-26**|**PNR: Physics-informed Neural Representation for high-resolution LFM reconstruction**|Jiayin Zhao et.al.|[2409.18223](http://arxiv.org/abs/2409.18223)|null|
