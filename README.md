@@ -1,4 +1,4 @@
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -58,7 +58,7 @@
 |**2024-09-20**|**DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention**|Boxun Xu et.al.|[2409.15375](http://arxiv.org/abs/2409.15375)|null|
 |**2024-09-23**|**Learning in memristive electrical circuits**|Marieke Heidema et.al.|[2409.15136](http://arxiv.org/abs/2409.15136)|null|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
-|**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298](http://arxiv.org/abs/2409.14298)|null|
+|**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298](http://arxiv.org/abs/2409.14298)|**[link](https://github.com/TENNLab-UTK/dbscan)**|
 |**2024-09-19**|**The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning**|Manh V. Nguyen et.al.|[2409.12769](http://arxiv.org/abs/2409.12769)|null|
 |**2024-09-19**|**A dynamic vision sensor object recognition model based on trainable event-driven convolution and spiking attention mechanism**|Peng Zheng et.al.|[2409.12691](http://arxiv.org/abs/2409.12691)|null|
 |**2024-09-19**|**Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks**|Xian Zhong et.al.|[2409.12507](http://arxiv.org/abs/2409.12507)|null|
@@ -680,7 +680,7 @@
 |**2024-09-23**|**Learning in memristive electrical circuits**|Marieke Heidema et.al.|[2409.15136](http://arxiv.org/abs/2409.15136)|null|
 |**2024-09-23**|**A Diagonal Structured State Space Model on Loihi 2 for Efficient Streaming Sequence Processing**|Svea Marie Meyer et.al.|[2409.15022](http://arxiv.org/abs/2409.15022)|null|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
-|**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298](http://arxiv.org/abs/2409.14298)|null|
+|**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298](http://arxiv.org/abs/2409.14298)|**[link](https://github.com/TENNLab-UTK/dbscan)**|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
 |**2024-09-17**|**Contrastive Learning in Memristor-based Neuromorphic Systems**|Cory Merkel et.al.|[2409.10887](http://arxiv.org/abs/2409.10887)|null|
 |**2024-09-16**|**Neuromorphic Spintronics**|Atreya Majumdar et.al.|[2409.10290](http://arxiv.org/abs/2409.10290)|null|
