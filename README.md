@@ -748,7 +748,7 @@
 |**2024-07-18**|**Optical control of multiple resistance levels in graphene for memristic applications**|Harsimran Kaur Mann et.al.|[2407.13387](http://arxiv.org/abs/2407.13387)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516](http://arxiv.org/abs/2407.12516)|null|
 |**2024-07-15**|**Restricted Boltzmann Machine for Modeling Complex Physical Systems: A Case Study in Artificial Spin Ice**|Rehana Begum Popy et.al.|[2407.11165](http://arxiv.org/abs/2407.11165)|null|
-|**2024-07-15**|**Correlations Are Ruining Your Gradient Descent**|Nasir Ahmad et.al.|[2407.10780](http://arxiv.org/abs/2407.10780)|null|
+|**2024-07-15**|**Correlations Are Ruining Your Gradient Descent**|Nasir Ahmad et.al.|[2407.10780](http://arxiv.org/abs/2407.10780)|**[link](https://github.com/nasiryahm/correlationsruingd)**|
 |**2024-07-12**|**Multistate ferroelectric diodes with high electroresistance based on van der Waals heterostructures**|Soumya Sarkar et.al.|[2407.09175](http://arxiv.org/abs/2407.09175)|null|
 |**2024-07-11**|**A Comprehensive Convolutional Neural Network Architecture Design using Magnetic Skyrmion and Domain Wall**|Saumya Gupta et.al.|[2407.08469](http://arxiv.org/abs/2407.08469)|null|
 |**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362](http://arxiv.org/abs/2407.08362)|**[link](https://github.com/freek1/emopain-stl)**|
@@ -1237,7 +1237,7 @@
 |**2024-03-18**|**Inter-individual and inter-site neural code conversion and image reconstruction without shared stimuli**|Haibao Wang et.al.|[2403.11517](http://arxiv.org/abs/2403.11517)|null|
 |**2024-03-17**|**STAIR: Semantic-Targeted Active Implicit Reconstruction**|Liren Jin et.al.|[2403.11233](http://arxiv.org/abs/2403.11233)|**[link](https://github.com/dmar-bonn/stair)**|
 |**2024-03-16**|**MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections**|Mude Hui et.al.|[2403.10815](http://arxiv.org/abs/2403.10815)|**[link](https://github.com/ucsc-vlaa/microdiffusion)**|
-|**2024-03-16**|**LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback**|Sravan Kumar Ankireddy et.al.|[2403.10751](http://arxiv.org/abs/2403.10751)|null|
+|**2024-03-16**|**LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback**|Sravan Kumar Ankireddy et.al.|[2403.10751](http://arxiv.org/abs/2403.10751)|**[link](https://github.com/sravan-ankireddy/lightcode)**|
 |**2024-03-15**|**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**|Hiba Dahmani et.al.|[2403.10427](http://arxiv.org/abs/2403.10427)|null|
 |**2024-03-15**|**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder**|Jinseok Kim et.al.|[2403.10255](http://arxiv.org/abs/2403.10255)|null|
 |**2024-03-14**|**SketchINR: A First Look into Sketches as Implicit Neural Representations**|Hmrishav Bandyopadhyay et.al.|[2403.09344](http://arxiv.org/abs/2403.09344)|**[link](https://github.com/hmrishavbandy/SketchINR-Code)**|
