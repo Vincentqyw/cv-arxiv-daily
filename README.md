@@ -48,6 +48,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B. S. et.al.|[2410.04992](http://arxiv.org/abs/2410.04992)|null|
+|**2024-10-07**|**Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**|Xiang Hao et.al.|[2410.04785](http://arxiv.org/abs/2410.04785)|null|
 |**2024-10-04**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530](http://arxiv.org/abs/2410.03530)|null|
 |**2024-10-03**|**Laser induced transition in Cerium Oxide thin film**|Mousri Paul et.al.|[2410.02517](http://arxiv.org/abs/2410.02517)|null|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
@@ -1028,6 +1030,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|null|
+|**2024-10-07**|**Next state prediction gives rise to entangled, yet compositional representations of objects**|Tankred Saanum et.al.|[2410.04940](http://arxiv.org/abs/2410.04940)|null|
+|**2024-10-07**|**H-SIREN: Improving implicit neural representations with hyperbolic periodic functions**|Rui Gao et.al.|[2410.04716](http://arxiv.org/abs/2410.04716)|null|
+|**2024-10-07**|**SegINR: Segment-wise Implicit Neural Representation for Sequence Alignment in Neural Text-to-Speech**|Minchan Kim et.al.|[2410.04690](http://arxiv.org/abs/2410.04690)|null|
+|**2024-10-05**|**FastLRNR and Sparse Physics Informed Backpropagation**|Woojin Cho et.al.|[2410.04001](http://arxiv.org/abs/2410.04001)|null|
+|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|null|
 |**2024-10-04**|**Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**|Haotian Yin et.al.|[2410.03123](http://arxiv.org/abs/2410.03123)|null|
 |**2024-10-03**|**Formation of Representations in Neural Networks**|Liu Ziyin et.al.|[2410.03006](http://arxiv.org/abs/2410.03006)|null|
 |**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
