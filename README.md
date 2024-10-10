@@ -1030,6 +1030,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Implicitly Learned Neural Phase Functions for Basis-Free Point Spread Function Engineering**|Aleksey Valouev et.al.|[2410.05413](http://arxiv.org/abs/2410.05413)|null|
 |**2024-10-08**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|null|
 |**2024-10-07**|**Next state prediction gives rise to entangled, yet compositional representations of objects**|Tankred Saanum et.al.|[2410.04940](http://arxiv.org/abs/2410.04940)|null|
 |**2024-10-07**|**H-SIREN: Improving implicit neural representations with hyperbolic periodic functions**|Rui Gao et.al.|[2410.04716](http://arxiv.org/abs/2410.04716)|null|
@@ -1595,6 +1596,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-09-20**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|null|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
 |**2024-08-27**|**A parallel particle cluster algorithm using nearest neighbour graphs and passive target communication**|Matthias Frey et.al.|[2408.15348](http://arxiv.org/abs/2408.15348)|null|
@@ -1643,6 +1645,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-09-20**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|null|
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
