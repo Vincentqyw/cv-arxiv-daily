@@ -103,7 +103,7 @@
 |**2024-09-03**|**Internal Representations in Spiking Neural Networks, criticality and the Renormalization Group**|João Henrique de Sant'Ana et.al.|[2409.02238](http://arxiv.org/abs/2409.02238)|null|
 |**2024-09-03**|**Brain-Inspired Online Adaptation for Remote Sensing with Spiking Neural Network**|Dexin Duan et.al.|[2409.02146](http://arxiv.org/abs/2409.02146)|null|
 |**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|**[link](https://github.com/fmi-basel/neural-decoding-RSNN)**|
-|**2024-09-03**|**ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**|Shiting Xiao et.al.|[2409.01564](http://arxiv.org/abs/2409.01564)|null|
+|**2024-09-03**|**ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**|Shiting Xiao et.al.|[2409.01564](http://arxiv.org/abs/2409.01564)|**[link](https://github.com/GinnyXiao/ReSpike)**|
 |**2024-09-02**|**Two-junction model in different percolation regimes of silver nanowires networks**|J. I. Diaz Schneider et.al.|[2409.01318](http://arxiv.org/abs/2409.01318)|null|
 |**2024-09-04**|**CoLaNET -- A Spiking Neural Network with Columnar Layered Architecture for Classification**|Mikhail Kiselev et.al.|[2409.01230](http://arxiv.org/abs/2409.01230)|null|
 |**2024-09-01**|**Designing high endurance Hf0.5Zr0.5O2 capacitors through engineered recovery from fatigue for non-volatile ferroelectric memory and neuromorphic hardware**|Xinye Li et.al.|[2409.00635](http://arxiv.org/abs/2409.00635)|null|
@@ -276,7 +276,7 @@
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
 |**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474](http://arxiv.org/abs/2405.14474)|null|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
-|**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|null|
+|**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|**[link](https://github.com/microsoft/seqsnn)**|
 |**2024-05-26**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
 |**2024-05-22**|**Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning**|Yimeng Shan et.al.|[2405.13672](http://arxiv.org/abs/2405.13672)|**[link](https://github.com/Ym-Shan/Spiking_Multiscale_Attention_Arxiv)**|
 |**2024-05-22**|**Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals**|Christian Holberg et.al.|[2405.13587](http://arxiv.org/abs/2405.13587)|null|
