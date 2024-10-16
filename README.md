@@ -1,4 +1,4 @@
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -53,7 +53,7 @@
 |**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130](http://arxiv.org/abs/2410.09130)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978](http://arxiv.org/abs/2410.08978)|null|
 |**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673](http://arxiv.org/abs/2410.08673)|null|
-|**2024-10-11**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637](http://arxiv.org/abs/2410.08637)|null|
+|**2024-10-15**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637](http://arxiv.org/abs/2410.08637)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857](http://arxiv.org/abs/2410.07857)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547](http://arxiv.org/abs/2410.07547)|null|
 |**2024-10-08**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B S et.al.|[2410.04992](http://arxiv.org/abs/2410.04992)|null|
@@ -1042,7 +1042,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
+|**2024-10-15**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
 |**2024-10-14**|**StegaINR4MIH: steganography by implicit neural representation for multi-image hiding**|Weina Dong et.al.|[2410.10117](http://arxiv.org/abs/2410.10117)|**[link](https://github.com/haifeng-jiang/stegainr4mih)**|
 |**2024-10-13**|**Magnituder Layers for Implicit Neural Representations in 3D**|Sang Min Kim et.al.|[2410.09771](http://arxiv.org/abs/2410.09771)|null|
 |**2024-10-12**|**Exploring Behavior-Relevant and Disentangled Neural Dynamics with Generative Diffusion Models**|Yule Wang et.al.|[2410.09614](http://arxiv.org/abs/2410.09614)|**[link](https://github.com/yulewang97/benediff)**|
