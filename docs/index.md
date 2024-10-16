@@ -52,6 +52,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes**|Alexander von Bank et.al.|[2410.11543](http://arxiv.org/abs/2410.11543)|null|
+|**2024-10-15**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488](http://arxiv.org/abs/2410.11488)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674](http://arxiv.org/abs/2410.09674)|null|
 |**2024-10-11**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218](http://arxiv.org/abs/2410.09218)|null|
 |**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130](http://arxiv.org/abs/2410.09130)|null|
@@ -699,6 +701,7 @@ layout: default
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674](http://arxiv.org/abs/2410.09674)|null|
 |**2024-10-11**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218](http://arxiv.org/abs/2410.09218)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978](http://arxiv.org/abs/2410.08978)|null|
+|**2024-10-15**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637](http://arxiv.org/abs/2410.08637)|null|
 |**2024-10-10**|**MENAGE: Mixed-Signal Event-Driven Neuromorphic Accelerator for Edge Applications**|Armin Abdollahi et.al.|[2410.08403](http://arxiv.org/abs/2410.08403)|null|
 |**2024-10-03**|**Resolving and routing the magnetic polymorphs in 2D layered antiferromagnet**|Zeyuan Sun et.al.|[2410.02993](http://arxiv.org/abs/2410.02993)|null|
 |**2024-10-03**|**Laser induced transition in Cerium Oxide thin film**|Mousri Paul et.al.|[2410.02517](http://arxiv.org/abs/2410.02517)|null|
