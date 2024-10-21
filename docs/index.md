@@ -10,7 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|null|
+|**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
 |**2024-09-19**|**Model calibration using a parallel differential evolution algorithm in computational neuroscience: simulation of stretch induced nerve deficit**|Antonio LaTorre et.al.|[2409.12567](http://arxiv.org/abs/2409.12567)|null|
 |**2024-09-12**|**A White-Box Deep-Learning Method for Electrical Energy System Modeling Based on Kolmogorov-Arnold Network**|Zhenghao Zhou et.al.|[2409.08044](http://arxiv.org/abs/2409.08044)|null|
@@ -1052,6 +1052,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Convergence of Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2410.14639](http://arxiv.org/abs/2410.14639)|**[link](https://github.com/dj408/mfcn)**|
 |**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
 |**2024-10-17**|**Inductive Gradient Adjustment For Spectral Bias In Implicit Neural Representations**|Kexuan Shi et.al.|[2410.13271](http://arxiv.org/abs/2410.13271)|null|
