@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**AG-SLAM: Active Gaussian Splatting SLAM**|Wen Jiang et.al.|[2410.17422](http://arxiv.org/abs/2410.17422)|null|
 |**2024-10-22**|**Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study**|J. Jorge et.al.|[2410.17171](http://arxiv.org/abs/2410.17171)|null|
 |**2024-10-19**|**EndoMetric: Near-light metric scale monocular SLAM**|Raúl Iranzo et.al.|[2410.15065](http://arxiv.org/abs/2410.15065)|null|
 |**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612](http://arxiv.org/abs/2410.13612)|null|
@@ -684,6 +685,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**CO-CAVITY project: Molecular gas and star formation in void galaxies**|M. I. Rodríguez et.al.|[2410.18078](http://arxiv.org/abs/2410.18078)|null|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378](http://arxiv.org/abs/2410.15378)|null|
 |**2024-10-17**|**SemSim: Revisiting Weak-to-Strong Consistency from a Semantic Similarity Perspective for Semi-supervised Medical Image Segmentation**|Shiao Xie et.al.|[2410.13486](http://arxiv.org/abs/2410.13486)|null|
 |**2024-10-16**|**Multi-View Multi-Task Modeling with Speech Foundation Models for Speech Forensic Tasks**|Orchid Chetia Phukan et.al.|[2410.12947](http://arxiv.org/abs/2410.12947)|null|
@@ -966,6 +969,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
 |**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
 |**2024-10-19**|**Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway's Digitised Book Collection**|Marie Roald et.al.|[2410.14969](http://arxiv.org/abs/2410.14969)|**[link](https://github.com/Sprakbanken/CHR24-image-retrieval)**|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
@@ -2431,6 +2435,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932](http://arxiv.org/abs/2410.17932)|null|
+|**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839](http://arxiv.org/abs/2410.17839)|null|
+|**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|null|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
 |**2024-10-18**|**GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**|Yusen Xie et.al.|[2410.17084](http://arxiv.org/abs/2410.17084)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
