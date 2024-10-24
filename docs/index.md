@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -60,9 +60,9 @@ layout: default
 |**2024-10-21**|**Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524](http://arxiv.org/abs/2410.16524)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
 |**2024-10-21**|**TEXEL: A neuromorphic processor with on-chip learning for beyond-CMOS device integration**|Hugh Greatorex et.al.|[2410.15854](http://arxiv.org/abs/2410.15854)|null|
-|**2024-10-21**|**Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model**|Shibo Zhou et.al.|[2410.15689](http://arxiv.org/abs/2410.15689)|null|
+|**2024-10-21**|**Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model**|Shibo Zhou et.al.|[2410.15689](http://arxiv.org/abs/2410.15689)|**[link](https://github.com/JasonKitty/DVS-SLR)**|
 |**2024-10-20**|**Fractional-order spike-timing-dependent gradient descent for multi-layer spiking neural networks**|Yi Yang et.al.|[2410.15293](http://arxiv.org/abs/2410.15293)|null|
-|**2024-10-17**|**Ornstein-Uhlenbeck Adaptation as a Mechanism for Learning in Brains and Machines**|Jesus Garcia Fernandez et.al.|[2410.13563](http://arxiv.org/abs/2410.13563)|null|
+|**2024-10-23**|**Ornstein-Uhlenbeck Adaptation as a Mechanism for Learning in Brains and Machines**|Jesus Garcia Fernandez et.al.|[2410.13563](http://arxiv.org/abs/2410.13563)|null|
 |**2024-10-15**|**Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes**|Alexander von Bank et.al.|[2410.11543](http://arxiv.org/abs/2410.11543)|null|
 |**2024-10-22**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488](http://arxiv.org/abs/2410.11488)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674](http://arxiv.org/abs/2410.09674)|null|
@@ -714,7 +714,7 @@ layout: default
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
 |**2024-10-21**|**The role of spike-timing-dependent plasticity and random inputs in neurodegenerative diseases and neuromorphic systems**|Thoa Thieu et.al.|[2410.16123](http://arxiv.org/abs/2410.16123)|null|
 |**2024-10-21**|**TEXEL: A neuromorphic processor with on-chip learning for beyond-CMOS device integration**|Hugh Greatorex et.al.|[2410.15854](http://arxiv.org/abs/2410.15854)|null|
-|**2024-10-17**|**Ornstein-Uhlenbeck Adaptation as a Mechanism for Learning in Brains and Machines**|Jesus Garcia Fernandez et.al.|[2410.13563](http://arxiv.org/abs/2410.13563)|null|
+|**2024-10-23**|**Ornstein-Uhlenbeck Adaptation as a Mechanism for Learning in Brains and Machines**|Jesus Garcia Fernandez et.al.|[2410.13563](http://arxiv.org/abs/2410.13563)|null|
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674](http://arxiv.org/abs/2410.09674)|null|
 |**2024-10-11**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218](http://arxiv.org/abs/2410.09218)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978](http://arxiv.org/abs/2410.08978)|null|
