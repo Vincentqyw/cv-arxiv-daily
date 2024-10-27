@@ -2440,7 +2440,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
 |**2024-10-24**|**Real-time 3D-aware Portrait Video Relighting**|Ziqi Cai et.al.|[2410.18355](http://arxiv.org/abs/2410.18355)|**[link](https://github.com/GhostCai/PortraitRelighting)**|
-|**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137](http://arxiv.org/abs/2410.18137)|**[link](https://github.com/shreyvish5678/SR-NeRF-with-Variational-Diffusion-Strategies)**|
+|**2024-10-22**|**Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**|Shrey Vishen et.al.|[2410.18137](http://arxiv.org/abs/2410.18137)|**[link](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)**|
 |**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932](http://arxiv.org/abs/2410.17932)|null|
 |**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839](http://arxiv.org/abs/2410.17839)|null|
 |**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|**[link](https://github.com/HZXu-526/Human-Avatar)**|
