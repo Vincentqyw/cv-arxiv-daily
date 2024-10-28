@@ -53,6 +53,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
+|**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
+|**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
+|**2024-10-25**|**A prescriptive theory for brain-like inference**|Hadi Vafaii et.al.|[2410.19315](http://arxiv.org/abs/2410.19315)|null|
+|**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255](http://arxiv.org/abs/2410.19255)|null|
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580](http://arxiv.org/abs/2410.18580)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
 |**2024-10-22**|**Neuromorphic information processing using ultrafast heat dynamics and quench switching of an antiferromagnet**|Jan Zubáč et.al.|[2410.16909](http://arxiv.org/abs/2410.16909)|null|
@@ -710,6 +715,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
+|**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
+|**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
+|**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255](http://arxiv.org/abs/2410.19255)|null|
 |**2024-10-22**|**On the Sampling Sparsity of Neuromorphic Analog-to-Spike Conversion based on Leaky Integrate-and-Fire**|Bernhard A. Moser et.al.|[2410.17441](http://arxiv.org/abs/2410.17441)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
 |**2024-10-22**|**High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**|Shengbo Wang et.al.|[2410.16734](http://arxiv.org/abs/2410.16734)|null|
@@ -1068,6 +1077,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**ST-NeRP: Spatial-Temporal Neural Representation Learning with Prior Embedding for Patient-specific Imaging Study**|Liang Qiu et.al.|[2410.19283](http://arxiv.org/abs/2410.19283)|null|
 |**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622](http://arxiv.org/abs/2410.18622)|null|
 |**2024-10-22**|**Scalable Implicit Graphon Learning**|Ali Azizpour et.al.|[2410.17464](http://arxiv.org/abs/2410.17464)|**[link](https://github.com/aliaaz99/SIGL)**|
 |**2024-10-22**|**Klein Model for Hyperbolic Neural Networks**|Yidan Mao et.al.|[2410.16813](http://arxiv.org/abs/2410.16813)|null|
