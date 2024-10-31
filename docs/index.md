@@ -53,6 +53,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**On the origin of filamentary resistive switching in oxides-based memristive devices**|R. Leal Martir et.al.|[2410.23268](http://arxiv.org/abs/2410.23268)|null|
+|**2024-10-30**|**An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Weight/Output Stationarity**|Nicolas Chauvaux et.al.|[2410.23082](http://arxiv.org/abs/2410.23082)|null|
 |**2024-10-22**|**Coevolutionary Control of a Neuromorphic Network through a Mixed-Feedback Architecture**|Luis Guillermo Venegas-Pineda et.al.|[2410.19857](http://arxiv.org/abs/2410.19857)|null|
 |**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
@@ -716,6 +718,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**On the origin of filamentary resistive switching in oxides-based memristive devices**|R. Leal Martir et.al.|[2410.23268](http://arxiv.org/abs/2410.23268)|null|
 |**2024-10-22**|**Coevolutionary Control of a Neuromorphic Network through a Mixed-Feedback Architecture**|Luis Guillermo Venegas-Pineda et.al.|[2410.19857](http://arxiv.org/abs/2410.19857)|null|
 |**2024-10-25**|**An Ultra-low-loss Compact Phase-Change Material-based Hybrid-mode Interferometer for Photonic Memories**|Ranjeet Dwivedi et.al.|[2410.19587](http://arxiv.org/abs/2410.19587)|null|
 |**2024-10-25**|**Neuromorphic IoT Architecture for Efficient Water Management: A Smart Village Case Study**|Mugdim Bublin et.al.|[2410.19562](http://arxiv.org/abs/2410.19562)|null|
@@ -1079,6 +1082,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**When can classical neural networks represent quantum states?**|Tai-Hsuan Yang et.al.|[2410.23152](http://arxiv.org/abs/2410.23152)|null|
+|**2024-10-30**|**A test-free semantic mistakes localization framework in Neural Code Translation**|Lei Chen et.al.|[2410.22818](http://arxiv.org/abs/2410.22818)|null|
+|**2024-10-30**|**Less is More: DocString Compression in Code Generation**|Guang Yang et.al.|[2410.22793](http://arxiv.org/abs/2410.22793)|null|
 |**2024-10-29**|**Neural network representation of microflows with BGK model**|Pei Zhang et.al.|[2410.21935](http://arxiv.org/abs/2410.21935)|null|
 |**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
 |**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
