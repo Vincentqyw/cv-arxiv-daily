@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -53,7 +53,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|null|
+|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|**[link](https://github.com/christianbresciani/nscep-spiking-NN)**|
 |**2024-10-31**|**Injection locking in DC-driven spintronic vortex oscillators via surface acoustic wave modulation**|R. Moukhader et.al.|[2410.24045](http://arxiv.org/abs/2410.24045)|null|
 |**2024-10-31**|**Collective dynamics in spiking neural networks: A systematic review**|Afifurrahman et.al.|[2410.23876](http://arxiv.org/abs/2410.23876)|null|
 |**2024-10-31**|**Neurobench: DCASE 2020 Acoustic Scene Classification benchmark on XyloAudio 2**|Weijie Ke et.al.|[2410.23776](http://arxiv.org/abs/2410.23776)|null|
@@ -1093,7 +1093,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812](http://arxiv.org/abs/2410.23812)|null|
 |**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577](http://arxiv.org/abs/2410.23577)|**[link](https://github.com/z7gao/msglance)**|
-|**2024-10-30**|**When can classical neural networks represent quantum states?**|Tai-Hsuan Yang et.al.|[2410.23152](http://arxiv.org/abs/2410.23152)|null|
+|**2024-10-30**|**When can classical neural networks represent quantum states?**|Tai-Hsuan Yang et.al.|[2410.23152](http://arxiv.org/abs/2410.23152)|**[link](https://github.com/xiaotai-yang/NQS_cmi)**|
 |**2024-10-30**|**A test-free semantic mistakes localization framework in Neural Code Translation**|Lei Chen et.al.|[2410.22818](http://arxiv.org/abs/2410.22818)|null|
 |**2024-10-31**|**Less is More: DocString Compression in Code Generation**|Guang Yang et.al.|[2410.22793](http://arxiv.org/abs/2410.22793)|null|
 |**2024-10-29**|**Neural network representation of microflows with BGK model**|Pei Zhang et.al.|[2410.21935](http://arxiv.org/abs/2410.21935)|null|
