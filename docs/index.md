@@ -313,7 +313,7 @@ layout: default
 |**2024-05-24**|**A generalized neural tangent kernel for surrogate gradient learning**|Luke Eilers et.al.|[2405.15539](http://arxiv.org/abs/2405.15539)|null|
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851](http://arxiv.org/abs/2405.14851)|null|
 |**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474](http://arxiv.org/abs/2405.14474)|null|
-|**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|null|
+|**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398](http://arxiv.org/abs/2405.14398)|**[link](https://github.com/guoweiyu/spgesture)**|
 |**2024-05-23**|**Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators**|Changze Lv et.al.|[2405.14362](http://arxiv.org/abs/2405.14362)|**[link](https://github.com/microsoft/seqsnn)**|
 |**2024-05-26**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976](http://arxiv.org/abs/2405.13976)|null|
 |**2024-05-22**|**Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning**|Yimeng Shan et.al.|[2405.13672](http://arxiv.org/abs/2405.13672)|**[link](https://github.com/Ym-Shan/Spiking_Multiscale_Attention_Arxiv)**|
@@ -1147,10 +1147,10 @@ layout: default
 |**2024-09-22**|**Frequency-regularized Neural Representation Method for Sparse-view Tomographic Reconstruction**|Jingmou Xian et.al.|[2409.14394](http://arxiv.org/abs/2409.14394)|null|
 |**2024-09-21**|**Implicit Neural Representations for Speed-of-Sound Estimation in Ultrasound**|Michal Byra et.al.|[2409.14035](http://arxiv.org/abs/2409.14035)|null|
 |**2024-09-20**|**Occupancy-Based Dual Contouring**|Jisung Hwang et.al.|[2409.13418](http://arxiv.org/abs/2409.13418)|**[link](https://github.com/kaist-visual-ai-group/odc)**|
-|**2024-09-19**|**Breaking the Barriers of One-to-One Usage of Implicit Neural Representation in Image Compression: A Linear Combination Approach with Performance Guarantees**|Sai Sanjeet et.al.|[2409.13117](http://arxiv.org/abs/2409.13117)|null|
+|**2024-09-19**|**Breaking the Barriers of One-to-One Usage of Implicit Neural Representation in Image Compression: A Linear Combination Approach with Performance Guarantees**|Sai Sanjeet et.al.|[2409.13117](http://arxiv.org/abs/2409.13117)|**[link](https://github.com/SSPICE-Lab/mixture-inr)**|
 |**2024-09-19**|**Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models**|Xinyu Zhou et.al.|[2409.12435](http://arxiv.org/abs/2409.12435)|**[link](https://github.com/chendelong1999/linguistic-similarity)**|
 |**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
-|**2024-09-18**|**Monomial Matrix Group Equivariant Neural Functional Networks**|Hoang V. Tran et.al.|[2409.11697](http://arxiv.org/abs/2409.11697)|null|
+|**2024-09-18**|**Monomial Matrix Group Equivariant Neural Functional Networks**|Hoang V. Tran et.al.|[2409.11697](http://arxiv.org/abs/2409.11697)|**[link](https://github.com/mathematicalai-nus/monomial-nfn)**|
 |**2024-09-17**|**Compact Implicit Neural Representations for Plane Wave Images**|Mathilde Monvoisin et.al.|[2409.11370](http://arxiv.org/abs/2409.11370)|null|
 |**2024-09-17**|**Neural Fields for Adaptive Photoacoustic Computed Tomography**|Tianao Li et.al.|[2409.10876](http://arxiv.org/abs/2409.10876)|null|
 |**2024-09-18**|**Single-Layer Learnable Activation for Implicit Neural Representation (SL $^{2}$ A-INR)**|Moein Heidari et.al.|[2409.10836](http://arxiv.org/abs/2409.10836)|null|
@@ -1275,7 +1275,7 @@ layout: default
 |**2024-05-20**|**ASMR: Activation-sharing Multi-resolution Coordinate Networks For Efficient Inference**|Jason Chun Lok Li et.al.|[2405.12398](http://arxiv.org/abs/2405.12398)|**[link](https://github.com/stevolopolis/asmr)**|
 |**2024-05-20**|**The Projective Wave Theory of Consciousness**|Robert Worden et.al.|[2405.12071](http://arxiv.org/abs/2405.12071)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
-|**2024-05-19**|**Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural signals**|Hui Zheng et.al.|[2405.11459](http://arxiv.org/abs/2405.11459)|null|
+|**2024-05-19**|**Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural signals**|Hui Zheng et.al.|[2405.11459](http://arxiv.org/abs/2405.11459)|**[link](https://github.com/liulab-repository/du-in)**|
 |**2024-05-18**|**HR Human: Modeling Human Avatars with Triangular Mesh and High-Resolution Textures from Videos**|Qifeng Chen et.al.|[2405.11270](http://arxiv.org/abs/2405.11270)|null|
 |**2024-05-17**|**Nonparametric Teaching of Implicit Neural Representations**|Chen Zhang et.al.|[2405.10531](http://arxiv.org/abs/2405.10531)|null|
 |**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|**[link](https://github.com/SonyCSLParis/audio-representations)**|
