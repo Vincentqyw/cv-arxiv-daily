@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1822,7 +1822,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-01**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
+|**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-10-01**|**Understanding Data Movement in AMD Multi-GPU Systems with Infinity Fabric**|Gabin Schieffer et.al.|[2410.00801](http://arxiv.org/abs/2410.00801)|null|
 |**2024-09-06**|**Revisiting the Time Cost Model of AllReduce**|Dian Xiong et.al.|[2409.04202](http://arxiv.org/abs/2409.04202)|null|
 |**2024-09-04**|**Accelerating Large Language Model Training with Hybrid GPU-based Compression**|Lang Xu et.al.|[2409.02423](http://arxiv.org/abs/2409.02423)|null|
