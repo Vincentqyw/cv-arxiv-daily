@@ -49,6 +49,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**A Simple Packing Algorithm for Optimized Mapping of Artificial Neural Networks onto Non-Volatile Memory Cross-Bar Arrays**|W. Haensch et.al.|[2411.04814](http://arxiv.org/abs/2411.04814)|null|
+|**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
+|**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
+|**2024-11-07**|**PZT Optical Memristors**|Chenlei Li et.al.|[2411.04665](http://arxiv.org/abs/2411.04665)|null|
 |**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022](http://arxiv.org/abs/2411.03022)|null|
 |**2024-11-05**|**Dynamic switching of ferrocene and plasmonic interactions in Au/self-assembled monolayer/single Ag nanocube molecular junctions**|Mariem Ben Youssef et.al.|[2411.02927](http://arxiv.org/abs/2411.02927)|null|
 |**2024-11-05**|**SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception**|Deepika Sharma et.al.|[2411.02854](http://arxiv.org/abs/2411.02854)|null|
@@ -728,6 +732,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**A Simple Packing Algorithm for Optimized Mapping of Artificial Neural Networks onto Non-Volatile Memory Cross-Bar Arrays**|W. Haensch et.al.|[2411.04814](http://arxiv.org/abs/2411.04814)|null|
+|**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
+|**2024-11-07**|**PZT Optical Memristors**|Chenlei Li et.al.|[2411.04665](http://arxiv.org/abs/2411.04665)|null|
 |**2024-11-05**|**Dynamic switching of ferrocene and plasmonic interactions in Au/self-assembled monolayer/single Ag nanocube molecular junctions**|Mariem Ben Youssef et.al.|[2411.02927](http://arxiv.org/abs/2411.02927)|null|
 |**2024-11-04**|**Braided interferometer mesh for robust photonic matrix-vector multiplications with non-ideal components**|Federico Marchesin et.al.|[2411.02243](http://arxiv.org/abs/2411.02243)|null|
 |**2024-10-31**|**Injection locking in DC-driven spintronic vortex oscillators via surface acoustic wave modulation**|R. Moukhader et.al.|[2410.24045](http://arxiv.org/abs/2410.24045)|null|
@@ -1097,6 +1104,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
+|**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
 |**2024-11-06**|**Local vs distributed representations: What is the right basis for interpretability?**|Julien Colin et.al.|[2411.03993](http://arxiv.org/abs/2411.03993)|null|
 |**2024-11-06**|**Harmformer: Harmonic Networks Meet Transformers for Continuous Roto-Translation Equivariance**|Tomáš Karella et.al.|[2411.03794](http://arxiv.org/abs/2411.03794)|null|
 |**2024-11-06**|**Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey**|Amer Essakine et.al.|[2411.03688](http://arxiv.org/abs/2411.03688)|null|
