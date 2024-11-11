@@ -19,7 +19,7 @@
 |**2024-06-25**|**TVB C++: A Fast and Flexible Back-End for The Virtual Brain**|Ignacio Martín et.al.|[2405.18788](http://arxiv.org/abs/2405.18788)|null|
 |**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849](http://arxiv.org/abs/2405.12849)|null|
 |**2024-05-03**|**Neuromorphic Correlates of Artificial Consciousness**|Anwaar Ulhaq et.al.|[2405.02370](http://arxiv.org/abs/2405.02370)|null|
-|**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
+|**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|**[link](https://github.com/bjourne/fast_snn_fpga)**|
 |**2024-07-10**|**Evidence of ferroelectric features in low-density supercooled water from ab initio deep neural-network simulations**|Cesare Malosso et.al.|[2404.08338](http://arxiv.org/abs/2404.08338)|null|
 |**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
 |**2024-02-16**|**Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation**|Kourosh Parand et.al.|[2402.10649](http://arxiv.org/abs/2402.10649)|null|
@@ -342,7 +342,7 @@
 |**2024-05-07**|**Anomalous Gate-tunable Capacitance in Graphene Moiré Heterostructures**|Linshang Chen et.al.|[2405.03976](http://arxiv.org/abs/2405.03976)|null|
 |**2024-05-04**|**Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures**|Jiaqi Lin et.al.|[2405.02546](http://arxiv.org/abs/2405.02546)|null|
 |**2024-05-03**|**A Spiking Neural Network Decoder for Implantable Brain Machine Interfaces and its Sparsity-aware Deployment on RISC-V Microcontrollers**|Jiawei Liao et.al.|[2405.02146](http://arxiv.org/abs/2405.02146)|null|
-|**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
+|**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|**[link](https://github.com/bjourne/fast_snn_fpga)**|
 |**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
 |**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
 |**2024-05-01**|**Weight Sparsity Complements Activity Sparsity in Neuromorphic Language Models**|Rishav Mukherji et.al.|[2405.00433](http://arxiv.org/abs/2405.00433)|null|
@@ -1120,7 +1120,7 @@
 |**2024-10-29**|**Neural network representation of microflows with BGK model**|Pei Zhang et.al.|[2410.21935](http://arxiv.org/abs/2410.21935)|null|
 |**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
 |**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
-|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
+|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|**[link](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**|
 |**2024-10-26**|**CodePurify: Defend Backdoor Attacks on Neural Code Models via Entropy-based Purification**|Fangwen Mu et.al.|[2410.20136](http://arxiv.org/abs/2410.20136)|null|
 |**2024-10-25**|**ST-NeRP: Spatial-Temporal Neural Representation Learning with Prior Embedding for Patient-specific Imaging Study**|Liang Qiu et.al.|[2410.19283](http://arxiv.org/abs/2410.19283)|null|
 |**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622](http://arxiv.org/abs/2410.18622)|null|
