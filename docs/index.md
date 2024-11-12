@@ -53,6 +53,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057](http://arxiv.org/abs/2411.07057)|null|
+|**2024-11-11**|**Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2411.06792](http://arxiv.org/abs/2411.06792)|null|
+|**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
+|**2024-11-10**|**Noise Spectroscopy and Electrical Transport in NbO2 Memristors with Dual Resistive Switching**|Nitin Kumar et.al.|[2411.06605](http://arxiv.org/abs/2411.06605)|null|
+|**2024-11-09**|**Exploring Structural Nonlinearity in Binary Polariton-Based Neuromorphic Architectures**|Evgeny Sedov et.al.|[2411.06124](http://arxiv.org/abs/2411.06124)|null|
 |**2024-11-07**|**A Simple Packing Algorithm for Optimized Mapping of Artificial Neural Networks onto Non-Volatile Memory Cross-Bar Arrays**|W. Haensch et.al.|[2411.04814](http://arxiv.org/abs/2411.04814)|null|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
 |**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
@@ -736,6 +741,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057](http://arxiv.org/abs/2411.07057)|null|
+|**2024-11-10**|**Noise Spectroscopy and Electrical Transport in NbO2 Memristors with Dual Resistive Switching**|Nitin Kumar et.al.|[2411.06605](http://arxiv.org/abs/2411.06605)|null|
+|**2024-11-09**|**Exploring Structural Nonlinearity in Binary Polariton-Based Neuromorphic Architectures**|Evgeny Sedov et.al.|[2411.06124](http://arxiv.org/abs/2411.06124)|null|
+|**2024-11-09**|**ANCoEF: Asynchronous Neuromorphic Algorithm/Hardware Co-Exploration Framework with a Fully Asynchronous Simulator**|Jian Zhang et.al.|[2411.06059](http://arxiv.org/abs/2411.06059)|null|
 |**2024-11-07**|**A Simple Packing Algorithm for Optimized Mapping of Artificial Neural Networks onto Non-Volatile Memory Cross-Bar Arrays**|W. Haensch et.al.|[2411.04814](http://arxiv.org/abs/2411.04814)|null|
 |**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728](http://arxiv.org/abs/2411.04728)|null|
 |**2024-11-07**|**PZT Optical Memristors**|Chenlei Li et.al.|[2411.04665](http://arxiv.org/abs/2411.04665)|null|
@@ -1108,6 +1117,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**High-Frequency Enhanced Hybrid Neural Representation for Video Compression**|Li Yu et.al.|[2411.06685](http://arxiv.org/abs/2411.06685)|null|
+|**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
+|**2024-11-09**|**When are dynamical systems learned from time series data statistically accurate?**|Jeongjin Park et.al.|[2411.06311](http://arxiv.org/abs/2411.06311)|null|
+|**2024-11-09**|**HiHa: Introducing Hierarchical Harmonic Decomposition to Implicit Neural Compression for Atmospheric Data**|Zhewen Xu et.al.|[2411.06155](http://arxiv.org/abs/2411.06155)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
 |**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
 |**2024-11-06**|**Local vs distributed representations: What is the right basis for interpretability?**|Julien Colin et.al.|[2411.03993](http://arxiv.org/abs/2411.03993)|null|
