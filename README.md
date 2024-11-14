@@ -1116,7 +1116,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-12**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
+|**2024-11-13**|**Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli**|Christopher Wang et.al.|[2411.08343](http://arxiv.org/abs/2411.08343)|null|
+|**2024-11-12**|**What Representational Similarity Measures Imply about Decodable Information**|Sarah E. Harvey et.al.|[2411.08197](http://arxiv.org/abs/2411.08197)|null|
+|**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
 |**2024-11-12**|**Numerical Homogenization by Continuous Super-Resolution**|Zhi-Song Liu et.al.|[2411.07576](http://arxiv.org/abs/2411.07576)|null|
 |**2024-11-11**|**High-Frequency Enhanced Hybrid Neural Representation for Video Compression**|Li Yu et.al.|[2411.06685](http://arxiv.org/abs/2411.06685)|null|
 |**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
