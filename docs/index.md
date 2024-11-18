@@ -53,6 +53,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953](http://arxiv.org/abs/2411.09953)|null|
 |**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093](http://arxiv.org/abs/2411.09093)|null|
 |**2024-11-12**|**Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws**|Yubo Song et.al.|[2411.07654](http://arxiv.org/abs/2411.07654)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397](http://arxiv.org/abs/2411.07397)|null|
@@ -744,6 +745,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Recent Advances on Machine Learning-aided DSP for Short-reach and Long-haul Optical Communications**|Laurent Schmalen et.al.|[2411.10101](http://arxiv.org/abs/2411.10101)|null|
 |**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093](http://arxiv.org/abs/2411.09093)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397](http://arxiv.org/abs/2411.07397)|null|
 |**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057](http://arxiv.org/abs/2411.07057)|null|
@@ -1122,6 +1124,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Towards Neural Foundation Models for Vision: Aligning EEG, MEG, and fMRI Representations for Decoding, Encoding, and Modality Conversion**|Matteo Ferrante et.al.|[2411.09723](http://arxiv.org/abs/2411.09723)|null|
 |**2024-11-13**|**Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli**|Christopher Wang et.al.|[2411.08343](http://arxiv.org/abs/2411.08343)|null|
 |**2024-11-12**|**What Representational Similarity Measures Imply about Decodable Information**|Sarah E. Harvey et.al.|[2411.08197](http://arxiv.org/abs/2411.08197)|null|
 |**2024-11-13**|**Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization**|Davide Buffelli et.al.|[2411.07979](http://arxiv.org/abs/2411.07979)|null|
