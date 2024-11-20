@@ -49,6 +49,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Variability in Resistive Memories**|Juan B. Roldán et.al.|[2411.12369](http://arxiv.org/abs/2411.12369)|null|
+|**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308](http://arxiv.org/abs/2411.12308)|null|
 |**2024-11-18**|**Analysis of Generalized Hebbian Learning Algorithm for Neuromorphic Hardware Using Spinnaker**|Shivani Sharma et.al.|[2411.11575](http://arxiv.org/abs/2411.11575)|null|
 |**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414](http://arxiv.org/abs/2411.11414)|null|
 |**2024-11-17**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082](http://arxiv.org/abs/2411.11082)|null|
@@ -744,6 +746,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Variability in Resistive Memories**|Juan B. Roldán et.al.|[2411.12369](http://arxiv.org/abs/2411.12369)|null|
 |**2024-11-18**|**Analysis of Generalized Hebbian Learning Algorithm for Neuromorphic Hardware Using Spinnaker**|Shivani Sharma et.al.|[2411.11575](http://arxiv.org/abs/2411.11575)|null|
 |**2024-11-15**|**Recent Advances on Machine Learning-aided DSP for Short-reach and Long-haul Optical Communications**|Laurent Schmalen et.al.|[2411.10101](http://arxiv.org/abs/2411.10101)|null|
 |**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093](http://arxiv.org/abs/2411.09093)|null|
@@ -1124,6 +1127,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
+|**2024-11-18**|**Compression of Higher Order Ambisonics with Multichannel RVQGAN**|Toni Hirvonen et.al.|[2411.12008](http://arxiv.org/abs/2411.12008)|null|
+|**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
 |**2024-11-18**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641](http://arxiv.org/abs/2411.11641)|null|
 |**2024-11-18**|**Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data**|Jiayi Li et.al.|[2411.11356](http://arxiv.org/abs/2411.11356)|null|
 |**2024-11-18**|**Continuous K-space Recovery Network with Image Guidance for Fast MRI Reconstruction**|Yucong Meng et.al.|[2411.11282](http://arxiv.org/abs/2411.11282)|null|
