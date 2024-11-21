@@ -1127,10 +1127,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-19**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
 |**2024-11-18**|**Compression of Higher Order Ambisonics with Multichannel RVQGAN**|Toni Hirvonen et.al.|[2411.12008](http://arxiv.org/abs/2411.12008)|null|
 |**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
-|**2024-11-18**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641](http://arxiv.org/abs/2411.11641)|**[link](https://github.com/Leanna97/TSINR)**|
+|**2024-11-20**|**TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection**|Mengxuan Li et.al.|[2411.11641](http://arxiv.org/abs/2411.11641)|**[link](https://github.com/Leanna97/TSINR)**|
 |**2024-11-18**|**Superpixel-informed Implicit Neural Representation for Multi-Dimensional Data**|Jiayi Li et.al.|[2411.11356](http://arxiv.org/abs/2411.11356)|null|
 |**2024-11-18**|**Continuous K-space Recovery Network with Image Guidance for Fast MRI Reconstruction**|Yucong Meng et.al.|[2411.11282](http://arxiv.org/abs/2411.11282)|null|
 |**2024-11-17**|**BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression**|Ge Gao et.al.|[2411.11199](http://arxiv.org/abs/2411.11199)|null|
