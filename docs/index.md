@@ -53,6 +53,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
+|**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773](http://arxiv.org/abs/2411.14773)|null|
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196](http://arxiv.org/abs/2411.14196)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
 |**2024-11-21**|**Spiking neural networks: Towards bio-inspired multimodal perception in robotics**|Katerina Maria Oikonomou et.al.|[2411.14147](http://arxiv.org/abs/2411.14147)|null|
 |**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962](http://arxiv.org/abs/2411.13962)|null|
@@ -754,6 +756,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
+|**2024-11-21**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585](http://arxiv.org/abs/2411.14585)|null|
 |**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
 |**2024-11-19**|**Variability in Resistive Memories**|Juan B. Roldán et.al.|[2411.12369](http://arxiv.org/abs/2411.12369)|null|
 |**2024-11-18**|**Analysis of Generalized Hebbian Learning Algorithm for Neuromorphic Hardware Using Spinnaker**|Shivani Sharma et.al.|[2411.11575](http://arxiv.org/abs/2411.11575)|null|
@@ -1136,6 +1140,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Large Multi-modal Models Can Interpret Features in Large Multi-modal Models**|Kaichen Zhang et.al.|[2411.14982](http://arxiv.org/abs/2411.14982)|**[link](https://github.com/EvolvingLMMs-Lab/multimodal-sae)**|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-21**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
 |**2024-11-18**|**Compression of Higher Order Ambisonics with Multichannel RVQGAN**|Toni Hirvonen et.al.|[2411.12008](http://arxiv.org/abs/2411.12008)|null|
@@ -1759,6 +1764,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES**|San Han et.al.|[2411.14631](http://arxiv.org/abs/2411.14631)|null|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|**[link](https://github.com/hipersimlab/pecann-ddm)**|
 |**2024-09-03**|**Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with CUDA Fortran and OpenMP**|James McKevitt et.al.|[2409.02294](http://arxiv.org/abs/2409.02294)|null|
@@ -1808,6 +1814,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES**|San Han et.al.|[2411.14631](http://arxiv.org/abs/2411.14631)|null|
 |**2024-11-04**|**Configurable Non-uniform All-to-all Algorithms**|Ke Fan et.al.|[2411.02581](http://arxiv.org/abs/2411.02581)|null|
 |**2024-10-09**|**pCI: a parallel configuration interaction software package for high-precision atomic structure calculations**|Charles Cheung et.al.|[2410.06680](http://arxiv.org/abs/2410.06680)|null|
 |**2024-11-12**|**Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks**|Qifeng Hu et.al.|[2409.13644](http://arxiv.org/abs/2409.13644)|**[link](https://github.com/hipersimlab/pecann-ddm)**|
