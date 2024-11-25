@@ -294,7 +294,7 @@
 |**2024-06-19**|**Hardware Realization of Neuromorphic Computing with a 4-Port Photonic Reservoir for Modulation Format Identification**|Enes Şeker et.al.|[2406.13549](http://arxiv.org/abs/2406.13549)|null|
 |**2024-06-19**|**Measurement of the Crystallization and Phase Transition of Niobium Dioxide Thin-Films for Neuromorphic Computing Applications Using a Tube Furnace Optical Transmission System**|Zachary R. Robinson et.al.|[2406.13523](http://arxiv.org/abs/2406.13523)|null|
 |**2024-06-19**|**Global-Local Convolution with Spiking Neural Networks for Energy-efficient Keyword Spotting**|Shuai Wang et.al.|[2406.13179](http://arxiv.org/abs/2406.13179)|null|
-|**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726](http://arxiv.org/abs/2406.12726)|null|
+|**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726](http://arxiv.org/abs/2406.12726)|**[link](https://github.com/Pooookeman/ED-sKWS)**|
 |**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552](http://arxiv.org/abs/2406.12552)|null|
 |**2024-06-18**|**SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning**|Qiugang Zhan et.al.|[2406.12200](http://arxiv.org/abs/2406.12200)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778](http://arxiv.org/abs/2406.11778)|null|
