@@ -53,6 +53,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061](http://arxiv.org/abs/2411.16061)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
+|**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409](http://arxiv.org/abs/2411.15409)|null|
+|**2024-11-22**|**Identification of large polarons and exciton polarons in rutile and anatase polymorphs of titanium dioxide**|Zhenbang Dai et.al.|[2411.15344](http://arxiv.org/abs/2411.15344)|null|
 |**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
 |**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773](http://arxiv.org/abs/2411.14773)|null|
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196](http://arxiv.org/abs/2411.14196)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
@@ -756,6 +759,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Identification of large polarons and exciton polarons in rutile and anatase polymorphs of titanium dioxide**|Zhenbang Dai et.al.|[2411.15344](http://arxiv.org/abs/2411.15344)|null|
 |**2024-11-22**|**Enhancement of dynamical coupling in artificial spin-ice systems by incorporating perpendicularly magnetized ferromagnetic matrix**|Syamlal Sankaran Kunnath et.al.|[2411.14918](http://arxiv.org/abs/2411.14918)|null|
 |**2024-11-21**|**Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net**|Sanaz Mahmoodi Takaghaj et.al.|[2411.14585](http://arxiv.org/abs/2411.14585)|null|
 |**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945](http://arxiv.org/abs/2411.13945)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
@@ -1140,6 +1144,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Geometry Distributions**|Biao Zhang et.al.|[2411.16076](http://arxiv.org/abs/2411.16076)|null|
 |**2024-11-22**|**Large Multi-modal Models Can Interpret Features in Large Multi-modal Models**|Kaichen Zhang et.al.|[2411.14982](http://arxiv.org/abs/2411.14982)|**[link](https://github.com/EvolvingLMMs-Lab/multimodal-sae)**|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-21**|**Neuro-3D: Towards 3D Visual Decoding from EEG Signals**|Zhanqiang Guo et.al.|[2411.12248](http://arxiv.org/abs/2411.12248)|null|
