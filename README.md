@@ -49,6 +49,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272](http://arxiv.org/abs/2411.18272)|null|
+|**2024-11-27**|**IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce**|Da Chang et.al.|[2411.18250](http://arxiv.org/abs/2411.18250)|null|
 |**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485](http://arxiv.org/abs/2411.17485)|null|
 |**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439](http://arxiv.org/abs/2411.17439)|null|
 |**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431](http://arxiv.org/abs/2411.17431)|null|
@@ -761,6 +763,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272](http://arxiv.org/abs/2411.18272)|null|
 |**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439](http://arxiv.org/abs/2411.17439)|null|
 |**2024-11-26**|**Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network**|Alessio Lugnan et.al.|[2411.17272](http://arxiv.org/abs/2411.17272)|null|
 |**2024-11-26**|**Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation**|Craig Iaboni et.al.|[2411.17006](http://arxiv.org/abs/2411.17006)|**[link](https://github.com/radlab-sketch/Event-SNN-Resources)**|
@@ -1149,6 +1152,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime**|Abeer Banerjee et.al.|[2411.18189](http://arxiv.org/abs/2411.18189)|null|
+|**2024-11-27**|**MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**|Manav Manav et.al.|[2411.18048](http://arxiv.org/abs/2411.18048)|null|
 |**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485](http://arxiv.org/abs/2411.17485)|null|
 |**2024-11-25**|**Geometry Distributions**|Biao Zhang et.al.|[2411.16076](http://arxiv.org/abs/2411.16076)|null|
 |**2024-11-22**|**Large Multi-modal Models Can Interpret Features in Large Multi-modal Models**|Kaichen Zhang et.al.|[2411.14982](http://arxiv.org/abs/2411.14982)|**[link](https://github.com/EvolvingLMMs-Lab/multimodal-sae)**|
