@@ -49,6 +49,13 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**Memristive Nanowire Network for Energy Efficient Audio Classification: Pre-Processing-Free Reservoir Computing with Reduced Latency**|Akshaya Rajesh et.al.|[2411.19611](http://arxiv.org/abs/2411.19611)|null|
+|**2024-11-29**|**Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training**|Xueke Zhu et.al.|[2411.19430](http://arxiv.org/abs/2411.19430)|null|
+|**2024-11-29**|**Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification**|Abhishek Mishra et.al.|[2411.19422](http://arxiv.org/abs/2411.19422)|null|
+|**2024-11-28**|**Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**|Davide Cipollini et.al.|[2411.19353](http://arxiv.org/abs/2411.19353)|null|
+|**2024-11-28**|**Stoch-IMC: A Bit-Parallel Stochastic In-Memory Computing Architecture Based on STT-MRAM**|Amir M. Hajisadeghi et.al.|[2411.19344](http://arxiv.org/abs/2411.19344)|null|
+|**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109](http://arxiv.org/abs/2411.19109)|null|
+|**2024-11-27**|**Investigating Plausibility of Biologically Inspired Bayesian Learning in ANNs**|Ram Zaveri et.al.|[2411.18788](http://arxiv.org/abs/2411.18788)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272](http://arxiv.org/abs/2411.18272)|null|
 |**2024-11-27**|**IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce**|Da Chang et.al.|[2411.18250](http://arxiv.org/abs/2411.18250)|null|
 |**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485](http://arxiv.org/abs/2411.17485)|null|
@@ -763,6 +770,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**Memristive Nanowire Network for Energy Efficient Audio Classification: Pre-Processing-Free Reservoir Computing with Reduced Latency**|Akshaya Rajesh et.al.|[2411.19611](http://arxiv.org/abs/2411.19611)|null|
+|**2024-11-28**|**Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**|Davide Cipollini et.al.|[2411.19353](http://arxiv.org/abs/2411.19353)|null|
+|**2024-11-28**|**Stoch-IMC: A Bit-Parallel Stochastic In-Memory Computing Architecture Based on STT-MRAM**|Amir M. Hajisadeghi et.al.|[2411.19344](http://arxiv.org/abs/2411.19344)|null|
+|**2024-11-28**|**Inverse-design topology optimization of magnonic devices using level-set method**|Andrey A. Voronov et.al.|[2411.19109](http://arxiv.org/abs/2411.19109)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272](http://arxiv.org/abs/2411.18272)|null|
 |**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439](http://arxiv.org/abs/2411.17439)|null|
 |**2024-11-26**|**Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network**|Alessio Lugnan et.al.|[2411.17272](http://arxiv.org/abs/2411.17272)|null|
@@ -1152,6 +1163,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**CantorNet: A Sandbox for Testing Topological and Geometrical Measures**|Michal Lewandowski et.al.|[2411.19713](http://arxiv.org/abs/2411.19713)|null|
+|**2024-11-28**|**Upsampling Improvement for Overfitted Neural Coding**|Pierrick Philippe et.al.|[2411.19249](http://arxiv.org/abs/2411.19249)|null|
 |**2024-11-27**|**Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime**|Abeer Banerjee et.al.|[2411.18189](http://arxiv.org/abs/2411.18189)|null|
 |**2024-11-27**|**MeltpoolINR: Predicting temperature field, melt pool geometry, and their rate of change in laser powder bed fusion**|Manav Manav et.al.|[2411.18048](http://arxiv.org/abs/2411.18048)|null|
 |**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485](http://arxiv.org/abs/2411.17485)|null|
