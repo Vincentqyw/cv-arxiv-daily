@@ -1627,7 +1627,7 @@ layout: default
 |**2023-09-14**|**Do Not Give Away My Secrets: Uncovering the Privacy Issue of Neural Code Completion Tools**|Yizhan Huang et.al.|[2309.07639](http://arxiv.org/abs/2309.07639)|**[link](https://github.com/hcr-repo/hcr)**|
 |**2023-09-14**|**MPAI-EEV: Standardization Efforts of Artificial Intelligence based End-to-End Video Coding**|Chuanmin Jia et.al.|[2309.07589](http://arxiv.org/abs/2309.07589)|null|
 |**2023-09-13**|**Generalizable Neural Fields as Partially Observed Neural Processes**|Jeffrey Gu et.al.|[2309.06660](http://arxiv.org/abs/2309.06660)|null|
-|**2023-09-13**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067](http://arxiv.org/abs/2309.06067)|null|
+|**2023-09-13**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067](http://arxiv.org/abs/2309.06067)|**[link](https://github.com/YuSheng-Zhou/Generalized_INR)**|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937](http://arxiv.org/abs/2309.04937)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-06**|**Sparse 3D Reconstruction via Object-Centric Ray Sampling**|Llukman Cerkezi et.al.|[2309.03008](http://arxiv.org/abs/2309.03008)|**[link](https://github.com/llukmancerkezi/roster)**|
