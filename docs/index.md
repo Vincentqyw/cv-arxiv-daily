@@ -7,17 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-28**|**Visual SLAMMOT Considering Multiple Motion Models**|Peilin Tian et.al.|[2411.19134](http://arxiv.org/abs/2411.19134)|null|
 |**2024-11-27**|**ORB-SLAM3AB: Augmenting ORB-SLAM3 to Counteract Bumps with Optical Flow Inter-frame Matching**|Yangrui Dong et.al.|[2411.18174](http://arxiv.org/abs/2411.18174)|null|
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982](http://arxiv.org/abs/2411.17982)|null|
 |**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928](http://arxiv.org/abs/2411.17928)|**[link](https://github.com/jokerjohn/cloud_map_evaluation)**|
-|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
+|**2024-11-29**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
 |**2024-11-25**|**MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM**|Vladimir Yugay et.al.|[2411.16785](http://arxiv.org/abs/2411.16785)|null|
 |**2024-11-24**|**Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors**|Soumava Paul et.al.|[2411.15966](http://arxiv.org/abs/2411.15966)|null|
 |**2024-11-24**|**Near-Range Environmental Perception for Inland Waterway Vessels: A Comparative Study of LiDAR and Automotive FMCW RADAR Sensors**|R. Herrmann et.al.|[2411.15901](http://arxiv.org/abs/2411.15901)|null|
@@ -733,6 +734,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650](http://arxiv.org/abs/2411.18650)|null|
 |**2024-11-26**|**The MAGPI Survey: radial trends in star formation across different cosmological simulations in comparison with observations at $z \sim$ 0.3**|Marcie Mun et.al.|[2411.17882](http://arxiv.org/abs/2411.17882)|null|
 |**2024-11-25**|**Characterizing Stellar and Gas Properties in NGC 628: Spatial Distributions, Radial Gradients, and Resolved Scaling Relations**|Peng Wei et.al.|[2411.16150](http://arxiv.org/abs/2411.16150)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
@@ -1031,6 +1033,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
+|**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800](http://arxiv.org/abs/2411.18800)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
 |**2024-11-24**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752](http://arxiv.org/abs/2411.16752)|null|
 |**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
@@ -2539,9 +2543,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**$C^{3}$ -NeRF: Modeling Multiple Scenes via Conditional-cum-Continual Neural Radiance Fields**|Prajwal Singh et.al.|[2411.19903](http://arxiv.org/abs/2411.19903)|null|
+|**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
+|**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548](http://arxiv.org/abs/2411.19548)|null|
+|**2024-11-29**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525](http://arxiv.org/abs/2411.19525)|null|
+|**2024-11-28**|**SAMa: Material-aware 3D Selection and Segmentation**|Michael Fischer et.al.|[2411.19322](http://arxiv.org/abs/2411.19322)|null|
+|**2024-11-27**|**Surf-NeRF: Surface Regularised Neural Radiance Fields**|Jack Naylor et.al.|[2411.18652](http://arxiv.org/abs/2411.18652)|null|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
-|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
+|**2024-11-27**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
