@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1176,7 +1176,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-03**|**VISTA: A Panoramic View of Neural Representations**|Tom White et.al.|[2412.02412](http://arxiv.org/abs/2412.02412)|null|
 |**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249](http://arxiv.org/abs/2412.02249)|null|
-|**2024-12-02**|**Down with the Hierarchy: The 'H' in HNSW Stands for "Hubs"**|Blaise Munyampirwa et.al.|[2412.01940](http://arxiv.org/abs/2412.01940)|null|
+|**2024-12-02**|**Down with the Hierarchy: The 'H' in HNSW Stands for "Hubs"**|Blaise Munyampirwa et.al.|[2412.01940](http://arxiv.org/abs/2412.01940)|**[link](https://github.com/BlaiseMuhirwa/flatnav)**|
 |**2024-12-02**|**Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling**|Xihaier Luo et.al.|[2412.01754](http://arxiv.org/abs/2412.01754)|null|
 |**2024-12-02**|**Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax**|Elliot Murphy et.al.|[2412.01276](http://arxiv.org/abs/2412.01276)|null|
 |**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124](http://arxiv.org/abs/2412.01124)|null|
