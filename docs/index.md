@@ -502,7 +502,7 @@ layout: default
 |**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
 |**2024-02-15**|**Evaluating the transport properties of interface-type, analog memristors**|Sahitya V. Vegesna et.al.|[2402.10358](http://arxiv.org/abs/2402.10358)|null|
 |**2024-02-14**|**Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks**|Zihang Song et.al.|[2402.09109](http://arxiv.org/abs/2402.09109)|null|
-|**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
+|**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|**[link](https://github.com/Rasmuskh/dualprop_icml_2024)**|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
 |**2024-02-09**|**Towards Chip-in-the-loop Spiking Neural Network Training via Metropolis-Hastings Sampling**|Ali Safa et.al.|[2402.06284](http://arxiv.org/abs/2402.06284)|null|
 |**2024-02-09**|**Fine-Tuning Surrogate Gradient Learning for Optimal Hardware Performance in Spiking Neural Networks**|Ilkin Aliyev et.al.|[2402.06211](http://arxiv.org/abs/2402.06211)|null|
@@ -1028,7 +1028,7 @@ layout: default
 |**2024-02-16**|**A Novel Computing Paradigm for MobileNetV3 using Memristor**|Jiale Li et.al.|[2402.10512](http://arxiv.org/abs/2402.10512)|null|
 |**2024-02-15**|**Evaluating the transport properties of interface-type, analog memristors**|Sahitya V. Vegesna et.al.|[2402.10358](http://arxiv.org/abs/2402.10358)|null|
 |**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792](http://arxiv.org/abs/2402.09792)|null|
-|**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
+|**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|**[link](https://github.com/Rasmuskh/dualprop_icml_2024)**|
 |**2024-02-12**|**Resistive switching acceleration induced by thermal confinement**|Alexandros Sarantopoulos et.al.|[2402.07603](http://arxiv.org/abs/2402.07603)|null|
 |**2024-02-07**|**Nonlinear behavior of area dependent interface type resistive switching devices**|Sahitya Yarragolla et.al.|[2402.04848](http://arxiv.org/abs/2402.04848)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767](http://arxiv.org/abs/2402.03767)|null|
@@ -1225,7 +1225,7 @@ layout: default
 |**2024-11-06**|**Local vs distributed representations: What is the right basis for interpretability?**|Julien Colin et.al.|[2411.03993](http://arxiv.org/abs/2411.03993)|null|
 |**2024-11-06**|**Harmformer: Harmonic Networks Meet Transformers for Continuous Roto-Translation Equivariance**|Tomáš Karella et.al.|[2411.03794](http://arxiv.org/abs/2411.03794)|null|
 |**2024-11-06**|**Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey**|Amer Essakine et.al.|[2411.03688](http://arxiv.org/abs/2411.03688)|null|
-|**2024-11-07**|**Enhancing the Expressivity of Temporal Graph Networks through Source-Target Identification**|Benedict Aaron Tjandra et.al.|[2411.03596](http://arxiv.org/abs/2411.03596)|null|
+|**2024-11-07**|**Enhancing the Expressivity of Temporal Graph Networks through Source-Target Identification**|Benedict Aaron Tjandra et.al.|[2411.03596](http://arxiv.org/abs/2411.03596)|**[link](https://github.com/batjandra/TGNv2-NeurReps)**|
 |**2024-11-04**|**Learning predictable and robust neural representations by straightening image sequences**|Xueyan Niu et.al.|[2411.01777](http://arxiv.org/abs/2411.01777)|**[link](https://github.com/xyniu1/learning-by-straightening)**|
 |**2024-11-03**|**DreamPolish: Domain Score Distillation With Progressive Geometry Generation**|Yean Cheng et.al.|[2411.01602](http://arxiv.org/abs/2411.01602)|null|
 |**2024-10-31**|**Graph Neural Networks Uncover Geometric Neural Representations in Reinforcement-Based Motor Learning**|Federico Nardi et.al.|[2410.23812](http://arxiv.org/abs/2410.23812)|null|
@@ -1414,7 +1414,7 @@ layout: default
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
 |**2024-05-19**|**Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural signals**|Hui Zheng et.al.|[2405.11459](http://arxiv.org/abs/2405.11459)|**[link](https://github.com/liulab-repository/du-in)**|
 |**2024-05-18**|**HR Human: Modeling Human Avatars with Triangular Mesh and High-Resolution Textures from Videos**|Qifeng Chen et.al.|[2405.11270](http://arxiv.org/abs/2405.11270)|null|
-|**2024-05-17**|**Nonparametric Teaching of Implicit Neural Representations**|Chen Zhang et.al.|[2405.10531](http://arxiv.org/abs/2405.10531)|null|
+|**2024-05-17**|**Nonparametric Teaching of Implicit Neural Representations**|Chen Zhang et.al.|[2405.10531](http://arxiv.org/abs/2405.10531)|**[link](https://github.com/chen2hang/INT_NonparametricTeaching)**|
 |**2024-05-14**|**Investigating Design Choices in Joint-Embedding Predictive Architectures for General Audio Representation Learning**|Alain Riou et.al.|[2405.08679](http://arxiv.org/abs/2405.08679)|**[link](https://github.com/SonyCSLParis/audio-representations)**|
 |**2024-05-14**|**EEG-Features for Generalized Deepfake Detection**|Arian Beckmann et.al.|[2405.08527](http://arxiv.org/abs/2405.08527)|null|
 |**2024-05-14**|**Achieving Resolution-Agnostic DNN-based Image Watermarking:A Novel Perspective of Implicit Neural Representation**|Yuchen Wang et.al.|[2405.08340](http://arxiv.org/abs/2405.08340)|null|
