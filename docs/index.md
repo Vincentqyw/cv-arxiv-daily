@@ -53,6 +53,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|null|
+|**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355](http://arxiv.org/abs/2412.06355)|null|
+|**2024-12-09**|**Energy Efficient Stochastic Signal Manipulation in Superparamagnetic Tunnel Junctions via Voltage-Controlled Exchange Coupling**|Qi Jia et.al.|[2412.06256](http://arxiv.org/abs/2412.06256)|null|
+|**2024-12-09**|**Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy**|Nicholas J. Pritchard et.al.|[2412.06124](http://arxiv.org/abs/2412.06124)|null|
+|**2024-12-07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|Boxun Xu et.al.|[2412.05540](http://arxiv.org/abs/2412.05540)|null|
+|**2024-12-07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|Boxun Xu et.al.|[2412.05505](http://arxiv.org/abs/2412.05505)|null|
 |**2024-12-06**|**MTSpark: Enabling Multi-Task Learning with Spiking Neural Networks for Generalist Agents**|Avaneesh Devkota et.al.|[2412.04847](http://arxiv.org/abs/2412.04847)|null|
 |**2024-12-05**|**Mixed Delay/Nondelay Embeddings Based Neuromorphic Computing with Patterned Nanomagnet Arrays**|Changpeng Ti et.al.|[2412.04622](http://arxiv.org/abs/2412.04622)|null|
 |**2024-12-05**|**Ternary Stochastic Neuron -- Implemented with a Single Strained Magnetostrictive Nanomagnet**|Rahnuma Rahman et.al.|[2412.04246](http://arxiv.org/abs/2412.04246)|null|
@@ -785,10 +791,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Energy Efficient Stochastic Signal Manipulation in Superparamagnetic Tunnel Junctions via Voltage-Controlled Exchange Coupling**|Qi Jia et.al.|[2412.06256](http://arxiv.org/abs/2412.06256)|null|
+|**2024-12-07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|Boxun Xu et.al.|[2412.05505](http://arxiv.org/abs/2412.05505)|null|
 |**2024-12-05**|**Mixed Delay/Nondelay Embeddings Based Neuromorphic Computing with Patterned Nanomagnet Arrays**|Changpeng Ti et.al.|[2412.04622](http://arxiv.org/abs/2412.04622)|null|
 |**2024-12-05**|**Ternary Stochastic Neuron -- Implemented with a Single Strained Magnetostrictive Nanomagnet**|Rahnuma Rahman et.al.|[2412.04246](http://arxiv.org/abs/2412.04246)|null|
 |**2024-12-05**|**Deep-Unrolling Multidimensional Harmonic Retrieval Algorithms on Neuromorphic Hardware**|Vlad C. Andrei et.al.|[2412.04008](http://arxiv.org/abs/2412.04008)|null|
-|**2024-12-05**|**Subsystem Resetting of a Heterogeneous Network of Theta Neurons**|Na Zhao et.al.|[2412.03909](http://arxiv.org/abs/2412.03909)|null|
+|**2024-12-09**|**Subsystem Resetting of a Heterogeneous Network of Theta Neurons**|Na Zhao et.al.|[2412.03909](http://arxiv.org/abs/2412.03909)|null|
 |**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129](http://arxiv.org/abs/2412.03129)|**[link](https://github.com/imdd-task/imdd-task)**|
 |**2024-12-04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|Philipp Spilger et.al.|[2412.03128](http://arxiv.org/abs/2412.03128)|null|
 |**2024-12-03**|**Demonstrating the Advantages of Analog Wafer-Scale Neuromorphic Hardware**|Hartmut Schmidt et.al.|[2412.02619](http://arxiv.org/abs/2412.02619)|null|
@@ -1187,6 +1195,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-08**|**SABER: Model-agnostic Backdoor Attack on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2412.05829](http://arxiv.org/abs/2412.05829)|null|
+|**2024-12-06**|**Statistical Mechanics of Support Vector Regression**|Abdulkadir Canatar et.al.|[2412.05439](http://arxiv.org/abs/2412.05439)|null|
 |**2024-12-05**|**INRetouch: Context Aware Implicit Neural Representation for Photography Retouching**|Omar Elezabi et.al.|[2412.03848](http://arxiv.org/abs/2412.03848)|null|
 |**2024-12-04**|**HIIF: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution**|Yuxuan Jiang et.al.|[2412.03748](http://arxiv.org/abs/2412.03748)|null|
 |**2024-12-05**|**Learning Semantic Association Rules from Internet of Things Data**|Erkan Karabulut et.al.|[2412.03417](http://arxiv.org/abs/2412.03417)|**[link](https://github.com/ditec-project/semantic-association-rule-learning)**|
