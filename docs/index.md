@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -56,7 +56,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|Shailesh Garg et.al.|[2412.09369](http://arxiv.org/abs/2412.09369)|null|
 |**2024-12-12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|Dafydd Owen-Newns et.al.|[2412.09233](http://arxiv.org/abs/2412.09233)|null|
-|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-12**|**Training Physical Neural Networks for Analog In-Memory Computing**|Yusuke Sakemi et.al.|[2412.09010](http://arxiv.org/abs/2412.09010)|null|
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
 |**2024-12-11**|**Online training and pruning of photonic neural networks**|Jiawei Zhang et.al.|[2412.08184](http://arxiv.org/abs/2412.08184)|null|
@@ -801,7 +801,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|Dafydd Owen-Newns et.al.|[2412.09233](http://arxiv.org/abs/2412.09233)|null|
-|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
 |**2024-12-11**|**Online training and pruning of photonic neural networks**|Jiawei Zhang et.al.|[2412.08184](http://arxiv.org/abs/2412.08184)|null|
 |**2024-12-10**|**Electron-Ion Coupling Breaks Energy Symmetry in Organic Electrochemical Transistors**|Lukas M. Bongartz et.al.|[2412.07921](http://arxiv.org/abs/2412.07921)|null|
@@ -1210,7 +1210,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|null|
+|**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|**[link](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)**|
 |**2024-12-11**|**From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields**|Miltiadis Kofinas et.al.|[2412.08731](http://arxiv.org/abs/2412.08731)|**[link](https://github.com/mkofinas/neomlp)**|
 |**2024-12-11**|**Learning to Decouple the Lights for 3D Face Texture Modeling**|Tianxin Huang et.al.|[2412.08524](http://arxiv.org/abs/2412.08524)|null|
 |**2024-12-11**|**Unicorn: Unified Neural Image Compression with One Number Reconstruction**|Qi Zheng et.al.|[2412.08210](http://arxiv.org/abs/2412.08210)|null|
