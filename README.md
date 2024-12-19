@@ -51,11 +51,13 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|Zecheng Hao et.al.|[2412.13610](http://arxiv.org/abs/2412.13610)|null|
+|**2024-12-18**|**Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks**|Hangming Zhang et.al.|[2412.13553](http://arxiv.org/abs/2412.13553)|null|
 |**2024-12-17**|**Electrically driven non-volatile resistance switching between charge density wave states at room temperature**|R. Venturini et.al.|[2412.13094](http://arxiv.org/abs/2412.13094)|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
 |**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696](http://arxiv.org/abs/2412.12696)|null|
-|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
+|**2024-12-18**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
 |**2024-12-17**|**Design and Performance Analysis of an Ultra-Low Power Integrate-and-Fire Neuron Circuit Using Nanoscale Side-contacted Field Effect Diode Technology**|Seyedmohamadjavad Motaman et.al.|[2412.12443](http://arxiv.org/abs/2412.12443)|null|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753](http://arxiv.org/abs/2412.11753)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
@@ -1226,6 +1228,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Representational Drift and Learning-Induced Stabilization in the Olfactory Cortex**|Guillermo B. Morales et.al.|[2412.13713](http://arxiv.org/abs/2412.13713)|null|
+|**2024-12-17**|**iRBSM: A Deep Implicit 3D Breast Shape Model**|Maximilian Weiherer et.al.|[2412.13244](http://arxiv.org/abs/2412.13244)|null|
 |**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|**[link](https://github.com/wenqihuang/SubspaceINR-CMR)**|
 |**2024-12-15**|**AI-Driven Innovations in Volumetric Video Streaming: A Review**|Erfan Entezami et.al.|[2412.12208](http://arxiv.org/abs/2412.12208)|null|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
