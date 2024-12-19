@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.17
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -10,6 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2024-12-11**|**Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
@@ -54,6 +55,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Electrically driven non-volatile resistance switching between charge density wave states at room temperature**|R. Venturini et.al.|[2412.13094](http://arxiv.org/abs/2412.13094)|null|
+|**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
+|**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
+|**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696](http://arxiv.org/abs/2412.12696)|null|
+|**2024-12-17**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525](http://arxiv.org/abs/2412.12525)|**[link](https://github.com/shen-aoyu/CREST)**|
+|**2024-12-17**|**Design and Performance Analysis of an Ultra-Low Power Integrate-and-Fire Neuron Circuit Using Nanoscale Side-contacted Field Effect Diode Technology**|Seyedmohamadjavad Motaman et.al.|[2412.12443](http://arxiv.org/abs/2412.12443)|null|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810](http://arxiv.org/abs/2412.11810)|null|
 |**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753](http://arxiv.org/abs/2412.11753)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
 |**2024-12-15**|**A magneto-ionic synapse for reservoir computing**|Sreeveni Das et.al.|[2412.11297](http://arxiv.org/abs/2412.11297)|null|
@@ -806,6 +813,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Electrically driven non-volatile resistance switching between charge density wave states at room temperature**|R. Venturini et.al.|[2412.13094](http://arxiv.org/abs/2412.13094)|null|
+|**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858](http://arxiv.org/abs/2412.12858)|null|
+|**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696](http://arxiv.org/abs/2412.12696)|null|
+|**2024-12-17**|**Design and Performance Analysis of an Ultra-Low Power Integrate-and-Fire Neuron Circuit Using Nanoscale Side-contacted Field Effect Diode Technology**|Seyedmohamadjavad Motaman et.al.|[2412.12443](http://arxiv.org/abs/2412.12443)|null|
 |**2024-12-15**|**A magneto-ionic synapse for reservoir computing**|Sreeveni Das et.al.|[2412.11297](http://arxiv.org/abs/2412.11297)|null|
 |**2024-12-15**|**Towards Improved Polarization Uniformity in Ferroelectric Hf $_{0.5}$Zr$_{0.5}$O$_2$ Devices within Back End of Line Thermal Budget for Memory and Neuromorphic Applications**|Padma Srivari et.al.|[2412.11288](http://arxiv.org/abs/2412.11288)|null|
 |**2024-12-14**|**Vertically Integrated Dual-memtransistor Enabled Reconfigurable Heterosynaptic Sensorimotor Networks and In-memory Neuromorphic Computing**|Srilagna Sahoo et.al.|[2412.10757](http://arxiv.org/abs/2412.10757)|null|
@@ -1219,6 +1230,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|**[link](https://github.com/wenqihuang/SubspaceINR-CMR)**|
+|**2024-12-15**|**AI-Driven Innovations in Volumetric Video Streaming: A Review**|Erfan Entezami et.al.|[2412.12208](http://arxiv.org/abs/2412.12208)|null|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-13**|**EVOS: Efficient Implicit Neural Training via EVOlutionary Selector**|Weixiang Zhang et.al.|[2412.10153](http://arxiv.org/abs/2412.10153)|null|
 |**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|**[link](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)**|
@@ -1995,6 +2008,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**TrainMover: Efficient ML Training Live Migration with No Memory Overhead**|ChonLam Lao et.al.|[2412.12636](http://arxiv.org/abs/2412.12636)|null|
+|**2024-12-17**|**Echo: Simulating Distributed Training At Scale**|Yicheng Feng et.al.|[2412.12487](http://arxiv.org/abs/2412.12487)|null|
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
 |**2024-10-01**|**Understanding Data Movement in AMD Multi-GPU Systems with Infinity Fabric**|Gabin Schieffer et.al.|[2410.00801](http://arxiv.org/abs/2410.00801)|null|
 |**2024-09-06**|**Revisiting the Time Cost Model of AllReduce**|Dian Xiong et.al.|[2409.04202](http://arxiv.org/abs/2409.04202)|null|
