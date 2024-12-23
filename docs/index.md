@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1075,7 +1075,7 @@ layout: default
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
-|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|**[link](https://github.com/zijunli7/condo)**|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
