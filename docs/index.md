@@ -80,7 +80,7 @@ layout: default
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
 |**2024-12-11**|**Online training and pruning of photonic neural networks**|Jiawei Zhang et.al.|[2412.08184](http://arxiv.org/abs/2412.08184)|null|
 |**2024-12-10**|**Electron-Ion Coupling Breaks Energy Symmetry in Organic Electrochemical Transistors**|Lukas M. Bongartz et.al.|[2412.07921](http://arxiv.org/abs/2412.07921)|null|
-|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|null|
+|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|**[link](https://github.com/bollossom/e-3dsnn)**|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647](http://arxiv.org/abs/2412.06647)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355](http://arxiv.org/abs/2412.06355)|null|
 |**2024-12-09**|**Energy Efficient Stochastic Signal Manipulation in Superparamagnetic Tunnel Junctions via Voltage-Controlled Exchange Coupling**|Qi Jia et.al.|[2412.06256](http://arxiv.org/abs/2412.06256)|null|
@@ -834,7 +834,7 @@ layout: default
 |**2024-12-11**|**Maximizing Information in Neuron Populations for Neuromorphic Spike Encoding**|Ahmad El Ferdaoussi et.al.|[2412.08816](http://arxiv.org/abs/2412.08816)|null|
 |**2024-12-11**|**Online training and pruning of photonic neural networks**|Jiawei Zhang et.al.|[2412.08184](http://arxiv.org/abs/2412.08184)|null|
 |**2024-12-10**|**Electron-Ion Coupling Breaks Energy Symmetry in Organic Electrochemical Transistors**|Lukas M. Bongartz et.al.|[2412.07921](http://arxiv.org/abs/2412.07921)|null|
-|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|null|
+|**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360](http://arxiv.org/abs/2412.07360)|**[link](https://github.com/bollossom/e-3dsnn)**|
 |**2024-12-09**|**Energy Efficient Stochastic Signal Manipulation in Superparamagnetic Tunnel Junctions via Voltage-Controlled Exchange Coupling**|Qi Jia et.al.|[2412.06256](http://arxiv.org/abs/2412.06256)|null|
 |**2024-12-07**|**Trimming Down Large Spiking Vision Transformers via Heterogeneous Quantization Search**|Boxun Xu et.al.|[2412.05505](http://arxiv.org/abs/2412.05505)|null|
 |**2024-12-05**|**Mixed Delay/Nondelay Embeddings Based Neuromorphic Computing with Patterned Nanomagnet Arrays**|Changpeng Ti et.al.|[2412.04622](http://arxiv.org/abs/2412.04622)|null|
@@ -883,7 +883,7 @@ layout: default
 |**2024-10-25**|**Tunneling current-controlled spin states in few-layer van der Waals magnets**|ZhuangEn Fu et.al.|[2410.19255](http://arxiv.org/abs/2410.19255)|null|
 |**2024-10-22**|**On the Sampling Sparsity of Neuromorphic Analog-to-Spike Conversion based on Leaky Integrate-and-Fire**|Bernhard A. Moser et.al.|[2410.17441](http://arxiv.org/abs/2410.17441)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
-|**2024-10-22**|**High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**|Shengbo Wang et.al.|[2410.16734](http://arxiv.org/abs/2410.16734)|null|
+|**2024-10-22**|**High-Order Associative Learning Based on Memristive Circuits for Efficient Learning**|Shengbo Wang et.al.|[2410.16734](http://arxiv.org/abs/2410.16734)|**[link](https://github.com/rtcartist/High-order-memristive-associative-learning)**|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175](http://arxiv.org/abs/2410.16175)|null|
 |**2024-10-21**|**The role of spike-timing-dependent plasticity and random inputs in neurodegenerative diseases and neuromorphic systems**|Thoa Thieu et.al.|[2410.16123](http://arxiv.org/abs/2410.16123)|null|
 |**2024-10-21**|**TEXEL: A neuromorphic processor with on-chip learning for beyond-CMOS device integration**|Hugh Greatorex et.al.|[2410.15854](http://arxiv.org/abs/2410.15854)|null|
