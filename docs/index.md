@@ -55,6 +55,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654](http://arxiv.org/abs/2412.17654)|null|
+|**2024-12-23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|Murat Isik et.al.|[2412.17571](http://arxiv.org/abs/2412.17571)|null|
+|**2024-12-23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|Theodoros Tsiolakis et.al.|[2412.17565](http://arxiv.org/abs/2412.17565)|null|
+|**2024-12-23**|**FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews**|Di Yu et.al.|[2412.17305](http://arxiv.org/abs/2412.17305)|null|
+|**2024-12-21**|**Development of a Neuromorphic Network Using BioSFQ Circuits**|Evan B. Golden et.al.|[2412.16804](http://arxiv.org/abs/2412.16804)|null|
 |**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111](http://arxiv.org/abs/2412.16111)|null|
 |**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897](http://arxiv.org/abs/2412.15897)|null|
 |**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634](http://arxiv.org/abs/2412.15634)|null|
@@ -822,6 +827,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**Development of a Neuromorphic Network Using BioSFQ Circuits**|Evan B. Golden et.al.|[2412.16804](http://arxiv.org/abs/2412.16804)|null|
 |**2024-12-19**|**Creating currents of electric bubbles**|Jorge Íñiguez-González et.al.|[2412.15074](http://arxiv.org/abs/2412.15074)|null|
 |**2024-12-19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Béna Gabriel et.al.|[2412.15021](http://arxiv.org/abs/2412.15021)|null|
 |**2024-12-19**|**Accessing the topological properties of human brain functional sub-circuits in Echo State Networks**|Bach Nguyen et.al.|[2412.14999](http://arxiv.org/abs/2412.14999)|null|
@@ -1242,6 +1248,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs**|Fabrizio Frasca et.al.|[2412.17609](http://arxiv.org/abs/2412.17609)|null|
+|**2024-12-22**|**HyperNet Fields: Efficiently Training Hypernetworks without Ground Truth by Learning Weight Trajectories**|Eric Hedlin et.al.|[2412.17040](http://arxiv.org/abs/2412.17040)|null|
 |**2024-12-19**|**Cross-System Software Log-based Anomaly Detection Using Meta-Learning**|Yuqing Wang et.al.|[2412.15445](http://arxiv.org/abs/2412.15445)|null|
 |**2024-12-19**|**Analysis and Visualization of Linguistic Structures in Large Language Models: Neural Representations of Verb-Particle Constructions in BERT**|Hassane Kissane et.al.|[2412.14670](http://arxiv.org/abs/2412.14670)|null|
 |**2024-12-19**|**Comparing noisy neural population dynamics using optimal transport distances**|Amin Nejatbakhsh et.al.|[2412.14421](http://arxiv.org/abs/2412.14421)|null|
