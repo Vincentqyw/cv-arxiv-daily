@@ -1,4 +1,4 @@
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -51,7 +51,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|null|
+|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|**[link](https://github.com/1439278026/lss-ca-snn)**|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 |**2024-12-24**|**All-electric mimicking synaptic plasticity based on the noncollinear antiferromagnetic device**|Cuimei Cao et.al.|[2412.18418](http://arxiv.org/abs/2412.18418)|null|
 |**2024-12-23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|Prabhu Vellaisamy et.al.|[2412.17977](http://arxiv.org/abs/2412.17977)|null|
