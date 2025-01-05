@@ -55,6 +55,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
+|**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038](http://arxiv.org/abs/2501.01038)|null|
+|**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
+|**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
+|**2024-12-31**|**Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification**|Qi Zhang et.al.|[2501.00348](http://arxiv.org/abs/2501.00348)|null|
 |**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714](http://arxiv.org/abs/2412.20714)|**[link](https://github.com/1439278026/lss-ca-snn)**|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 |**2024-12-24**|**All-electric mimicking synaptic plasticity based on the noncollinear antiferromagnetic device**|Cuimei Cao et.al.|[2412.18418](http://arxiv.org/abs/2412.18418)|null|
@@ -832,6 +837,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
+|**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
+|**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 |**2024-12-24**|**All-electric mimicking synaptic plasticity based on the noncollinear antiferromagnetic device**|Cuimei Cao et.al.|[2412.18418](http://arxiv.org/abs/2412.18418)|null|
 |**2024-12-21**|**Development of a Neuromorphic Network Using BioSFQ Circuits**|Evan B. Golden et.al.|[2412.16804](http://arxiv.org/abs/2412.16804)|null|
@@ -1255,6 +1263,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013](http://arxiv.org/abs/2501.01013)|null|
+|**2025-01-01**|**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation**|Daniel Silver et.al.|[2501.00975](http://arxiv.org/abs/2501.00975)|null|
+|**2024-12-30**|**Tackling Cognitive Impairment Detection from Speech: A submission to the PROCESS Challenge**|Catarina Botelho et.al.|[2501.00145](http://arxiv.org/abs/2501.00145)|null|
 |**2024-12-19**|**Quantum Implicit Neural Compression**|Takuya Fujihashi et.al.|[2412.19828](http://arxiv.org/abs/2412.19828)|null|
 |**2024-12-27**|**Symbolic Approximations to Ricci-flat Metrics Via Extrinsic Symmetries of Calabi-Yau Hypersurfaces**|Viktor Mirjanić et.al.|[2412.19778](http://arxiv.org/abs/2412.19778)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
