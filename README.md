@@ -51,6 +51,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
+|**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
 |**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038](http://arxiv.org/abs/2501.01038)|null|
 |**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
@@ -833,6 +835,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
+|**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
 |**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
 |**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
 |**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
@@ -1259,6 +1263,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**SNeRV: Spectra-preserving Neural Representation for Video**|Jina Kim et.al.|[2501.01681](http://arxiv.org/abs/2501.01681)|null|
+|**2025-01-03**|**Few-shot Implicit Function Generation via Equivariance**|Suizhi Huang et.al.|[2501.01601](http://arxiv.org/abs/2501.01601)|null|
 |**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013](http://arxiv.org/abs/2501.01013)|null|
 |**2025-01-01**|**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation**|Daniel Silver et.al.|[2501.00975](http://arxiv.org/abs/2501.00975)|null|
 |**2024-12-30**|**Tackling Cognitive Impairment Detection from Speech: A submission to the PROCESS Challenge**|Catarina Botelho et.al.|[2501.00145](http://arxiv.org/abs/2501.00145)|null|
