@@ -11,7 +11,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|null|
-|**2024-12-11**|**Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
+|**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
 |**2024-09-19**|**Model calibration using a parallel differential evolution algorithm in computational neuroscience: simulation of stretch induced nerve deficit**|Antonio LaTorre et.al.|[2409.12567](http://arxiv.org/abs/2409.12567)|null|
@@ -55,6 +55,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874](http://arxiv.org/abs/2501.03874)|null|
+|**2025-01-07**|**Simulating Pattern Recognition Using Non-volatile Synapses: MRAM, Ferroelectrics and Magnetic Skyrmions**|Luis Sosa et.al.|[2501.03450](http://arxiv.org/abs/2501.03450)|null|
+|**2025-01-06**|**The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks**|Manh V. Nguyen et.al.|[2501.03306](http://arxiv.org/abs/2501.03306)|null|
 |**2025-01-06**|**Spiking monocular event based 6D pose estimation for space application**|Jonathan Courtois et.al.|[2501.02916](http://arxiv.org/abs/2501.02916)|null|
 |**2025-01-06**|**Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir**|Daiki Nishioka et.al.|[2501.02813](http://arxiv.org/abs/2501.02813)|null|
 |**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
@@ -841,6 +844,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Simulating Pattern Recognition Using Non-volatile Synapses: MRAM, Ferroelectrics and Magnetic Skyrmions**|Luis Sosa et.al.|[2501.03450](http://arxiv.org/abs/2501.03450)|null|
+|**2025-01-06**|**Inductively coupled Josephson junctions: a platform for rich neuromorphic dynamics**|J. Hizanidis et.al.|[2501.03385](http://arxiv.org/abs/2501.03385)|null|
 |**2025-01-06**|**Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir**|Daiki Nishioka et.al.|[2501.02813](http://arxiv.org/abs/2501.02813)|null|
 |**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
 |**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
@@ -1270,6 +1275,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-05**|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo et.al.|[2501.02427](http://arxiv.org/abs/2501.02427)|null|
 |**2025-01-03**|**SNeRV: Spectra-preserving Neural Representation for Video**|Jina Kim et.al.|[2501.01681](http://arxiv.org/abs/2501.01681)|null|
 |**2025-01-03**|**Few-shot Implicit Function Generation via Equivariance**|Suizhi Huang et.al.|[2501.01601](http://arxiv.org/abs/2501.01601)|null|
@@ -1849,7 +1855,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-11**|**Gradient Diffusion: Enhancing Multicompartmental Neuron Models for Gradient-Based Self-Tuning and Homeostatic Control**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
+|**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2024-10-23**|**Holistic structure of neural pathways underlies brain perceptual rivalry: A physical perspective of auditory stream segregation**|Yuxuan Wu et.al.|[2410.17620](http://arxiv.org/abs/2410.17620)|null|
 |**2024-08-21**|**HDN:Hybrid Deep-learning and Non-line-of-sight Reconstruction Framework for Photoacoustic Brain Imaging**|Pengcheng Wan et.al.|[2408.11885](http://arxiv.org/abs/2408.11885)|null|
 |**2024-06-17**|**Brain Dialogue Interface (BDI): A User-Friendly fMRI Model for Interactive Brain Decoding**|Heng Huang et.al.|[2407.09509](http://arxiv.org/abs/2407.09509)|null|
@@ -2067,6 +2073,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training**|Xudong Liao et.al.|[2501.03905](http://arxiv.org/abs/2501.03905)|null|
+|**2025-01-06**|**Global network control from local information**|Aleksandar Haber et.al.|[2501.03331](http://arxiv.org/abs/2501.03331)|null|
 |**2024-12-17**|**TrainMover: Efficient ML Training Live Migration with No Memory Overhead**|ChonLam Lao et.al.|[2412.12636](http://arxiv.org/abs/2412.12636)|null|
 |**2024-12-17**|**Echo: Simulating Distributed Training At Scale**|Yicheng Feng et.al.|[2412.12487](http://arxiv.org/abs/2412.12487)|null|
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
