@@ -840,6 +840,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448](http://arxiv.org/abs/2501.04448)|null|
 |**2025-01-07**|**Simulating Pattern Recognition Using Non-volatile Synapses: MRAM, Ferroelectrics and Magnetic Skyrmions**|Luis Sosa et.al.|[2501.03450](http://arxiv.org/abs/2501.03450)|null|
 |**2025-01-06**|**Inductively coupled Josephson junctions: a platform for rich neuromorphic dynamics**|J. Hizanidis et.al.|[2501.03385](http://arxiv.org/abs/2501.03385)|null|
 |**2025-01-06**|**Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir**|Daiki Nishioka et.al.|[2501.02813](http://arxiv.org/abs/2501.02813)|null|
