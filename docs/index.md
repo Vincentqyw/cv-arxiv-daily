@@ -10,7 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|null|
+|**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
@@ -63,7 +63,7 @@ layout: default
 |**2025-01-06**|**Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir**|Daiki Nishioka et.al.|[2501.02813](http://arxiv.org/abs/2501.02813)|null|
 |**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
 |**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
-|**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
+|**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|**[link](https://github.com/hosseinkarimkhani/gst-material-raw-data-refractive-index-epsilon-)**|
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038](http://arxiv.org/abs/2501.01038)|null|
 |**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
 |**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
@@ -851,7 +851,7 @@ layout: default
 |**2025-01-06**|**Multi-time scale and high performance in-material reservoir computing using graphene-based ion-gating reservoir**|Daiki Nishioka et.al.|[2501.02813](http://arxiv.org/abs/2501.02813)|null|
 |**2025-01-03**|**Reconfigurable Filamentary Conduction in Thermally Stable Zeolitic Imidazolate Framework (ZIF-8) Resistive Switching Devices**|Divya Kaushik et.al.|[2501.01822](http://arxiv.org/abs/2501.01822)|null|
 |**2025-01-03**|**Molecular Mechanism Enabling Linearity and Symmetry in Neuromorphic Elements**|Bidyabhusan Kundu et.al.|[2501.01729](http://arxiv.org/abs/2501.01729)|null|
-|**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|null|
+|**2025-01-02**|**Angular-Controlled GST Phase-Change Double Micro-Ring Resonator for High-Speed Activation Functions in Neuromorphic Computing**|Hossein Karimkhani et.al.|[2501.01093](http://arxiv.org/abs/2501.01093)|**[link](https://github.com/hosseinkarimkhani/gst-material-raw-data-refractive-index-epsilon-)**|
 |**2025-01-01**|**Strain Mediated Voltage Control of Magnetic Anisotropy and Magnetization Reversal in Bismuth Substituted Yttrium Iron Garnet Films and Meso-structures**|Walid Al Misba et.al.|[2501.00980](http://arxiv.org/abs/2501.00980)|null|
 |**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813](http://arxiv.org/abs/2501.00813)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
@@ -1280,7 +1280,7 @@ layout: default
 |**2025-01-08**|**GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting**|Andrew Bond et.al.|[2501.04782](http://arxiv.org/abs/2501.04782)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-05**|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo et.al.|[2501.02427](http://arxiv.org/abs/2501.02427)|null|
-|**2025-01-03**|**SNeRV: Spectra-preserving Neural Representation for Video**|Jina Kim et.al.|[2501.01681](http://arxiv.org/abs/2501.01681)|null|
+|**2025-01-03**|**SNeRV: Spectra-preserving Neural Representation for Video**|Jina Kim et.al.|[2501.01681](http://arxiv.org/abs/2501.01681)|**[link](https://github.com/qwertja/snerv)**|
 |**2025-01-03**|**Few-shot Implicit Function Generation via Equivariance**|Suizhi Huang et.al.|[2501.01601](http://arxiv.org/abs/2501.01601)|null|
 |**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013](http://arxiv.org/abs/2501.01013)|null|
 |**2025-01-01**|**CoordFlow: Coordinate Flow for Pixel-wise Neural Video Representation**|Daniel Silver et.al.|[2501.00975](http://arxiv.org/abs/2501.00975)|null|
