@@ -55,6 +55,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904](http://arxiv.org/abs/2501.05904)|null|
+|**2025-01-10**|**Biorealistic response in a technology-compatible graphene synaptic transistor**|Anastasia Chouprik et.al.|[2501.05877](http://arxiv.org/abs/2501.05877)|null|
 |**2025-01-09**|**Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics**|David J Poland et.al.|[2501.05087](http://arxiv.org/abs/2501.05087)|null|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874](http://arxiv.org/abs/2501.03874)|null|
 |**2025-01-07**|**Simulating Pattern Recognition Using Non-volatile Synapses: MRAM, Ferroelectrics and Magnetic Skyrmions**|Luis Sosa et.al.|[2501.03450](http://arxiv.org/abs/2501.03450)|null|
@@ -845,6 +847,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Biorealistic response in a technology-compatible graphene synaptic transistor**|Anastasia Chouprik et.al.|[2501.05877](http://arxiv.org/abs/2501.05877)|null|
 |**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448](http://arxiv.org/abs/2501.04448)|null|
 |**2025-01-07**|**Simulating Pattern Recognition Using Non-volatile Synapses: MRAM, Ferroelectrics and Magnetic Skyrmions**|Luis Sosa et.al.|[2501.03450](http://arxiv.org/abs/2501.03450)|null|
 |**2025-01-06**|**Inductively coupled Josephson junctions: a platform for rich neuromorphic dynamics**|J. Hizanidis et.al.|[2501.03385](http://arxiv.org/abs/2501.03385)|null|
