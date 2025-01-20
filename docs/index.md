@@ -10,6 +10,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
 |**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
@@ -1289,6 +1290,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
 |**2025-01-15**|**Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction**|Dayoung Baik et.al.|[2501.09049](http://arxiv.org/abs/2501.09049)|null|
 |**2025-01-13**|**Implicit Neural Representations for Registration of Left Ventricle Myocardium During a Cardiac Cycle**|Mathias Micheelsen Lowes et.al.|[2501.07248](http://arxiv.org/abs/2501.07248)|**[link](https://github.com/mmlowes/inr_reg_lvmyo)**|
