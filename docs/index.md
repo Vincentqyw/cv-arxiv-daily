@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -2096,7 +2096,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-07**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training**|Xudong Liao et.al.|[2501.03905](http://arxiv.org/abs/2501.03905)|null|
-|**2025-01-06**|**Global network control from local information**|Aleksandar Haber et.al.|[2501.03331](http://arxiv.org/abs/2501.03331)|null|
+|**2025-01-06**|**Global network control from local information**|Aleksandar Haber et.al.|[2501.03331](http://arxiv.org/abs/2501.03331)|**[link](https://github.com/fmolnar-notredame/network_control_paper)**|
 |**2024-12-17**|**TrainMover: Efficient ML Training Live Migration with No Memory Overhead**|ChonLam Lao et.al.|[2412.12636](http://arxiv.org/abs/2412.12636)|null|
 |**2024-12-17**|**Echo: Simulating Distributed Training At Scale**|Yicheng Feng et.al.|[2412.12487](http://arxiv.org/abs/2412.12487)|null|
 |**2024-11-05**|**SimpleFSDP: Simpler Fully Sharded Data Parallel with torch.compile**|Ruisi Zhang et.al.|[2411.00284](http://arxiv.org/abs/2411.00284)|null|
