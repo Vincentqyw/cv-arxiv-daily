@@ -53,6 +53,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554](http://arxiv.org/abs/2501.11554)|null|
+|**2025-01-20**|**Integrate-and-Fire from a Mathematical and Signal Processing Perspective**|Bernhard A. Moser et.al.|[2501.11453](http://arxiv.org/abs/2501.11453)|null|
+|**2025-01-10**|**Delay Neural Networks (DeNN) for exploiting temporal information in event-based datasets**|Alban Gattepaille et.al.|[2501.10425](http://arxiv.org/abs/2501.10425)|null|
 |**2025-01-16**|**AR-SFQ: Asynchronous Reset Library Using α-Cell Design**|Yasemin Kopur et.al.|[2501.09449](http://arxiv.org/abs/2501.09449)|null|
 |**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645](http://arxiv.org/abs/2501.08645)|null|
 |**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049](http://arxiv.org/abs/2501.08049)|null|
@@ -851,6 +854,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**Integrate-and-Fire from a Mathematical and Signal Processing Perspective**|Bernhard A. Moser et.al.|[2501.11453](http://arxiv.org/abs/2501.11453)|null|
+|**2025-01-17**|**Solving Sparse Finite Element Problems on Neuromorphic Hardware**|Bradley H. Theilman et.al.|[2501.10526](http://arxiv.org/abs/2501.10526)|null|
 |**2025-01-16**|**AR-SFQ: Asynchronous Reset Library Using α-Cell Design**|Yasemin Kopur et.al.|[2501.09449](http://arxiv.org/abs/2501.09449)|null|
 |**2025-01-13**|**Energy-Efficient Cryogenic Neuromorphic Network with Superconducting Memristor**|Md Mazharul Islam et.al.|[2501.07683](http://arxiv.org/abs/2501.07683)|null|
 |**2025-01-10**|**Biorealistic response in a technology-compatible graphene synaptic transistor**|Anastasia Chouprik et.al.|[2501.05877](http://arxiv.org/abs/2501.05877)|null|
@@ -1286,6 +1291,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**Generating visual explanations from deep networks using implicit neural representations**|Michal Byra et.al.|[2501.11784](http://arxiv.org/abs/2501.11784)|null|
+|**2025-01-20**|**Collaborative Imputation of Urban Time Series through Cross-city Meta-learning**|Tong Nie et.al.|[2501.11306](http://arxiv.org/abs/2501.11306)|null|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
+|**2025-01-18**|**Certifying Robustness via Topological Representations**|Jens Agerberg et.al.|[2501.10876](http://arxiv.org/abs/2501.10876)|null|
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
 |**2025-01-15**|**Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction**|Dayoung Baik et.al.|[2501.09049](http://arxiv.org/abs/2501.09049)|null|
