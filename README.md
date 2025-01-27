@@ -53,6 +53,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning**|Yingchao Yu et.al.|[2501.14539](http://arxiv.org/abs/2501.14539)|null|
+|**2025-01-24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|Peng Xue et.al.|[2501.14490](http://arxiv.org/abs/2501.14490)|null|
+|**2025-01-24**|**$SpikePack$ : Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484](http://arxiv.org/abs/2501.14484)|null|
 |**2025-01-23**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492](http://arxiv.org/abs/2501.13492)|**[link](https://github.com/bollossom/qsd-transformer)**|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593](http://arxiv.org/abs/2501.12593)|null|
 |**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482](http://arxiv.org/abs/2501.12482)|null|
@@ -857,6 +860,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446](http://arxiv.org/abs/2501.14446)|null|
 |**2025-01-23**|**Continuous signal sparse encoding using analog neuromorphic variability**|Filippo Costa et.al.|[2501.13504](http://arxiv.org/abs/2501.13504)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593](http://arxiv.org/abs/2501.12593)|null|
 |**2025-01-20**|**Integrate-and-Fire from a Mathematical and Signal Processing Perspective**|Bernhard A. Moser et.al.|[2501.11453](http://arxiv.org/abs/2501.11453)|null|
@@ -1296,6 +1300,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Kolmogorov Arnold Neural Interpolator for Downscaling and Correcting Meteorological Fields from In-Situ Observations**|Zili Liu et.al.|[2501.14404](http://arxiv.org/abs/2501.14404)|null|
 |**2025-01-20**|**Generating visual explanations from deep networks using implicit neural representations**|Michal Byra et.al.|[2501.11784](http://arxiv.org/abs/2501.11784)|null|
 |**2025-01-20**|**Collaborative Imputation of Urban Time Series through Cross-city Meta-learning**|Tong Nie et.al.|[2501.11306](http://arxiv.org/abs/2501.11306)|null|
 |**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
