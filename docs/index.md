@@ -2,17 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.01.27
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486](http://arxiv.org/abs/2501.14486)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764](http://arxiv.org/abs/2501.12764)|null|
-|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
 |**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950](http://arxiv.org/abs/2501.10950)|null|
@@ -791,6 +794,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
+|**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945](http://arxiv.org/abs/2501.14945)|null|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz et.al.|[2501.12232](http://arxiv.org/abs/2501.12232)|null|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar et.al.|[2501.08468](http://arxiv.org/abs/2501.08468)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
@@ -1116,6 +1124,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
+|**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
+|**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051](http://arxiv.org/abs/2501.14051)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
+|**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
@@ -2411,6 +2424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
@@ -2699,6 +2713,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
+|**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
+|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
