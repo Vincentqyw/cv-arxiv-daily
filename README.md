@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -60,7 +60,7 @@
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|null|
 |**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808](http://arxiv.org/abs/2501.15808)|null|
-|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|null|
+|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|**[link](https://github.com/bakhromtjk/mgd_scaling)**|
 |**2025-01-25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|Farah Baracat et.al.|[2501.15347](http://arxiv.org/abs/2501.15347)|null|
 |**2025-01-28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151](http://arxiv.org/abs/2501.15151)|**[link](https://github.com/yimeng-fan/spikssd)**|
 |**2025-01-24**|**A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning**|Yingchao Yu et.al.|[2501.14539](http://arxiv.org/abs/2501.14539)|null|
@@ -875,7 +875,7 @@
 |**2025-01-20**|**Influence of Humidity on the Resistive Switching of Hexagonal Boron Nitride-Based Memristors**|Lukas Völkel et.al.|[2501.16359](http://arxiv.org/abs/2501.16359)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|null|
-|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|null|
+|**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|**[link](https://github.com/bakhromtjk/mgd_scaling)**|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446](http://arxiv.org/abs/2501.14446)|null|
 |**2025-01-23**|**Continuous signal sparse encoding using analog neuromorphic variability**|Filippo Costa et.al.|[2501.13504](http://arxiv.org/abs/2501.13504)|null|
 |**2025-01-22**|**Enhanced Field-Free Perpendicular Magnetization Switching via spin splitting torque in Altermagnetic RuO2-based Heterostructures**|Badsha Sekh et.al.|[2501.12593](http://arxiv.org/abs/2501.12593)|null|
