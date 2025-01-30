@@ -11,6 +11,7 @@
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
 |**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
+|**2025-01-29**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
 |**2024-09-19**|**Model calibration using a parallel differential evolution algorithm in computational neuroscience: simulation of stretch induced nerve deficit**|Antonio LaTorre et.al.|[2409.12567](http://arxiv.org/abs/2409.12567)|null|
@@ -54,6 +55,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699](http://arxiv.org/abs/2501.17699)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
 |**2025-01-28**|**Optical neuromorphic computing based on chaotic frequency combs in nonlinear microresonators**|Negar Shaabani Shishavan et.al.|[2501.17113](http://arxiv.org/abs/2501.17113)|null|
 |**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
@@ -870,6 +872,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172](http://arxiv.org/abs/2501.17172)|null|
 |**2025-01-28**|**Optical neuromorphic computing based on chaotic frequency combs in nonlinear microresonators**|Negar Shaabani Shishavan et.al.|[2501.17113](http://arxiv.org/abs/2501.17113)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
 |**2025-01-20**|**Influence of Humidity on the Resistive Switching of Hexagonal Boron Nitride-Based Memristors**|Lukas Völkel et.al.|[2501.16359](http://arxiv.org/abs/2501.16359)|null|
