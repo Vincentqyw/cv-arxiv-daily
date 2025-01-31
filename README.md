@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-27**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486](http://arxiv.org/abs/2501.14486)|null|
+|**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754](http://arxiv.org/abs/2501.16754)|null|
+|**2025-01-27**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486](http://arxiv.org/abs/2501.14486)|**[link](https://github.com/jakemclaughlin6/vlma)**|
 |**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
@@ -798,13 +799,14 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-27**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
+|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
+|**2025-01-28**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221](http://arxiv.org/abs/2501.16221)|null|
 |**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
 |**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945](http://arxiv.org/abs/2501.14945)|null|
 |**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914](http://arxiv.org/abs/2501.14914)|null|
@@ -1130,7 +1132,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2157,7 +2159,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2434,7 +2436,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2725,13 +2727,13 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
+|**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
@@ -4185,7 +4187,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
