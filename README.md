@@ -55,6 +55,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259](http://arxiv.org/abs/2501.19259)|null|
+|**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087](http://arxiv.org/abs/2501.19087)|null|
+|**2025-01-31**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069](http://arxiv.org/abs/2501.19069)|null|
+|**2025-01-31**|**Nonlinear Inference Capacity of Fiber-Optical Extreme Learning Machines**|Sobhi Saeed et.al.|[2501.18894](http://arxiv.org/abs/2501.18894)|null|
+|**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799](http://arxiv.org/abs/2501.18799)|null|
 |**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412](http://arxiv.org/abs/2501.18412)|null|
 |**2025-01-30**|**Simulation of the crystallization kinetics of Ge $_2$Sb$_2$Te$_5$ nanoconfined in superlattice geometries for phase change memories**|Debdipto Acharya et.al.|[2501.18370](http://arxiv.org/abs/2501.18370)|null|
 |**2025-01-30**|**Ultra-large mutually synchronized networks of 10 nm spin Hall nano-oscillators**|Nilamani Behera et.al.|[2501.18321](http://arxiv.org/abs/2501.18321)|null|
@@ -876,6 +881,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087](http://arxiv.org/abs/2501.19087)|null|
+|**2025-01-31**|**Nonlinear Inference Capacity of Fiber-Optical Extreme Learning Machines**|Sobhi Saeed et.al.|[2501.18894](http://arxiv.org/abs/2501.18894)|null|
+|**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799](http://arxiv.org/abs/2501.18799)|null|
 |**2025-01-30**|**Simulation of the crystallization kinetics of Ge $_2$Sb$_2$Te$_5$ nanoconfined in superlattice geometries for phase change memories**|Debdipto Acharya et.al.|[2501.18370](http://arxiv.org/abs/2501.18370)|null|
 |**2025-01-30**|**Ultra-large mutually synchronized networks of 10 nm spin Hall nano-oscillators**|Nilamani Behera et.al.|[2501.18321](http://arxiv.org/abs/2501.18321)|null|
 |**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172](http://arxiv.org/abs/2501.17172)|null|
@@ -2115,6 +2123,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Swift: Rethinking RDMA Control Plane for Elastic Computing**|Junxue Zhang et.al.|[2501.19051](http://arxiv.org/abs/2501.19051)|null|
 |**2024-09-12**|**External Memories of PDP Switches for In-Network Implementable Functions Placement: Deep Learning Based Reconfiguration of SFCs**|Somayeh Kianpisheh et.al.|[2409.08043](http://arxiv.org/abs/2409.08043)|null|
 |**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147](http://arxiv.org/abs/2408.08147)|null|
 |**2024-07-13**|**SeqBalance: Congestion-Aware Load Balancing with no Reordering for RoCE**|Huimin Luo et.al.|[2407.09808](http://arxiv.org/abs/2407.09808)|null|
