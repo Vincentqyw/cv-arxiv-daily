@@ -55,6 +55,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287](http://arxiv.org/abs/2502.03287)|null|
+|**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
 |**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837](http://arxiv.org/abs/2502.01837)|null|
 |**2025-02-02**|**Ultrafast electrical control of dipolaritonic circuits with a few femto-joul per bit power consumption**|Dror Liran et.al.|[2502.00878](http://arxiv.org/abs/2502.00878)|null|
 |**2025-01-31**|**Electrically induced negative differential resistance states mediated by oxygen octahedra coupling in manganites for neuronaldynamics**|Azminul Jaman et.al.|[2502.00137](http://arxiv.org/abs/2502.00137)|null|
@@ -885,6 +887,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
 |**2025-02-02**|**Ultrafast electrical control of dipolaritonic circuits with a few femto-joul per bit power consumption**|Dror Liran et.al.|[2502.00878](http://arxiv.org/abs/2502.00878)|null|
 |**2025-01-31**|**Electrically induced negative differential resistance states mediated by oxygen octahedra coupling in manganites for neuronaldynamics**|Azminul Jaman et.al.|[2502.00137](http://arxiv.org/abs/2502.00137)|null|
 |**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087](http://arxiv.org/abs/2501.19087)|null|
@@ -1339,6 +1342,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**INST-Sculpt: Interactive Stroke-based Neural SDF Sculpting**|Fizza Rubab et.al.|[2502.02891](http://arxiv.org/abs/2502.02891)|null|
+|**2025-02-01**|**MIND: Microstructure INverse Design with Generative Hybrid Neural Representation**|Tianyang Xue et.al.|[2502.02607](http://arxiv.org/abs/2502.02607)|null|
 |**2025-02-03**|**A Relative Homology Theory of Representation in Neural Networks**|Kosio Beshkov et.al.|[2502.01360](http://arxiv.org/abs/2502.01360)|null|
 |**2025-02-02**|**STAF: Sinusoidal Trainable Activation Functions for Implicit Neural Representation**|Alireza Morsali et.al.|[2502.00869](http://arxiv.org/abs/2502.00869)|null|
 |**2025-02-02**|**Lifting the Winding Number: Precise Representation of Complex Cuts in Subspace Physics Simulations**|Yue Chang et.al.|[2502.00626](http://arxiv.org/abs/2502.00626)|null|
