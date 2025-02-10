@@ -1346,6 +1346,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Localization of Vibrotactile Stimuli on the Face**|Shivani Guptasarma et.al.|[2502.04569](http://arxiv.org/abs/2502.04569)|null|
 |**2025-02-05**|**INST-Sculpt: Interactive Stroke-based Neural SDF Sculpting**|Fizza Rubab et.al.|[2502.02891](http://arxiv.org/abs/2502.02891)|null|
 |**2025-02-01**|**MIND: Microstructure INverse Design with Generative Hybrid Neural Representation**|Tianyang Xue et.al.|[2502.02607](http://arxiv.org/abs/2502.02607)|null|
 |**2025-02-03**|**A Relative Homology Theory of Representation in Neural Networks**|Kosio Beshkov et.al.|[2502.01360](http://arxiv.org/abs/2502.01360)|null|
