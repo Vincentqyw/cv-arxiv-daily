@@ -55,6 +55,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771](http://arxiv.org/abs/2502.06771)|null|
+|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747](http://arxiv.org/abs/2502.06747)|null|
+|**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736](http://arxiv.org/abs/2502.06736)|null|
+|**2025-02-09**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|Sourav Sanyal et.al.|[2502.05938](http://arxiv.org/abs/2502.05938)|null|
+|**2025-02-09**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|Wenjie Wei et.al.|[2502.05905](http://arxiv.org/abs/2502.05905)|null|
+|**2025-02-08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|Hamed Poursiami et.al.|[2502.05509](http://arxiv.org/abs/2502.05509)|null|
 |**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287](http://arxiv.org/abs/2502.03287)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
 |**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837](http://arxiv.org/abs/2502.01837)|null|
@@ -887,6 +893,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771](http://arxiv.org/abs/2502.06771)|null|
+|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747](http://arxiv.org/abs/2502.06747)|null|
+|**2025-02-10**|**Event Vision Sensor: A Review**|Xinyue Qin et.al.|[2502.06116](http://arxiv.org/abs/2502.06116)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
 |**2025-02-02**|**Ultrafast electrical control of dipolaritonic circuits with a few femto-joul per bit power consumption**|Dror Liran et.al.|[2502.00878](http://arxiv.org/abs/2502.00878)|null|
 |**2025-01-31**|**Electrically induced negative differential resistance states mediated by oxygen octahedra coupling in manganites for neuronaldynamics**|Azminul Jaman et.al.|[2502.00137](http://arxiv.org/abs/2502.00137)|null|
@@ -1342,6 +1351,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences**|Riccardo Cadei et.al.|[2502.06343](http://arxiv.org/abs/2502.06343)|null|
+|**2025-02-10**|**CANeRV: Content Adaptive Neural Representation for Video Compression**|Lv Tang et.al.|[2502.06181](http://arxiv.org/abs/2502.06181)|null|
+|**2025-02-09**|**Neural Shortest Path for Surface Reconstruction from Point Clouds**|Yesom Park et.al.|[2502.06047](http://arxiv.org/abs/2502.06047)|null|
+|**2025-02-09**|**Structural Perturbation in Large Language Model Representations through Recursive Symbolic Regeneration**|Kathlyn Eaglewood et.al.|[2502.05794](http://arxiv.org/abs/2502.05794)|null|
+|**2025-02-08**|**Robustifying Fourier Features Embeddings for Implicit Neural Representations**|Mingze Ma et.al.|[2502.05482](http://arxiv.org/abs/2502.05482)|null|
+|**2025-02-08**|**Unsupervised Self-Prior Embedding Neural Representation for Iterative Sparse-View CT Reconstruction**|Xuanyu Tian et.al.|[2502.05445](http://arxiv.org/abs/2502.05445)|null|
 |**2025-02-06**|**Localization of Vibrotactile Stimuli on the Face**|Shivani Guptasarma et.al.|[2502.04569](http://arxiv.org/abs/2502.04569)|null|
 |**2025-02-05**|**INST-Sculpt: Interactive Stroke-based Neural SDF Sculpting**|Fizza Rubab et.al.|[2502.02891](http://arxiv.org/abs/2502.02891)|null|
 |**2025-02-01**|**MIND: Microstructure INverse Design with Generative Hybrid Neural Representation**|Tianyang Xue et.al.|[2502.02607](http://arxiv.org/abs/2502.02607)|null|
