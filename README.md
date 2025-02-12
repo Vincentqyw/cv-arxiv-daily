@@ -55,6 +55,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Adaptive Central Frequencies Locally Competitive Algorithm for Speech**|Soufiyan Bahadi et.al.|[2502.06989](http://arxiv.org/abs/2502.06989)|null|
 |**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771](http://arxiv.org/abs/2502.06771)|null|
 |**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747](http://arxiv.org/abs/2502.06747)|null|
 |**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736](http://arxiv.org/abs/2502.06736)|null|
@@ -893,6 +894,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Adaptive Central Frequencies Locally Competitive Algorithm for Speech**|Soufiyan Bahadi et.al.|[2502.06989](http://arxiv.org/abs/2502.06989)|null|
 |**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771](http://arxiv.org/abs/2502.06771)|null|
 |**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747](http://arxiv.org/abs/2502.06747)|null|
 |**2025-02-10**|**Event Vision Sensor: A Review**|Xinyue Qin et.al.|[2502.06116](http://arxiv.org/abs/2502.06116)|null|
@@ -1351,6 +1353,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production**|Mingfang et.al.|[2502.07429](http://arxiv.org/abs/2502.07429)|null|
+|**2025-02-11**|**A Relativistic Theory of Consciousness (shorten version)**|Nir Lahav et.al.|[2502.07247](http://arxiv.org/abs/2502.07247)|null|
+|**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-02-10**|**Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences**|Riccardo Cadei et.al.|[2502.06343](http://arxiv.org/abs/2502.06343)|null|
 |**2025-02-10**|**CANeRV: Content Adaptive Neural Representation for Video Compression**|Lv Tang et.al.|[2502.06181](http://arxiv.org/abs/2502.06181)|null|
 |**2025-02-09**|**Neural Shortest Path for Surface Reconstruction from Point Clouds**|Yesom Park et.al.|[2502.06047](http://arxiv.org/abs/2502.06047)|null|
@@ -2177,6 +2182,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|null|
+|**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|null|
 |**2025-01-30**|**Chip-to-chip photonic connectivity in multi-accelerator servers for ML**|Abhishek Vijaya Kumar et.al.|[2501.18169](http://arxiv.org/abs/2501.18169)|null|
 |**2025-01-14**|**PRESERVE: Prefetching Model Weights and KV-Cache in Distributed LLM Serving**|Ahmet Caner Yüzügüler et.al.|[2501.08192](http://arxiv.org/abs/2501.08192)|null|
 |**2025-01-07**|**mFabric: An Efficient and Scalable Fabric for Mixture-of-Experts Training**|Xudong Liao et.al.|[2501.03905](http://arxiv.org/abs/2501.03905)|null|
