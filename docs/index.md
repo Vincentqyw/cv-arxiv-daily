@@ -16,6 +16,7 @@ layout: default
 |**2024-12-17**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2025-01-29**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
+|**2025-02-16**|**Convergence proofs and strong error bounds for forward-backward stochastic differential equations using neural network simulations**|Oliver Sheridan-Methven et.al.|[2411.01306](http://arxiv.org/abs/2411.01306)|null|
 |**2024-10-16**|**Learning Differentiable Tensegrity Dynamics using Graph Neural Networks**|Nelson Chen et.al.|[2410.12216](http://arxiv.org/abs/2410.12216)|**[link](https://github.com/nchen9191/tensegrity_gnn_simulator_public)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918](http://arxiv.org/abs/2409.14918)|null|
 |**2024-09-19**|**Model calibration using a parallel differential evolution algorithm in computational neuroscience: simulation of stretch induced nerve deficit**|Antonio LaTorre et.al.|[2409.12567](http://arxiv.org/abs/2409.12567)|null|
@@ -59,6 +60,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
+|**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
+|**2025-02-16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|Marumitsu Ikeda et.al.|[2502.10946](http://arxiv.org/abs/2502.10946)|null|
+|**2025-02-14**|**Nonreciprocal Control of the Speed of Light Using Cavity Magnonics**|Jiguang Yao et.al.|[2502.10595](http://arxiv.org/abs/2502.10595)|null|
 |**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449](http://arxiv.org/abs/2502.09449)|**[link](https://github.com/liyc5929/neuroseqbench)**|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 |**2025-02-12**|**Full-cycle device-scale simulations of memory materials with a tailored atomic-cluster-expansion potential**|Yuxing Zhou et.al.|[2502.08393](http://arxiv.org/abs/2502.08393)|null|
@@ -902,6 +907,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
+|**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
+|**2025-02-14**|**Nonreciprocal Control of the Speed of Light Using Cavity Magnonics**|Jiguang Yao et.al.|[2502.10595](http://arxiv.org/abs/2502.10595)|null|
+|**2025-02-05**|**DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks**|Tianqing Zhang et.al.|[2502.10422](http://arxiv.org/abs/2502.10422)|null|
 |**2025-02-12**|**Full-cycle device-scale simulations of memory materials with a tailored atomic-cluster-expansion potential**|Yuxing Zhou et.al.|[2502.08393](http://arxiv.org/abs/2502.08393)|null|
 |**2025-02-12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|Reza Ahmadvand et.al.|[2502.08115](http://arxiv.org/abs/2502.08115)|null|
 |**2025-02-10**|**Adaptive Central Frequencies Locally Competitive Algorithm for Speech**|Soufiyan Bahadi et.al.|[2502.06989](http://arxiv.org/abs/2502.06989)|null|
@@ -1363,6 +1372,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
+|**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
+|**2025-02-15**|**Implicit Neural Representations of Molecular Vector-Valued Functions**|Jirka Lhotka et.al.|[2502.10848](http://arxiv.org/abs/2502.10848)|null|
+|**2025-02-15**|**Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy**|Mingyang Zhao et.al.|[2502.10704](http://arxiv.org/abs/2502.10704)|null|
 |**2025-02-12**|**Meta-INR: Efficient Encoding of Volumetric Data via Meta-Learning Implicit Neural Representation**|Maizhe Yang et.al.|[2502.09669](http://arxiv.org/abs/2502.09669)|null|
 |**2025-02-13**|**Unsupervised Anomaly Detection on Implicit Shape representations for Sarcopenia Detection**|Louise Piecuch et.al.|[2502.09088](http://arxiv.org/abs/2502.09088)|null|
 |**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|**[link](https://github.com/hku-medai/lig)**|
