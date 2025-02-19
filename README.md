@@ -56,6 +56,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791](http://arxiv.org/abs/2502.12791)|null|
+|**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693](http://arxiv.org/abs/2502.12693)|null|
+|**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677](http://arxiv.org/abs/2502.12677)|null|
+|**2025-02-18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|Xiang He et.al.|[2502.12488](http://arxiv.org/abs/2502.12488)|null|
 |**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
 |**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
 |**2025-02-16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|Marumitsu Ikeda et.al.|[2502.10946](http://arxiv.org/abs/2502.10946)|null|
@@ -903,6 +907,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693](http://arxiv.org/abs/2502.12693)|null|
 |**2025-02-17**|**Phase-change materials for volatile threshold resistive switching and neuronal device applications**|Huandong Chen et.al.|[2502.11685](http://arxiv.org/abs/2502.11685)|null|
 |**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
 |**2025-02-14**|**Nonreciprocal Control of the Speed of Light Using Cavity Magnonics**|Jiguang Yao et.al.|[2502.10595](http://arxiv.org/abs/2502.10595)|null|
@@ -1368,6 +1373,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**PartSDF: Part-Based Implicit Neural Representation for Composite 3D Shape Parametrization and Optimization**|Nicolas Talabot et.al.|[2502.12985](http://arxiv.org/abs/2502.12985)|null|
+|**2025-02-18**|**Multi Image Super Resolution Modeling for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.12427](http://arxiv.org/abs/2502.12427)|null|
 |**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
 |**2025-02-17**|**On Quantizing Neural Representation for Variable-Rate Video Coding**|Junqi Shi et.al.|[2502.11729](http://arxiv.org/abs/2502.11729)|null|
 |**2025-02-15**|**Implicit Neural Representations of Molecular Vector-Valued Functions**|Jirka Lhotka et.al.|[2502.10848](http://arxiv.org/abs/2502.10848)|null|
