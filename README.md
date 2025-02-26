@@ -1,4 +1,4 @@
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1391,12 +1391,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-24**|**Unraveling the geometry of visual relational reasoning**|Jiaqi Shang et.al.|[2502.17382](http://arxiv.org/abs/2502.17382)|null|
+|**2025-02-24**|**Unraveling the geometry of visual relational reasoning**|Jiaqi Shang et.al.|[2502.17382](http://arxiv.org/abs/2502.17382)|**[link](https://github.com/shaneshang/simplifiedrpm-visual-reasoning)**|
 |**2025-02-22**|**Brain-Model Evaluations Need the NeuroAI Turing Test**|Jenelle Feather et.al.|[2502.16238](http://arxiv.org/abs/2502.16238)|null|
 |**2025-02-20**|**Implicit Neural Representations for Chemical Reaction Paths**|Kalyan Ramakrishnan et.al.|[2502.15843](http://arxiv.org/abs/2502.15843)|null|
 |**2025-02-20**|**Show Me Your Code! Kill Code Poisoning: A Lightweight Method Based on Code Naturalness**|Weisong Sun et.al.|[2502.15830](http://arxiv.org/abs/2502.15830)|null|
 |**2025-02-18**|**Signal Collapse in One-Shot Pruning: When Sparse Models Fail to Distinguish Neural Representations**|Dhananjay Saikumar et.al.|[2502.15790](http://arxiv.org/abs/2502.15790)|null|
-|**2025-02-20**|**Estimating Neural Representation Alignment from Limited Inputs and Features**|Chanwoo Chun et.al.|[2502.15104](http://arxiv.org/abs/2502.15104)|null|
+|**2025-02-24**|**Estimating Neural Representation Alignment from Sparsely Sampled Inputs and Features**|Chanwoo Chun et.al.|[2502.15104](http://arxiv.org/abs/2502.15104)|null|
 |**2025-02-20**|**Herglotz-NET: Implicit Neural Representation of Spherical Data with Harmonic Positional Encoding**|Théo Hanon et.al.|[2502.13777](http://arxiv.org/abs/2502.13777)|null|
 |**2025-02-18**|**PartSDF: Part-Based Implicit Neural Representation for Composite 3D Shape Parametrization and Optimization**|Nicolas Talabot et.al.|[2502.12985](http://arxiv.org/abs/2502.12985)|**[link](https://github.com/cvlab-epfl/partsdf)**|
 |**2025-02-18**|**Multi Image Super Resolution Modeling for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.12427](http://arxiv.org/abs/2502.12427)|null|
