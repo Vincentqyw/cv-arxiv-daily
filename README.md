@@ -57,6 +57,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Diverse dynamics in interacting vortices systems through tunable conservative and non-conservative coupling strengths**|A. Hamadeh et.al.|[2502.18183](http://arxiv.org/abs/2502.18183)|null|
+|**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|Yanzhen Liu et.al.|[2502.17168](http://arxiv.org/abs/2502.17168)|null|
 |**2025-02-24**|**A Review of Memory Wall for Neuromorphic Computing**|Dexter Le et.al.|[2502.16823](http://arxiv.org/abs/2502.16823)|null|
 |**2025-02-19**|**Spiking Point Transformer for Point Cloud Classification**|Peixi Wu et.al.|[2502.15811](http://arxiv.org/abs/2502.15811)|null|
@@ -920,6 +922,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Diverse dynamics in interacting vortices systems through tunable conservative and non-conservative coupling strengths**|A. Hamadeh et.al.|[2502.18183](http://arxiv.org/abs/2502.18183)|null|
+|**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-24**|**SpikACom: A Neuromorphic Computing Framework for Green Communications**|Yanzhen Liu et.al.|[2502.17168](http://arxiv.org/abs/2502.17168)|null|
 |**2025-02-24**|**A Review of Memory Wall for Neuromorphic Computing**|Dexter Le et.al.|[2502.16823](http://arxiv.org/abs/2502.16823)|null|
 |**2025-02-20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|Amlan Basu et.al.|[2502.15056](http://arxiv.org/abs/2502.15056)|null|
@@ -1391,6 +1395,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**The Gradient of Algebraic Model Counting**|Jaron Maene et.al.|[2502.18406](http://arxiv.org/abs/2502.18406)|null|
 |**2025-02-24**|**Unraveling the geometry of visual relational reasoning**|Jiaqi Shang et.al.|[2502.17382](http://arxiv.org/abs/2502.17382)|**[link](https://github.com/shaneshang/simplifiedrpm-visual-reasoning)**|
 |**2025-02-22**|**Brain-Model Evaluations Need the NeuroAI Turing Test**|Jenelle Feather et.al.|[2502.16238](http://arxiv.org/abs/2502.16238)|null|
 |**2025-02-20**|**Implicit Neural Representations for Chemical Reaction Paths**|Kalyan Ramakrishnan et.al.|[2502.15843](http://arxiv.org/abs/2502.15843)|null|
@@ -2108,6 +2113,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
+|**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
 |**2024-11-30**|**PAL -- Parallel active learning for machine-learned potentials**|Chen Zhou et.al.|[2412.00401](http://arxiv.org/abs/2412.00401)|**[link](https://github.com/aimat-lab/PAL)**|
 |**2024-11-21**|**RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES**|San Han et.al.|[2411.14631](http://arxiv.org/abs/2411.14631)|**[link](https://github.com/sanhancluster/RAMSES-yOMP)**|
@@ -2160,6 +2167,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
+|**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
 |**2024-11-30**|**PAL -- Parallel active learning for machine-learned potentials**|Chen Zhou et.al.|[2412.00401](http://arxiv.org/abs/2412.00401)|**[link](https://github.com/aimat-lab/PAL)**|
 |**2024-11-21**|**RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES**|San Han et.al.|[2411.14631](http://arxiv.org/abs/2411.14631)|**[link](https://github.com/sanhancluster/RAMSES-yOMP)**|
 |**2024-11-04**|**Configurable Non-uniform All-to-all Algorithms**|Ke Fan et.al.|[2411.02581](http://arxiv.org/abs/2411.02581)|null|
