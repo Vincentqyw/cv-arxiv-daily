@@ -58,12 +58,15 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379](http://arxiv.org/abs/2503.03379)|**[link](https://github.com/dubcyfor3/Prosperity)**|
+|**2025-03-05**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272](http://arxiv.org/abs/2503.03272)|null|
+|**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144](http://arxiv.org/abs/2503.03144)|null|
 |**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689](http://arxiv.org/abs/2503.02689)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642](http://arxiv.org/abs/2503.02642)|null|
 |**2025-03-04**|**Quantum memristor with vacuum--one-photon qubits**|Simone Di Micco et.al.|[2503.02466](http://arxiv.org/abs/2503.02466)|null|
 |**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033](http://arxiv.org/abs/2503.02033)|null|
 |**2025-03-03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|Adalbert Fono et.al.|[2503.02013](http://arxiv.org/abs/2503.02013)|null|
-|**2025-03-03**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
+|**2025-03-05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297](http://arxiv.org/abs/2503.01297)|null|
 |**2025-03-02**|**DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging**|Zhu Liu et.al.|[2503.00905](http://arxiv.org/abs/2503.00905)|null|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898](http://arxiv.org/abs/2503.00898)|null|
 |**2025-03-02**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713](http://arxiv.org/abs/2503.00713)|null|
@@ -1421,6 +1424,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis**|Awais Nizamani et.al.|[2503.03132](http://arxiv.org/abs/2503.03132)|null|
 |**2025-03-04**|**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**|Jia Wang et.al.|[2503.02733](http://arxiv.org/abs/2503.02733)|null|
 |**2025-03-04**|**A Hypernetwork-Based Approach to KAN Representation of Audio Signals**|Patryk Marszałek et.al.|[2503.02585](http://arxiv.org/abs/2503.02585)|null|
 |**2025-03-03**|**From superposition to sparse codes: interpretable representations in neural networks**|David Klindt et.al.|[2503.01824](http://arxiv.org/abs/2503.01824)|null|
