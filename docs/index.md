@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -62,7 +62,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-04**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689](http://arxiv.org/abs/2503.02689)|null|
+|**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689](http://arxiv.org/abs/2503.02689)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642](http://arxiv.org/abs/2503.02642)|null|
 |**2025-03-04**|**Quantum memristor with vacuum--one-photon qubits**|Simone Di Micco et.al.|[2503.02466](http://arxiv.org/abs/2503.02466)|null|
 |**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033](http://arxiv.org/abs/2503.02033)|null|
