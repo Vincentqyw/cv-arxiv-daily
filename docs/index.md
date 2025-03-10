@@ -62,6 +62,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
+|**2025-03-07**|**TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting**|Shibo Feng et.al.|[2503.05108](http://arxiv.org/abs/2503.05108)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
 |**2025-03-06**|**Eventprop training for efficient neuromorphic applications**|Thomas Shoesmith et.al.|[2503.04341](http://arxiv.org/abs/2503.04341)|null|
 |**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223](http://arxiv.org/abs/2503.04223)|null|
@@ -1433,6 +1435,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/abs/2503.05600)|null|
+|**2025-03-07**|**Accelerated Patient-specific Non-Cartesian MRI Reconstruction using Implicit Neural Representations**|Di Xu et.al.|[2503.05051](http://arxiv.org/abs/2503.05051)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
 |**2025-03-05**|**Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis**|Awais Nizamani et.al.|[2503.03132](http://arxiv.org/abs/2503.03132)|null|
