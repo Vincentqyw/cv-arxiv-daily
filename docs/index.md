@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -69,7 +69,7 @@ layout: default
 |**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223](http://arxiv.org/abs/2503.04223)|null|
 |**2025-03-05**|**Neural Models of Task Adaptation: A Tutorial on Spiking Networks for Executive Control**|Ashwin Viswanathan Kannan et.al.|[2503.03784](http://arxiv.org/abs/2503.03784)|null|
 |**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379](http://arxiv.org/abs/2503.03379)|**[link](https://github.com/dubcyfor3/Prosperity)**|
-|**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272](http://arxiv.org/abs/2503.03272)|null|
+|**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272](http://arxiv.org/abs/2503.03272)|**[link](https://github.com/ryime/pdsg-sda)**|
 |**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144](http://arxiv.org/abs/2503.03144)|null|
 |**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689](http://arxiv.org/abs/2503.02689)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642](http://arxiv.org/abs/2503.02642)|null|
@@ -1441,7 +1441,7 @@ layout: default
 |**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
 |**2025-03-05**|**Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis**|Awais Nizamani et.al.|[2503.03132](http://arxiv.org/abs/2503.03132)|null|
 |**2025-03-04**|**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**|Jia Wang et.al.|[2503.02733](http://arxiv.org/abs/2503.02733)|null|
-|**2025-03-04**|**A Hypernetwork-Based Approach to KAN Representation of Audio Signals**|Patryk Marszałek et.al.|[2503.02585](http://arxiv.org/abs/2503.02585)|null|
+|**2025-03-04**|**A Hypernetwork-Based Approach to KAN Representation of Audio Signals**|Patryk Marszałek et.al.|[2503.02585](http://arxiv.org/abs/2503.02585)|**[link](https://github.com/gmum/fewsound)**|
 |**2025-03-03**|**From superposition to sparse codes: interpretable representations in neural networks**|David Klindt et.al.|[2503.01824](http://arxiv.org/abs/2503.01824)|null|
 |**2025-03-02**|**Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models**|Jeffrey Gu et.al.|[2503.00838](http://arxiv.org/abs/2503.00838)|null|
 |**2025-02-28**|**Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging**|Wenqi Huang et.al.|[2503.00230](http://arxiv.org/abs/2503.00230)|null|
