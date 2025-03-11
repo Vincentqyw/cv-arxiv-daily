@@ -62,6 +62,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-09**|**Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units**|Christopher S. Yang et.al.|[2503.06798](http://arxiv.org/abs/2503.06798)|null|
+|**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629](http://arxiv.org/abs/2503.06629)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
 |**2025-03-07**|**TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting**|Shibo Feng et.al.|[2503.05108](http://arxiv.org/abs/2503.05108)|null|
 |**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418](http://arxiv.org/abs/2503.04418)|null|
@@ -1435,6 +1437,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
+|**2025-03-10**|**Physics-informed Neural Network Predictive Control for Quadruped Locomotion**|Haolin Li et.al.|[2503.06995](http://arxiv.org/abs/2503.06995)|null|
+|**2025-03-09**|**Gaussian RBFNet: Gaussian Radial Basis Functions for Fast and Accurate Representation and Reconstruction of Neural Fields**|Abdelaziz Bouzidi et.al.|[2503.06762](http://arxiv.org/abs/2503.06762)|null|
+|**2025-03-09**|**ImplicitCell: Resolution Cell Modeling of Joint Implicit Volume Reconstruction and Pose Refinement in Freehand 3D Ultrasound**|Sheng Song et.al.|[2503.06686](http://arxiv.org/abs/2503.06686)|null|
+|**2025-03-09**|**Pixel to Gaussian: Ultra-Fast Continuous Super-Resolution with 2D Gaussian Modeling**|Long Peng et.al.|[2503.06617](http://arxiv.org/abs/2503.06617)|null|
 |**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/abs/2503.05600)|null|
 |**2025-03-07**|**Accelerated Patient-specific Non-Cartesian MRI Reconstruction using Implicit Neural Representations**|Di Xu et.al.|[2503.05051](http://arxiv.org/abs/2503.05051)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
