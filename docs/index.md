@@ -62,6 +62,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206](http://arxiv.org/abs/2503.11206)|null|
+|**2025-03-14**|**A Fully Reconfigurable All-Optical Integrated Nonlinear Activator**|Bei Chen et.al.|[2503.11141](http://arxiv.org/abs/2503.11141)|null|
+|**2025-03-13**|**Memristive properties and synaptic plasticity in substituted pyridinium iodobismuthates**|Gisya Abdi et.al.|[2503.10817](http://arxiv.org/abs/2503.10817)|null|
 |**2025-03-13**|**Adding numbers with spiking neural circuits on neuromorphic hardware**|Oskar von Seeler et.al.|[2503.10387](http://arxiv.org/abs/2503.10387)|null|
 |**2025-03-13**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195](http://arxiv.org/abs/2503.10195)|null|
 |**2025-03-13**|**DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks**|Minje Kim et.al.|[2503.10052](http://arxiv.org/abs/2503.10052)|**[link](https://github.com/mnjnkim/dta-snn)**|
@@ -961,6 +964,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206](http://arxiv.org/abs/2503.11206)|null|
+|**2025-03-14**|**A Fully Reconfigurable All-Optical Integrated Nonlinear Activator**|Bei Chen et.al.|[2503.11141](http://arxiv.org/abs/2503.11141)|null|
+|**2025-03-13**|**Memristive properties and synaptic plasticity in substituted pyridinium iodobismuthates**|Gisya Abdi et.al.|[2503.10817](http://arxiv.org/abs/2503.10817)|null|
 |**2025-03-13**|**Adding numbers with spiking neural circuits on neuromorphic hardware**|Oskar von Seeler et.al.|[2503.10387](http://arxiv.org/abs/2503.10387)|null|
 |**2025-03-11**|**Real-Time Neuromorphic Navigation: Guiding Physical Robots with Event-Based Sensing and Task-Specific Reconfigurable Autonomy Stack**|Sourav Sanyal et.al.|[2503.09636](http://arxiv.org/abs/2503.09636)|null|
 |**2025-03-12**|**Neural reservoir control of a soft bio-hybrid arm**|Noel Naughton et.al.|[2503.09477](http://arxiv.org/abs/2503.09477)|null|
@@ -1447,6 +1453,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199](http://arxiv.org/abs/2503.11199)|null|
 |**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464](http://arxiv.org/abs/2503.10464)|null|
 |**2025-03-13**|**MetricGrids: Arbitrary Nonlinear Approximation with Elementary Metric Grids based Implicit Neural Representation**|Shu Wang et.al.|[2503.10000](http://arxiv.org/abs/2503.10000)|null|
 |**2025-03-12**|**SASNet: Spatially-Adaptive Sinusoidal Neural Networks**|Haoan Feng et.al.|[2503.09750](http://arxiv.org/abs/2503.09750)|null|
@@ -2249,6 +2256,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**The Case for ABI Interoperability in a Fault Tolerant MPI**|Yao Xu et.al.|[2503.11138](http://arxiv.org/abs/2503.11138)|null|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
 |**2024-11-30**|**PAL -- Parallel active learning for machine-learned potentials**|Chen Zhou et.al.|[2412.00401](http://arxiv.org/abs/2412.00401)|**[link](https://github.com/aimat-lab/PAL)**|
