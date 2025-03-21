@@ -63,6 +63,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation**|Aung Htet et.al.|[2503.16085](http://arxiv.org/abs/2503.16085)|null|
+|**2025-03-20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|Stijn Groenen et.al.|[2503.16012](http://arxiv.org/abs/2503.16012)|null|
+|**2025-03-20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986](http://arxiv.org/abs/2503.15986)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402](http://arxiv.org/abs/2503.15402)|null|
 |**2025-03-17**|**Neuromorphic Computing with Microfluidic Memristors**|Nico C. X. Stuhlmüller et.al.|[2503.13386](http://arxiv.org/abs/2503.13386)|null|
 |**2025-03-17**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364](http://arxiv.org/abs/2503.13364)|null|
