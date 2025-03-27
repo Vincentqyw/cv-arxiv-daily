@@ -63,6 +63,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|null|
+|**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246](http://arxiv.org/abs/2503.20246)|null|
 |**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643](http://arxiv.org/abs/2503.19643)|null|
 |**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
@@ -2377,7 +2379,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-14**|**Thunder: Harnessing Unused GPU Cycles in Large-Scale Training via Opportunistic Execution**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
+|**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
 |**2025-03-21**|**PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference**|Yufeng Gu et.al.|[2502.07578](http://arxiv.org/abs/2502.07578)|**[link](https://github.com/Yufeng98/CENT)**|
 |**2025-02-11**|**LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid**|Weigao Sun et.al.|[2502.07563](http://arxiv.org/abs/2502.07563)|**[link](https://github.com/opensparsellms/linear-moe)**|
