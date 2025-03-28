@@ -59,7 +59,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|null|
+|**2025-03-27**|**No-drift phase-change memory alloy for neuromorphic computing**|Xiaozhe Wang et.al.|[2503.21446](http://arxiv.org/abs/2503.21446)|null|
+|**2025-03-27**|**Spiking Rate and Latency Encoding with Resonant Tunnelling Diode Neuron Circuits and Design Influences**|Giovanni Donati et.al.|[2503.21342](http://arxiv.org/abs/2503.21342)|null|
+|**2025-03-27**|**A 71.2- $μ$ W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337](http://arxiv.org/abs/2503.21337)|null|
+|**2025-03-25**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813](http://arxiv.org/abs/2503.20813)|null|
+|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|**[link](https://github.com/vidya-rejul/uie-snn)**|
 |**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246](http://arxiv.org/abs/2503.20246)|null|
 |**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643](http://arxiv.org/abs/2503.19643)|null|
 |**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
@@ -977,7 +981,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
+|**2025-03-27**|**No-drift phase-change memory alloy for neuromorphic computing**|Xiaozhe Wang et.al.|[2503.21446](http://arxiv.org/abs/2503.21446)|null|
+|**2025-03-27**|**Spiking Rate and Latency Encoding with Resonant Tunnelling Diode Neuron Circuits and Design Influences**|Giovanni Donati et.al.|[2503.21342](http://arxiv.org/abs/2503.21342)|null|
+|**2025-03-25**|**A Physics-Based Circuit Model for Magnetic Tunnel Junctions**|Steven Louis et.al.|[2503.20813](http://arxiv.org/abs/2503.20813)|null|
+|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|**[link](https://github.com/brain-intelligence-lab/temporal_flexibility_in_SNN)**|
 |**2025-03-13**|**2D Spintronics for Neuromorphic Computing with Scalability and Energy Efficiency**|Douglas Z. Plummer et.al.|[2503.17376](http://arxiv.org/abs/2503.17376)|null|
 |**2025-03-21**|**Region Masking to Accelerate Video Processing on Neuromorphic Hardware**|Sreetama Sarkar et.al.|[2503.16775](http://arxiv.org/abs/2503.16775)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492](http://arxiv.org/abs/2503.13492)|null|
@@ -1472,10 +1479,15 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Generalizable Implicit Neural Representations via Parameterized Latent Dynamics for Baroclinic Ocean Forecasting**|Guang Zhao et.al.|[2503.21588](http://arxiv.org/abs/2503.21588)|null|
+|**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
+|**2025-03-27**|**Unveiling the Potential of Superexpressive Networks in Implicit Neural Representations**|Uvini Balasuriya Mudiyanselage et.al.|[2503.21166](http://arxiv.org/abs/2503.21166)|null|
+|**2025-03-26**|**A dynamic reconstruction and motion estimation framework for cardiorespiratory motion-resolved real-time volumetric MR imaging (DREME-MR)**|Hua-Chieh Shao et.al.|[2503.21014](http://arxiv.org/abs/2503.21014)|null|
+|**2025-03-25**|**D2SA: Dual-Stage Distribution and Slice Adaptation for Efficient Test-Time Adaptation in MRI Reconstruction**|Lipei Zhang et.al.|[2503.20815](http://arxiv.org/abs/2503.20815)|null|
 |**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
 |**2025-03-25**|**SINR: Sparsity Driven Compressed Implicit Neural Representations**|Dhananjaya Jayasundara et.al.|[2503.19576](http://arxiv.org/abs/2503.19576)|null|
 |**2025-03-24**|**Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars**|Jiacheng Wu et.al.|[2503.18408](http://arxiv.org/abs/2503.18408)|null|
-|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|**[link](https://github.com/sandergielisse/mwt)**|
 |**2025-03-23**|**Feature Learning beyond the Lazy-Rich Dichotomy: Insights from Representational Geometry**|Chi-Ning Chou et.al.|[2503.18114](http://arxiv.org/abs/2503.18114)|null|
 |**2025-03-21**|**HyperNVD: Accelerating Neural Video Decomposition via Hypernetworks**|Maria Pilligua et.al.|[2503.17276](http://arxiv.org/abs/2503.17276)|null|
 |**2025-03-20**|**GAIR: Improving Multimodal Geo-Foundation Model with Geo-Aligned Implicit Representations**|Zeping Liu et.al.|[2503.16683](http://arxiv.org/abs/2503.16683)|null|
@@ -2238,7 +2250,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|null|
+|**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|**[link](https://gitlab.com/heart-ray-tracing/HEART)**|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
@@ -2293,7 +2305,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|null|
+|**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|**[link](https://gitlab.com/heart-ray-tracing/HEART)**|
 |**2025-03-14**|**The Case for ABI Interoperability in a Fault Tolerant MPI**|Yao Xu et.al.|[2503.11138](http://arxiv.org/abs/2503.11138)|null|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
 |**2025-02-25**|**Advanced Attacks On Qubit-Ensemble Based Quantum Coins**|Bernd Bauerhenne et.al.|[2412.20243](http://arxiv.org/abs/2412.20243)|**[link](https://github.com/bauerhenne/diqtok-forge)**|
