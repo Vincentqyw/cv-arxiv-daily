@@ -1,4 +1,4 @@
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -63,7 +63,7 @@
 |**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246](http://arxiv.org/abs/2503.20246)|null|
 |**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643](http://arxiv.org/abs/2503.19643)|null|
 |**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
-|**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
+|**2025-03-27**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
 |**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111](http://arxiv.org/abs/2503.17111)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
 |**2025-03-21**|**Region Masking to Accelerate Video Processing on Neuromorphic Hardware**|Sreetama Sarkar et.al.|[2503.16775](http://arxiv.org/abs/2503.16775)|null|
