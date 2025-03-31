@@ -66,7 +66,7 @@
 |**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|**[link](https://github.com/vidya-rejul/uie-snn)**|
 |**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246](http://arxiv.org/abs/2503.20246)|null|
 |**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643](http://arxiv.org/abs/2503.19643)|null|
-|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|null|
+|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394](http://arxiv.org/abs/2503.17394)|**[link](https://github.com/brain-intelligence-lab/temporal_flexibility_in_SNN)**|
 |**2025-03-27**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
 |**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111](http://arxiv.org/abs/2503.17111)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061](http://arxiv.org/abs/2503.17061)|null|
@@ -77,8 +77,8 @@
 |**2025-03-20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986](http://arxiv.org/abs/2503.15986)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402](http://arxiv.org/abs/2503.15402)|null|
 |**2025-03-17**|**Neuromorphic Computing with Microfluidic Memristors**|Nico C. X. Stuhlmüller et.al.|[2503.13386](http://arxiv.org/abs/2503.13386)|null|
-|**2025-03-17**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364](http://arxiv.org/abs/2503.13364)|null|
-|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905](http://arxiv.org/abs/2503.12905)|null|
+|**2025-03-17**|**Demonstration of a Tunable Non-Hermitian Nonlinear Microwave Dimer**|Juan S. Salcedo-Gallo et.al.|[2503.13364](http://arxiv.org/abs/2503.13364)|**[link](https://github.com/jussalcedoga-dartmouth/nh_nl_dynamics_dimer)**|
+|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905](http://arxiv.org/abs/2503.12905)|**[link](https://github.com/YBQian-Roy/UCF-Crime-DVS)**|
 |**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206](http://arxiv.org/abs/2503.11206)|null|
 |**2025-03-14**|**A Fully Reconfigurable All-Optical Integrated Nonlinear Activator**|Bei Chen et.al.|[2503.11141](http://arxiv.org/abs/2503.11141)|null|
 |**2025-03-13**|**Memristive properties and synaptic plasticity in substituted pyridinium iodobismuthates**|Gisya Abdi et.al.|[2503.10817](http://arxiv.org/abs/2503.10817)|null|
@@ -110,7 +110,7 @@
 |**2025-03-02**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713](http://arxiv.org/abs/2503.00713)|null|
 |**2025-03-01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|Hengye Yang et.al.|[2503.00380](http://arxiv.org/abs/2503.00380)|null|
 |**2025-02-28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|Zihan Huang et.al.|[2502.21193](http://arxiv.org/abs/2502.21193)|null|
-|**2025-02-28**|**NeuroMorse: A Temporally Structured Dataset For Neuromorphic Computing**|Ben Walters et.al.|[2502.20729](http://arxiv.org/abs/2502.20729)|null|
+|**2025-02-28**|**NeuroMorse: A Temporally Structured Dataset For Neuromorphic Computing**|Ben Walters et.al.|[2502.20729](http://arxiv.org/abs/2502.20729)|**[link](https://github.com/ben-e-walters/neuromorse)**|
 |**2025-02-27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|Aybars Yunusoglu et.al.|[2502.20492](http://arxiv.org/abs/2502.20492)|null|
 |**2025-02-27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|Dmitrii Zendrikov et.al.|[2502.20381](http://arxiv.org/abs/2502.20381)|null|
 |**2025-02-27**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660](http://arxiv.org/abs/2502.19660)|**[link](https://github.com/Miraclelzk/NI-SGCN)**|
@@ -154,7 +154,7 @@
 |**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837](http://arxiv.org/abs/2502.01837)|null|
 |**2025-02-02**|**Ultrafast electrical control of dipolaritonic circuits with a few femto-joul per bit power consumption**|Dror Liran et.al.|[2502.00878](http://arxiv.org/abs/2502.00878)|null|
 |**2025-01-31**|**Electrically induced negative differential resistance states mediated by oxygen octahedra coupling in manganites for neuronaldynamics**|Azminul Jaman et.al.|[2502.00137](http://arxiv.org/abs/2502.00137)|null|
-|**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|null|
+|**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074](http://arxiv.org/abs/2502.00074)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259](http://arxiv.org/abs/2501.19259)|null|
 |**2025-01-31**|**Novel Magnetic Materials for Spintronic Device Technology**|A. Sud et.al.|[2501.19087](http://arxiv.org/abs/2501.19087)|null|
 |**2025-01-31**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069](http://arxiv.org/abs/2501.19069)|null|
@@ -350,11 +350,11 @@
 |**2024-10-04**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530](http://arxiv.org/abs/2410.03530)|null|
 |**2024-10-03**|**Laser induced transition in Cerium Oxide thin film**|Mousri Paul et.al.|[2410.02517](http://arxiv.org/abs/2410.02517)|null|
 |**2024-10-03**|**Ultrathin BIC metasurfaces based on ultralow-loss Sb2Se3 phase-change material**|Zhaoyang Xie et.al.|[2410.02413](http://arxiv.org/abs/2410.02413)|null|
-|**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249](http://arxiv.org/abs/2410.02249)|null|
+|**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249](http://arxiv.org/abs/2410.02249)|**[link](https://github.com/andycao1125/spikeslicer)**|
 |**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745](http://arxiv.org/abs/2410.00745)|null|
 |**2024-10-01**|**Deep activity propagation via weight initialization in spiking neural networks**|Aurora Micheli et.al.|[2410.00580](http://arxiv.org/abs/2410.00580)|null|
 |**2024-10-01**|**NeuroVM: Dynamic Neuromorphic Hardware Virtualization**|Murat Isik et.al.|[2410.00295](http://arxiv.org/abs/2410.00295)|null|
-|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764](http://arxiv.org/abs/2409.19764)|null|
+|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764](http://arxiv.org/abs/2409.19764)|**[link](https://github.com/intelligent-computing-lab-yale/statten)**|
 |**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413](http://arxiv.org/abs/2409.19413)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
 |**2024-09-26**|**Scanning Thermal Microscopy method for self-heating in non-linear devices and application to current filaments in resistive RAM**|Nele Harnack et.al.|[2409.18210](http://arxiv.org/abs/2409.18210)|null|
@@ -391,7 +391,7 @@
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](http://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
-|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|**[link](https://github.com/putshua/inference-scale-ann-snn)**|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
 |**2024-09-04**|**A Low-Cost Real-Time Spiking System for Obstacle Detection based on Ultrasonic Sensors and Rate Coding**|Alvaro Ayuso-Martinez et.al.|[2409.02680](http://arxiv.org/abs/2409.02680)|null|
 |**2024-09-04**|**A design of magnetic tunnel junctions for the deployment of neuromorphic hardware for edge computing**|Davi Rodrigues et.al.|[2409.02528](http://arxiv.org/abs/2409.02528)|null|
@@ -904,7 +904,7 @@
 |**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250](http://arxiv.org/abs/2308.13250)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529](http://arxiv.org/abs/2308.12529)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063](http://arxiv.org/abs/2308.12063)|null|
-|**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053](http://arxiv.org/abs/2308.12053)|null|
+|**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053](http://arxiv.org/abs/2308.12053)|**[link](https://github.com/leanderweber/layerwise-feedback-propagation)**|
 |**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152](http://arxiv.org/abs/2308.11152)|null|
 |**2023-08-21**|**Neuromorphic Hebbian learning with magnetic tunnel junction synapses**|Peng Zhou et.al.|[2308.11011](http://arxiv.org/abs/2308.11011)|null|
@@ -1002,7 +1002,7 @@
 |**2025-03-04**|**Quantum memristor with vacuum--one-photon qubits**|Simone Di Micco et.al.|[2503.02466](http://arxiv.org/abs/2503.02466)|null|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898](http://arxiv.org/abs/2503.00898)|null|
 |**2025-02-25**|**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**|Dehao Zhang et.al.|[2503.00040](http://arxiv.org/abs/2503.00040)|null|
-|**2025-02-28**|**NeuroMorse: A Temporally Structured Dataset For Neuromorphic Computing**|Ben Walters et.al.|[2502.20729](http://arxiv.org/abs/2502.20729)|null|
+|**2025-02-28**|**NeuroMorse: A Temporally Structured Dataset For Neuromorphic Computing**|Ben Walters et.al.|[2502.20729](http://arxiv.org/abs/2502.20729)|**[link](https://github.com/ben-e-walters/neuromorse)**|
 |**2025-02-27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|Aybars Yunusoglu et.al.|[2502.20492](http://arxiv.org/abs/2502.20492)|null|
 |**2025-02-23**|**A Quarter of a Century of Neuromorphic Architectures on FPGAs -- an Overview**|Wiktor J. Szczerek et.al.|[2502.20415](http://arxiv.org/abs/2502.20415)|null|
 |**2025-02-27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|Dmitrii Zendrikov et.al.|[2502.20381](http://arxiv.org/abs/2502.20381)|null|
@@ -1156,7 +1156,7 @@
 |**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|**[link](https://github.com/neurogeometry/sparse_learning)**|
 |**2024-09-06**|**Mott materials: unsuccessful metals with a bright future**|Alessandra Milloch et.al.|[2409.04154](http://arxiv.org/abs/2409.04154)|null|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508](http://arxiv.org/abs/2409.03508)|null|
-|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|null|
+|**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368](http://arxiv.org/abs/2409.03368)|**[link](https://github.com/putshua/inference-scale-ann-snn)**|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
 |**2024-09-04**|**A design of magnetic tunnel junctions for the deployment of neuromorphic hardware for edge computing**|Davi Rodrigues et.al.|[2409.02528](http://arxiv.org/abs/2409.02528)|null|
 |**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762](http://arxiv.org/abs/2409.01762)|**[link](https://github.com/fmi-basel/neural-decoding-RSNN)**|
@@ -1525,7 +1525,7 @@
 |**2025-03-02**|**Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models**|Jeffrey Gu et.al.|[2503.00838](http://arxiv.org/abs/2503.00838)|null|
 |**2025-02-28**|**Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging**|Wenqi Huang et.al.|[2503.00230](http://arxiv.org/abs/2503.00230)|null|
 |**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292](http://arxiv.org/abs/2502.21292)|null|
-|**2025-02-28**|**Towards Lossless Implicit Neural Representation via Bit Plane Decomposition**|Woo Kyoung Han et.al.|[2502.21001](http://arxiv.org/abs/2502.21001)|null|
+|**2025-02-28**|**Towards Lossless Implicit Neural Representation via Bit Plane Decomposition**|Woo Kyoung Han et.al.|[2502.21001](http://arxiv.org/abs/2502.21001)|**[link](https://github.com/wookyounghan/losslessinr)**|
 |**2025-03-04**|**Data Distributional Properties As Inductive Bias for Systematic Generalization**|Felipe del Río et.al.|[2502.20499](http://arxiv.org/abs/2502.20499)|null|
 |**2025-02-27**|**Adversarial Robustness in Parameter-Space Classifiers**|Tamir Shor et.al.|[2502.20314](http://arxiv.org/abs/2502.20314)|null|
 |**2025-02-28**|**Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets**|Chi-Chien Tsai et.al.|[2502.20246](http://arxiv.org/abs/2502.20246)|null|
@@ -1569,7 +1569,7 @@
 |**2025-01-24**|**Kolmogorov Arnold Neural Interpolator for Downscaling and Correcting Meteorological Fields from In-Situ Observations**|Zili Liu et.al.|[2501.14404](http://arxiv.org/abs/2501.14404)|null|
 |**2025-01-20**|**Generating visual explanations from deep networks using implicit neural representations**|Michal Byra et.al.|[2501.11784](http://arxiv.org/abs/2501.11784)|null|
 |**2025-01-20**|**Collaborative Imputation of Urban Time Series through Cross-city Meta-learning**|Tong Nie et.al.|[2501.11306](http://arxiv.org/abs/2501.11306)|null|
-|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|null|
+|**2025-01-19**|**BF-STVSR: B-Splines and Fourier-Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution**|Eunjin Kim et.al.|[2501.11043](http://arxiv.org/abs/2501.11043)|**[link](https://github.com/eunjnnn/bfstvsr)**|
 |**2025-01-18**|**Certifying Robustness via Topological Representations**|Jens Agerberg et.al.|[2501.10876](http://arxiv.org/abs/2501.10876)|null|
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
