@@ -59,6 +59,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Learning dynamics on the picosecond timescale in a superconducting synapse structure**|Ken Segall et.al.|[2504.02754](http://arxiv.org/abs/2504.02754)|null|
+|**2025-04-03**|**State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons**|Sanja Karilanova et.al.|[2504.02591](http://arxiv.org/abs/2504.02591)|null|
+|**2025-04-03**|**SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks**|Xinyu Luo et.al.|[2504.02298](http://arxiv.org/abs/2504.02298)|null|
 |**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755](http://arxiv.org/abs/2504.01755)|null|
 |**2025-04-02**|**FLAMES: A Hybrid Spiking-State Space Model for Adaptive Memory Retention in Event-Based Learning**|Biswadeep Chakraborty et.al.|[2504.01257](http://arxiv.org/abs/2504.01257)|null|
 |**2025-04-01**|**Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2504.01246](http://arxiv.org/abs/2504.01246)|null|
