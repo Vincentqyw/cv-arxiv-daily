@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1004,7 +1004,7 @@ layout: default
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957](http://arxiv.org/abs/2504.00957)|null|
 |**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679](http://arxiv.org/abs/2504.00679)|null|
 |**2025-03-31**|**Noise-based reward-modulated learning**|Jesús García Fernández et.al.|[2503.23972](http://arxiv.org/abs/2503.23972)|null|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
+|**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](http://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Harnessing uncertainty when learning through Equilibrium Propagation in neural networks**|Jonathan Peters et.al.|[2503.22810](http://arxiv.org/abs/2503.22810)|null|
 |**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604](http://arxiv.org/abs/2503.22604)|null|
 |**2025-03-28**|**The 2D Materials Roadmap**|Wencai Ren et.al.|[2503.22476](http://arxiv.org/abs/2503.22476)|null|
