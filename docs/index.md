@@ -1007,6 +1007,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Singular networks and ultrasensitive terminal behaviors**|Alessio Franci et.al.|[2504.07628](http://arxiv.org/abs/2504.07628)|null|
 |**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
 |**2025-04-09**|**Artificial Spin Ice: A Tutorial on Design and Control of Geometry, Microstate, Magnon Dynamics & Neuromorphic Computing**|Rawnak Sultana et.al.|[2504.06548](http://arxiv.org/abs/2504.06548)|null|
 |**2025-04-08**|**Rhythmic neuromorphic control of a pendulum: A hybrid systems analysis**|E. Petri et.al.|[2504.06046](http://arxiv.org/abs/2504.06046)|null|
@@ -1524,7 +1525,7 @@ layout: default
 |**2025-04-07**|**Exploring Kernel Transformations for Implicit Neural Representations**|Sheng Zheng et.al.|[2504.04728](http://arxiv.org/abs/2504.04728)|null|
 |**2025-04-05**|**SDEIT: Semantic-Driven Electrical Impedance Tomography**|Dong Liu et.al.|[2504.04185](http://arxiv.org/abs/2504.04185)|null|
 |**2025-04-02**|**Decoding Covert Speech from EEG Using a Functional Areas Spatio-Temporal Transformer**|Muyun Jiang et.al.|[2504.03762](http://arxiv.org/abs/2504.03762)|null|
-|**2025-04-04**|**Steerable Anatomical Shape Synthesis with Implicit Neural Representations**|Bram de Wilde et.al.|[2504.03313](http://arxiv.org/abs/2504.03313)|null|
+|**2025-04-04**|**Steerable Anatomical Shape Synthesis with Implicit Neural Representations**|Bram de Wilde et.al.|[2504.03313](http://arxiv.org/abs/2504.03313)|**[link](https://github.com/miagrouput/steerable-shape-synthesis)**|
 |**2025-04-02**|**Representing Flow Fields with Divergence-Free Kernels for Reconstruction**|Xingyu Ni et.al.|[2504.01913](http://arxiv.org/abs/2504.01913)|null|
 |**2025-04-02**|**A topology-preserving three-stage framework for fully-connected coronary artery extraction**|Yuehui Qiu et.al.|[2504.01597](http://arxiv.org/abs/2504.01597)|null|
 |**2025-03-28**|**Mesh Compression with Quantized Neural Displacement Fields**|Sai Karthikey Pentapati et.al.|[2504.01027](http://arxiv.org/abs/2504.01027)|null|
