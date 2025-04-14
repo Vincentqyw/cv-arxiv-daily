@@ -393,7 +393,7 @@ layout: default
 |**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298](http://arxiv.org/abs/2409.14298)|**[link](https://github.com/TENNLab-UTK/dbscan)**|
 |**2024-09-19**|**The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning**|Manh V. Nguyen et.al.|[2409.12769](http://arxiv.org/abs/2409.12769)|null|
 |**2024-09-19**|**A dynamic vision sensor object recognition model based on trainable event-driven convolution and spiking attention mechanism**|Peng Zheng et.al.|[2409.12691](http://arxiv.org/abs/2409.12691)|null|
-|**2024-09-19**|**Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks**|Xian Zhong et.al.|[2409.12507](http://arxiv.org/abs/2409.12507)|null|
+|**2024-09-19**|**Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks**|Xian Zhong et.al.|[2409.12507](http://arxiv.org/abs/2409.12507)|**[link](https://github.com/hsw0929/hsd)**|
 |**2024-09-18**|**Hyperspectral Image Classification Based on Faster Residual Multi-branch Spiking Neural Network**|Yang Liu et.al.|[2409.11619](http://arxiv.org/abs/2409.11619)|null|
 |**2024-09-18**|**Hardware-Friendly Implementation of Physical Reservoir Computing with CMOS-based Time-domain Analog Spiking Neurons**|Nanako Kimura et.al.|[2409.11612](http://arxiv.org/abs/2409.11612)|null|
 |**2024-09-17**|**Inferno: An Extensible Framework for Spiking Neural Networks**|Marissa Dominijanni et.al.|[2409.11567](http://arxiv.org/abs/2409.11567)|**[link](https://github.com/mdominijanni/inferno)**|
@@ -1652,7 +1652,7 @@ layout: default
 |**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|null|
 |**2024-12-15**|**AI-Driven Innovations in Volumetric Video Streaming: A Review**|Erfan Entezami et.al.|[2412.12208](http://arxiv.org/abs/2412.12208)|null|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
-|**2024-12-13**|**EVOS: Efficient Implicit Neural Training via EVOlutionary Selector**|Weixiang Zhang et.al.|[2412.10153](http://arxiv.org/abs/2412.10153)|null|
+|**2024-12-13**|**EVOS: Efficient Implicit Neural Training via EVOlutionary Selector**|Weixiang Zhang et.al.|[2412.10153](http://arxiv.org/abs/2412.10153)|**[link](https://github.com/zwx-open/evos-inr)**|
 |**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|**[link](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)**|
 |**2024-12-11**|**From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields**|Miltiadis Kofinas et.al.|[2412.08731](http://arxiv.org/abs/2412.08731)|**[link](https://github.com/mkofinas/neomlp)**|
 |**2024-12-11**|**Learning to Decouple the Lights for 3D Face Texture Modeling**|Tianxin Huang et.al.|[2412.08524](http://arxiv.org/abs/2412.08524)|null|
