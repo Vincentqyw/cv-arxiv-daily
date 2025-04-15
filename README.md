@@ -59,6 +59,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
+|**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796](http://arxiv.org/abs/2504.09796)|null|
+|**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213](http://arxiv.org/abs/2504.09213)|null|
+|**2025-04-12**|**Gaussian process regression with additive periodic kernels for two-body interaction analysis in coupled phase oscillators**|Ryosuke Yoneda et.al.|[2504.09110](http://arxiv.org/abs/2504.09110)|null|
+|**2025-04-11**|**Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks**|Jiaqi Lin et.al.|[2504.08897](http://arxiv.org/abs/2504.08897)|null|
 |**2025-04-10**|**Enhanced Luminous Transmission and Solar Modulation in Thermochromic VO2 Aerogel-Like Films via Remote Plasma Deposition**|Jose M. Obrero-Perez et.al.|[2504.08133](http://arxiv.org/abs/2504.08133)|null|
 |**2025-04-03**|**Volatile and Nonvolatile Resistive Switching in Lateral 2D Molybdenum Disulfide-Based Memristive Devices**|Sofía Cruces et.al.|[2504.07979](http://arxiv.org/abs/2504.07979)|null|
 |**2025-04-09**|**Learning in Spiking Neural Networks with a Calcium-based Hebbian Rule for Spike-timing-dependent Plasticity**|Willian Soares Girão et.al.|[2504.06796](http://arxiv.org/abs/2504.06796)|null|
@@ -1005,6 +1010,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Gradient modelling of memristive systems**|Fulvio Forni et.al.|[2504.10093](http://arxiv.org/abs/2504.10093)|null|
+|**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
 |**2025-04-10**|**Enhanced Luminous Transmission and Solar Modulation in Thermochromic VO2 Aerogel-Like Films via Remote Plasma Deposition**|Jose M. Obrero-Perez et.al.|[2504.08133](http://arxiv.org/abs/2504.08133)|null|
 |**2025-04-03**|**Volatile and Nonvolatile Resistive Switching in Lateral 2D Molybdenum Disulfide-Based Memristive Devices**|Sofía Cruces et.al.|[2504.07979](http://arxiv.org/abs/2504.07979)|null|
 |**2025-04-10**|**Singular networks and ultrasensitive terminal behaviors**|Alessio Franci et.al.|[2504.07628](http://arxiv.org/abs/2504.07628)|null|
@@ -1520,6 +1527,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**Dynamical symmetries in the fluctuation-driven regime: an application of Noether's theorem to noisy dynamical systems**|John J. Vastola et.al.|[2504.09761](http://arxiv.org/abs/2504.09761)|null|
+|**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
+|**2025-04-12**|**MedIL: Implicit Latent Spaces for Generating Heterogeneous Medical Images at Arbitrary Resolutions**|Tyler Spears et.al.|[2504.09322](http://arxiv.org/abs/2504.09322)|null|
 |**2025-04-11**|**Simple low-dimensional computations explain variability in neuronal activity**|Christopher W. Lynn et.al.|[2504.08637](http://arxiv.org/abs/2504.08637)|null|
 |**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
 |**2025-04-09**|**ThoughtProbe: Classifier-Guided Thought Space Exploration Leveraging LLM Intrinsic Reasoning**|Zijian Wang et.al.|[2504.06650](http://arxiv.org/abs/2504.06650)|null|
@@ -2360,6 +2370,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**FTHP-MPI: Towards Providing Replication-based Fault Tolerance in a Fault-Intolerant Native MPI Library**|Sarthak Joshi et.al.|[2504.09989](http://arxiv.org/abs/2504.09989)|null|
 |**2025-03-21**|**HEART: A New X-Ray Tracing Code for Mosaic Crystal Spectrometers**|Thomas Gawne et.al.|[2503.16955](http://arxiv.org/abs/2503.16955)|**[link](https://gitlab.com/heart-ray-tracing/HEART)**|
 |**2025-03-14**|**The Case for ABI Interoperability in a Fault Tolerant MPI**|Yao Xu et.al.|[2503.11138](http://arxiv.org/abs/2503.11138)|null|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496](http://arxiv.org/abs/2502.17496)|null|
@@ -2443,6 +2454,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|null|
 |**2025-04-07**|**Sparsity-Aware Communication for Distributed Graph Neural Network Training**|Ujjaini Mukhodopadhyay et.al.|[2504.04673](http://arxiv.org/abs/2504.04673)|null|
 |**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
