@@ -59,6 +59,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026](http://arxiv.org/abs/2504.11026)|null|
 |**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
 |**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796](http://arxiv.org/abs/2504.09796)|null|
 |**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213](http://arxiv.org/abs/2504.09213)|null|
@@ -1010,6 +1011,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**A Winner-Takes-All Mechanism for Event Generation**|Yongkang Huo et.al.|[2504.11374](http://arxiv.org/abs/2504.11374)|null|
 |**2025-04-14**|**Gradient modelling of memristive systems**|Fulvio Forni et.al.|[2504.10093](http://arxiv.org/abs/2504.10093)|null|
 |**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
 |**2025-04-10**|**Enhanced Luminous Transmission and Solar Modulation in Thermochromic VO2 Aerogel-Like Films via Remote Plasma Deposition**|Jose M. Obrero-Perez et.al.|[2504.08133](http://arxiv.org/abs/2504.08133)|null|
@@ -1527,6 +1529,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
+|**2025-04-15**|**Cross-Frequency Implicit Neural Representation with Self-Evolving Parameters**|Chang Yu et.al.|[2504.10929](http://arxiv.org/abs/2504.10929)|null|
 |**2025-04-13**|**Dynamical symmetries in the fluctuation-driven regime: an application of Noether's theorem to noisy dynamical systems**|John J. Vastola et.al.|[2504.09761](http://arxiv.org/abs/2504.09761)|null|
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
 |**2025-04-12**|**MedIL: Implicit Latent Spaces for Generating Heterogeneous Medical Images at Arbitrary Resolutions**|Tyler Spears et.al.|[2504.09322](http://arxiv.org/abs/2504.09322)|null|
