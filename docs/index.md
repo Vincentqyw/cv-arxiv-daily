@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -16,7 +16,7 @@ layout: default
 |**2025-01-19**|**Dissertation Machine Learning in Materials Science -- A case study in Carbon Nanotube field effect transistors**|Shulin Tan et.al.|[2501.14813](http://arxiv.org/abs/2501.14813)|null|
 |**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
-|**2025-04-09**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
+|**2025-04-16**|**Noise-based Local Learning using Stochastic Magnetic Tunnel Junctions**|Kees Koenders et.al.|[2412.12783](http://arxiv.org/abs/2412.12783)|**[link](https://github.com/artcogsys/MTJ-Node-Perturbation)**|
 |**2025-01-07**|**Gradient Diffusion: Enhancing Existing Neural Models with Homeostatic Control and Tuning**|Lennart P. L. Landsmeer et.al.|[2412.07327](http://arxiv.org/abs/2412.07327)|null|
 |**2025-02-19**|**A Graph Neural Network Simulation of Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2025-02-16**|**Convergence proofs and strong error bounds for forward-backward stochastic differential equations using neural network simulations**|Oliver Sheridan-Methven et.al.|[2411.01306](http://arxiv.org/abs/2411.01306)|null|
