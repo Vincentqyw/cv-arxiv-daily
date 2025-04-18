@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1545,7 +1545,7 @@ layout: default
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
 |**2025-04-12**|**MedIL: Implicit Latent Spaces for Generating Heterogeneous Medical Images at Arbitrary Resolutions**|Tyler Spears et.al.|[2504.09322](http://arxiv.org/abs/2504.09322)|null|
 |**2025-04-11**|**Simple low-dimensional computations explain variability in neuronal activity**|Christopher W. Lynn et.al.|[2504.08637](http://arxiv.org/abs/2504.08637)|null|
-|**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
+|**2025-04-17**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
 |**2025-04-09**|**ThoughtProbe: Classifier-Guided Thought Space Exploration Leveraging LLM Intrinsic Reasoning**|Zijian Wang et.al.|[2504.06650](http://arxiv.org/abs/2504.06650)|null|
 |**2025-04-07**|**Exploring Kernel Transformations for Implicit Neural Representations**|Sheng Zheng et.al.|[2504.04728](http://arxiv.org/abs/2504.04728)|null|
 |**2025-04-05**|**SDEIT: Semantic-Driven Electrical Impedance Tomography**|Dong Liu et.al.|[2504.04185](http://arxiv.org/abs/2504.04185)|null|
@@ -2468,7 +2468,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|null|
+|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
 |**2025-04-07**|**Sparsity-Aware Communication for Distributed Graph Neural Network Training**|Ujjaini Mukhodopadhyay et.al.|[2504.04673](http://arxiv.org/abs/2504.04673)|null|
 |**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
