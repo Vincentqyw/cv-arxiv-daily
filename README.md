@@ -1,4 +1,4 @@
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -67,7 +67,7 @@
 |**2025-04-16**|**Polarisation-Inclusive Spiking Neural Networks for Real-Time RFI Detection in Modern Radio Telescopes**|Nicholas J. Pritchard et.al.|[2504.11720](http://arxiv.org/abs/2504.11720)|null|
 |**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568](http://arxiv.org/abs/2504.11568)|null|
 |**2025-04-13**|**snnTrans-DHZ: A Lightweight Spiking Neural Network Architecture for Underwater Image Dehazing**|Vidya Sudevan et.al.|[2504.11482](http://arxiv.org/abs/2504.11482)|null|
-|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026](http://arxiv.org/abs/2504.11026)|null|
+|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026](http://arxiv.org/abs/2504.11026)|**[link](https://github.com/alex-vasilache/spike-encoding)**|
 |**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
 |**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796](http://arxiv.org/abs/2504.09796)|null|
 |**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213](http://arxiv.org/abs/2504.09213)|null|
@@ -1542,10 +1542,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-17**|**Tree-NeRV: A Tree-Structured Neural Representation for Efficient Non-Uniform Video Encoding**|Jiancheng Zhao et.al.|[2504.12899](http://arxiv.org/abs/2504.12899)|null|
-|**2025-04-16**|**Optimal packing of attractor states in neural representations**|John J. Vastola et.al.|[2504.12429](http://arxiv.org/abs/2504.12429)|null|
+|**2025-04-16**|**Optimal packing of attractor states in neural representations**|John J. Vastola et.al.|[2504.12429](http://arxiv.org/abs/2504.12429)|**[link](https://github.com/john-vastola/optimal-packing-neurreps23)**|
 |**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
 |**2025-04-15**|**Cross-Frequency Implicit Neural Representation with Self-Evolving Parameters**|Chang Yu et.al.|[2504.10929](http://arxiv.org/abs/2504.10929)|null|
-|**2025-04-13**|**Dynamical symmetries in the fluctuation-driven regime: an application of Noether's theorem to noisy dynamical systems**|John J. Vastola et.al.|[2504.09761](http://arxiv.org/abs/2504.09761)|null|
+|**2025-04-13**|**Dynamical symmetries in the fluctuation-driven regime: an application of Noether's theorem to noisy dynamical systems**|John J. Vastola et.al.|[2504.09761](http://arxiv.org/abs/2504.09761)|**[link](https://github.com/john-vastola/noether-neurreps24)**|
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
 |**2025-04-12**|**MedIL: Implicit Latent Spaces for Generating Heterogeneous Medical Images at Arbitrary Resolutions**|Tyler Spears et.al.|[2504.09322](http://arxiv.org/abs/2504.09322)|null|
 |**2025-04-11**|**Simple low-dimensional computations explain variability in neuronal activity**|Christopher W. Lynn et.al.|[2504.08637](http://arxiv.org/abs/2504.08637)|null|
