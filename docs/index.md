@@ -63,6 +63,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|Avaneesh Devkota et.al.|[2504.13541](http://arxiv.org/abs/2504.13541)|null|
 |**2025-04-17**|**Revisiting the Haken Lighthouse Model**|S Coombes et.al.|[2504.12821](http://arxiv.org/abs/2504.12821)|null|
 |**2025-04-17**|**7-Methylquinolinium Iodobismuthate Memristor: Exploring Plasticity and Memristive Properties for Digit Classification in Physical Reservoir Computing**|Gisya Abdi et.al.|[2504.12705](http://arxiv.org/abs/2504.12705)|null|
 |**2025-04-17**|**Spike-Kal: A Spiking Neuron Network Assisted Kalman Filter**|Xun Xiao et.al.|[2504.12703](http://arxiv.org/abs/2504.12703)|null|
@@ -1545,6 +1546,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Accelerated Optimization of Implicit Neural Representations for CT Reconstruction**|Mahrokh Najaf et.al.|[2504.13390](http://arxiv.org/abs/2504.13390)|null|
 |**2025-04-17**|**Tree-NeRV: A Tree-Structured Neural Representation for Efficient Non-Uniform Video Encoding**|Jiancheng Zhao et.al.|[2504.12899](http://arxiv.org/abs/2504.12899)|null|
 |**2025-04-16**|**Optimal packing of attractor states in neural representations**|John J. Vastola et.al.|[2504.12429](http://arxiv.org/abs/2504.12429)|**[link](https://github.com/john-vastola/optimal-packing-neurreps23)**|
 |**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
