@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -2480,7 +2480,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-11**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
+|**2025-04-20**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
 |**2025-04-07**|**Sparsity-Aware Communication for Distributed Graph Neural Network Training**|Ujjaini Mukhodopadhyay et.al.|[2504.04673](http://arxiv.org/abs/2504.04673)|null|
 |**2025-03-26**|**SpecInF: Exploiting Idle GPU Resources in Distributed DL Training via Speculative Inference Filling**|Cunchi Lv et.al.|[2503.02550](http://arxiv.org/abs/2503.02550)|null|
 |**2025-02-25**|**ZCCL: Significantly Improving Collective Communication With Error-Bounded Lossy Compression**|Jiajun Huang et.al.|[2502.18554](http://arxiv.org/abs/2502.18554)|null|
