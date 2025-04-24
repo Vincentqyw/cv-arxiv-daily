@@ -1552,6 +1552,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Summary statistics of learning link changing neural representations to behavior**|Jacob A. Zavatone-Veth et.al.|[2504.16920](http://arxiv.org/abs/2504.16920)|null|
+|**2025-04-23**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
+|**2025-04-23**|**PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems**|Magnus Petersen et.al.|[2504.16381](http://arxiv.org/abs/2504.16381)|null|
 |**2025-04-22**|**Motion-Enhanced Nonlocal Similarity Implicit Neural Representation for Infrared Dim and Small Target Detection**|Pei Liu et.al.|[2504.15665](http://arxiv.org/abs/2504.15665)|null|
 |**2025-04-21**|**Unwarping Screen Content Images via Structure-texture Enhancement Network and Transformation Self-estimation**|Zhenzhen Xiao et.al.|[2504.15108](http://arxiv.org/abs/2504.15108)|null|
 |**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
