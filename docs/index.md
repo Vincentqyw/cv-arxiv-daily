@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -65,7 +65,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819](http://arxiv.org/abs/2504.17819)|null|
-|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
+|**2025-04-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
 |**2025-04-19**|**Fabrication and characterization of boron-terminated tetravacancies in monolayer hBN using STEM, EELS and electron ptychography**|Dana O. Byrne et.al.|[2504.14217](http://arxiv.org/abs/2504.14217)|null|
 |**2025-04-18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|Dominik Dold et.al.|[2504.14015](http://arxiv.org/abs/2504.14015)|null|
@@ -1554,15 +1554,15 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-25**|**Physics-Driven Neural Compensation For Electrical Impedance Tomography**|Chuyu Wang et.al.|[2504.18067](http://arxiv.org/abs/2504.18067)|null|
-|**2025-04-25**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
+|**2025-04-28**|**Physics-Driven Neural Compensation For Electrical Impedance Tomography**|Chuyu Wang et.al.|[2504.18067](http://arxiv.org/abs/2504.18067)|null|
+|**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
 |**2025-04-24**|**I-INR: Iterative Implicit Neural Representations**|Ali Haider et.al.|[2504.17364](http://arxiv.org/abs/2504.17364)|null|
 |**2025-04-24**|**Symbolic Representation for Any-to-Any Generative Tasks**|Jiaqi Chen et.al.|[2504.17261](http://arxiv.org/abs/2504.17261)|null|
 |**2025-04-24**|**Range Image-Based Implicit Neural Compression for LiDAR Point Clouds**|Akihiro Kuwabara et.al.|[2504.17229](http://arxiv.org/abs/2504.17229)|null|
 |**2025-04-23**|**Physiological neural representation for personalised tracer kinetic parameter estimation from dynamic PET**|Kartikay Tehlan et.al.|[2504.17122](http://arxiv.org/abs/2504.17122)|null|
 |**2025-04-23**|**Summary statistics of learning link changing neural representations to behavior**|Jacob A. Zavatone-Veth et.al.|[2504.16920](http://arxiv.org/abs/2504.16920)|null|
 |**2025-04-24**|**Hyper-Transforming Latent Diffusion Models**|Ignacio Peis et.al.|[2504.16580](http://arxiv.org/abs/2504.16580)|null|
-|**2025-04-23**|**PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems**|Magnus Petersen et.al.|[2504.16381](http://arxiv.org/abs/2504.16381)|null|
+|**2025-04-28**|**PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems**|Magnus Petersen et.al.|[2504.16381](http://arxiv.org/abs/2504.16381)|null|
 |**2025-04-22**|**Motion-Enhanced Nonlocal Similarity Implicit Neural Representation for Infrared Dim and Small Target Detection**|Pei Liu et.al.|[2504.15665](http://arxiv.org/abs/2504.15665)|null|
 |**2025-04-21**|**Unwarping Screen Content Images via Structure-texture Enhancement Network and Transformation Self-estimation**|Zhenzhen Xiao et.al.|[2504.15108](http://arxiv.org/abs/2504.15108)|null|
 |**2025-04-20**|**Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space**|Yichi Zhang et.al.|[2504.14471](http://arxiv.org/abs/2504.14471)|null|
