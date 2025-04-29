@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**All-Optical Doubly Resonant Cavities for ReLU Function in Nanophotonic Deep Learning**|Amirreza Ahmadnejad et.al.|[2504.19692](http://arxiv.org/abs/2504.19692)|null|
 |**2025-04-22**|**Differentiable graph neural network simulator for forward and inverse modeling of multi-layered slope system with multiple material properties**|Yongjin Choi et.al.|[2504.15938](http://arxiv.org/abs/2504.15938)|null|
 |**2025-03-19**|**Project Jenkins: Turning Monkey Neural Data into Robotic Arm Movement, and Back**|Andrii Zahorodnii et.al.|[2503.14847](http://arxiv.org/abs/2503.14847)|null|
 |**2025-03-04**|**Tera-MIND: Tera-scale mouse brain simulation via spatial mRNA-guided diffusion**|Jiqing Wu et.al.|[2503.01220](http://arxiv.org/abs/2503.01220)|null|
@@ -60,6 +61,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694](http://arxiv.org/abs/2504.18694)|null|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819](http://arxiv.org/abs/2504.17819)|null|
 |**2025-04-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371](http://arxiv.org/abs/2504.14371)|null|
@@ -1026,6 +1028,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694](http://arxiv.org/abs/2504.18694)|null|
 |**2025-04-20**|**A Bio-inspired Asymmetric Double-Gate Ferroelectric FET for Emulating Astrocyte and Dendrite Dynamics in Neuromorphic Systems**|Zhouhang Jiang et.al.|[2504.14466](http://arxiv.org/abs/2504.14466)|null|
 |**2025-04-19**|**Fabrication and characterization of boron-terminated tetravacancies in monolayer hBN using STEM, EELS and electron ptychography**|Dana O. Byrne et.al.|[2504.14217](http://arxiv.org/abs/2504.14217)|null|
 |**2025-04-17**|**7-Methylquinolinium Iodobismuthate Memristor: Exploring Plasticity and Memristive Properties for Digit Classification in Physical Reservoir Computing**|Gisya Abdi et.al.|[2504.12705](http://arxiv.org/abs/2504.12705)|null|
@@ -1550,6 +1553,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations**|Khoa Tuan Nguyen et.al.|[2504.19402](http://arxiv.org/abs/2504.19402)|null|
+|**2025-04-27**|**Neurosymbolic Association Rule Mining from Tabular Data**|Erkan Karabulut et.al.|[2504.19354](http://arxiv.org/abs/2504.19354)|null|
+|**2025-04-27**|**VI3NR: Variance Informed Initialization for Implicit Neural Representations**|Chamin Hewa Koneputugodage et.al.|[2504.19270](http://arxiv.org/abs/2504.19270)|null|
+|**2025-04-26**|**QFGN: A Quantum Approach to High-Fidelity Implicit Neural Representations**|Hongni Jin et.al.|[2504.19053](http://arxiv.org/abs/2504.19053)|null|
+|**2025-04-26**|**Frequency-Integrated Transformer for Arbitrary-Scale Super-Resolution**|Xufei Wang et.al.|[2504.18818](http://arxiv.org/abs/2504.18818)|null|
 |**2025-04-28**|**Physics-Driven Neural Compensation For Electrical Impedance Tomography**|Chuyu Wang et.al.|[2504.18067](http://arxiv.org/abs/2504.18067)|null|
 |**2025-04-28**|**From Cluster to Desktop: A Cache-Accelerated INR framework for Interactive Visualization of Tera-Scale Data**|Daniel Zavorotny et.al.|[2504.18001](http://arxiv.org/abs/2504.18001)|null|
 |**2025-04-24**|**I-INR: Iterative Implicit Neural Representations**|Ali Haider et.al.|[2504.17364](http://arxiv.org/abs/2504.17364)|null|
@@ -2501,6 +2509,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
 |**2025-04-24**|**An Extensible Software Transport Layer for GPU Networking**|Yang Zhou et.al.|[2504.17307](http://arxiv.org/abs/2504.17307)|null|
 |**2025-04-20**|**MSCCL++: Rethinking GPU Communication Abstractions for Cutting-edge AI Applications**|Aashaka Shah et.al.|[2504.09014](http://arxiv.org/abs/2504.09014)|**[link](https://github.com/microsoft/mscclpp)**|
 |**2025-04-07**|**Sparsity-Aware Communication for Distributed Graph Neural Network Training**|Ujjaini Mukhodopadhyay et.al.|[2504.04673](http://arxiv.org/abs/2504.04673)|null|
