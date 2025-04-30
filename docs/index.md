@@ -65,6 +65,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445](http://arxiv.org/abs/2504.20445)|null|
+|**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694](http://arxiv.org/abs/2504.18694)|null|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819](http://arxiv.org/abs/2504.17819)|null|
 |**2025-04-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
@@ -1032,6 +1034,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
 |**2025-04-25**|**Experimental neuromorphic computing based on quantum memristor**|Mirela Selimović et.al.|[2504.18694](http://arxiv.org/abs/2504.18694)|null|
 |**2025-04-20**|**A Bio-inspired Asymmetric Double-Gate Ferroelectric FET for Emulating Astrocyte and Dendrite Dynamics in Neuromorphic Systems**|Zhouhang Jiang et.al.|[2504.14466](http://arxiv.org/abs/2504.14466)|null|
 |**2025-04-19**|**Fabrication and characterization of boron-terminated tetravacancies in monolayer hBN using STEM, EELS and electron ptychography**|Dana O. Byrne et.al.|[2504.14217](http://arxiv.org/abs/2504.14217)|null|
@@ -1557,6 +1560,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Exploring internal representation of self-supervised networks: few-shot learning abilities and comparison with human semantics and recognition of objects**|Asaki Kataoka et.al.|[2504.20364](http://arxiv.org/abs/2504.20364)|null|
 |**2025-04-28**|**Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations**|Khoa Tuan Nguyen et.al.|[2504.19402](http://arxiv.org/abs/2504.19402)|null|
 |**2025-04-27**|**Neurosymbolic Association Rule Mining from Tabular Data**|Erkan Karabulut et.al.|[2504.19354](http://arxiv.org/abs/2504.19354)|null|
 |**2025-04-27**|**VI3NR: Variance Informed Initialization for Implicit Neural Representations**|Chamin Hewa Koneputugodage et.al.|[2504.19270](http://arxiv.org/abs/2504.19270)|null|
