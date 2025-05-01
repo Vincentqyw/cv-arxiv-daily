@@ -1556,6 +1556,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**LSNIF: Locally-Subdivided Neural Intersection Function**|Shin Fujieda et.al.|[2504.21627](http://arxiv.org/abs/2504.21627)|null|
 |**2025-04-29**|**Exploring internal representation of self-supervised networks: few-shot learning abilities and comparison with human semantics and recognition of objects**|Asaki Kataoka et.al.|[2504.20364](http://arxiv.org/abs/2504.20364)|null|
 |**2025-04-28**|**Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations**|Khoa Tuan Nguyen et.al.|[2504.19402](http://arxiv.org/abs/2504.19402)|null|
 |**2025-04-27**|**Neurosymbolic Association Rule Mining from Tabular Data**|Erkan Karabulut et.al.|[2504.19354](http://arxiv.org/abs/2504.19354)|null|
@@ -2367,6 +2368,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
 |**2025-04-21**|**An island-parallel ensemble metaheuristic algorithm for large graph coloring problems**|Tansel Dokeroglu et.al.|[2504.15082](http://arxiv.org/abs/2504.15082)|null|
 |**2025-04-21**|**Data-constrained Magnetohydrodynamic Simulation of a Filament Eruption in a Decaying Active Region 13079 on a Global Scale**|Yihua Li et.al.|[2504.15069](http://arxiv.org/abs/2504.15069)|null|
 |**2025-02-26**|**PySEMTools: A library for post-processing hexahedral spectral element data**|Adalberto Perez et.al.|[2504.12301](http://arxiv.org/abs/2504.12301)|null|
@@ -2426,6 +2428,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
 |**2025-04-21**|**An island-parallel ensemble metaheuristic algorithm for large graph coloring problems**|Tansel Dokeroglu et.al.|[2504.15082](http://arxiv.org/abs/2504.15082)|null|
 |**2025-04-21**|**Data-constrained Magnetohydrodynamic Simulation of a Filament Eruption in a Decaying Active Region 13079 on a Global Scale**|Yihua Li et.al.|[2504.15069](http://arxiv.org/abs/2504.15069)|null|
 |**2025-02-26**|**PySEMTools: A library for post-processing hexahedral spectral element data**|Adalberto Perez et.al.|[2504.12301](http://arxiv.org/abs/2504.12301)|null|
