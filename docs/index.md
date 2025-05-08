@@ -65,6 +65,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
+|**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034](http://arxiv.org/abs/2505.04034)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
 |**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
 |**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[2505.01821](http://arxiv.org/abs/2505.01821)|null|
@@ -1040,6 +1042,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-06**|**From Neurons to Computation: Biological Reservoir Computing for Pattern Recognition**|Ludovico Iannello et.al.|[2505.03510](http://arxiv.org/abs/2505.03510)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
 |**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
@@ -1573,6 +1576,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**|Yu Zhu et.al.|[2505.04331](http://arxiv.org/abs/2505.04331)|null|
 |**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
 |**2025-05-06**|**Nonperiodic dynamic CT reconstruction using backward-warping INR with regularization of diffeomorphism (BIRD)**|Muge Du et.al.|[2505.03463](http://arxiv.org/abs/2505.03463)|null|
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
