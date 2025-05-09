@@ -61,6 +61,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375](http://arxiv.org/abs/2505.05375)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
 |**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034](http://arxiv.org/abs/2505.04034)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
@@ -1038,6 +1039,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375](http://arxiv.org/abs/2505.05375)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
+|**2025-05-08**|**Report on Neural-like Criticality in Ag-based Nanoparticle Networks**|Blessing Adejube et.al.|[2505.05164](http://arxiv.org/abs/2505.05164)|null|
 |**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-06**|**From Neurons to Computation: Biological Reservoir Computing for Pattern Recognition**|Ludovico Iannello et.al.|[2505.03510](http://arxiv.org/abs/2505.03510)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
@@ -1573,7 +1576,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**|Yu Zhu et.al.|[2505.04331](http://arxiv.org/abs/2505.04331)|null|
-|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|null|
+|**2025-05-06**|**Binding threshold units with artificial oscillatory neurons**|Vladimir Fanaskov et.al.|[2505.03648](http://arxiv.org/abs/2505.03648)|**[link](https://github.com/vlsf/hkmemory)**|
 |**2025-05-06**|**Nonperiodic dynamic CT reconstruction using backward-warping INR with regularization of diffeomorphism (BIRD)**|Muge Du et.al.|[2505.03463](http://arxiv.org/abs/2505.03463)|null|
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500](http://arxiv.org/abs/2505.00500)|null|
@@ -2514,6 +2517,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
 |**2025-04-09**|**Low-latency control system for feedback experiments with optical tweezer arrays**|Amir H. Dadpour et.al.|[2504.06528](http://arxiv.org/abs/2504.06528)|null|
 |**2025-01-31**|**Swift: Rethinking RDMA Control Plane for Elastic Computing**|Junxue Zhang et.al.|[2501.19051](http://arxiv.org/abs/2501.19051)|null|
 |**2024-09-12**|**External Memories of PDP Switches for In-Network Implementable Functions Placement: Deep Learning Based Reconfiguration of SFCs**|Somayeh Kianpisheh et.al.|[2409.08043](http://arxiv.org/abs/2409.08043)|null|
