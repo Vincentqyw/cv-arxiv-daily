@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -65,7 +65,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
+|**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034](http://arxiv.org/abs/2505.04034)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
 |**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
@@ -1042,7 +1042,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
+|**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165](http://arxiv.org/abs/2505.04165)|null|
 |**2025-05-06**|**From Neurons to Computation: Biological Reservoir Computing for Pattern Recognition**|Ludovico Iannello et.al.|[2505.03510](http://arxiv.org/abs/2505.03510)|null|
 |**2025-05-04**|**How to Train an Oscillator Ising Machine using Equilibrium Propagation**|Alex Gower et.al.|[2505.02103](http://arxiv.org/abs/2505.02103)|null|
 |**2025-05-04**|**Closed-loop control of seizure activity via real-time seizure forecasting by reservoir neuromorphic computing**|Maryam Sadeghi et.al.|[2505.02003](http://arxiv.org/abs/2505.02003)|null|
