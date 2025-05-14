@@ -61,6 +61,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Convolutional Spiking Neural Network for Image Classification**|Mikhail Kiselev et.al.|[2505.08514](http://arxiv.org/abs/2505.08514)|null|
+|**2025-05-13**|**Efficient, simulation-free estimators of firing rates with Markovian surrogates**|Zhongyi Wang et.al.|[2505.08254](http://arxiv.org/abs/2505.08254)|null|
+|**2025-05-12**|**Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning**|Qi Xu et.al.|[2505.07921](http://arxiv.org/abs/2505.07921)|null|
 |**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715](http://arxiv.org/abs/2505.07715)|null|
 |**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556](http://arxiv.org/abs/2505.07556)|null|
 |**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336](http://arxiv.org/abs/2505.07336)|null|
@@ -1587,6 +1590,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Visual Image Reconstruction from Brain Activity via Latent Representation**|Yukiyasu Kamitani et.al.|[2505.08429](http://arxiv.org/abs/2505.08429)|null|
+|**2025-05-12**|**JSover: Joint Spectrum Estimation and Multi-Material Decomposition from Single-Energy CT Projections**|Qing Wu et.al.|[2505.08123](http://arxiv.org/abs/2505.08123)|null|
 |**2025-05-12**|**A Systematic Literature Review on Neural Code Translation**|Xiang Chen et.al.|[2505.07425](http://arxiv.org/abs/2505.07425)|null|
 |**2025-05-11**|**Mice to Machines: Neural Representations from Visual Cortex for Domain Generalization**|Ahmed Qazi et.al.|[2505.06886](http://arxiv.org/abs/2505.06886)|null|
 |**2025-05-09**|**Decoupling Multi-Contrast Super-Resolution: Pairing Unpaired Synthesis with Implicit Representations**|Hongyu Rui et.al.|[2505.05855](http://arxiv.org/abs/2505.05855)|null|
