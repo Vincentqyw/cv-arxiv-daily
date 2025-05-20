@@ -65,6 +65,15 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et.al.|[2505.12956](http://arxiv.org/abs/2505.12956)|null|
+|**2025-05-19**|**2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology**|Neethu Kuriakose et.al.|[2505.12830](http://arxiv.org/abs/2505.12830)|null|
+|**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771](http://arxiv.org/abs/2505.12771)|null|
+|**2025-05-19**|**Spiking Neural Network: a low power solution for physical layer authentication**|Jung Hoon Lee et.al.|[2505.12647](http://arxiv.org/abs/2505.12647)|null|
+|**2025-05-18**|**SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks**|Boxun Xu et.al.|[2505.12292](http://arxiv.org/abs/2505.12292)|null|
+|**2025-05-18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|Zhenhui Chen et.al.|[2505.12221](http://arxiv.org/abs/2505.12221)|null|
+|**2025-05-17**|**A VCSEL based Photonic Neuromorphic Processor for Event-Based Imaging Flow Cytometry Applications**|M. Skontranis et.al.|[2505.12026](http://arxiv.org/abs/2505.12026)|null|
+|**2025-05-17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|Jiaqiang Jiang et.al.|[2505.11863](http://arxiv.org/abs/2505.11863)|null|
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
 |**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433](http://arxiv.org/abs/2505.11433)|null|
 |**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418](http://arxiv.org/abs/2505.11418)|null|
@@ -1067,6 +1076,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960](http://arxiv.org/abs/2505.12960)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
+|**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et.al.|[2505.12956](http://arxiv.org/abs/2505.12956)|null|
+|**2025-05-19**|**2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology**|Neethu Kuriakose et.al.|[2505.12830](http://arxiv.org/abs/2505.12830)|null|
+|**2025-05-18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|Zhenhui Chen et.al.|[2505.12221](http://arxiv.org/abs/2505.12221)|null|
+|**2025-05-17**|**A VCSEL based Photonic Neuromorphic Processor for Event-Based Imaging Flow Cytometry Applications**|M. Skontranis et.al.|[2505.12026](http://arxiv.org/abs/2505.12026)|null|
+|**2025-05-17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|Jiaqiang Jiang et.al.|[2505.11863](http://arxiv.org/abs/2505.11863)|null|
 |**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771](http://arxiv.org/abs/2505.10771)|null|
 |**2025-05-15**|**Nonreciprocal spin waves in out-of-plane magnetized waveguides reconfigured by domain wall displacements**|H. Mortada et.al.|[2505.10654](http://arxiv.org/abs/2505.10654)|null|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
@@ -1608,6 +1623,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Koopman Autoencoders Learn Neural Representation Dynamics**|Nishant Suresh Aswani et.al.|[2505.12809](http://arxiv.org/abs/2505.12809)|null|
+|**2025-05-19**|**High-dimensional structure underlying individual differences in naturalistic visual experience**|Chihye Han et.al.|[2505.12653](http://arxiv.org/abs/2505.12653)|null|
+|**2025-05-18**|**ViEEG: Hierarchical Neural Coding with Cross-Modal Progressive Enhancement for EEG-Based Visual Decoding**|Minxu Liu et.al.|[2505.12408](http://arxiv.org/abs/2505.12408)|null|
+|**2025-05-18**|**Neural Thermodynamics I: Entropic Forces in Deep and Universal Representation Learning**|Liu Ziyin et.al.|[2505.12387](http://arxiv.org/abs/2505.12387)|null|
+|**2025-05-16**|**BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations**|Pandula Thennakoon et.al.|[2505.11640](http://arxiv.org/abs/2505.11640)|null|
+|**2025-05-16**|**Steering Risk Preferences in Large Language Models by Aligning Behavioral and Neural Representations**|Jian-Qiao Zhu et.al.|[2505.11615](http://arxiv.org/abs/2505.11615)|null|
 |**2025-05-16**|**ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data**|Mengxuan Li et.al.|[2505.10856](http://arxiv.org/abs/2505.10856)|null|
 |**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
 |**2025-05-14**|**Implicit Neural Representation of Waveform Measurements in Power Systems Waveform Data Analysis**|Narges Ehsani et.al.|[2505.09789](http://arxiv.org/abs/2505.09789)|null|
