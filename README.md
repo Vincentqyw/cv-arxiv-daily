@@ -61,6 +61,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
+|**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533](http://arxiv.org/abs/2505.14533)|null|
+|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741](http://arxiv.org/abs/2505.13741)|null|
+|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622](http://arxiv.org/abs/2505.13622)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et.al.|[2505.12956](http://arxiv.org/abs/2505.12956)|null|
 |**2025-05-19**|**2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology**|Neethu Kuriakose et.al.|[2505.12830](http://arxiv.org/abs/2505.12830)|null|
@@ -1072,6 +1076,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
+|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741](http://arxiv.org/abs/2505.13741)|null|
 |**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960](http://arxiv.org/abs/2505.12960)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
 |**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et.al.|[2505.12956](http://arxiv.org/abs/2505.12956)|null|
 |**2025-05-19**|**2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology**|Neethu Kuriakose et.al.|[2505.12830](http://arxiv.org/abs/2505.12830)|null|
@@ -1619,6 +1625,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**|Li Ji-An et.al.|[2505.13763](http://arxiv.org/abs/2505.13763)|null|
+|**2025-05-19**|**ReBaCCA-ss: Relevance-Balanced Continuum Correlation Analysis with Smoothing and Surrogating for Quantifying Similarity Between Population Spiking Activities**|Xiang Zhang et.al.|[2505.13748](http://arxiv.org/abs/2505.13748)|null|
 |**2025-05-19**|**Koopman Autoencoders Learn Neural Representation Dynamics**|Nishant Suresh Aswani et.al.|[2505.12809](http://arxiv.org/abs/2505.12809)|null|
 |**2025-05-19**|**High-dimensional structure underlying individual differences in naturalistic visual experience**|Chihye Han et.al.|[2505.12653](http://arxiv.org/abs/2505.12653)|null|
 |**2025-05-18**|**ViEEG: Hierarchical Neural Coding with Cross-Modal Progressive Enhancement for EEG-Based Visual Decoding**|Minxu Liu et.al.|[2505.12408](http://arxiv.org/abs/2505.12408)|null|
@@ -2605,6 +2613,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Prime Collective Communications Library -- Technical Report**|Michael Keiblinger et.al.|[2505.14065](http://arxiv.org/abs/2505.14065)|null|
 |**2025-05-13**|**Roman Observations Time Allocation Committee: Final Report and Recommendations**|Roman Observations Time Allocation Committee et.al.|[2505.10574](http://arxiv.org/abs/2505.10574)|null|
 |**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
 |**2025-04-24**|**An Extensible Software Transport Layer for GPU Networking**|Yang Zhou et.al.|[2504.17307](http://arxiv.org/abs/2504.17307)|null|
