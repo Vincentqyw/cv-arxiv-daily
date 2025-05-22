@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -65,10 +65,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719](http://arxiv.org/abs/2505.14719)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
 |**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533](http://arxiv.org/abs/2505.14533)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741](http://arxiv.org/abs/2505.13741)|null|
-|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622](http://arxiv.org/abs/2505.13622)|null|
+|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622](http://arxiv.org/abs/2505.13622)|**[link](https://github.com/asd0731/spiking-neural-networks-with-random-network-architecture)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-19**|**Variability analysis in memristors based on electrodeposited prussian blue**|L. B. Avila et.al.|[2505.12956](http://arxiv.org/abs/2505.12956)|null|
 |**2025-05-19**|**2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology**|Neethu Kuriakose et.al.|[2505.12830](http://arxiv.org/abs/2505.12830)|null|
@@ -1080,6 +1081,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**State Characterisation of Self-Directed Channel Memristive Devices**|Dániel Hajtó et.al.|[2505.15757](http://arxiv.org/abs/2505.15757)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741](http://arxiv.org/abs/2505.13741)|null|
 |**2025-05-19**|**Hardware-Adaptive and Superlinear-Capacity Memristor-based Associative Memory**|Chengping He et.al.|[2505.12960](http://arxiv.org/abs/2505.12960)|**[link](https://github.com/hecp2025/multilayerassociatememory)**|
@@ -1629,6 +1631,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
+|**2025-05-21**|**Towards a Science of Causal Interpretability in Deep Learning for Software Engineering**|David N. Palacio et.al.|[2505.15023](http://arxiv.org/abs/2505.15023)|null|
 |**2025-05-19**|**Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**|Li Ji-An et.al.|[2505.13763](http://arxiv.org/abs/2505.13763)|null|
 |**2025-05-19**|**ReBaCCA-ss: Relevance-Balanced Continuum Correlation Analysis with Smoothing and Surrogating for Quantifying Similarity Between Population Spiking Activities**|Xiang Zhang et.al.|[2505.13748](http://arxiv.org/abs/2505.13748)|null|
 |**2025-05-19**|**Koopman Autoencoders Learn Neural Representation Dynamics**|Nishant Suresh Aswani et.al.|[2505.12809](http://arxiv.org/abs/2505.12809)|null|
