@@ -83,11 +83,11 @@ layout: default
 |**2025-05-18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|Zhenhui Chen et.al.|[2505.12221](http://arxiv.org/abs/2505.12221)|null|
 |**2025-05-17**|**A VCSEL based Photonic Neuromorphic Processor for Event-Based Imaging Flow Cytometry Applications**|M. Skontranis et.al.|[2505.12026](http://arxiv.org/abs/2505.12026)|null|
 |**2025-05-17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|Jiaqiang Jiang et.al.|[2505.11863](http://arxiv.org/abs/2505.11863)|null|
-|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|**[link](https://github.com/dgxdn/asrc-snn)**|
 |**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433](http://arxiv.org/abs/2505.11433)|null|
 |**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418](http://arxiv.org/abs/2505.11418)|null|
 |**2025-05-16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|Daniel Windhager et.al.|[2505.11252](http://arxiv.org/abs/2505.11252)|null|
-|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151](http://arxiv.org/abs/2505.11151)|null|
+|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151](http://arxiv.org/abs/2505.11151)|**[link](https://github.com/fancyssc/step)**|
 |**2025-05-16**|**Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection**|Desong Zhang et.al.|[2505.11134](http://arxiv.org/abs/2505.11134)|null|
 |**2025-05-16**|**Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks**|Chiyue Wei et.al.|[2505.10909](http://arxiv.org/abs/2505.10909)|null|
 |**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771](http://arxiv.org/abs/2505.10771)|null|
@@ -945,7 +945,7 @@ layout: default
 |**2023-10-11**|**Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks**|Ziming Liu et.al.|[2310.07711](http://arxiv.org/abs/2310.07711)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189](http://arxiv.org/abs/2310.07189)|null|
 |**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578](http://arxiv.org/abs/2310.06578)|null|
-|**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
+|**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|**[link](https://github.com/lvchangze/spikeclip)**|
 |**2023-10-10**|**Spiking PointNet: Spiking Neural Networks for Point Clouds**|Dayong Ren et.al.|[2310.06232](http://arxiv.org/abs/2310.06232)|**[link](https://github.com/dayongren/spiking-pointnet)**|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868](http://arxiv.org/abs/2310.05868)|**[link](https://github.com/dancasmor/an-aproach-to-a-spike-based-content-addressable-memory-bio-inspired-in-the-hippocampus)**|
 |**2023-10-09**|**Investigating Continuous Learning in Spiking Neural Networks**|C. Tanner Fredieu et.al.|[2310.05343](http://arxiv.org/abs/2310.05343)|null|
@@ -1120,7 +1120,7 @@ layout: default
 |**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702](http://arxiv.org/abs/2504.12702)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|
 |**2025-04-16**|**Polarisation-Inclusive Spiking Neural Networks for Real-Time RFI Detection in Modern Radio Telescopes**|Nicholas J. Pritchard et.al.|[2504.11720](http://arxiv.org/abs/2504.11720)|**[link](https://github.com/pritchardn/SNN-RFI-SUPER)**|
 |**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568](http://arxiv.org/abs/2504.11568)|null|
-|**2025-04-15**|**A Winner-Takes-All Mechanism for Event Generation**|Yongkang Huo et.al.|[2504.11374](http://arxiv.org/abs/2504.11374)|null|
+|**2025-04-15**|**A Winner-Takes-All Mechanism for Event Generation**|Yongkang Huo et.al.|[2504.11374](http://arxiv.org/abs/2504.11374)|**[link](https://github.com/huoyongtony/rebound-winner-takes-all)**|
 |**2025-04-14**|**Gradient modelling of memristive systems**|Fulvio Forni et.al.|[2504.10093](http://arxiv.org/abs/2504.10093)|null|
 |**2025-04-14**|**Synthetic Biology meets Neuromorphic Computing: Towards a bio-inspired Olfactory Perception System**|Kevin Max et.al.|[2504.10053](http://arxiv.org/abs/2504.10053)|null|
 |**2025-04-10**|**Enhanced Luminous Transmission and Solar Modulation in Thermochromic VO2 Aerogel-Like Films via Remote Plasma Deposition**|Jose M. Obrero-Perez et.al.|[2504.08133](http://arxiv.org/abs/2504.08133)|null|
@@ -1649,7 +1649,7 @@ layout: default
 |**2025-05-18**|**Neural Thermodynamics I: Entropic Forces in Deep and Universal Representation Learning**|Liu Ziyin et.al.|[2505.12387](http://arxiv.org/abs/2505.12387)|null|
 |**2025-05-16**|**BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations**|Pandula Thennakoon et.al.|[2505.11640](http://arxiv.org/abs/2505.11640)|null|
 |**2025-05-16**|**Steering Risk Preferences in Large Language Models by Aligning Behavioral and Neural Representations**|Jian-Qiao Zhu et.al.|[2505.11615](http://arxiv.org/abs/2505.11615)|null|
-|**2025-05-16**|**ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data**|Mengxuan Li et.al.|[2505.10856](http://arxiv.org/abs/2505.10856)|null|
+|**2025-05-16**|**ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data**|Mengxuan Li et.al.|[2505.10856](http://arxiv.org/abs/2505.10856)|**[link](https://github.com/leanna97/imputeinr)**|
 |**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
 |**2025-05-14**|**Implicit Neural Representation of Waveform Measurements in Power Systems Waveform Data Analysis**|Narges Ehsani et.al.|[2505.09789](http://arxiv.org/abs/2505.09789)|null|
 |**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
@@ -1843,7 +1843,7 @@ layout: default
 |**2024-12-02**|**Down with the Hierarchy: The 'H' in HNSW Stands for "Hubs"**|Blaise Munyampirwa et.al.|[2412.01940](http://arxiv.org/abs/2412.01940)|**[link](https://github.com/BlaiseMuhirwa/flatnav)**|
 |**2024-12-02**|**Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling**|Xihaier Luo et.al.|[2412.01754](http://arxiv.org/abs/2412.01754)|**[link](https://github.com/Xihaier/INR-TPC-Compression)**|
 |**2024-12-02**|**Shadow of the (Hierarchical) Tree: Reconciling Symbolic and Predictive Components of the Neural Code for Syntax**|Elliot Murphy et.al.|[2412.01276](http://arxiv.org/abs/2412.01276)|null|
-|**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124](http://arxiv.org/abs/2412.01124)|null|
+|**2024-12-02**|**SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics**|Qingtian Zhu et.al.|[2412.01124](http://arxiv.org/abs/2412.01124)|**[link](https://github.com/szym29/suica)**|
 |**2024-12-02**|**CantorNet: A Sandbox for Testing Geometrical and Topological Complexity Measures**|Michal Lewandowski et.al.|[2411.19713](http://arxiv.org/abs/2411.19713)|**[link](https://github.com/michalmariuszlewandowski/cantornet)**|
 |**2024-11-28**|**Upsampling Improvement for Overfitted Neural Coding**|Pierrick Philippe et.al.|[2411.19249](http://arxiv.org/abs/2411.19249)|null|
 |**2024-11-27**|**Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime**|Abeer Banerjee et.al.|[2411.18189](http://arxiv.org/abs/2411.18189)|null|
