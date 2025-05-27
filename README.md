@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1648,7 +1648,7 @@
 |**2025-05-19**|**ReBaCCA-ss: Relevance-Balanced Continuum Correlation Analysis with Smoothing and Surrogating for Quantifying Similarity Between Population Spiking Activities**|Xiang Zhang et.al.|[2505.13748](http://arxiv.org/abs/2505.13748)|null|
 |**2025-05-19**|**Koopman Autoencoders Learn Neural Representation Dynamics**|Nishant Suresh Aswani et.al.|[2505.12809](http://arxiv.org/abs/2505.12809)|null|
 |**2025-05-19**|**High-dimensional structure underlying individual differences in naturalistic visual experience**|Chihye Han et.al.|[2505.12653](http://arxiv.org/abs/2505.12653)|**[link](https://github.com/kelseyhan-jhu/idiosyncratic-neural-geometry)**|
-|**2025-05-18**|**ViEEG: Hierarchical Neural Coding with Cross-Modal Progressive Enhancement for EEG-Based Visual Decoding**|Minxu Liu et.al.|[2505.12408](http://arxiv.org/abs/2505.12408)|null|
+|**2025-05-25**|**ViEEG: Hierarchical Neural Coding with Cross-Modal Progressive Enhancement for EEG-Based Visual Decoding**|Minxu Liu et.al.|[2505.12408](http://arxiv.org/abs/2505.12408)|null|
 |**2025-05-18**|**Neural Thermodynamics I: Entropic Forces in Deep and Universal Representation Learning**|Liu Ziyin et.al.|[2505.12387](http://arxiv.org/abs/2505.12387)|null|
 |**2025-05-16**|**BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations**|Pandula Thennakoon et.al.|[2505.11640](http://arxiv.org/abs/2505.11640)|null|
 |**2025-05-16**|**Steering Risk Preferences in Large Language Models by Aligning Behavioral and Neural Representations**|Jian-Qiao Zhu et.al.|[2505.11615](http://arxiv.org/abs/2505.11615)|null|
