@@ -66,6 +66,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487](http://arxiv.org/abs/2505.19487)|null|
+|**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608](http://arxiv.org/abs/2505.18608)|null|
 |**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023](http://arxiv.org/abs/2505.18023)|null|
 |**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962](http://arxiv.org/abs/2505.17962)|null|
 |**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738](http://arxiv.org/abs/2505.17738)|null|
@@ -1644,6 +1646,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code Evaluation**|Guang Yang et.al.|[2505.19502](http://arxiv.org/abs/2505.19502)|null|
+|**2025-05-24**|**Neural Coding Is Not Always Semantic: Towards The Standardized Coding Workflow in Semantic Communications**|Hai-Long Qin et.al.|[2505.18637](http://arxiv.org/abs/2505.18637)|null|
+|**2025-05-23**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
+|**2025-05-23**|**The Origins of Representation Manifolds in Large Language Models**|Alexander Modell et.al.|[2505.18235](http://arxiv.org/abs/2505.18235)|null|
 |**2025-05-23**|**Shaping freeform nanophotonic devices with geometric neural parameterization**|Tianxiang Dai et.al.|[2505.17499](http://arxiv.org/abs/2505.17499)|null|
 |**2025-05-22**|**Implicit Neural Shape Optimization for 3D High-Contrast Electrical Impedance Tomography**|Junqing Chen et.al.|[2505.16487](http://arxiv.org/abs/2505.16487)|null|
 |**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
@@ -2637,6 +2643,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-24**|**PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning**|Yisu Wang et.al.|[2505.18563](http://arxiv.org/abs/2505.18563)|null|
 |**2025-05-20**|**Prime Collective Communications Library -- Technical Report**|Michael Keiblinger et.al.|[2505.14065](http://arxiv.org/abs/2505.14065)|null|
 |**2025-05-13**|**Roman Observations Time Allocation Committee: Final Report and Recommendations**|Roman Observations Time Allocation Committee et.al.|[2505.10574](http://arxiv.org/abs/2505.10574)|null|
 |**2025-04-25**|**The Big Send-off: High Performance Collectives on GPU-based Supercomputers**|Siddharth Singh et.al.|[2504.18658](http://arxiv.org/abs/2504.18658)|null|
