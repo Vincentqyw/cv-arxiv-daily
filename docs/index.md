@@ -66,6 +66,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
+|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835](http://arxiv.org/abs/2505.20835)|null|
+|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834](http://arxiv.org/abs/2505.20834)|null|
+|**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442](http://arxiv.org/abs/2505.20442)|null|
 |**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487](http://arxiv.org/abs/2505.19487)|null|
 |**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608](http://arxiv.org/abs/2505.18608)|null|
 |**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023](http://arxiv.org/abs/2505.18023)|null|
@@ -1092,6 +1096,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185](http://arxiv.org/abs/2505.21185)|null|
+|**2025-05-26**|**Quantum simulations of complex systems**|Oliver Morsch et.al.|[2505.20442](http://arxiv.org/abs/2505.20442)|null|
 |**2025-05-21**|**Neuromorphic Mimicry Attacks Exploiting Brain-Inspired Computing for Covert Cyber Intrusions**|Hemanth Ravipati et.al.|[2505.17094](http://arxiv.org/abs/2505.17094)|null|
 |**2025-05-22**|**Magnetic vortex writing and local reversal seeding in artificial spin-vortex ice via all-optical and surface-probe control**|Holly Holder et.al.|[2505.16874](http://arxiv.org/abs/2505.16874)|null|
 |**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649](http://arxiv.org/abs/2505.16649)|**[link](https://github.com/zhichaozhu/stochasticforwardforward)**|
@@ -1646,6 +1652,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2505.21425](http://arxiv.org/abs/2505.21425)|null|
 |**2025-05-26**|**CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code Evaluation**|Guang Yang et.al.|[2505.19502](http://arxiv.org/abs/2505.19502)|null|
 |**2025-05-24**|**Neural Coding Is Not Always Semantic: Towards The Standardized Coding Workflow in Semantic Communications**|Hai-Long Qin et.al.|[2505.18637](http://arxiv.org/abs/2505.18637)|null|
 |**2025-05-27**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
