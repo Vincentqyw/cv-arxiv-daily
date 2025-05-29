@@ -1,4 +1,4 @@
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1652,7 +1652,7 @@
 |**2025-05-26**|**CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code Evaluation**|Guang Yang et.al.|[2505.19502](http://arxiv.org/abs/2505.19502)|null|
 |**2025-05-24**|**Neural Coding Is Not Always Semantic: Towards The Standardized Coding Workflow in Semantic Communications**|Hai-Long Qin et.al.|[2505.18637](http://arxiv.org/abs/2505.18637)|null|
 |**2025-05-27**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
-|**2025-05-23**|**The Origins of Representation Manifolds in Large Language Models**|Alexander Modell et.al.|[2505.18235](http://arxiv.org/abs/2505.18235)|null|
+|**2025-05-23**|**The Origins of Representation Manifolds in Large Language Models**|Alexander Modell et.al.|[2505.18235](http://arxiv.org/abs/2505.18235)|**[link](https://github.com/alexandermodell/representation-manifolds)**|
 |**2025-05-23**|**Shaping freeform nanophotonic devices with geometric neural parameterization**|Tianxiang Dai et.al.|[2505.17499](http://arxiv.org/abs/2505.17499)|null|
 |**2025-05-22**|**Implicit Neural Shape Optimization for 3D High-Contrast Electrical Impedance Tomography**|Junqing Chen et.al.|[2505.16487](http://arxiv.org/abs/2505.16487)|null|
 |**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
