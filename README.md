@@ -283,7 +283,7 @@
 |**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745](http://arxiv.org/abs/2501.16745)|null|
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
-|**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|null|
+|**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|**[link](https://github.com/Intelli-Chip-Lab/snn_temporal_decoupling_distillation)**|
 |**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808](http://arxiv.org/abs/2501.15808)|null|
 |**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|**[link](https://github.com/bakhromtjk/mgd_scaling)**|
 |**2025-01-25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|Farah Baracat et.al.|[2501.15347](http://arxiv.org/abs/2501.15347)|null|
@@ -1210,7 +1210,7 @@
 |**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
 |**2025-01-20**|**Influence of Humidity on the Resistive Switching of Hexagonal Boron Nitride-Based Memristors**|Lukas Völkel et.al.|[2501.16359](http://arxiv.org/abs/2501.16359)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995](http://arxiv.org/abs/2501.15995)|null|
-|**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|null|
+|**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925](http://arxiv.org/abs/2501.15925)|**[link](https://github.com/Intelli-Chip-Lab/snn_temporal_decoupling_distillation)**|
 |**2025-01-26**|**Scaling of hardware-compatible perturbative training algorithms**|Bakhrom G. Oripov et.al.|[2501.15403](http://arxiv.org/abs/2501.15403)|**[link](https://github.com/bakhromtjk/mgd_scaling)**|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446](http://arxiv.org/abs/2501.14446)|null|
 |**2025-01-23**|**Continuous signal sparse encoding using analog neuromorphic variability**|Filippo Costa et.al.|[2501.13504](http://arxiv.org/abs/2501.13504)|null|
@@ -1812,7 +1812,7 @@
 |**2025-02-05**|**INST-Sculpt: Interactive Stroke-based Neural SDF Sculpting**|Fizza Rubab et.al.|[2502.02891](http://arxiv.org/abs/2502.02891)|null|
 |**2025-02-01**|**MIND: Microstructure INverse Design with Generative Hybrid Neural Representation**|Tianyang Xue et.al.|[2502.02607](http://arxiv.org/abs/2502.02607)|null|
 |**2025-02-03**|**A Relative Homology Theory of Representation in Neural Networks**|Kosio Beshkov et.al.|[2502.01360](http://arxiv.org/abs/2502.01360)|null|
-|**2025-02-02**|**STAF: Sinusoidal Trainable Activation Functions for Implicit Neural Representation**|Alireza Morsali et.al.|[2502.00869](http://arxiv.org/abs/2502.00869)|null|
+|**2025-02-02**|**STAF: Sinusoidal Trainable Activation Functions for Implicit Neural Representation**|Alireza Morsali et.al.|[2502.00869](http://arxiv.org/abs/2502.00869)|**[link](https://github.com/alirezamorsali/staf)**|
 |**2025-02-02**|**Lifting the Winding Number: Precise Representation of Complex Cuts in Subspace Physics Simulations**|Yue Chang et.al.|[2502.00626](http://arxiv.org/abs/2502.00626)|null|
 |**2025-01-30**|**ISAM-MTL: Cross-subject multi-task learning model with identifiable spikes and associative memory networks**|Junyan Li et.al.|[2501.18089](http://arxiv.org/abs/2501.18089)|null|
 |**2025-01-29**|**Pressure Field Reconstruction with SIREN: A Mesh-Free Approach for Image Velocimetry in Complex Noisy Environments**|Renato F. Miotto et.al.|[2501.17987](http://arxiv.org/abs/2501.17987)|null|
