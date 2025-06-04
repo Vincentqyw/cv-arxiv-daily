@@ -62,6 +62,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Minimal Neuron Circuits -- Part I: Resonators**|Amr Nabil et.al.|[2506.02341](http://arxiv.org/abs/2506.02341)|null|
+|**2025-06-02**|**The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives**|Hemanth Sabbella et.al.|[2506.01737](http://arxiv.org/abs/2506.01737)|null|
+|**2025-06-02**|**Engram Memory Encoding and Retrieval: A Neurocomputational Perspective**|Daniel Szelogowski et.al.|[2506.01659](http://arxiv.org/abs/2506.01659)|null|
+|**2025-06-01**|**Spatio-Temporal Decoupled Learning for Spiking Neural Networks**|Chenxiang Ma et.al.|[2506.01117](http://arxiv.org/abs/2506.01117)|null|
 |**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
 |**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
@@ -1098,6 +1102,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives**|Hemanth Sabbella et.al.|[2506.01737](http://arxiv.org/abs/2506.01737)|null|
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
 |**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-28**|**Toward Fully Neuromorphic Receivers for Ultra-Power Efficient Communications**|George N. Katsaros et.al.|[2505.22508](http://arxiv.org/abs/2505.22508)|null|
@@ -1657,6 +1662,13 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088](http://arxiv.org/abs/2506.03088)|null|
+|**2025-06-02**|**LibriBrain: Over 50 Hours of Within-Subject MEG to Improve Speech Decoding Methods at Scale**|Miran Özdogan et.al.|[2506.02098](http://arxiv.org/abs/2506.02098)|null|
+|**2025-06-02**|**Temporal Variational Implicit Neural Representations**|Batuhan Koyuncu et.al.|[2506.01544](http://arxiv.org/abs/2506.01544)|null|
+|**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
+|**2025-06-02**|**Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression**|Woojin Cho et.al.|[2506.01234](http://arxiv.org/abs/2506.01234)|null|
+|**2025-06-01**|**Probing Neural Topology of Large Language Models**|Yu Zheng et.al.|[2506.01042](http://arxiv.org/abs/2506.01042)|null|
+|**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations**|Gaurav Sarkar et.al.|[2505.23942](http://arxiv.org/abs/2505.23942)|null|
 |**2025-05-29**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|**[link](https://github.com/omnai-lab/implicit-inversion)**|
 |**2025-05-28**|**Patch-based Reconstruction for Unsupervised Dynamic MRI using Learnable Tensor Function with Implicit Neural Representation**|Yuanyuan Liu et.al.|[2505.21894](http://arxiv.org/abs/2505.21894)|null|
@@ -2508,6 +2520,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Scalable Distributed Memory Implementation of the Quasi-Adiabatic Propagator Path Integral**|Roman Ovcharenko et.al.|[2506.03127](http://arxiv.org/abs/2506.03127)|null|
 |**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
 |**2025-04-21**|**An island-parallel ensemble metaheuristic algorithm for large graph coloring problems**|Tansel Dokeroglu et.al.|[2504.15082](http://arxiv.org/abs/2504.15082)|null|
 |**2025-04-21**|**Data-constrained Magnetohydrodynamic Simulation of a Filament Eruption in a Decaying Active Region 13079 on a Global Scale**|Yihua Li et.al.|[2504.15069](http://arxiv.org/abs/2504.15069)|null|
@@ -2568,6 +2581,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Exploring metrics for analyzing dynamic behavior in MPI programs via a coupled-oscillator model**|Ayesha Afzal et.al.|[2506.02792](http://arxiv.org/abs/2506.02792)|null|
 |**2025-04-30**|**Coalescing MPI communication in 6D Vlasov simulations: solving ghost domains in Vlasiator**|Markus Battarbee et.al.|[2504.21450](http://arxiv.org/abs/2504.21450)|null|
 |**2025-04-21**|**An island-parallel ensemble metaheuristic algorithm for large graph coloring problems**|Tansel Dokeroglu et.al.|[2504.15082](http://arxiv.org/abs/2504.15082)|null|
 |**2025-04-21**|**Data-constrained Magnetohydrodynamic Simulation of a Filament Eruption in a Decaying Active Region 13079 on a Global Scale**|Yihua Li et.al.|[2504.15069](http://arxiv.org/abs/2504.15069)|null|
@@ -2659,6 +2673,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**DiOMP-Offloading: Toward Portable Distributed Heterogeneous OpenMP**|Baodi Shan et.al.|[2506.02486](http://arxiv.org/abs/2506.02486)|null|
 |**2025-05-24**|**PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning**|Yisu Wang et.al.|[2505.18563](http://arxiv.org/abs/2505.18563)|null|
 |**2025-05-20**|**Prime Collective Communications Library -- Technical Report**|Michael Keiblinger et.al.|[2505.14065](http://arxiv.org/abs/2505.14065)|null|
 |**2025-05-13**|**Roman Observations Time Allocation Committee: Final Report and Recommendations**|Roman Observations Time Allocation Committee et.al.|[2505.10574](http://arxiv.org/abs/2505.10574)|null|
