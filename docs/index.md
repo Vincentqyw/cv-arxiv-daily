@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -66,6 +66,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265](http://arxiv.org/abs/2506.06265)|null|
+|**2025-06-06**|**Curvature induced modifications of chirality and magnetic configuration in perpendicular magnetized films**|David Raftrey et.al.|[2506.05938](http://arxiv.org/abs/2506.05938)|null|
+|**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679](http://arxiv.org/abs/2506.05679)|null|
 |**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817](http://arxiv.org/abs/2506.04817)|null|
 |**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526](http://arxiv.org/abs/2506.04526)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
@@ -1111,6 +1114,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Curvature induced modifications of chirality and magnetic configuration in perpendicular magnetized films**|David Raftrey et.al.|[2506.05938](http://arxiv.org/abs/2506.05938)|null|
 |**2025-06-05**|**Analog dual classifier via a time-modulated neuromorphic metasurface**|M. Mousa et.al.|[2506.04629](http://arxiv.org/abs/2506.04629)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996](http://arxiv.org/abs/2506.03996)|null|
 |**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450](http://arxiv.org/abs/2506.03450)|null|
@@ -1674,6 +1678,10 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**NAT: Neural Acoustic Transfer for Interactive Scenes in Real Time**|Xutong Jin et.al.|[2506.06190](http://arxiv.org/abs/2506.06190)|null|
+|**2025-06-06**|**Implicit Neural Representation-Based MRI Reconstruction Method with Sensitivity Map Constraints**|Lixuan Rao et.al.|[2506.06043](http://arxiv.org/abs/2506.06043)|null|
+|**2025-06-06**|**Hardware Accelerated Neural Block Texture Compression with Cooperative Vectors**|Belcour Laurent et.al.|[2506.06040](http://arxiv.org/abs/2506.06040)|null|
+|**2025-06-05**|**Implicit Neural Representation for Video Restoration**|Mary Aiyetigbo et.al.|[2506.05488](http://arxiv.org/abs/2506.05488)|null|
 |**2025-06-05**|**Evaluating Sparse Autoencoders: From Shallow Design to Matching Pursuit**|Valérie Costa et.al.|[2506.05239](http://arxiv.org/abs/2506.05239)|null|
 |**2025-06-04**|**A Few Moments Please: Scalable Graphon Learning via Moment Matching**|Reza Ramezanpour et.al.|[2506.04206](http://arxiv.org/abs/2506.04206)|null|
 |**2025-06-03**|**Modelling the Effects of Hearing Loss on Neural Coding in the Auditory Midbrain with Variational Conditioning**|Lloyd Pellatt et.al.|[2506.03088](http://arxiv.org/abs/2506.03088)|null|
