@@ -67,6 +67,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
+|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|null|
+|**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286](http://arxiv.org/abs/2506.11286)|null|
 |**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695](http://arxiv.org/abs/2506.09695)|**[link](https://github.com/wuchangw/fastersnn)**|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599](http://arxiv.org/abs/2506.09599)|null|
 |**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194](http://arxiv.org/abs/2506.09194)|null|
@@ -1126,6 +1129,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
+|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|null|
 |**2025-06-11**|**Formalizing Neuromorphic Control Systems: A General Proposal and A Rhythmic Case Study**|Taisia Medvedeva et.al.|[2506.10203](http://arxiv.org/abs/2506.10203)|null|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599](http://arxiv.org/abs/2506.09599)|null|
 |**2025-06-10**|**Frequency as a Clock: Synchronization and Intrinsic Recovery in Graphene Transistor Dynamics**|Victor Lopez-Richard et.al.|[2506.08728](http://arxiv.org/abs/2506.08728)|null|
@@ -1694,6 +1699,9 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**FieldFormer: Self-supervised Reconstruction of Physical Fields via Tensor Attention Prior**|Panqi Chen et.al.|[2506.11629](http://arxiv.org/abs/2506.11629)|null|
+|**2025-06-11**|**Brain-wide interpolation and conditioning of gene expression in the human brain using Implicit Neural Representations**|Xizheng Yu et.al.|[2506.11158](http://arxiv.org/abs/2506.11158)|null|
+|**2025-06-10**|**Grids Often Outperform Implicit Neural Representations**|Namhoon Kim et.al.|[2506.11139](http://arxiv.org/abs/2506.11139)|null|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
 |**2025-06-11**|**HiKO: A Hierarchical Framework for Beyond-Second-Order KO Codes**|Shubham Srivastava et.al.|[2506.10121](http://arxiv.org/abs/2506.10121)|null|
 |**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
