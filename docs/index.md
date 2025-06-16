@@ -90,7 +90,7 @@ layout: default
 |**2025-06-02**|**The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives**|Hemanth Sabbella et.al.|[2506.01737](http://arxiv.org/abs/2506.01737)|null|
 |**2025-06-02**|**Engram Memory Encoding and Retrieval: A Neurocomputational Perspective**|Daniel Szelogowski et.al.|[2506.01659](http://arxiv.org/abs/2506.01659)|null|
 |**2025-06-01**|**Spatio-Temporal Decoupled Learning for Spiking Neural Networks**|Chenxiang Ma et.al.|[2506.01117](http://arxiv.org/abs/2506.01117)|null|
-|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|null|
+|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401](http://arxiv.org/abs/2505.24401)|**[link](https://github.com/mhsunshine/sc3e_net)**|
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
 |**2025-06-05**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137](http://arxiv.org/abs/2505.24137)|null|
 |**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789](http://arxiv.org/abs/2505.22789)|null|
@@ -1713,7 +1713,7 @@ layout: default
 |**2025-06-02**|**Temporal Variational Implicit Neural Representations**|Batuhan Koyuncu et.al.|[2506.01544](http://arxiv.org/abs/2506.01544)|null|
 |**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
 |**2025-06-02**|**Fourier-Modulated Implicit Neural Representation for Multispectral Satellite Image Compression**|Woojin Cho et.al.|[2506.01234](http://arxiv.org/abs/2506.01234)|null|
-|**2025-06-01**|**Probing Neural Topology of Large Language Models**|Yu Zheng et.al.|[2506.01042](http://arxiv.org/abs/2506.01042)|null|
+|**2025-06-01**|**Probing Neural Topology of Large Language Models**|Yu Zheng et.al.|[2506.01042](http://arxiv.org/abs/2506.01042)|**[link](https://github.com/DavyMorgan/llm-graph-probing)**|
 |**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations**|Gaurav Sarkar et.al.|[2505.23942](http://arxiv.org/abs/2505.23942)|null|
 |**2025-06-04**|**Implicit Inversion turns CLIP into a Decoder**|Antonio D'Orazio et.al.|[2505.23161](http://arxiv.org/abs/2505.23161)|**[link](https://github.com/omnai-lab/implicit-inversion)**|
@@ -1729,7 +1729,7 @@ layout: default
 |**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
 |**2025-05-21**|**Towards a Science of Causal Interpretability in Deep Learning for Software Engineering**|David N. Palacio et.al.|[2505.15023](http://arxiv.org/abs/2505.15023)|null|
 |**2025-05-19**|**Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations**|Li Ji-An et.al.|[2505.13763](http://arxiv.org/abs/2505.13763)|null|
-|**2025-05-19**|**ReBaCCA-ss: Relevance-Balanced Continuum Correlation Analysis with Smoothing and Surrogating for Quantifying Similarity Between Population Spiking Activities**|Xiang Zhang et.al.|[2505.13748](http://arxiv.org/abs/2505.13748)|null|
+|**2025-05-19**|**ReBaCCA-ss: Relevance-Balanced Continuum Correlation Analysis with Smoothing and Surrogating for Quantifying Similarity Between Population Spiking Activities**|Xiang Zhang et.al.|[2505.13748](http://arxiv.org/abs/2505.13748)|**[link](https://github.com/neural-modeling-and-interface-lab/ReBaCCA-ss)**|
 |**2025-05-19**|**Koopman Autoencoders Learn Neural Representation Dynamics**|Nishant Suresh Aswani et.al.|[2505.12809](http://arxiv.org/abs/2505.12809)|null|
 |**2025-05-19**|**High-dimensional structure underlying individual differences in naturalistic visual experience**|Chihye Han et.al.|[2505.12653](http://arxiv.org/abs/2505.12653)|**[link](https://github.com/kelseyhan-jhu/idiosyncratic-neural-geometry)**|
 |**2025-05-25**|**ViEEG: Hierarchical Neural Coding with Cross-Modal Progressive Enhancement for EEG-Based Visual Decoding**|Minxu Liu et.al.|[2505.12408](http://arxiv.org/abs/2505.12408)|null|
@@ -2067,7 +2067,7 @@ layout: default
 |**2024-08-08**|**Towards Linguistic Neural Representation Learning and Sentence Retrieval from Electroencephalogram Recordings**|Jinzhao Zhou et.al.|[2408.04679](http://arxiv.org/abs/2408.04679)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|**[link](https://github.com/v587su/FDI)**|
 |**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657](http://arxiv.org/abs/2408.03657)|**[link](https://github.com/Felixduelmer/phocus)**|
-|**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|null|
+|**2024-08-06**|**Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement**|Hao Xu et.al.|[2408.02966](http://arxiv.org/abs/2408.02966)|**[link](https://github.com/hxu160/CRCIR_for_PCGC)**|
 |**2024-07-31**|**HINER: Neural Representation for Hyperspectral Image**|Junqi Shi et.al.|[2407.21395](http://arxiv.org/abs/2407.21395)|**[link](https://github.com/eric-qi/hiner)**|
 |**2024-07-30**|**Neural Fields for Continuous Periodic Motion Estimation in 4D Cardiovascular Imaging**|Simone Garzia et.al.|[2407.20728](http://arxiv.org/abs/2407.20728)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
@@ -2080,7 +2080,7 @@ layout: default
 |**2024-07-23**|**Energy-information trade-off makes the cortical critical power law the optimal coding**|Tsuyoshi Tatsukawa et.al.|[2407.16215](http://arxiv.org/abs/2407.16215)|null|
 |**2024-07-23**|**Uncertainty-Aware Deep Neural Representations for Visual Analysis of Vector Field Data**|Atul Kumar et.al.|[2407.16119](http://arxiv.org/abs/2407.16119)|null|
 |**2024-07-22**|**Attention Beats Linear for Fast Implicit Neural Representation Generation**|Shuyi Zhang et.al.|[2407.15355](http://arxiv.org/abs/2407.15355)|**[link](https://github.com/roninton/anr)**|
-|**2024-07-19**|**SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization**|Mae Younes et.al.|[2407.14257](http://arxiv.org/abs/2407.14257)|null|
+|**2024-07-19**|**SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization**|Mae Younes et.al.|[2407.14257](http://arxiv.org/abs/2407.14257)|**[link](https://github.com/maeyounes/SparseCraft)**|
 |**2024-07-18**|**Learn to Memorize and to Forget: A Continual Learning Perspective of Dynamic SLAM**|Baicheng Li et.al.|[2407.13338](http://arxiv.org/abs/2407.13338)|null|
 |**2024-07-17**|**A Resolution Independent Neural Operator**|Bahador Bahmani et.al.|[2407.13010](http://arxiv.org/abs/2407.13010)|null|
 |**2024-07-15**|**Balancing the Scales: Reinforcement Learning for Fair Classification**|Leon Eshuijs et.al.|[2407.10629](http://arxiv.org/abs/2407.10629)|**[link](https://github.com/watermeleon/RL_for_imbalanced_classification)**|
