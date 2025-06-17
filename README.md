@@ -63,6 +63,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416](http://arxiv.org/abs/2506.13416)|null|
+|**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410](http://arxiv.org/abs/2506.13410)|null|
+|**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400](http://arxiv.org/abs/2506.13400)|null|
+|**2025-06-16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|Zhen Yao et.al.|[2506.13340](http://arxiv.org/abs/2506.13340)|null|
+|**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
 |**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|null|
 |**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286](http://arxiv.org/abs/2506.11286)|null|
@@ -1125,6 +1130,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416](http://arxiv.org/abs/2506.13416)|null|
+|**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268](http://arxiv.org/abs/2506.13268)|null|
 |**2025-06-13**|**Synaptic plasticity in Co/Nb:STO memristive devices: The role of oxygen vacancies**|Walter Quiñonez et.al.|[2506.11965](http://arxiv.org/abs/2506.11965)|null|
 |**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760](http://arxiv.org/abs/2506.11760)|null|
 |**2025-06-11**|**Formalizing Neuromorphic Control Systems: A General Proposal and A Rhythmic Case Study**|Taisia Medvedeva et.al.|[2506.10203](http://arxiv.org/abs/2506.10203)|null|
@@ -1695,6 +1702,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
+|**2025-06-16**|**Hopfield Networks as Models of Emergent Function in Biology**|Maria Yampolskaya et.al.|[2506.13076](http://arxiv.org/abs/2506.13076)|null|
+|**2025-06-15**|**Efficient Neural Video Representation via Structure-Preseving Patch Decoding**|Taiga Hayami et.al.|[2506.12896](http://arxiv.org/abs/2506.12896)|null|
+|**2025-06-15**|**PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling**|Minju Jo et.al.|[2506.12790](http://arxiv.org/abs/2506.12790)|null|
+|**2025-06-14**|**Adaptive Multi-resolution Hash-Encoding Framework for INR-based Dental CBCT Reconstruction with Truncated FOV**|Hyoung Suk Park et.al.|[2506.12471](http://arxiv.org/abs/2506.12471)|null|
 |**2025-06-13**|**FieldFormer: Self-supervised Reconstruction of Physical Fields via Tensor Attention Prior**|Panqi Chen et.al.|[2506.11629](http://arxiv.org/abs/2506.11629)|null|
 |**2025-06-11**|**Brain-wide interpolation and conditioning of gene expression in the human brain using Implicit Neural Representations**|Xizheng Yu et.al.|[2506.11158](http://arxiv.org/abs/2506.11158)|null|
 |**2025-06-10**|**Grids Often Outperform Implicit Neural Representations**|Namhoon Kim et.al.|[2506.11139](http://arxiv.org/abs/2506.11139)|null|
