@@ -67,6 +67,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
+|**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169](http://arxiv.org/abs/2506.17169)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
 |**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
 |**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
@@ -1139,6 +1141,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
 |**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
 |**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
@@ -1716,6 +1719,12 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
+|**2025-06-19**|**From Coarse to Continuous: Progressive Refinement Implicit Neural Representation for Motion-Robust Anisotropic MRI Reconstruction**|Zhenxuan Zhang et.al.|[2506.16210](http://arxiv.org/abs/2506.16210)|null|
+|**2025-06-19**|**Information-computation trade-offs in non-linear transforms**|Connor Ding et.al.|[2506.15948](http://arxiv.org/abs/2506.15948)|null|
+|**2025-06-18**|**GratNet: A Photorealistic Neural Shader for Diffractive Surfaces**|Narayan Kandel et.al.|[2506.15815](http://arxiv.org/abs/2506.15815)|null|
+|**2025-06-18**|**Implicit neural representations for accurate estimation of the standard model of white matter**|Tom Hendriks et.al.|[2506.15762](http://arxiv.org/abs/2506.15762)|null|
 |**2025-06-18**|**The Compositional Architecture of Regret in Large Language Models**|Xiangxiang Cui et.al.|[2506.15617](http://arxiv.org/abs/2506.15617)|null|
 |**2025-06-18**|**MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**|Jun Zhu et.al.|[2506.15276](http://arxiv.org/abs/2506.15276)|null|
 |**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
@@ -2756,6 +2765,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing**|Yisu Wang et.al.|[2506.16258](http://arxiv.org/abs/2506.16258)|null|
 |**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|**[link](https://github.com/gensyn-ai/noloco)**|
 |**2025-06-03**|**DiOMP-Offloading: Toward Portable Distributed Heterogeneous OpenMP**|Baodi Shan et.al.|[2506.02486](http://arxiv.org/abs/2506.02486)|null|
 |**2025-05-24**|**PacTrain: Pruning and Adaptive Sparse Gradient Compression for Efficient Collective Communication in Distributed Deep Learning**|Yisu Wang et.al.|[2505.18563](http://arxiv.org/abs/2505.18563)|null|
