@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -72,7 +72,7 @@ layout: default
 |**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169](http://arxiv.org/abs/2506.17169)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
-|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|**[link](https://github.com/imltugraz/hypr)**|
 |**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
 |**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
 |**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
@@ -1147,7 +1147,7 @@ layout: default
 |**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306](http://arxiv.org/abs/2506.18306)|null|
 |**2025-06-20**|**High-accuracy inference using HfO $_x$S$_y$/HfS$_2$ Memristors**|Aferdita Xhameni et.al.|[2506.17174](http://arxiv.org/abs/2506.17174)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984](http://arxiv.org/abs/2506.14984)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
-|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|null|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464](http://arxiv.org/abs/2506.14464)|**[link](https://github.com/imltugraz/hypr)**|
 |**2025-06-17**|**Reconfigurable three dimensional magnetic nanoarchitectures**|Sabri Koraltan et.al.|[2506.14383](http://arxiv.org/abs/2506.14383)|null|
 |**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272](http://arxiv.org/abs/2506.14272)|null|
 |**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138](http://arxiv.org/abs/2506.14138)|null|
