@@ -63,6 +63,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363](http://arxiv.org/abs/2506.21363)|null|
+|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324](http://arxiv.org/abs/2506.21324)|null|
+|**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782](http://arxiv.org/abs/2506.20782)|null|
 |**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015](http://arxiv.org/abs/2506.20015)|null|
 |**2025-06-24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|Jaskirat Singh Maskeen et.al.|[2506.19377](http://arxiv.org/abs/2506.19377)|null|
 |**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256](http://arxiv.org/abs/2506.19256)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|
@@ -1143,6 +1146,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363](http://arxiv.org/abs/2506.21363)|null|
+|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324](http://arxiv.org/abs/2506.21324)|null|
+|**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782](http://arxiv.org/abs/2506.20782)|null|
 |**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015](http://arxiv.org/abs/2506.20015)|null|
 |**2025-06-25**|**From Tiny Machine Learning to Tiny Deep Learning: A Survey**|Shriyank Somvanshi et.al.|[2506.18927](http://arxiv.org/abs/2506.18927)|null|
 |**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530](http://arxiv.org/abs/2506.18530)|null|
