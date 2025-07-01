@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1738,7 +1738,7 @@
 |**2025-06-25**|**Brains and language models converge on a shared conceptual space across different languages**|Zaid Zada et.al.|[2506.20489](http://arxiv.org/abs/2506.20489)|null|
 |**2025-06-24**|**Cross-Layer Discrete Concept Discovery for Interpreting Language Models**|Ankur Garg et.al.|[2506.20040](http://arxiv.org/abs/2506.20040)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
-|**2025-06-27**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
+|**2025-06-30**|**The Relationship between Cognition and Computation: "Global-first" Cognition versus Local-first Computation**|Lin Chen et.al.|[2506.17970](http://arxiv.org/abs/2506.17970)|null|
 |**2025-06-17**|**Fine-Scale Soil Mapping in Alaska with Multimodal Machine Learning**|Yijun Lin et.al.|[2506.17302](http://arxiv.org/abs/2506.17302)|null|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
 |**2025-06-19**|**Data Compression with Relative Entropy Coding**|Gergely Flamich et.al.|[2506.16309](http://arxiv.org/abs/2506.16309)|null|
