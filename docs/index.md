@@ -67,6 +67,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**In situ Study of Phase Transitions in La $_2$NiO$_{4+δ}$ using Raman Spectroscopy**|Adeel Riaz et.al.|[2507.01072](http://arxiv.org/abs/2507.01072)|null|
 |**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
 |**2025-06-30**|**Training of Spiking Neural Networks with Expectation-Propagation**|Dan Yao et.al.|[2506.23757](http://arxiv.org/abs/2506.23757)|null|
 |**2025-06-30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|Xingting Yao et.al.|[2506.23717](http://arxiv.org/abs/2506.23717)|null|
@@ -1155,6 +1156,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**In situ Study of Phase Transitions in La $_2$NiO$_{4+δ}$ using Raman Spectroscopy**|Adeel Riaz et.al.|[2507.01072](http://arxiv.org/abs/2507.01072)|null|
 |**2025-06-30**|**Sustainable operation of research infrastructure for novel computing**|Yannik Stradmann et.al.|[2506.23901](http://arxiv.org/abs/2506.23901)|null|
 |**2025-06-26**|**Analog Programmable-Photonic Information**|Andrés Macho Ortiz et.al.|[2506.21649](http://arxiv.org/abs/2506.21649)|null|
 |**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363](http://arxiv.org/abs/2506.21363)|null|
@@ -1742,6 +1744,11 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**High-resolution spatial memory requires grid-cell-like neural codes**|Madison Cotteret et.al.|[2507.00598](http://arxiv.org/abs/2507.00598)|null|
+|**2025-07-01**|**AI-Generated Video Detection via Perceptual Straightening**|Christian Internò et.al.|[2507.00583](http://arxiv.org/abs/2507.00583)|null|
+|**2025-07-01**|**FreNBRDF: A Frequency-Rectified Neural Material Representation**|Chenliang Zhou et.al.|[2507.00476](http://arxiv.org/abs/2507.00476)|null|
+|**2025-07-01**|**ViscoReg: Neural Signed Distance Functions via Viscosity Solutions**|Meenakshi Krishnan et.al.|[2507.00412](http://arxiv.org/abs/2507.00412)|null|
+|**2025-06-30**|**Feature Integration Spaces: Joint Training Reveals Dual Encoding in Neural Network Representations**|Omar Claflin et.al.|[2507.00269](http://arxiv.org/abs/2507.00269)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-30**|**Neural inference of fluid-structure interactions from sparse off-body measurements**|Rui Tang et.al.|[2506.23480](http://arxiv.org/abs/2506.23480)|null|
 |**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479](http://arxiv.org/abs/2506.23479)|null|
@@ -2800,6 +2807,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention**|Yuhong Chou et.al.|[2507.01004](http://arxiv.org/abs/2507.01004)|null|
 |**2025-06-19**|**ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing**|Yisu Wang et.al.|[2506.16258](http://arxiv.org/abs/2506.16258)|null|
 |**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|**[link](https://github.com/gensyn-ai/noloco)**|
 |**2025-06-03**|**DiOMP-Offloading: Toward Portable Distributed Heterogeneous OpenMP**|Baodi Shan et.al.|[2506.02486](http://arxiv.org/abs/2506.02486)|null|
