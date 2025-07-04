@@ -67,6 +67,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
 |**2025-07-01**|**In situ Study of Phase Transitions in La $_2$NiO$_{4+δ}$ using Raman Spectroscopy**|Adeel Riaz et.al.|[2507.01072](http://arxiv.org/abs/2507.01072)|null|
 |**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
 |**2025-06-30**|**Training of Spiking Neural Networks with Expectation-Propagation**|Dan Yao et.al.|[2506.23757](http://arxiv.org/abs/2506.23757)|null|
@@ -1156,6 +1157,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
 |**2025-07-01**|**In situ Study of Phase Transitions in La $_2$NiO$_{4+δ}$ using Raman Spectroscopy**|Adeel Riaz et.al.|[2507.01072](http://arxiv.org/abs/2507.01072)|null|
 |**2025-06-30**|**Sustainable operation of research infrastructure for novel computing**|Yannik Stradmann et.al.|[2506.23901](http://arxiv.org/abs/2506.23901)|null|
 |**2025-06-26**|**Analog Programmable-Photonic Information**|Andrés Macho Ortiz et.al.|[2506.21649](http://arxiv.org/abs/2506.21649)|null|
@@ -1744,6 +1746,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**MC-INR: Efficient Encoding of Multivariate Scientific Simulation Data using Meta-Learning and Clustered Implicit Neural Representations**|Hyunsoo Son et.al.|[2507.02494](http://arxiv.org/abs/2507.02494)|null|
 |**2025-07-01**|**High-resolution spatial memory requires grid-cell-like neural codes**|Madison Cotteret et.al.|[2507.00598](http://arxiv.org/abs/2507.00598)|null|
 |**2025-07-01**|**AI-Generated Video Detection via Perceptual Straightening**|Christian Internò et.al.|[2507.00583](http://arxiv.org/abs/2507.00583)|null|
 |**2025-07-01**|**FreNBRDF: A Frequency-Rectified Neural Material Representation**|Chenliang Zhou et.al.|[2507.00476](http://arxiv.org/abs/2507.00476)|null|
