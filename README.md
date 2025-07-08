@@ -63,6 +63,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**NeuroPDE: A Neuromorphic PDE Solver Based on Spintronic and Ferroelectric Devices**|Siqing Fu et.al.|[2507.04677](http://arxiv.org/abs/2507.04677)|null|
+|**2025-07-06**|**Voltage Mode Winner-Take-All Circuit for Neuromorphic Systems**|Abdullah M. Zyarah et.al.|[2507.04338](http://arxiv.org/abs/2507.04338)|null|
+|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
+|**2025-07-04**|**Benchmarking Spiking Neurons for Linear Quadratic Regulator Control of Multi-linked Pole on a Cart: from Single Neuron to Ensemble**|Shreyan Banerjee et.al.|[2507.03621](http://arxiv.org/abs/2507.03621)|null|
+|**2025-06-30**|**Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods**|Liying Tao et.al.|[2507.02960](http://arxiv.org/abs/2507.02960)|null|
 |**2025-07-04**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
 |**2025-07-01**|**In situ Study of Phase Transitions in La $_2$NiO$_{4+δ}$ using Raman Spectroscopy**|Adeel Riaz et.al.|[2507.01072](http://arxiv.org/abs/2507.01072)|null|
 |**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
@@ -1153,6 +1158,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**NeuroPDE: A Neuromorphic PDE Solver Based on Spintronic and Ferroelectric Devices**|Siqing Fu et.al.|[2507.04677](http://arxiv.org/abs/2507.04677)|null|
+|**2025-07-06**|**Voltage Mode Winner-Take-All Circuit for Neuromorphic Systems**|Abdullah M. Zyarah et.al.|[2507.04338](http://arxiv.org/abs/2507.04338)|null|
+|**2025-07-04**|**Benchmarking Spiking Neurons for Linear Quadratic Regulator Control of Multi-linked Pole on a Cart: from Single Neuron to Ensemble**|Shreyan Banerjee et.al.|[2507.03621](http://arxiv.org/abs/2507.03621)|null|
+|**2025-06-28**|**SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning**|Hui Xie et.al.|[2507.02945](http://arxiv.org/abs/2507.02945)|null|
 |**2025-07-04**|**A scalable and programmable optical neural network in a time-synthetic dimension**|Bei Wu et.al.|[2507.02297](http://arxiv.org/abs/2507.02297)|null|
 |**2025-07-01**|**In situ Study of Phase Transitions in La $_2$NiO$_{4+δ}$ using Raman Spectroscopy**|Adeel Riaz et.al.|[2507.01072](http://arxiv.org/abs/2507.01072)|null|
 |**2025-06-30**|**Sustainable operation of research infrastructure for novel computing**|Yannik Stradmann et.al.|[2506.23901](http://arxiv.org/abs/2506.23901)|null|
@@ -1742,6 +1751,12 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
+|**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684](http://arxiv.org/abs/2507.04684)|null|
+|**2025-07-04**|**F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding**|Jianxin Sun et.al.|[2507.03836](http://arxiv.org/abs/2507.03836)|null|
+|**2025-07-04**|**Implicit Neural Representation of Beamforming for Continuous Aperture Array (CAPA) System**|Shiyong Chen et.al.|[2507.03609](http://arxiv.org/abs/2507.03609)|null|
+|**2025-07-03**|**Neural Dynamic Modes: Computational Imaging of Dynamical Systems from Sparse Observations**|Ali SaraerToosi et.al.|[2507.03094](http://arxiv.org/abs/2507.03094)|null|
+|**2025-07-03**|**Mechanics Simulation with Implicit Neural Representations of Complex Geometries**|Samundra Karki et.al.|[2507.03087](http://arxiv.org/abs/2507.03087)|null|
 |**2025-07-03**|**MC-INR: Efficient Encoding of Multivariate Scientific Simulation Data using Meta-Learning and Clustered Implicit Neural Representations**|Hyunsoo Son et.al.|[2507.02494](http://arxiv.org/abs/2507.02494)|null|
 |**2025-07-01**|**High-resolution spatial memory requires grid-cell-like neural codes**|Madison Cotteret et.al.|[2507.00598](http://arxiv.org/abs/2507.00598)|null|
 |**2025-07-01**|**AI-Generated Video Detection via Perceptual Straightening**|Christian Internò et.al.|[2507.00583](http://arxiv.org/abs/2507.00583)|null|
@@ -2711,6 +2726,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Communication Round and Computation Efficient Exclusive Prefix-Sums Algorithms (for MPI_Exscan)**|Jesper Larsson Träff et.al.|[2507.04785](http://arxiv.org/abs/2507.04785)|null|
 |**2025-06-18**|**Parallel Paradigms in Modern HPC: A Comparative Analysis of MPI, OpenMP, and CUDA**|Nizar ALHafez et.al.|[2506.15454](http://arxiv.org/abs/2506.15454)|null|
 |**2025-06-17**|**Concepts for designing modern C++ interfaces for MPI**|C. Nicole Avans et.al.|[2506.14610](http://arxiv.org/abs/2506.14610)|null|
 |**2025-06-03**|**Exploring metrics for analyzing dynamic behavior in MPI programs via a coupled-oscillator model**|Ayesha Afzal et.al.|[2506.02792](http://arxiv.org/abs/2506.02792)|null|
@@ -2806,6 +2822,8 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms**|Zhiyi Hu et.al.|[2507.04786](http://arxiv.org/abs/2507.04786)|null|
+|**2025-07-03**|**An End-to-End Assurance Framework for AI/ML Workloads in Datacenters**|Jit Gupta et.al.|[2507.03158](http://arxiv.org/abs/2507.03158)|null|
 |**2025-07-02**|**ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention**|Yuhong Chou et.al.|[2507.01004](http://arxiv.org/abs/2507.01004)|null|
 |**2025-06-19**|**ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing**|Yisu Wang et.al.|[2506.16258](http://arxiv.org/abs/2506.16258)|null|
 |**2025-06-12**|**NoLoCo: No-all-reduce Low Communication Training Method for Large Models**|Jari Kolehmainen et.al.|[2506.10911](http://arxiv.org/abs/2506.10911)|**[link](https://github.com/gensyn-ai/noloco)**|
