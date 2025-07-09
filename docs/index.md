@@ -67,6 +67,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|Robert Otupiri et.al.|[2507.05931](http://arxiv.org/abs/2507.05931)|null|
 |**2025-07-07**|**NeuroPDE: A Neuromorphic PDE Solver Based on Spintronic and Ferroelectric Devices**|Siqing Fu et.al.|[2507.04677](http://arxiv.org/abs/2507.04677)|null|
 |**2025-07-06**|**Voltage Mode Winner-Take-All Circuit for Neuromorphic Systems**|Abdullah M. Zyarah et.al.|[2507.04338](http://arxiv.org/abs/2507.04338)|null|
 |**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765](http://arxiv.org/abs/2507.03765)|null|
@@ -1162,6 +1163,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|Robert Otupiri et.al.|[2507.05931](http://arxiv.org/abs/2507.05931)|null|
 |**2025-07-07**|**NeuroPDE: A Neuromorphic PDE Solver Based on Spintronic and Ferroelectric Devices**|Siqing Fu et.al.|[2507.04677](http://arxiv.org/abs/2507.04677)|null|
 |**2025-07-06**|**Voltage Mode Winner-Take-All Circuit for Neuromorphic Systems**|Abdullah M. Zyarah et.al.|[2507.04338](http://arxiv.org/abs/2507.04338)|null|
 |**2025-07-04**|**Benchmarking Spiking Neurons for Linear Quadratic Regulator Control of Multi-linked Pole on a Cart: from Single Neuron to Ensemble**|Shreyan Banerjee et.al.|[2507.03621](http://arxiv.org/abs/2507.03621)|null|
@@ -1755,6 +1757,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
 |**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684](http://arxiv.org/abs/2507.04684)|null|
 |**2025-07-04**|**F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding**|Jianxin Sun et.al.|[2507.03836](http://arxiv.org/abs/2507.03836)|null|
