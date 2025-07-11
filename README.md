@@ -63,6 +63,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
+|**2025-07-10**|**Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks**|Stanisław Świerczewski et.al.|[2507.07684](http://arxiv.org/abs/2507.07684)|null|
+|**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396](http://arxiv.org/abs/2507.07396)|null|
+|**2025-07-09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|Andrew Fan et.al.|[2507.07284](http://arxiv.org/abs/2507.07284)|null|
 |**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018](http://arxiv.org/abs/2507.07018)|null|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
 |**2025-07-09**|**Illuminating the Future: Nanophotonics for Future Green Technologies, Precision Healthcare, and Optical Computing**|Osama M. Halawa et.al.|[2507.06587](http://arxiv.org/abs/2507.06587)|null|
@@ -1162,6 +1166,10 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
+|**2025-07-10**|**Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks**|Stanisław Świerczewski et.al.|[2507.07684](http://arxiv.org/abs/2507.07684)|null|
+|**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396](http://arxiv.org/abs/2507.07396)|null|
+|**2025-07-09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|Andrew Fan et.al.|[2507.07284](http://arxiv.org/abs/2507.07284)|null|
 |**2025-07-09**|**Quantum Spectral Clustering: Comparing Parameterized and Neuromorphic Quantum Kernels**|Donovan Slabbert et.al.|[2507.07018](http://arxiv.org/abs/2507.07018)|null|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
 |**2025-07-09**|**Illuminating the Future: Nanophotonics for Future Green Technologies, Precision Healthcare, and Optical Computing**|Osama M. Halawa et.al.|[2507.06587](http://arxiv.org/abs/2507.06587)|null|
@@ -1759,6 +1767,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Discretization-independent multifidelity operator learning for partial differential equations**|Jacob Hauck et.al.|[2507.07292](http://arxiv.org/abs/2507.07292)|null|
 |**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-07-07**|**Physics-Guided Dual Implicit Neural Representations for Source Separation**|Yuan Ni et.al.|[2507.05249](http://arxiv.org/abs/2507.05249)|null|
@@ -2832,6 +2841,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Collective Communication Profiling of Modern-day Machine Learning Workloads**|Jit Gupta et.al.|[2507.07117](http://arxiv.org/abs/2507.07117)|null|
 |**2025-07-07**|**Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms**|Zhiyi Hu et.al.|[2507.04786](http://arxiv.org/abs/2507.04786)|null|
 |**2025-07-03**|**An End-to-End Assurance Framework for AI/ML Workloads in Datacenters**|Jit Gupta et.al.|[2507.03158](http://arxiv.org/abs/2507.03158)|null|
 |**2025-07-02**|**ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention**|Yuhong Chou et.al.|[2507.01004](http://arxiv.org/abs/2507.01004)|null|
