@@ -6,6 +6,7 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-12**|**Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers**|Santhosh Kumar Ravindran et.al.|[2507.09406](http://arxiv.org/abs/2507.09406)|null|
 |**2025-06-03**|**Towards real-time assessment of infrasound event detection capability using deep learning-based transmission loss estimation**|Alice Janela Cameijo et.al.|[2506.06358](http://arxiv.org/abs/2506.06358)|null|
 |**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362](http://arxiv.org/abs/2505.16362)|null|
 |**2025-04-28**|**All-Optical Doubly Resonant Cavities for ReLU Function in Nanophotonic Deep Learning**|Amirreza Ahmadnejad et.al.|[2504.19692](http://arxiv.org/abs/2504.19692)|null|
@@ -63,6 +64,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
+|**2025-07-14**|**Field-effect transistors based on charged domain walls in van der Waals ferroelectric α-In $_2$Se$_3$**|Shahriar Muhammad Nahid et.al.|[2507.09838](http://arxiv.org/abs/2507.09838)|null|
+|**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
+|**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538](http://arxiv.org/abs/2507.09538)|null|
+|**2025-07-12**|**Cross Knowledge Distillation between Artificial and Spiking Neural Networks**|Shuhan Ye et.al.|[2507.09269](http://arxiv.org/abs/2507.09269)|null|
 |**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490](http://arxiv.org/abs/2507.08490)|null|
 |**2025-07-11**|**Electrothermally Modulated Nanophotonic Waveguide-integrated Ring Resonator**|Sujal Gupta et.al.|[2507.08332](http://arxiv.org/abs/2507.08332)|null|
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
@@ -1169,6 +1175,9 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Bulk spin-orbit torque-driven spin Hall nano-oscillators using PtBi alloys**|Utkarsh Shashank et.al.|[2507.10219](http://arxiv.org/abs/2507.10219)|null|
+|**2025-07-14**|**Field-effect transistors based on charged domain walls in van der Waals ferroelectric α-In $_2$Se$_3$**|Shahriar Muhammad Nahid et.al.|[2507.09838](http://arxiv.org/abs/2507.09838)|null|
+|**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538](http://arxiv.org/abs/2507.09538)|null|
 |**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490](http://arxiv.org/abs/2507.08490)|null|
 |**2025-07-11**|**Electrothermally Modulated Nanophotonic Waveguide-integrated Ring Resonator**|Sujal Gupta et.al.|[2507.08332](http://arxiv.org/abs/2507.08332)|null|
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
@@ -1773,6 +1782,11 @@
 {{< table "table-responsive" >}}
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-14**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
+|**2025-07-14**|**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**|Jiamin Wu et.al.|[2507.09882](http://arxiv.org/abs/2507.09882)|null|
+|**2025-07-13**|**BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings**|Dongyang Li et.al.|[2507.09747](http://arxiv.org/abs/2507.09747)|null|
+|**2025-07-11**|**CNeuroMod-THINGS, a densely-sampled fMRI dataset for visual neuroscience**|Marie St-Laurent et.al.|[2507.09024](http://arxiv.org/abs/2507.09024)|null|
 |**2025-07-09**|**Discretization-independent multifidelity operator learning for partial differential equations**|Jacob Hauck et.al.|[2507.07292](http://arxiv.org/abs/2507.07292)|null|
 |**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
