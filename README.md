@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -1783,7 +1783,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
-|**2025-07-14**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
+|**2025-07-15**|**IM-LUT: Interpolation Mixing Look-Up Tables for Image Super-Resolution**|Sejin Park et.al.|[2507.09923](http://arxiv.org/abs/2507.09923)|null|
 |**2025-07-14**|**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**|Jiamin Wu et.al.|[2507.09882](http://arxiv.org/abs/2507.09882)|null|
 |**2025-07-13**|**BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings**|Dongyang Li et.al.|[2507.09747](http://arxiv.org/abs/2507.09747)|null|
 |**2025-07-11**|**CNeuroMod-THINGS, a densely-sampled fMRI dataset for visual neuroscience**|Marie St-Laurent et.al.|[2507.09024](http://arxiv.org/abs/2507.09024)|null|
