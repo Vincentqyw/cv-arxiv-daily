@@ -68,6 +68,7 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Fractional Spike Differential Equations Neural Network with Efficient Adjoint Parameters Training**|Chengjie Ge et.al.|[2507.16937](http://arxiv.org/abs/2507.16937)|null|
 |**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495](http://arxiv.org/abs/2507.16495)|null|
 |**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151](http://arxiv.org/abs/2507.16151)|null|
 |**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043](http://arxiv.org/abs/2507.16043)|null|
@@ -1810,6 +1811,8 @@ layout: default
 {{< table "table-responsive" >}}
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594](http://arxiv.org/abs/2507.17594)|null|
+|**2025-07-23**|**HuiduRep: A Robust Self-Supervised Framework for Learning Neural Representations from Extracellular Spikes**|Feng Cao et.al.|[2507.17224](http://arxiv.org/abs/2507.17224)|null|
 |**2025-07-22**|**From Flat to Round: Redefining Brain Decoding with Surface-Based fMRI and Cortex Structure**|Sijin Yu et.al.|[2507.16389](http://arxiv.org/abs/2507.16389)|null|
 |**2025-07-21**|**LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression**|Wenjie Huang et.al.|[2507.15686](http://arxiv.org/abs/2507.15686)|null|
 |**2025-07-19**|**Real-Time Scene Reconstruction using Light Field Probes**|Yaru Liu et.al.|[2507.14624](http://arxiv.org/abs/2507.14624)|null|
