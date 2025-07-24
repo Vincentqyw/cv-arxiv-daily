@@ -1,4 +1,4 @@
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
@@ -2901,7 +2901,7 @@
 |---|---|---|---|---|
 |**2025-07-18**|**Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need**|Michael Davies et.al.|[2507.14397](http://arxiv.org/abs/2507.14397)|null|
 |**2025-07-03**|**Collective Communication Profiling of Modern-day Machine Learning Workloads**|Jit Gupta et.al.|[2507.07117](http://arxiv.org/abs/2507.07117)|null|
-|**2025-07-07**|**Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms**|Zhiyi Hu et.al.|[2507.04786](http://arxiv.org/abs/2507.04786)|null|
+|**2025-07-23**|**Demystifying NCCL: An In-depth Analysis of GPU Communication Protocols and Algorithms**|Zhiyi Hu et.al.|[2507.04786](http://arxiv.org/abs/2507.04786)|null|
 |**2025-07-03**|**An End-to-End Assurance Framework for AI/ML Workloads in Datacenters**|Jit Gupta et.al.|[2507.03158](http://arxiv.org/abs/2507.03158)|null|
 |**2025-07-02**|**ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention**|Yuhong Chou et.al.|[2507.01004](http://arxiv.org/abs/2507.01004)|null|
 |**2025-06-19**|**ViFusion: In-Network Tensor Fusion for Scalable Video Feature Indexing**|Yisu Wang et.al.|[2506.16258](http://arxiv.org/abs/2506.16258)|null|
