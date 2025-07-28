@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.26
+## Updated on 2025.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
