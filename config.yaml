@@ -22,37 +22,16 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Brain Simulation":
-        filters: 
-            ["Brain Simulation", "Neural Network Simulation", "Neuroscience Simulation"]
-    "Spiking Neural Networks":
-        filters: 
-            ["Spiking Neural Networks", "SNN", "Neuromorphic Computing"]
-    "Neuromorphic Computing":
+    "Dynamic and Streaming Graphs":
         filters:
-            ["Neuromorphic Computing", "Neuromorphic Systems", "Neuromorphic Engineering", "Neuromorphic Hardware"]
-    "Neural Coding":
+            ["Dynamic Graph", "Streaming Graph", "Graph Streaming"]
+    "Parallel Optimization":
         filters:
-            ["Neural Coding", "Neural Code", "Coding in Neural Networks", "Neural Representation"]
-    "Brain Modelling and Simulation":
+            ["Multithreading", "Parallel Optimization", "Concurrency Control", "Synchronization"]
+    "CPU Vectorization":
         filters:
-            ["Computational Brain Modelling", "Brain Simulation", "Neural Circuit Modelling", "Multiscale Brain Modelling"]
-    "High Performance Computing for Neuroscience":
+            ["CPU Vectorization", "SIMD", "AVX", "SVE", "SME"]
+    "Concurrent Data Structures":
         filters:
-            ["High Performance Computing in Neuroscience", "Supercomputing for Brain Simulation", "Parallel Computing for Neural Modelling", "Big Data in Neuroscience"]
-    "MPI Communication": 
-        filters: 
-            ["MPI Communication", "Message Passing Interface", "MPI Protocols", "MPI Performance", "MPI Topologies"]
-    "MPI": 
-        filters: 
-            ["MPI", "Message Passing Interface", "MPI Library", "MPI API", "MPI Programming"]
-    "RDMA": 
-        filters: 
-            ["RDMA", "Remote Direct Memory Access", "RDMA Communication", "RDMA Protocols", "RDMA Performance"]
-    "MPI Collectives": 
-        filters: 
-            ["MPI Collectives", "Collective Communication", "MPI Collective Operations", "MPI Collective Algorithms", "MPI Collective Performance"]
-    "Asynchronous Progress":
-        filters:
-            ["Asynchronous Progress"]
+            ["Concurrent Data Structures", "Lock-free", "Wait-free", "Parallel Data Structures"]
     
