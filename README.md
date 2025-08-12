@@ -1,4 +1,4 @@
-## Updated on 2025.08.11
+## Updated on 2025.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Brain Simulation
