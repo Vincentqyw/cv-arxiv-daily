@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
+|**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
+|**2025-12-17**|**A Parameter-Free Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals**|Qi Wang et.al.|[2512.14979](http://arxiv.org/abs/2512.14979)|null|
+|**2025-12-16**|**Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations**|Aaron Kurda et.al.|[2512.14428](http://arxiv.org/abs/2512.14428)|null|
+|**2025-12-16**|**Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments**|Aleksi Karhunen et.al.|[2512.14340](http://arxiv.org/abs/2512.14340)|null|
+|**2025-12-16**|**SUPER -- A Framework for Sensitivity-based Uncertainty-aware Performance and Risk Assessment in Visual Inertial Odometry**|Johannes A. Gaus et.al.|[2512.14189](http://arxiv.org/abs/2512.14189)|null|
+|**2025-12-16**|**ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM**|Ignacio Alzugaray et.al.|[2512.14032](http://arxiv.org/abs/2512.14032)|null|
+|**2025-12-16**|**Deep Learning Perspective of Scene Understanding in Autonomous Robots**|Afia Maham et.al.|[2512.14020](http://arxiv.org/abs/2512.14020)|null|
+|**2025-12-16**|**Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline**|Hossein Naderi et.al.|[2512.13974](http://arxiv.org/abs/2512.13974)|null|
 |**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481](http://arxiv.org/abs/2512.10481)|null|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
@@ -1256,6 +1266,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**An evacuation simulator for pedestrian dynamics based on the Social Force Model**|Julián López et.al.|[2512.16887](http://arxiv.org/abs/2512.16887)|null|
+|**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
+|**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608](http://arxiv.org/abs/2512.15608)|null|
 |**2025-12-11**|**3D Blood Pulsation Maps**|Maurice Rohr et.al.|[2512.10517](http://arxiv.org/abs/2512.10517)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
 |**2025-12-08**|**Sparse Variable Projection in Robotic Perception: Exploiting Separable Structure for Efficient Nonlinear Optimization**|Alan Papalia et.al.|[2512.07969](http://arxiv.org/abs/2512.07969)|null|
@@ -2214,6 +2227,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
+|**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
+|**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
+|**2025-12-15**|**Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing**|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
+|**2025-12-14**|**Patch-wise Retrieval: A Bag of Practical Techniques for Instance-level Matching**|Wonseok Choi et.al.|[2512.12610](http://arxiv.org/abs/2512.12610)|null|
 |**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
 |**2025-12-10**|**YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos**|Ryan Meegan et.al.|[2512.09903](http://arxiv.org/abs/2512.09903)|null|
 |**2025-12-09**|**Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics**|Nick Trinh et.al.|[2512.09071](http://arxiv.org/abs/2512.09071)|null|
@@ -5044,7 +5062,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712](http://arxiv.org/abs/2512.07712)|null|
+|**2025-12-17**|**BLANKET: Anonymizing Faces in Infant Video Recordings**|Ditmar Hadera et.al.|[2512.15542](http://arxiv.org/abs/2512.15542)|null|
+|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
+|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
+|**2025-12-16**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712](http://arxiv.org/abs/2512.07712)|null|
 |**2025-12-03**|**Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer**|Tasmiah Haque et.al.|[2512.04282](http://arxiv.org/abs/2512.04282)|null|
 |**2025-12-03**|**Leveraging topological data analysis to estimate bone strength from micro-CT as a surrogate for advanced imaging**|John Rick Manzanares et.al.|[2512.03880](http://arxiv.org/abs/2512.03880)|null|
 |**2025-12-03**|**DINO-RotateMatch: A Rotation-Aware Deep Framework for Robust Image Matching in Large-Scale 3D Reconstruction**|Kaichen Zhang et.al.|[2512.03715](http://arxiv.org/abs/2512.03715)|null|
@@ -5573,8 +5594,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|null|
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|null|
-|**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
+|**2025-12-14**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
 |**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
 |**2025-12-04**|**Deep infant brain segmentation from multi-contrast MRI**|Malte Hoffmann et.al.|[2512.05114](http://arxiv.org/abs/2512.05114)|null|
 |**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
@@ -6919,6 +6941,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|null|
+|**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
+|**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
+|**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai et.al.|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
+|**2025-12-14**|**Quantum Implicit Neural Representations for 3D Scene Reconstruction and Novel View Synthesis**|Yeray Cordero et.al.|[2512.12683](http://arxiv.org/abs/2512.12683)|null|
 |**2025-12-11**|**Physically Aware 360 $^\circ$ View Generation from a Single Image using Disentangled Scene Embeddings**|Karthikeya KV et.al.|[2512.10293](http://arxiv.org/abs/2512.10293)|null|
 |**2025-12-10**|**Log NeRF: Comparing Spaces for Learning Radiance Fields**|Sihe Chen et.al.|[2512.09375](http://arxiv.org/abs/2512.09375)|null|
 |**2025-12-11**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|null|
