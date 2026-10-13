@@ -45,6 +45,9 @@ This codebase is composed of the following parts:
 6. Archive (optional)
     - `README.md` / `docs/index.md` only keep the latest `max_papers_in_readme` papers of each keyword, since GitHub stops rendering markdown files beyond 512 KB.
     - All papers are archived by year, one markdown per keyword: `archive/<year>/<Keyword>.md` (and `docs/archive/` for the gitpage), see `archive_readme_dir` / `archive_gitpage_dir` in [config.yaml](../config.yaml).
+7. Code links
+    - PapersWithCode is gone, code links are looked up from the paper's abstract, [Hugging Face papers](https://huggingface.co/papers) and GitHub code search (the README files citing the arxiv id).
+    - The GitHub search needs `GITHUB_TOKEN` (set by the workflows) and allows 10 requests per minute, so it only runs in the weekly `Run Update Paper Links Weekly` job, which re-checks at most `max_code_checks` papers without code published within `code_check_days`, least recently checked first (`docs/code-checks.json` remembers the checks). Run `python daily_arxiv.py --update_paper_links --code_check_days 0 --max_code_checks 2000` locally to backfill older papers.
 
 </details>
 

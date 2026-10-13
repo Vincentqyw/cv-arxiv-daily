@@ -43,6 +43,8 @@ jobs:
           pip install -r requirements.txt
           
       - name: Run daily arxiv 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python daily_arxiv.py
           
@@ -51,7 +53,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md archive docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/archive docs/cv-arxiv-daily-wechat.json docs/wechat.md
+          files: README.md archive docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/archive docs/code-checks.json docs/cv-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

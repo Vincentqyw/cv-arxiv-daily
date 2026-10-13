@@ -27,7 +27,17 @@ max_papers_in_readme: 200
 archive_readme_dir: './archive'
 archive_gitpage_dir: './docs/archive'
 
-# keywords to search
+# code links: PapersWithCode is gone, github repos are looked up from the paper's
+# abstract, Hugging Face papers and GitHub code search (needs GITHUB_TOKEN, 10
+# requests/min). The weekly update re-checks papers without code published within
+# code_check_days (<= 0 for all), at most max_code_checks papers per run, least
+# recently checked first; code_checks_path remembers when each paper was checked
+code_check_days: 180
+max_code_checks: 300
+code_checks_path: './docs/code-checks.json'
+
+# keywords to search, optional "categories" limit the arxiv categories (eg. cs.CV)
+# of one keyword; a top-level "categories" would apply to all keywords
 keywords:
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
@@ -44,3 +54,16 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "Gaussian Splatting":
+        filters: ["Gaussian Splatting", "3DGS", "2DGS", "4DGS"]
+    "3D Reconstruction":
+        filters: ["VGGT", "DUSt3R", "MASt3R",
+                  "Feed-forward 3D Reconstruction", "Feed-forward Reconstruction",
+                  "Multi-view 3D Reconstruction", "3D Foundation Model"]
+    "World Model":
+        filters: ["World Model", "World Models", "World Simulator"]
+        # "world model" is also a common term in NLP / databases etc., limit the arxiv categories
+        categories: ["cs.CV", "cs.RO", "cs.AI", "cs.LG", "cs.CL"]
+    "VLA and VLN":
+        filters: ["Vision Language Action", "Vision Language Navigation",
+                  "Vision and Language Navigation", "VLN"]
