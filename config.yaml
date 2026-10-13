@@ -31,9 +31,11 @@ archive_gitpage_dir: './docs/archive'
 # abstract, Hugging Face papers and GitHub code search (needs GITHUB_TOKEN, 10
 # requests/min). The weekly update re-checks papers without code published within
 # code_check_days (<= 0 for all), at most max_code_checks papers per run, least
-# recently checked first; code_checks_path remembers when each paper was checked
+# recently checked first; code_checks_path remembers when each paper was checked;
+# GitHub searches stop after max_code_search_minutes so the job finishes in time
 code_check_days: 180
 max_code_checks: 300
+max_code_search_minutes: 40
 code_checks_path: './docs/code-checks.json'
 
 # keywords to search, optional "categories" limit the arxiv categories (eg. cs.CV)

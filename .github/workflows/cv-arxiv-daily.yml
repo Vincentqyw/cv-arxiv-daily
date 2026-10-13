@@ -13,6 +13,11 @@ on:
 #     branches:
 #     - main
 
+# both workflows commit the same generated files, never run them at the same time
+concurrency:
+  group: update-papers
+  cancel-in-progress: false
+
 env:
 
   GITHUB_USER_NAME: Vincentqyw

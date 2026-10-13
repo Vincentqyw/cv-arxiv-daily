@@ -80,8 +80,20 @@ def sort_papers(papers):
 GITHUB_REPO_RE = re.compile(r'(?:https?://)?(?:www\.)?github\.com/([\w.-]+/[\w.-]+)', re.I)
 # repos that merely cite papers in their README: paper lists, arxiv daily bots, model zoos...
 NOT_CODE_REPO_RE = re.compile(r'awesome|paper|arxiv|daily|weekly|survey|list|zoo|reading|collection|notes?$|favor|track', re.I)
-code_link_cache = dict()    # arxiv_id -> code url or None, the json files share the lookups
-last_github_search = 0.0
+code_link_cache = dict()    # arxiv_id -> (code url or None, thorough), the json files share the lookups
+github_search_state = {
+    'last': 0.0,            # time of the last request
+    'remaining': None,      # X-RateLimit-Remaining of the last response
+    'reset': 0.0,           # X-RateLimit-Reset of the last response
+    'deadline': None,       # no more searches after this time, see set_github_search_budget
+    'logged_limit': False,
+}
+
+def set_github_search_budget(minutes:float):
+    '''
+    stop searching GitHub after these minutes (the weekly job must finish in reasonable time)
+    '''
+    github_search_state['deadline'] = time.time() + 60 * minutes
 
 def format_code_link(code_url) -> str:
     return f"**[link]({code_url})**" if code_url else 'null'
@@ -115,26 +127,41 @@ def get_code_link_from_github(arxiv_id:str, title:str = '') -> str:
     name matches the title prefix (eg. "MatchAnything: Universal..." -> MatchAnything)
     or it is the only remaining repo citing the paper in its root README
     '''
-    global last_github_search
+    state = github_search_state
     token = os.environ.get('GITHUB_TOKEN')
     if not token:
+        return None
+    if state['deadline'] and time.time() > state['deadline']:
         return None
     headers = {'Authorization': f'Bearer {token}', 'Accept': 'application/vnd.github+json'}
     params = {'q': f'"{arxiv_id}" filename:README.md', 'per_page': 30}
     for _ in range(2):
-        # code search allows 10 requests per minute
-        time.sleep(max(0, last_github_search + 6.5 - time.time()))
-        last_github_search = time.time()
+        # code search allows 10 requests per minute (less for some tokens): wait for the
+        # window to reset when the last response said the quota is used up
+        wait = 0
+        if state['remaining'] == 0:
+            wait = state['reset'] - time.time()
+        wait = max(wait, state['last'] + 6.5 - time.time(), 0)
+        time.sleep(min(wait, 120))
+        state['last'] = time.time()
         try:
             r = requests.get(github_code_search_url, params = params, headers = headers, timeout = 30)
         except requests.RequestException as e:
             logging.warning(f'GitHub code search failed for {arxiv_id}: {e}')
             return None
+        if 'X-RateLimit-Remaining' in r.headers:
+            state['remaining'] = int(r.headers['X-RateLimit-Remaining'])
+            state['reset'] = float(r.headers.get('X-RateLimit-Reset', 0))
         if r.status_code in (403, 429):
-            reset = float(r.headers.get('X-RateLimit-Reset', 0))
-            wait = min(max(reset - time.time(), 0), 90) + 1
+            if not state['logged_limit']:
+                state['logged_limit'] = True
+                limits = {k: v for k, v in r.headers.items() if k.lower().startswith(('x-ratelimit', 'retry-after'))}
+                logging.warning(f'GitHub code search rate limited: {limits} {r.text[:200]}')
+            retry_after = float(r.headers.get('Retry-After', 0))
+            wait = max(retry_after, state['reset'] - time.time(), 1)
             logging.warning(f'GitHub code search rate limited, sleeping {wait:.0f}s')
-            time.sleep(wait)
+            time.sleep(min(wait, 120))
+            state['remaining'] = None
             continue
         if r.status_code != 200:
             logging.warning(f'GitHub code search failed for {arxiv_id} ({r.status_code}): {r.text[:200]}')
@@ -167,14 +194,16 @@ def get_code_link(arxiv_id:str, title:str = '', text:str = '', thorough = False)
     @param thorough: also search GitHub (slow, 10 requests per minute), for the weekly update
     @return code url, None if not found
     '''
-    if arxiv_id in code_link_cache and (code_link_cache[arxiv_id] or not thorough):
-        return code_link_cache[arxiv_id]
+    if arxiv_id in code_link_cache:
+        code_url, was_thorough = code_link_cache[arxiv_id]
+        if code_url or was_thorough or not thorough:
+            return code_url
     code_url = get_code_link_from_text(text)
     if code_url is None:
         code_url = get_code_link_from_hf(arxiv_id)
     if code_url is None and thorough:
         code_url = get_code_link_from_github(arxiv_id, title)
-    code_link_cache[arxiv_id] = code_url
+    code_link_cache[arxiv_id] = (code_url, thorough)
     return code_url
 
 def get_paper_texts(arxiv_ids:list) -> dict:
@@ -644,6 +673,8 @@ def demo(**config):
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
+    if b_update:
+        set_github_search_budget(config.get('max_code_search_minutes', 40))
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         num_papers = 0
