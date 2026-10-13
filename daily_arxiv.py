@@ -97,8 +97,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
+    # arxiv>=2.0 removed Search.results(), queries go through a Client now
+    client = arxiv.Client(page_size = max_results, delay_seconds = 3, num_retries = 5)
 
-    for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -206,32 +208,156 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
 
+def pretty_math(s:str) -> str:
+    ret = ''
+    match = re.search(r"\$.*\$", s)
+    if match == None:
+        return s
+    math_start,math_end = match.span()
+    space_trail = space_leading = ''
+    if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
+    if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
+    ret += s[:math_start]
+    ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
+    ret += s[math_end:]
+    return ret
+
+def md_anchor(heading:str) -> str:
+    '''
+    github anchor of a markdown heading, eg. "Updated on 2026.10.12" -> #updated-on-20261012
+    '''
+    return '#' + re.sub(r'[^\w\- ]', '', heading).replace(' ','-').lower()
+
+def md_link(filename:str, to_web = False) -> str:
+    '''
+    link target of a markdown file, gitpage (jekyll) serves it as html
+    '''
+    if to_web:
+        return os.path.splitext(filename)[0] + '.html'
+    return filename
+
+def get_paper_year(paper:str) -> str:
+    '''
+    year of a paper entry, parsed from its publish date, eg. |**2026-05-13**|... -> 2026
+    '''
+    match = re.search(r'(\d{4})-\d{2}-\d{2}', paper)
+    if match == None:
+        return str(datetime.date.today().year)
+    return match.group(1)
+
+def split_by_year(data:dict) -> dict:
+    '''
+    {keyword: {paper_id: paper}} -> {year: {keyword: {paper_id: paper}}}, latest year first
+    '''
+    by_year = dict()
+    for keyword, papers in data.items():
+        for paper_id, paper in papers.items():
+            if paper is None:
+                continue
+            year = get_paper_year(paper)
+            by_year.setdefault(year, dict()).setdefault(keyword, dict())[paper_id] = paper
+    return {year: by_year[year] for year in sorted(by_year.keys(), reverse=True)}
+
+def write_md_table(f, papers:dict, to_web = False, use_title = True, max_papers = None):
+    '''
+    write the papers of one keyword as a markdown table, latest first
+    @param max_papers: only write the latest max_papers papers, None for all
+    '''
+    if use_title == True :
+        if to_web == False:
+            f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+        else:
+            f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+            f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
+    # sort papers by date
+    papers = sort_papers(papers)
+
+    for idx,(_,v) in enumerate(papers.items()):
+        if max_papers != None and idx >= max_papers:
+            break
+        if v is not None:
+            f.write(pretty_math(v)) # make latex pretty
+
+def write_archive(data:dict, archive_dir:str, index_name:str, to_web = False) -> dict:
+    '''
+    archive all papers by year, one markdown per keyword plus an index per year:
+        archive_dir/<year>/<index_name>
+        archive_dir/<year>/<Keyword>.md
+    github stops rendering markdown beyond 512 KB, so a whole year does not fit in one file
+    @return {year: {keyword: (num_papers, filename)}}, latest year first
+    '''
+    index_link = md_link(index_name, to_web)
+    archive = dict()
+    for year, year_data in split_by_year(data).items():
+        year_dir = os.path.join(archive_dir, year)
+        os.makedirs(year_dir, exist_ok=True)
+        archive[year] = dict()
+
+        for keyword, papers in year_data.items():
+            name = keyword.replace(' ','-') + '.md'
+            heading = f"{keyword} ({year})"
+            with open(os.path.join(year_dir, name), "w") as f:
+                if to_web == True:
+                    f.write("---\n" + "layout: default\n" + "---\n\n")
+                f.write(f"## {heading}\n")
+                f.write((f"> {len(papers)} papers, [archive {year}](./{index_link}), "
+                         f"[latest papers](../../{index_link})\n\n"))
+                write_md_table(f, papers, to_web = to_web)
+                f.write(f"\n")
+                f.write(f"<p align=right>(<a href={md_anchor(heading)}>back to top</a>)</p>\n\n")
+            archive[year][keyword] = (len(papers), md_link(name, to_web))
+
+        # the index of this year
+        with open(os.path.join(year_dir, index_name), "w") as f:
+            if to_web == True:
+                f.write("---\n" + "layout: default\n" + "---\n\n")
+            f.write(f"## Archive {year}\n")
+            total = sum(n for n,_ in archive[year].values())
+            f.write(f"> {total} papers, [latest papers](../../{index_link})\n\n")
+            f.write("|Keyword|Papers|\n" + "|---|---|\n")
+            for keyword,(n,link) in archive[year].items():
+                f.write(f"|[{keyword}](./{link})|{n}|\n")
+            f.write(f"\n")
+        logging.info(f"archived {total} papers of {year} to {year_dir}")
+    return archive
+
+def write_archive_table(f, archive:dict, keywords:list, archive_link:str, index_name:str, to_web = False):
+    '''
+    write the year x keyword table linking to the archived markdown files
+    '''
+    index_link = md_link(index_name, to_web)
+    f.write("## Archive\n\n")
+    f.write("> All papers, one markdown per year and keyword.\n\n")
+    f.write("|Year|" + "|".join(keywords) + "|\n")
+    f.write("|---|" + "|".join("---" for _ in keywords) + "|\n")
+    for year, year_archive in archive.items():
+        f.write(f"|[{year}]({archive_link}/{year}/{index_link})|")
+        for keyword in keywords:
+            if keyword in year_archive:
+                n, link = year_archive[keyword]
+                f.write(f"[{n}]({archive_link}/{year}/{link})")
+            f.write("|")
+        f.write("\n")
+    f.write("\n")
+
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False,
                use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               max_papers = None,
+               archive_dir = None):
     """
     @param filename: str
     @param md_filename: str
+    @param max_papers: only keep the latest max_papers papers of each keyword in md_filename,
+                       None for all (github stops rendering markdown beyond 512 KB)
+    @param archive_dir: archive all papers by year under this folder, None to skip
     @return None
     """
-    def pretty_math(s:str) -> str:
-        ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
-            return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
-        ret += s[:math_start]
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
-        ret += s[math_end:]
-        return ret
-
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -242,6 +368,12 @@ def json_to_md(filename,md_filename,
             data = {}
         else:
             data = json.loads(content)
+
+    archive = None
+    if archive_dir != None:
+        index_name = os.path.basename(md_filename)
+        archive = write_archive(data, archive_dir, index_name, to_web = to_web)
+        archive_link = './' + os.path.relpath(archive_dir, os.path.dirname(md_filename) or '.')
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
@@ -274,6 +406,8 @@ def json_to_md(filename,md_filename,
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
+            if archive != None:
+                f.write(f"    <li><a href=#archive>Archive</a></li>\n")
             for keyword in data.keys():
                 day_content = data[keyword]
                 if not day_content:
@@ -283,6 +417,10 @@ def json_to_md(filename,md_filename,
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
+        if archive != None:
+            keywords = [keyword for keyword, papers in data.items() if papers]
+            write_archive_table(f, archive, keywords, archive_link, index_name, to_web = to_web)
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
@@ -290,21 +428,14 @@ def json_to_md(filename,md_filename,
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
-
-            # sort papers by date
-            day_content = sort_papers(day_content)
-
-            for _,v in day_content.items():
-                if v is not None:
-                    f.write(pretty_math(v)) # make latex pretty
+            write_md_table(f, day_content, to_web = to_web, use_title = use_title,
+                           max_papers = max_papers)
 
             f.write(f"\n")
+
+            if max_papers != None and len(day_content) > max_papers:
+                f.write((f"> Showing the latest {max_papers} of {len(day_content)} papers, "
+                         f"see the [archive](#archive) for all.\n\n"))
 
             #Add: back to top
             if use_b2t:
@@ -344,19 +475,29 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    max_papers = config.get('max_papers_in_readme', None)
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
+        num_papers = 0
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+            # one failing query (arxiv is flaky) should not block the other keywords
+            try:
+                data, data_web = get_daily_papers(topic, query = keyword,
+                                                max_results = max_results)
+            except Exception:
+                logging.exception(f"Failed to get papers of keyword: {topic}")
+                continue
+            num_papers += len(data[topic])
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
         logging.info(f"GET daily papers end")
+        if num_papers == 0:
+            raise RuntimeError("No papers fetched for any keyword, see the errors above")
 
     # 1. update README.md file
     if publish_readme:
@@ -370,7 +511,8 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, max_papers = max_papers, \
+            archive_dir = config.get('archive_readme_dir', None))
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -383,7 +525,8 @@ def demo(**config):
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, max_papers = max_papers, \
+            archive_dir = config.get('archive_gitpage_dir', None))
 
     # 3. Update docs/wechat.md file
     if publish_wechat:

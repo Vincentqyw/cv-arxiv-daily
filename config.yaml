@@ -20,6 +20,13 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
+# archive: README.md / index.md only keep the latest papers of each keyword
+# (github stops rendering markdown beyond 512 KB), all papers are archived by
+# year, one markdown per keyword: <archive_dir>/<year>/<Keyword>.md
+max_papers_in_readme: 200
+archive_readme_dir: './archive'
+archive_gitpage_dir: './docs/archive'
+
 # keywords to search
 keywords:
     "SLAM": 

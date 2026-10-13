@@ -42,6 +42,9 @@ This codebase is composed of the following parts:
 5. Add new keywords (optional)
     - Edit `keywords` in [config.yaml](../config.yaml), you can add more filters or keywords.
     - Push changes to remote repo and re-run Github Actions Manually.
+6. Archive (optional)
+    - `README.md` / `docs/index.md` only keep the latest `max_papers_in_readme` papers of each keyword, since GitHub stops rendering markdown files beyond 512 KB.
+    - All papers are archived by year, one markdown per keyword: `archive/<year>/<Keyword>.md` (and `docs/archive/` for the gitpage), see `archive_readme_dir` / `archive_gitpage_dir` in [config.yaml](../config.yaml).
 
 </details>
 
@@ -53,7 +56,7 @@ This codebase is composed of the following parts:
 - [x] Update code link
 - [ ] Subscribe & Update alerting
 - [ ] Support more `arxiv` filters
-- [ ] Archive old papers
+- [x] Archive old papers
 - [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
 - [ ] Usefull comments
 - [ ] ...
