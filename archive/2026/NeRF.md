@@ -10,7 +10,7 @@
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](http://arxiv.org/abs/2610.10387)|null|
 |**2026-10-07**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](http://arxiv.org/abs/2610.09343)|null|
 |**2026-10-05**|**When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends**|Haewoon Kwak et.al.|[2610.07427](http://arxiv.org/abs/2610.07427)|null|
-|**2026-10-05**|**MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs**|Yun Jiang et.al.|[2610.07110](http://arxiv.org/abs/2610.07110)|null|
+|**2026-10-05**|**MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs**|Yun Jiang et.al.|[2610.07110](http://arxiv.org/abs/2610.07110)|**[link](https://github.com/InRobots/MoonBlender)**|
 |**2026-10-02**|**VCURF: Virtual Camera-based Uncertainty of Radiance Fields**|Liyan Chen et.al.|[2610.04076](http://arxiv.org/abs/2610.04076)|null|
 |**2026-10-02**|**PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio**|Wenzhi Guo et.al.|[2610.03192](http://arxiv.org/abs/2610.03192)|null|
 |**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|

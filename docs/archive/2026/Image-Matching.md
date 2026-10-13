@@ -8,11 +8,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
-|**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384](http://arxiv.org/abs/2610.07384)|null|
+|**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384](http://arxiv.org/abs/2610.07384)|**[link](https://github.com/turhancan97/WildMatch)**|
 |**2026-10-02**|**Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration**|Zhiwei Wang et.al.|[2610.03167](http://arxiv.org/abs/2610.03167)|null|
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|null|
-|**2026-09-30**|**RBF-GNN: Rational Basis Functions for Pseudo-Coordinate based Graph Convolutions**|Paweł Batorski et.al.|[2609.37015](http://arxiv.org/abs/2609.37015)|null|
-|**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|null|
+|**2026-09-30**|**RBF-GNN: Rational Basis Functions for Pseudo-Coordinate based Graph Convolutions**|Paweł Batorski et.al.|[2609.37015](http://arxiv.org/abs/2609.37015)|**[link](https://github.com/pawelswoboda/RationalBasisCNN)**|
+|**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|**[link](https://github.com/JiajunLe/UltraMatch)**|
 |**2026-09-25**|**Facial classification Using Hybrid Quantum Machine Learning**|Roshan Babu Bandlapalli et.al.|[2609.31915](http://arxiv.org/abs/2609.31915)|null|
 |**2026-09-15**|**Co-occurrence-Aware Quadratic Assignment for Local Feature Matching in Simultaneous Localization and Mapping**|Yutaka Yamada et.al.|[2609.17905](http://arxiv.org/abs/2609.17905)|null|
 |**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|null|

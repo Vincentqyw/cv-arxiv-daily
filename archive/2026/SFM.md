@@ -6,13 +6,13 @@
 |**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
 |**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|null|
-|**2026-10-04**|**Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization**|Aref Mousavi et.al.|[2610.05310](http://arxiv.org/abs/2610.05310)|null|
+|**2026-10-04**|**Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization**|Aref Mousavi et.al.|[2610.05310](http://arxiv.org/abs/2610.05310)|**[link](https://github.com/arefmousavi/hierarchical-robust-sfm)**|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
 |**2026-09-30**|**Introduction to Computer Vision**|Stan Birchfield et.al.|[2609.39627](http://arxiv.org/abs/2609.39627)|null|
 |**2026-09-29**|**Beyond Monoscopic Viewing: A Study on 3D Gaussian Splatting Quality in VR**|Shreyas Shivakumara et.al.|[2609.38525](http://arxiv.org/abs/2609.38525)|null|
-|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|null|
-|**2026-09-28**|**OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute**|Brandon Leblanc et.al.|[2609.36374](http://arxiv.org/abs/2609.36374)|null|
-|**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|null|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|**[link](https://github.com/gandanlee/pdigs)**|
+|**2026-09-28**|**OTT3R: Multi-View 3D Reconstruction and Fast Dataset Generation at 1% Compute**|Brandon Leblanc et.al.|[2609.36374](http://arxiv.org/abs/2609.36374)|**[link](https://github.com/TheFourthKaramazov/OTT3R)**|
+|**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|**[link](https://github.com/kanehub/DIBR-GS)**|
 |**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](http://arxiv.org/abs/2605.14880)|null|
 |**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|
 |**2026-05-12**|**WildPose: A Unified Framework for Robust Pose Estimation in the Wild**|Jianhao Zheng et.al.|[2605.12774](http://arxiv.org/abs/2605.12774)|null|

@@ -7,13 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|**[link](https://github.com/panagiotisq/CELL)**|
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
-|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|null|
+|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|**[link](https://github.com/IdhcbIan/Augmenting_CLS_with_ROI_tokens)**|
 |**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](http://arxiv.org/abs/2610.09631)|null|
-|**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|null|
+|**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|**[link](https://github.com/AyeshAbuLehyeh/GeoLingual)**|
 |**2026-10-05**|**Conditional Flow Matching for Transport Between Markov Processes**|Syamantak Kumar et.al.|[2610.07229](http://arxiv.org/abs/2610.07229)|null|
-|**2026-10-05**|**NeuroCBIR: A Fast and Accurate Image Retrieval System for Whole-Brain and Region-Specific MRI**|Felix Nieto-del-Amor et.al.|[2610.06502](http://arxiv.org/abs/2610.06502)|null|
+|**2026-10-05**|**NeuroCBIR: A Fast and Accurate Image Retrieval System for Whole-Brain and Region-Specific MRI**|Felix Nieto-del-Amor et.al.|[2610.06502](http://arxiv.org/abs/2610.06502)|**[link](https://github.com/minnelab/NeuroCBIR)**|
 |**2026-10-05**|**From Transformation to Target State: Rethinking Query Representation for Zero-Shot Composed Image Retrieval**|Yihe Zhao et.al.|[2610.05993](http://arxiv.org/abs/2610.05993)|null|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|

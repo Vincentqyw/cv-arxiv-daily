@@ -7,8 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|null|
-|**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
+|**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|**[link](https://github.com/IRMVLab/MemReg)**|
+|**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|**[link](https://github.com/hanjun815/RAGNAROK)**|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|null|
 |**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|null|

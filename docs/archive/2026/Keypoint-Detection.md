@@ -10,13 +10,13 @@ layout: default
 |**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245](http://arxiv.org/abs/2610.10245)|null|
 |**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423](http://arxiv.org/abs/2610.06423)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
-|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|null|
+|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|**[link](https://github.com/yeyuanxin110/RRSI)**|
 |**2026-09-09**|**Phase-Aware Spatial-Frequency Fusion for Few-Shot Fine-Grained Image Classification**|Ruiling Liu et.al.|[2609.03829](http://arxiv.org/abs/2609.03829)|null|
 |**2026-08-31**|**CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space**|Paul Schneider et.al.|[2609.00272](http://arxiv.org/abs/2609.00272)|null|
-|**2026-09-23**|**Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data**|Thiago César Castilho Almeida et.al.|[2608.29001](http://arxiv.org/abs/2608.29001)|null|
+|**2026-09-23**|**Effective Graph and Rank-based Contextual Embeddings for Textual and Multimedia Data**|Thiago César Castilho Almeida et.al.|[2608.29001](http://arxiv.org/abs/2608.29001)|**[link](https://github.com/thcastilho/interpretable-embeddings)**|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|null|
 |**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056](http://arxiv.org/abs/2608.20056)|null|
-|**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894](http://arxiv.org/abs/2608.19894)|null|
+|**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894](http://arxiv.org/abs/2608.19894)|**[link](https://github.com/francois141/upal)**|
 |**2026-05-12**|**Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates**|Zeyu Wang et.al.|[2605.11610](http://arxiv.org/abs/2605.11610)|null|
 |**2026-04-29**|**Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners**|Nikita Araslanov et.al.|[2604.26488](http://arxiv.org/abs/2604.26488)|null|
 |**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387](http://arxiv.org/abs/2604.23387)|null|
