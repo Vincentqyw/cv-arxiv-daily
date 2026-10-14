@@ -90,9 +90,10 @@
     blockquote p { margin: 0; }
     blockquote em { font-style: normal; }
 
+    /* no overflow/border-radius on the table: it would become the sticky container of thead */
     table {
       width: 100%; border-collapse: collapse; margin: 0 0 12px;
-      background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+      background: var(--surface); border: 1px solid var(--border);
       font-size: 14px; display: table;
     }
     thead th {
@@ -113,8 +114,9 @@
     /* the year x keyword archive table */
     h2#archive + blockquote + table td:first-child { color: var(--text); font-weight: 500; }
     h2#archive + blockquote + table td { text-align: left; }
-    h2#archive + blockquote + table thead th:nth-child(n+2),
-    h2#archive + blockquote + table td:nth-child(n+2) { white-space: nowrap; }
+    h2#archive + blockquote + table thead th { white-space: normal; }
+    h2#archive + blockquote + table td { white-space: nowrap; }
+    .null { color: var(--muted); }
 
     .site-footer { max-width: 1180px; margin: 0 auto; padding: 24px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--border); }
     .site-footer a { color: var(--muted); }
@@ -129,6 +131,7 @@
       table { display: block; overflow-x: auto; white-space: nowrap; }
       thead th { position: static; }
       td:nth-child(2) { white-space: normal; min-width: 260px; }
+      h2#archive + blockquote + table td:nth-child(2) { white-space: nowrap; min-width: 0; }
     }
   </style>
 </head>

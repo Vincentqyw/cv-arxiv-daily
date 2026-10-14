@@ -458,6 +458,9 @@ def write_md_table(f, papers:dict, to_web = False, use_title = True, max_papers 
         if max_papers != None and idx >= max_papers:
             break
         if v is not None:
+            if to_web == True:
+                # a muted dash instead of "null" in the code column
+                v = v.replace('|null|\n', '|<span class="null">—</span>|\n')
             f.write(pretty_math(v)) # make latex pretty
 
 def write_archive(data:dict, archive_dir:str) -> dict:
@@ -482,7 +485,7 @@ def write_archive(data:dict, archive_dir:str) -> dict:
             with open(os.path.join(year_dir, name), "w") as f:
                 f.write(f"## {heading}\n")
                 f.write(f"> {len(papers)} papers, [archive {year}](./README.md)\n\n")
-                write_md_table(f, papers)
+                write_md_table(f, papers, to_web = True)   # github renders the dash span too
                 f.write(f"\n")
                 f.write(f"<p align=right>(<a href={md_anchor(heading)}>back to top</a>)</p>\n\n")
             archive[year][keyword] = (len(papers), name)
