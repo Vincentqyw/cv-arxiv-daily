@@ -80,5 +80,3 @@
 |**2022-01-10**|**TFS Recognition: Investigating MPH]{Thai Finger Spelling Recognition: Investigating MediaPipe Hands Potentials**|Jinnavat Sanalohit et.al.|[2201.03170](http://arxiv.org/abs/2201.03170)|<span class="null">—</span>|
 |**2022-01-06**|**A Keypoint Detection and Description Network Based on the Vessel Structure for Multi-Modal Retinal Image Registration**|Aline Sindel et.al.|[2201.02242](http://arxiv.org/abs/2201.02242)|<span class="null">—</span>|
 
-<p align=right>(<a href=#keypoint-detection-2022>back to top</a>)</p>
-

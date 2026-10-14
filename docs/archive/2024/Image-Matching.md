@@ -99,5 +99,3 @@
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|<span class="null">—</span>|
 |**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|<span class="null">—</span>|
 
-<p align=right>(<a href=#image-matching-2024>back to top</a>)</p>
-

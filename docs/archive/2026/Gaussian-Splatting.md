@@ -14,5 +14,3 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|**[link](https://github.com/POSE-Lab/novasplat)**|
 
-<p align=right>(<a href=#gaussian-splatting-2026>back to top</a>)</p>
-

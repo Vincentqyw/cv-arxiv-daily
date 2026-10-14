@@ -43,5 +43,3 @@
 |**2026-01-02**|**UnrealPose: Leveraging Game Engine Kinematics for Large-Scale Synthetic Human Pose Data**|Joshua Kawaguchi et.al.|[2601.00991](http://arxiv.org/abs/2601.00991)|<span class="null">—</span>|
 |**2026-01-11**|**BLANKET: Anonymizing Faces in Infant Video Recordings**|Ditmar Hadera et.al.|[2512.15542](http://arxiv.org/abs/2512.15542)|<span class="null">—</span>|
 
-<p align=right>(<a href=#keypoint-detection-2026>back to top</a>)</p>
-

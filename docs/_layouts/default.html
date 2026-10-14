@@ -72,6 +72,12 @@
     h2 a { color: inherit; }
 
     .meta { color: var(--muted); font-size: 14px; margin: 0 0 20px; }
+    .updated {
+      display: inline-flex; align-items: center; gap: 8px; margin: 0 0 20px; padding: 6px 14px 6px 12px;
+      border-radius: 999px; background: var(--accent-soft); color: var(--accent);
+      font-size: 14px; font-weight: 500; font-variant-numeric: tabular-nums;
+    }
+    .updated .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
     .meta a { color: var(--muted); border-bottom: 1px solid var(--border); }
     .meta a:hover { color: var(--text); text-decoration: none; }
 
@@ -142,7 +148,6 @@
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Latest</a>
         <a href="{{ '/#archive' | relative_url }}">Archive</a>
-        <a href="{{ '/README.html' | relative_url }}#usage">Usage</a>
         <a href="{{ site.repo_url }}">GitHub</a>
       </nav>
     </div>

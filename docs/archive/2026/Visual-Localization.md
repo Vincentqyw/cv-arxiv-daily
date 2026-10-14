@@ -179,5 +179,3 @@
 |**2026-01-07**|**Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset**|Nedim Muzoglu et.al.|[2601.02564](http://arxiv.org/abs/2601.02564)|<span class="null">—</span>|
 |**2026-01-05**|**Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach**|Biao Wu et.al.|[2601.00388](http://arxiv.org/abs/2601.00388)|<span class="null">—</span>|
 
-<p align=right>(<a href=#visual-localization-2026>back to top</a>)</p>
-

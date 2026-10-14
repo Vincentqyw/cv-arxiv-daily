@@ -1070,5 +1070,3 @@
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|<span class="null">—</span>|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|<span class="null">—</span>|
 
-<p align=right>(<a href=#image-matching-2025>back to top</a>)</p>
-

@@ -266,5 +266,3 @@
 |**2025-01-13**|**Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**|Lukas Rustler et.al.|[2501.07421](http://arxiv.org/abs/2501.07421)|<span class="null">—</span>|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|<span class="null">—</span>|
 
-<p align=right>(<a href=#keypoint-detection-2025>back to top</a>)</p>
-

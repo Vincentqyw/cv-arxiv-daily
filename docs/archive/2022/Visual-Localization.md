@@ -262,5 +262,3 @@
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu et.al.|[2201.05816](http://arxiv.org/abs/2201.05816)|<span class="null">—</span>|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386](http://arxiv.org/abs/2201.05386)|**[link](https://github.com/aa-samad/srvio)**|
 
-<p align=right>(<a href=#visual-localization-2022>back to top</a>)</p>
-

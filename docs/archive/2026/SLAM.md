@@ -175,5 +175,3 @@
 |**2026-01-02**|**Variable Elimination in Hybrid Factor Graphs for Discrete-Continuous Inference & Estimation**|Varun Agrawal et.al.|[2601.00545](http://arxiv.org/abs/2601.00545)|<span class="null">—</span>|
 |**2026-01-01**|**FoundationSLAM: Unleashing the Power of Depth Foundation Models for End-to-End Dense Visual SLAM**|Yuchen Wu et.al.|[2512.25008](http://arxiv.org/abs/2512.25008)|<span class="null">—</span>|
 
-<p align=right>(<a href=#slam-2026>back to top</a>)</p>
-

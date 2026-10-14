@@ -79,5 +79,3 @@
 |**2023-01-20**|**A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles**|Zhefan Xu et.al.|[2301.08422](http://arxiv.org/abs/2301.08422)|**[link](https://github.com/zhefan-xu/cerlab-uav-autonomy)**|
 |**2023-03-21**|**Robust Dynamic Radiance Fields**|Yu-Lun Liu et.al.|[2301.02239](http://arxiv.org/abs/2301.02239)|**[link](https://github.com/facebookresearch/robust-dynrf)**|
 
-<p align=right>(<a href=#sfm-2023>back to top</a>)</p>
-

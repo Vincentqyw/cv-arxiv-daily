@@ -487,7 +487,6 @@ def write_archive(data:dict, archive_dir:str) -> dict:
                 f.write(f"> {len(papers)} papers, [archive {year}](./README.md)\n\n")
                 write_md_table(f, papers, to_web = True)   # github renders the dash span too
                 f.write(f"\n")
-                f.write(f"<p align=right>(<a href={md_anchor(heading)}>back to top</a>)</p>\n\n")
             archive[year][keyword] = (len(papers), name)
 
         # the index of this year
@@ -506,7 +505,7 @@ def write_archive_table(f, archive:dict, keywords:list, archive_link:str, to_web
     '''
     write the year x keyword table linking to the archived markdown files
     '''
-    f.write("## Archive {#archive}\n\n" if to_web else "## Archive\n\n")
+    f.write('<h2 id="archive">Archive</h2>\n\n' if to_web else "## Archive\n\n")
     f.write("> All papers, one markdown per year and keyword.\n\n")
     f.write("|Year|" + "|".join(keywords) + "|\n")
     f.write("|---|" + "|".join("---" for _ in keywords) + "|\n")
@@ -575,8 +574,7 @@ def json_to_md(filename,md_filename,
         if to_web == True:
             # the gitpage layout (docs/_layouts/default.html) styles these: a meta line
             # and keyword chips instead of the heading and the table of contents
-            # raw html links are not rewritten by jekyll-relative-links, link the html directly
-            f.write(f'<p class="meta">Updated on {DateNow} · <a href="{usage_link[:-3]}.html#usage">Usage</a></p>\n\n')
+            f.write(f'<p class="updated"><span class="dot"></span>Updated on {DateNow}</p>\n\n')
             f.write('<nav class="toc">\n')
             for keyword in keywords:
                 f.write(f'<a href="#{md_anchor(keyword)[1:]}">{keyword}</a>\n')
@@ -615,9 +613,10 @@ def json_to_md(filename,md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part (explicit id for kramdown, which drops leading digits)
+            # the head of each part (plain html with an explicit id for the gitpage: kramdown
+            # drops leading digits from generated ids and the GFM parser has no {#id} syntax)
             if to_web == True:
-                f.write(f"## {keyword} {{#{md_anchor(keyword)[1:]}}}\n\n")
+                f.write(f'<h2 id="{md_anchor(keyword)[1:]}">{keyword}</h2>\n\n')
             else:
                 f.write(f"## {keyword}\n\n")
 

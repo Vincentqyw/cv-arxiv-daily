@@ -13,5 +13,3 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217](http://arxiv.org/abs/2610.13217)|<span class="null">—</span>|
 
-<p align=right>(<a href=#world-model-2026>back to top</a>)</p>
-

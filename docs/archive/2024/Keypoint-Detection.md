@@ -71,5 +71,3 @@
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742](http://arxiv.org/abs/2401.03742)|**[link](https://github.com/cai-jianfeng/flowmind2digital)**|
 |**2024-03-22**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029](http://arxiv.org/abs/2401.00029)|<span class="null">—</span>|
 
-<p align=right>(<a href=#keypoint-detection-2024>back to top</a>)</p>
-

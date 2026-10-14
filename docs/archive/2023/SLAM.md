@@ -83,5 +83,3 @@
 |**2023-01-10**|**An Event-based Algorithm for Simultaneous 6-DOF Camera Pose Tracking and Mapping**|Masoud Dayani Najafabadi et.al.|[2301.00618](http://arxiv.org/abs/2301.00618)|**[link](https://github.com/m-dayani/eorb_slam)**|
 |**2023-03-02**|**AirVO: An Illumination-Robust Point-Line Visual Odometry**|Kuan Xu et.al.|[2212.07595](http://arxiv.org/abs/2212.07595)|**[link](https://github.com/xukuanHIT/AirVO)**|
 
-<p align=right>(<a href=#slam-2023>back to top</a>)</p>
-

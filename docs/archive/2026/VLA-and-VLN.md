@@ -14,5 +14,3 @@
 |**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117](http://arxiv.org/abs/2610.13117)|<span class="null">—</span>|
 |**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104](http://arxiv.org/abs/2610.13104)|<span class="null">—</span>|
 
-<p align=right>(<a href=#vla-and-vln-2026>back to top</a>)</p>
-

@@ -1849,5 +1849,3 @@
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|<span class="null">—</span>|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|<span class="null">—</span>|
 
-<p align=right>(<a href=#visual-localization-2025>back to top</a>)</p>
-

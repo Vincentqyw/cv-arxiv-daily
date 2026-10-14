@@ -97,5 +97,3 @@
 |**2023-02-06**|**Fruit Ripeness Classification: a Survey**|Matteo Rizzo et.al.|[2212.14441](http://arxiv.org/abs/2212.14441)|<span class="null">—</span>|
 |**2023-02-01**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575](http://arxiv.org/abs/2212.04575)|<span class="null">—</span>|
 
-<p align=right>(<a href=#keypoint-detection-2023>back to top</a>)</p>
-

@@ -355,5 +355,3 @@
 |**2023-01-06**|**CyberLoc: Towards Accurate Long-term Visual Localization**|Liu Liu et.al.|[2301.02403](http://arxiv.org/abs/2301.02403)|<span class="null">—</span>|
 |**2023-01-05**|**A Probabilistic Framework for Visual Localization in Ambiguous Scenes**|Fereidoon Zangeneh et.al.|[2301.02086](http://arxiv.org/abs/2301.02086)|**[link](https://github.com/efreidun/vapor)**|
 
-<p align=right>(<a href=#visual-localization-2023>back to top</a>)</p>
-

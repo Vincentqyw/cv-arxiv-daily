@@ -55,5 +55,3 @@
 |**2026-01-09**|**Stationaere Kurven auf endlichdimensionalen Mannigfaltigkeiten**|Tobias Starke et.al.|[2601.05695](http://arxiv.org/abs/2601.05695)|<span class="null">—</span>|
 |**2026-01-05**|**Exact Clique Number Manipulation via Edge Interdiction**|Yi Zhou et.al.|[2601.01869](http://arxiv.org/abs/2601.01869)|<span class="null">—</span>|
 
-<p align=right>(<a href=#image-matching-2026>back to top</a>)</p>
-

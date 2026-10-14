@@ -100,5 +100,3 @@
 |**2026-01-11**|**SARA: Scene-Aware Reconstruction Accelerator**|Jee Won Lee et.al.|[2601.06831](http://arxiv.org/abs/2601.06831)|<span class="null">—</span>|
 |**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|<span class="null">—</span>|
 
-<p align=right>(<a href=#sfm-2026>back to top</a>)</p>
-

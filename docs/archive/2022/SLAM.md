@@ -308,5 +308,3 @@
 |**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta et.al.|[2201.03212](http://arxiv.org/abs/2201.03212)|**[link](https://github.com/UsmanMaqbool/why-so-deep)**|
 |**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen et.al.|[2201.00959](http://arxiv.org/abs/2201.00959)|<span class="null">—</span>|
 
-<p align=right>(<a href=#slam-2022>back to top</a>)</p>
-

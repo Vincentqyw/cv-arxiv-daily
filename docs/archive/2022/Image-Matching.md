@@ -74,5 +74,3 @@
 |**2022-02-03**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448](http://arxiv.org/abs/2202.00448)|<span class="null">—</span>|
 |**2022-01-27**|**Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context**|Jie Shao et.al.|[2201.11296](http://arxiv.org/abs/2201.11296)|<span class="null">—</span>|
 
-<p align=right>(<a href=#image-matching-2022>back to top</a>)</p>
-

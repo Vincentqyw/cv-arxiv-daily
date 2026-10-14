@@ -370,5 +370,3 @@
 |**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|<span class="null">—</span>|
 |**2025-01-05**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|**[link](https://github.com/GopiRajuMatta/BeSplat)**|
 
-<p align=right>(<a href=#nerf-2025>back to top</a>)</p>
-

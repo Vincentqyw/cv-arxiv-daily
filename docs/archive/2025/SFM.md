@@ -651,5 +651,3 @@
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|<span class="null">—</span>|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|<span class="null">—</span>|
 
-<p align=right>(<a href=#sfm-2025>back to top</a>)</p>
-

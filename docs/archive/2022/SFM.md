@@ -58,5 +58,3 @@
 |**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson et.al.|[2201.03364](http://arxiv.org/abs/2201.03364)|**[link](https://github.com/bmhopkinson/hyslam)**|
 |**2022-01-06**|**De-rendering 3D Objects in the Wild**|Felix Wimbauer et.al.|[2201.02279](http://arxiv.org/abs/2201.02279)|**[link](https://github.com/brummi/derender3d)**|
 
-<p align=right>(<a href=#sfm-2022>back to top</a>)</p>
-

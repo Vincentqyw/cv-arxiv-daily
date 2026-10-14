@@ -14,5 +14,3 @@
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|<span class="null">—</span>|
 |**2026-10-07**|**LVSPM: Long Sequence View Synthesis and Pose Estimation Model**|Xi Chen et.al.|[2610.10960](http://arxiv.org/abs/2610.10960)|**[link](https://github.com/Burningdust21/LVSPM)**|
 
-<p align=right>(<a href=#3d-reconstruction-2026>back to top</a>)</p>
-

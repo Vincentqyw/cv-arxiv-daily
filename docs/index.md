@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="meta">Updated on 2026.10.14 · <a href="./README.html#usage">Usage</a></p>
+<p class="updated"><span class="dot"></span>Updated on 2026.10.14</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -18,7 +18,7 @@ layout: default
 <a href="#archive" class="archive">Archive</a>
 </nav>
 
-## Archive {#archive}
+<h2 id="archive">Archive</h2>
 
 > All papers, one markdown per year and keyword.
 
@@ -31,7 +31,7 @@ layout: default
 |[2022](./archive/2022/README.md)|[304](./archive/2022/SLAM.md)|[54](./archive/2022/SFM.md)|[258](./archive/2022/Visual-Localization.md)|[76](./archive/2022/Keypoint-Detection.md)|[70](./archive/2022/Image-Matching.md)|[150](./archive/2022/NeRF.md)|||||
 |[2021](./archive/2021/README.md)|[51](./archive/2021/SLAM.md)|[19](./archive/2021/SFM.md)|[14](./archive/2021/Visual-Localization.md)|[29](./archive/2021/Keypoint-Detection.md)|[23](./archive/2021/Image-Matching.md)||||||
 
-## SLAM {#slam}
+<h2 id="slam">SLAM</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -238,7 +238,7 @@ layout: default
 
 > Showing the latest 200 of 1429 papers, see the [archive](#archive) for all.
 
-## SFM {#sfm}
+<h2 id="sfm">SFM</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -445,7 +445,7 @@ layout: default
 
 > Showing the latest 200 of 1054 papers, see the [archive](#archive) for all.
 
-## Visual Localization {#visual-localization}
+<h2 id="visual-localization">Visual Localization</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -652,7 +652,7 @@ layout: default
 
 > Showing the latest 200 of 3021 papers, see the [archive](#archive) for all.
 
-## Keypoint Detection {#keypoint-detection}
+<h2 id="keypoint-detection">Keypoint Detection</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -859,7 +859,7 @@ layout: default
 
 > Showing the latest 200 of 566 papers, see the [archive](#archive) for all.
 
-## Image Matching {#image-matching}
+<h2 id="image-matching">Image Matching</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1066,7 +1066,7 @@ layout: default
 
 > Showing the latest 200 of 1396 papers, see the [archive](#archive) for all.
 
-## NeRF {#nerf}
+<h2 id="nerf">NeRF</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1273,7 +1273,7 @@ layout: default
 
 > Showing the latest 200 of 1906 papers, see the [archive](#archive) for all.
 
-## Gaussian Splatting {#gaussian-splatting}
+<h2 id="gaussian-splatting">Gaussian Splatting</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1288,7 +1288,7 @@ layout: default
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|**[link](https://github.com/POSE-Lab/novasplat)**|
 
-## 3D Reconstruction {#3d-reconstruction}
+<h2 id="3d-reconstruction">3D Reconstruction</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1303,7 +1303,7 @@ layout: default
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|<span class="null">—</span>|
 |**2026-10-07**|**LVSPM: Long Sequence View Synthesis and Pose Estimation Model**|Xi Chen et.al.|[2610.10960](http://arxiv.org/abs/2610.10960)|**[link](https://github.com/Burningdust21/LVSPM)**|
 
-## World Model {#world-model}
+<h2 id="world-model">World Model</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1317,7 +1317,7 @@ layout: default
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217](http://arxiv.org/abs/2610.13217)|<span class="null">—</span>|
 
-## VLA and VLN {#vla-and-vln}
+<h2 id="vla-and-vln">VLA and VLN</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
