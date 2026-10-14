@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## Keypoint Detection (2021)
-> 29 papers, [archive 2021](./index.html), [latest papers](../../index.html)
+> 29 papers, [archive 2021](./README.md)
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2021-12-28**|**Skin feature point tracking using deep feature encodings**|Jose Ramon Chang et.al.|[2112.14159](http://arxiv.org/abs/2112.14159)|null|
 |**2021-12-23**|**Data-efficient learning for 3D mirror symmetry detection**|Yancong Lin et.al.|[2112.12579](http://arxiv.org/abs/2112.12579)|null|
 |**2021-12-22**|**Improved 2D Keypoint Detection in Out-of-Balance and Fall Situations -- combining input rotations and a kinematic model**|Michael Zwölfer et.al.|[2112.12193](http://arxiv.org/abs/2112.12193)|null|

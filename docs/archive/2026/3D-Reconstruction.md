@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## 3D Reconstruction (2026)
-> 10 papers, [archive 2026](./index.html), [latest papers](../../index.html)
+> 10 papers, [archive 2026](./README.md)
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2026-10-08**|**Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction**|Utkarsh Saxena et.al.|[2610.12727](http://arxiv.org/abs/2610.12727)|null|
 |**2026-10-08**|**Pumpire: Unified Benchmark for Metric Distance Estimation**|Siyu Chen et.al.|[2610.12423](http://arxiv.org/abs/2610.12423)|**[link](https://github.com/SpatialVision/Pumpire)**|
 |**2026-10-08**|**GenIA: Generative Reconstruction with Test-Time Input Alignment**|Stefano Esposito et.al.|[2610.12388](http://arxiv.org/abs/2610.12388)|**[link](https://github.com/facebookresearch/GenIA)**|

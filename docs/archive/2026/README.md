@@ -1,5 +1,5 @@
 ## Archive 2026
-> 685 papers, [latest papers](../../README.md)
+> 685 papers
 
 |Keyword|Papers|
 |---|---|

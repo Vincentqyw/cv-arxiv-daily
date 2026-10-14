@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## Image Matching (2021)
-> 23 papers, [archive 2021](./index.html), [latest papers](../../index.html)
+> 23 papers, [archive 2021](./README.md)
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2021-12-24**|**Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**|Zhiwei Liu et.al.|[2112.12917](http://arxiv.org/abs/2112.12917)|null|
 |**2021-12-20**|**Scale-Net: Learning to Reduce Scale Differences for Large-Scale Invariant Image Matching**|Yujie Fu et.al.|[2112.10485](http://arxiv.org/abs/2112.10485)|null|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258](http://arxiv.org/abs/2112.10258)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|

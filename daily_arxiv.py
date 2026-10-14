@@ -417,14 +417,6 @@ def md_anchor(heading:str) -> str:
     '''
     return '#' + re.sub(r'[^\w\- ]', '', heading).replace(' ','-').lower()
 
-def md_link(filename:str, to_web = False) -> str:
-    '''
-    link target of a markdown file, gitpage (jekyll) serves it as html
-    '''
-    if to_web:
-        return os.path.splitext(filename)[0] + '.html'
-    return filename
-
 def get_paper_year(paper:str) -> str:
     '''
     year of a paper entry, parsed from its publish date, eg. |**2026-05-13**|... -> 2026
@@ -468,15 +460,16 @@ def write_md_table(f, papers:dict, to_web = False, use_title = True, max_papers 
         if v is not None:
             f.write(pretty_math(v)) # make latex pretty
 
-def write_archive(data:dict, archive_dir:str, index_name:str, to_web = False) -> dict:
+def write_archive(data:dict, archive_dir:str) -> dict:
     '''
     archive all papers by year, one markdown per keyword plus an index per year:
-        archive_dir/<year>/<index_name>
+        archive_dir/<year>/README.md
         archive_dir/<year>/<Keyword>.md
-    github stops rendering markdown beyond 512 KB, so a whole year does not fit in one file
+    github stops rendering markdown beyond 512 KB, so a whole year does not fit in one file.
+    The files are plain markdown shared by github and the gitpage: jekyll renders them
+    without front matter and turns the .md links into .html (both are github pages defaults)
     @return {year: {keyword: (num_papers, filename)}}, latest year first
     '''
-    index_link = md_link(index_name, to_web)
     archive = dict()
     for year, year_data in split_by_year(data).items():
         year_dir = os.path.join(archive_dir, year)
@@ -487,23 +480,18 @@ def write_archive(data:dict, archive_dir:str, index_name:str, to_web = False) ->
             name = keyword.replace(' ','-') + '.md'
             heading = f"{keyword} ({year})"
             with open(os.path.join(year_dir, name), "w") as f:
-                if to_web == True:
-                    f.write("---\n" + "layout: default\n" + "---\n\n")
                 f.write(f"## {heading}\n")
-                f.write((f"> {len(papers)} papers, [archive {year}](./{index_link}), "
-                         f"[latest papers](../../{index_link})\n\n"))
-                write_md_table(f, papers, to_web = to_web)
+                f.write(f"> {len(papers)} papers, [archive {year}](./README.md)\n\n")
+                write_md_table(f, papers)
                 f.write(f"\n")
                 f.write(f"<p align=right>(<a href={md_anchor(heading)}>back to top</a>)</p>\n\n")
-            archive[year][keyword] = (len(papers), md_link(name, to_web))
+            archive[year][keyword] = (len(papers), name)
 
         # the index of this year
-        with open(os.path.join(year_dir, index_name), "w") as f:
-            if to_web == True:
-                f.write("---\n" + "layout: default\n" + "---\n\n")
+        with open(os.path.join(year_dir, "README.md"), "w") as f:
             f.write(f"## Archive {year}\n")
             total = sum(n for n,_ in archive[year].values())
-            f.write(f"> {total} papers, [latest papers](../../{index_link})\n\n")
+            f.write(f"> {total} papers\n\n")
             f.write("|Keyword|Papers|\n" + "|---|---|\n")
             for keyword,(n,link) in archive[year].items():
                 f.write(f"|[{keyword}](./{link})|{n}|\n")
@@ -511,17 +499,16 @@ def write_archive(data:dict, archive_dir:str, index_name:str, to_web = False) ->
         logging.info(f"archived {total} papers of {year} to {year_dir}")
     return archive
 
-def write_archive_table(f, archive:dict, keywords:list, archive_link:str, index_name:str, to_web = False):
+def write_archive_table(f, archive:dict, keywords:list, archive_link:str):
     '''
     write the year x keyword table linking to the archived markdown files
     '''
-    index_link = md_link(index_name, to_web)
     f.write("## Archive\n\n")
     f.write("> All papers, one markdown per year and keyword.\n\n")
     f.write("|Year|" + "|".join(keywords) + "|\n")
     f.write("|---|" + "|".join("---" for _ in keywords) + "|\n")
     for year, year_archive in archive.items():
-        f.write(f"|[{year}]({archive_link}/{year}/{index_link})|")
+        f.write(f"|[{year}]({archive_link}/{year}/README.md)|")
         for keyword in keywords:
             if keyword in year_archive:
                 n, link = year_archive[keyword]
@@ -560,8 +547,7 @@ def json_to_md(filename,md_filename,
 
     archive = None
     if archive_dir != None:
-        index_name = os.path.basename(md_filename)
-        archive = write_archive(data, archive_dir, index_name, to_web = to_web)
+        archive = write_archive(data, archive_dir)
         archive_link = './' + os.path.relpath(archive_dir, os.path.dirname(md_filename) or '.')
 
     # clean README.md if daily already exist else create it
@@ -588,7 +574,8 @@ def json_to_md(filename,md_filename,
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        usage_link = './' + os.path.relpath('docs/README.md', os.path.dirname(md_filename) or '.')
+        f.write(f"> Usage instructions: [here]({usage_link}#usage)\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -608,7 +595,7 @@ def json_to_md(filename,md_filename,
 
         if archive != None:
             keywords = [keyword for keyword, papers in data.items() if papers]
-            write_archive_table(f, archive, keywords, archive_link, index_name, to_web = to_web)
+            write_archive_table(f, archive, keywords, archive_link)
 
         for keyword in data.keys():
             day_content = data[keyword]
@@ -709,7 +696,7 @@ def demo(**config):
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
             show_badge = show_badge, max_papers = max_papers, \
-            archive_dir = config.get('archive_readme_dir', None))
+            archive_dir = config.get('archive_dir', None))
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -723,7 +710,7 @@ def demo(**config):
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False, max_papers = max_papers, \
-            archive_dir = config.get('archive_gitpage_dir', None))
+            archive_dir = config.get('archive_dir', None))
 
     # 3. Update docs/wechat.md file
     if publish_wechat:

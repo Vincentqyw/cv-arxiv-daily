@@ -1,5 +1,5 @@
 ## Archive 2021
-> 136 papers, [latest papers](../../README.md)
+> 136 papers
 
 |Keyword|Papers|
 |---|---|

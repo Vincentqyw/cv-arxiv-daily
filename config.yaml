@@ -22,10 +22,10 @@ md_wechat_path: './docs/wechat.md'
 
 # archive: README.md / index.md only keep the latest papers of each keyword
 # (github stops rendering markdown beyond 512 KB), all papers are archived by
-# year, one markdown per keyword: <archive_dir>/<year>/<Keyword>.md
+# year, one markdown per keyword: <archive_dir>/<year>/<Keyword>.md, shared by
+# the README and the gitpage
 max_papers_in_readme: 200
-archive_readme_dir: './archive'
-archive_gitpage_dir: './docs/archive'
+archive_dir: './docs/archive'
 
 # code links: PapersWithCode is gone, github repos are looked up from the paper's
 # abstract, Hugging Face papers and GitHub code search (needs GITHUB_TOKEN, 10

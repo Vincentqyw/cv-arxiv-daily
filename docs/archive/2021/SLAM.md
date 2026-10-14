@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## SLAM (2021)
-> 51 papers, [archive 2021](./index.html), [latest papers](../../index.html)
+> 51 papers, [archive 2021](./README.md)
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech et.al.|[2112.14428](http://arxiv.org/abs/2112.14428)|null|
 |**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin et.al.|[2112.13659](http://arxiv.org/abs/2112.13659)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim et.al.|[2112.13515](http://arxiv.org/abs/2112.13515)|**[link](https://github.com/url-kaist/uv-slam)**|

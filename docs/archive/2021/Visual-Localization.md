@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## Visual Localization (2021)
-> 14 papers, [archive 2021](./index.html), [latest papers](../../index.html)
+> 14 papers, [archive 2021](./README.md)
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng et.al.|[2112.12785](http://arxiv.org/abs/2112.12785)|null|
 |**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081](http://arxiv.org/abs/2112.09081)|**[link](https://github.com/topo-epfl/crossloc)**|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang et.al.|[2112.02469](http://arxiv.org/abs/2112.02469)|null|

@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
-> Usage instructions: [here](./docs/README.md#usage)
+## Updated on 2026.10.14
+> Usage instructions: [here](./README.md#usage)
 
 ## Archive
 
@@ -11,12 +11,12 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
 |---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/index.html)|[171](./archive/2026/SLAM.html)|[96](./archive/2026/SFM.html)|[175](./archive/2026/Visual-Localization.html)|[39](./archive/2026/Keypoint-Detection.html)|[51](./archive/2026/Image-Matching.html)|[114](./archive/2026/NeRF.html)|[10](./archive/2026/Gaussian-Splatting.html)|[10](./archive/2026/3D-Reconstruction.html)|[9](./archive/2026/World-Model.html)|[10](./archive/2026/VLA-and-VLN.html)|
-|[2025](./archive/2025/index.html)|[507](./archive/2025/SLAM.html)|[647](./archive/2025/SFM.html)|[1845](./archive/2025/Visual-Localization.html)|[262](./archive/2025/Keypoint-Detection.html)|[1066](./archive/2025/Image-Matching.html)|[366](./archive/2025/NeRF.html)|||||
-|[2024](./archive/2024/index.html)|[317](./archive/2024/SLAM.html)|[163](./archive/2024/SFM.html)|[378](./archive/2024/Visual-Localization.html)|[67](./archive/2024/Keypoint-Detection.html)|[95](./archive/2024/Image-Matching.html)|[693](./archive/2024/NeRF.html)|||||
-|[2023](./archive/2023/index.html)|[79](./archive/2023/SLAM.html)|[75](./archive/2023/SFM.html)|[351](./archive/2023/Visual-Localization.html)|[93](./archive/2023/Keypoint-Detection.html)|[91](./archive/2023/Image-Matching.html)|[583](./archive/2023/NeRF.html)|||||
-|[2022](./archive/2022/index.html)|[304](./archive/2022/SLAM.html)|[54](./archive/2022/SFM.html)|[258](./archive/2022/Visual-Localization.html)|[76](./archive/2022/Keypoint-Detection.html)|[70](./archive/2022/Image-Matching.html)|[150](./archive/2022/NeRF.html)|||||
-|[2021](./archive/2021/index.html)|[51](./archive/2021/SLAM.html)|[19](./archive/2021/SFM.html)|[14](./archive/2021/Visual-Localization.html)|[29](./archive/2021/Keypoint-Detection.html)|[23](./archive/2021/Image-Matching.html)||||||
+|[2026](./archive/2026/README.md)|[171](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|
+|[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)|||||
+|[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)|||||
+|[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)|||||
+|[2022](./archive/2022/README.md)|[304](./archive/2022/SLAM.md)|[54](./archive/2022/SFM.md)|[258](./archive/2022/Visual-Localization.md)|[76](./archive/2022/Keypoint-Detection.md)|[70](./archive/2022/Image-Matching.md)|[150](./archive/2022/NeRF.md)|||||
+|[2021](./archive/2021/README.md)|[51](./archive/2021/SLAM.md)|[19](./archive/2021/SFM.md)|[14](./archive/2021/Visual-Localization.md)|[29](./archive/2021/Keypoint-Detection.md)|[23](./archive/2021/Image-Matching.md)||||||
 
 ## SLAM
 

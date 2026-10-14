@@ -1,12 +1,8 @@
----
-layout: default
----
-
 ## SFM (2021)
-> 19 papers, [archive 2021](./index.html), [latest papers](../../index.html)
+> 19 papers, [archive 2021](./README.md)
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2021-12-29**|**On the Instability of Relative Pose Estimation and RANSAC's Role**|Hongyi Fan et.al.|[2112.14651](http://arxiv.org/abs/2112.14651)|null|
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635](http://arxiv.org/abs/2112.08635)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478](http://arxiv.org/abs/2112.05478)|null|

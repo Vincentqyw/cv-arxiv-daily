@@ -1,5 +1,5 @@
 ## Archive 2022
-> 912 papers, [latest papers](../../README.md)
+> 912 papers
 
 |Keyword|Papers|
 |---|---|
