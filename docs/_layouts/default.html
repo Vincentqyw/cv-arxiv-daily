@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #faf9f5;
+      --surface: #ffffff;
+      --surface-2: #f3f1ea;
+      --text: #141413;
+      --muted: #6b6a65;
+      --border: #e6e3da;
+      --accent: #c9643f;
+      --accent-soft: #f6e8e0;
+      --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1f1e1b;
+        --surface: #26251f;
+        --surface-2: #2e2d27;
+        --text: #efede6;
+        --muted: #a39f94;
+        --border: #3a382f;
+        --accent: #e18a66;
+        --accent-soft: #3a2c25;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 64px; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 15px;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 2px; }
+
+    .site-header {
+      position: sticky; top: 0; z-index: 10;
+      background: color-mix(in srgb, var(--bg) 88%, transparent);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border);
+    }
+    .site-header .inner {
+      max-width: 1180px; margin: 0 auto; padding: 14px 24px;
+      display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+    }
+    .brand { font-family: var(--serif); font-size: 20px; font-weight: 600; color: var(--text); letter-spacing: -0.01em; }
+    .brand:hover { text-decoration: none; }
+    .brand span { color: var(--accent); }
+    .site-nav a { color: var(--muted); font-size: 14px; margin-left: 20px; }
+    .site-nav a:hover { color: var(--text); text-decoration: none; }
+
+    main { max-width: 1180px; margin: 0 auto; padding: 40px 24px 80px; }
+
+    h1, h2, h3 { font-family: var(--serif); font-weight: 600; letter-spacing: -0.01em; line-height: 1.25; }
+    h1 { font-size: 34px; margin: 0 0 8px; }
+    h2 { font-size: 24px; margin: 56px 0 16px; padding-top: 24px; border-top: 1px solid var(--border); }
+    h2:first-of-type { margin-top: 24px; border-top: 0; padding-top: 0; }
+    h2 a { color: inherit; }
+
+    .meta { color: var(--muted); font-size: 14px; margin: 0 0 20px; }
+    .meta a { color: var(--muted); border-bottom: 1px solid var(--border); }
+    .meta a:hover { color: var(--text); text-decoration: none; }
+
+    .toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 8px; }
+    .toc a {
+      display: inline-block; padding: 5px 12px; border-radius: 999px;
+      background: var(--surface-2); border: 1px solid var(--border); color: var(--text); font-size: 13px;
+    }
+    .toc a:hover { background: var(--accent-soft); border-color: var(--accent); text-decoration: none; }
+    .toc a.archive { background: transparent; color: var(--muted); }
+
+    blockquote {
+      margin: 0 0 20px; padding: 2px 0 2px 14px;
+      border-left: 3px solid var(--accent); color: var(--muted); font-size: 14px;
+    }
+    blockquote p { margin: 0; }
+    blockquote em { font-style: normal; }
+
+    table {
+      width: 100%; border-collapse: collapse; margin: 0 0 12px;
+      background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
+      font-size: 14px; display: table;
+    }
+    thead th {
+      position: sticky; top: 53px; z-index: 1;
+      text-align: left; font-weight: 500; font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase;
+      color: var(--muted); background: var(--surface-2); border-bottom: 1px solid var(--border); padding: 10px 14px;
+    }
+    tbody td { padding: 10px 14px; border-top: 1px solid var(--border); vertical-align: top; }
+    tbody tr:first-child td { border-top: 0; }
+    tbody tr:hover td { background: var(--surface-2); }
+    td:first-child { white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; }
+    td:first-child strong { font-weight: 400; }
+    td:nth-child(2) strong { font-weight: 500; }
+    td:nth-child(3) { color: var(--muted); }
+    td:nth-child(4), td:nth-child(5) { white-space: nowrap; }
+    td:nth-child(5) strong { font-weight: 500; }
+
+    /* the year x keyword archive table */
+    h2#archive + blockquote + table td:first-child { color: var(--text); font-weight: 500; }
+    h2#archive + blockquote + table td { text-align: left; }
+    h2#archive + blockquote + table thead th:nth-child(n+2),
+    h2#archive + blockquote + table td:nth-child(n+2) { white-space: nowrap; }
+
+    .site-footer { max-width: 1180px; margin: 0 auto; padding: 24px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--border); }
+    .site-footer a { color: var(--muted); }
+
+    @media (max-width: 720px) {
+      body { font-size: 14px; }
+      main { padding: 24px 16px 60px; }
+      .site-header .inner { padding: 12px 16px; }
+      .site-nav a { margin-left: 14px; }
+      h1 { font-size: 28px; }
+      h2 { font-size: 21px; margin-top: 40px; }
+      table { display: block; overflow-x: auto; white-space: nowrap; }
+      thead th { position: static; }
+      td:nth-child(2) { white-space: normal; min-width: 260px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="{{ '/' | relative_url }}">CV <span>·</span> Arxiv Daily</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Latest</a>
+        <a href="{{ '/#archive' | relative_url }}">Archive</a>
+        <a href="{{ '/README.html' | relative_url }}#usage">Usage</a>
+        <a href="{{ site.repo_url }}">GitHub</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    {% if page.url == "/" %}
+    <h1>{{ site.title }}</h1>
+    <p class="meta">{{ site.description }}</p>
+    {% endif %}
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    Papers are fetched from <a href="https://arxiv.org">arXiv</a> by a GitHub Action · <a href="{{ site.repo_url }}">source</a>
+  </footer>
+</body>
+</html>

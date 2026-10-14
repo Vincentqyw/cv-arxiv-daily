@@ -499,11 +499,11 @@ def write_archive(data:dict, archive_dir:str) -> dict:
         logging.info(f"archived {total} papers of {year} to {year_dir}")
     return archive
 
-def write_archive_table(f, archive:dict, keywords:list, archive_link:str):
+def write_archive_table(f, archive:dict, keywords:list, archive_link:str, to_web = False):
     '''
     write the year x keyword table linking to the archived markdown files
     '''
-    f.write("## Archive\n\n")
+    f.write("## Archive {#archive}\n\n" if to_web else "## Archive\n\n")
     f.write("> All papers, one markdown per year and keyword.\n\n")
     f.write("|Year|" + "|".join(keywords) + "|\n")
     f.write("|---|" + "|".join("---" for _ in keywords) + "|\n")
@@ -566,19 +566,31 @@ def json_to_md(filename,md_filename,
         #     f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
         #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
-        if use_title == True:
+        usage_link = './' + os.path.relpath('docs/README.md', os.path.dirname(md_filename) or '.')
+        keywords = [keyword for keyword, papers in data.items() if papers]
+
+        if to_web == True:
+            # the gitpage layout (docs/_layouts/default.html) styles these: a meta line
+            # and keyword chips instead of the heading and the table of contents
+            # raw html links are not rewritten by jekyll-relative-links, link the html directly
+            f.write(f'<p class="meta">Updated on {DateNow} · <a href="{usage_link[:-3]}.html#usage">Usage</a></p>\n\n')
+            f.write('<nav class="toc">\n')
+            for keyword in keywords:
+                f.write(f'<a href="#{md_anchor(keyword)[1:]}">{keyword}</a>\n')
+            if archive != None:
+                f.write('<a href="#archive" class="archive">Archive</a>\n')
+            f.write('</nav>\n\n')
+        elif use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
+            f.write(f"> Usage instructions: [here]({usage_link}#usage)\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
-
-        # TODO: add usage
-        usage_link = './' + os.path.relpath('docs/README.md', os.path.dirname(md_filename) or '.')
-        f.write(f"> Usage instructions: [here]({usage_link}#usage)\n\n")
+            f.write(f"> Usage instructions: [here]({usage_link}#usage)\n\n")
 
         #Add: table of contents
-        if use_tc == True:
+        if use_tc == True and to_web == False:
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
@@ -594,15 +606,17 @@ def json_to_md(filename,md_filename,
             f.write("</details>\n\n")
 
         if archive != None:
-            keywords = [keyword for keyword, papers in data.items() if papers]
-            write_archive_table(f, archive, keywords, archive_link)
+            write_archive_table(f, archive, keywords, archive_link, to_web = to_web)
 
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
+            # the head of each part (explicit id for kramdown, which drops leading digits)
+            if to_web == True:
+                f.write(f"## {keyword} {{#{md_anchor(keyword)[1:]}}}\n\n")
+            else:
+                f.write(f"## {keyword}\n\n")
 
             write_md_table(f, day_content, to_web = to_web, use_title = use_title,
                            max_papers = max_papers)

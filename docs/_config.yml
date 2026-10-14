@@ -1,21 +1,7 @@
 title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
-show_downloads: true
+description: Automatically updated computer vision papers from arXiv, grouped by topic
+repo_url: https://github.com/Vincentqyw/cv-arxiv-daily
 
-github:
-  zip_url: https://github.com/Vincentqyw/cv-arxiv-daily
-  another_url: https://github.com/Vincentqyw/cv-arxiv-daily
-
-## add remote theme
-remote_theme: jekyll/minima@v2.5.1
-
-# minima:
-skin: dark
-social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
-
-plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
- - jekyll-feed
- - jekyll-seo-tag
+# the site uses its own layout (_layouts/default.html), no theme.
+# github pages renders the archive markdown without front matter and rewrites
+# the .md links to .html (jekyll-optional-front-matter / jekyll-relative-links)
