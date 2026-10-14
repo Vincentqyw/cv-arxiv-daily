@@ -8,6 +8,11 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <!-- latex in paper titles, eg. $\Delta$-NeRF -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.11/katex.min.css">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.11/katex.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.11/contrib/auto-render.min.js"
+    onload="renderMathInElement(document.body, {delimiters: [{left: '$', right: '$', display: false}], throwOnError: false});"></script>
   <style>
     :root {
       --bg: #faf9f5;
@@ -123,6 +128,7 @@
     h2#archive + blockquote + table thead th { white-space: normal; }
     h2#archive + blockquote + table td { white-space: nowrap; }
     .null { color: var(--muted); }
+    .katex { font-size: 1.05em; }
 
     .site-footer { max-width: 1180px; margin: 0 auto; padding: 24px; color: var(--muted); font-size: 13px; border-top: 1px solid var(--border); }
     .site-footer a { color: var(--muted); }
