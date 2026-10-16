@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.10.14</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.10.16</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -24,7 +24,7 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
 |---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[171](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|
+|[2026](./archive/2026/README.md)|[181](./archive/2026/SLAM.md)|[96](./archive/2026/SFM.md)|[175](./archive/2026/Visual-Localization.md)|[39](./archive/2026/Keypoint-Detection.md)|[51](./archive/2026/Image-Matching.md)|[114](./archive/2026/NeRF.md)|[10](./archive/2026/Gaussian-Splatting.md)|[10](./archive/2026/3D-Reconstruction.md)|[9](./archive/2026/World-Model.md)|[10](./archive/2026/VLA-and-VLN.md)|
 |[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)|||||
 |[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)|||||
 |[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)|||||
@@ -35,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Jing Xia et.al.|[2610.21586](http://arxiv.org/abs/2610.21586)|<span class="null">—</span>|
+|**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409](http://arxiv.org/abs/2610.21409)|<span class="null">—</span>|
+|**2026-10-15**|**LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation**|Shiqi Che et.al.|[2610.21199](http://arxiv.org/abs/2610.21199)|<span class="null">—</span>|
+|**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958](http://arxiv.org/abs/2610.20958)|<span class="null">—</span>|
+|**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844](http://arxiv.org/abs/2610.20844)|<span class="null">—</span>|
+|**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|<span class="null">—</span>|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|<span class="null">—</span>|
+|**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044](http://arxiv.org/abs/2610.19044)|<span class="null">—</span>|
+|**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|<span class="null">—</span>|
+|**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|<span class="null">—</span>|
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|**[link](https://github.com/IRMVLab/MemReg)**|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|**[link](https://github.com/hanjun815/RAGNAROK)**|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|<span class="null">—</span>|
@@ -225,18 +235,8 @@ layout: default
 |**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481](http://arxiv.org/abs/2512.10481)|<span class="null">—</span>|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|<span class="null">—</span>|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|<span class="null">—</span>|
-|**2025-12-10**|**Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization**|Zhiheng Li et.al.|[2512.09608](http://arxiv.org/abs/2512.09608)|<span class="null">—</span>|
-|**2025-12-10**|**D $^2$ GSLAM: 4D Dynamic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2512.09411](http://arxiv.org/abs/2512.09411)|<span class="null">—</span>|
-|**2025-12-09**|**A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation**|Doumegna Mawuto Koudjo Felix et.al.|[2512.08653](http://arxiv.org/abs/2512.08653)|<span class="null">—</span>|
-|**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|<span class="null">—</span>|
-|**2025-12-08**|**Sparse Variable Projection in Robotic Perception: Exploiting Separable Structure for Efficient Nonlinear Optimization**|Alan Papalia et.al.|[2512.07969](http://arxiv.org/abs/2512.07969)|<span class="null">—</span>|
-|**2025-12-08**|**OptMap: Geometric Map Distillation via Submodular Maximization**|David Thorne et.al.|[2512.07775](http://arxiv.org/abs/2512.07775)|<span class="null">—</span>|
-|**2025-12-08**|**Spatiotemporal Calibration and Ground Truth Estimation for High-Precision SLAM Benchmarking in Extended Reality**|Zichao Shu et.al.|[2512.07221](http://arxiv.org/abs/2512.07221)|<span class="null">—</span>|
-|**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868](http://arxiv.org/abs/2512.06868)|<span class="null">—</span>|
-|**2025-12-04**|**ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety**|Ahmad Yehia et.al.|[2512.05299](http://arxiv.org/abs/2512.05299)|<span class="null">—</span>|
-|**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|<span class="null">—</span>|
 
-> Showing the latest 200 of 1429 papers, see the [archive](#archive) for all.
+> Showing the latest 200 of 1439 papers, see the [archive](#archive) for all.
 
 <h2 id="sfm">SFM</h2>
 

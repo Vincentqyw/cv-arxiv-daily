@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
 |---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./docs/archive/2026/README.md)|[171](./docs/archive/2026/SLAM.md)|[96](./docs/archive/2026/SFM.md)|[175](./docs/archive/2026/Visual-Localization.md)|[39](./docs/archive/2026/Keypoint-Detection.md)|[51](./docs/archive/2026/Image-Matching.md)|[114](./docs/archive/2026/NeRF.md)|[10](./docs/archive/2026/Gaussian-Splatting.md)|[10](./docs/archive/2026/3D-Reconstruction.md)|[9](./docs/archive/2026/World-Model.md)|[10](./docs/archive/2026/VLA-and-VLN.md)|
+|[2026](./docs/archive/2026/README.md)|[181](./docs/archive/2026/SLAM.md)|[96](./docs/archive/2026/SFM.md)|[175](./docs/archive/2026/Visual-Localization.md)|[39](./docs/archive/2026/Keypoint-Detection.md)|[51](./docs/archive/2026/Image-Matching.md)|[114](./docs/archive/2026/NeRF.md)|[10](./docs/archive/2026/Gaussian-Splatting.md)|[10](./docs/archive/2026/3D-Reconstruction.md)|[9](./docs/archive/2026/World-Model.md)|[10](./docs/archive/2026/VLA-and-VLN.md)|
 |[2025](./docs/archive/2025/README.md)|[507](./docs/archive/2025/SLAM.md)|[647](./docs/archive/2025/SFM.md)|[1845](./docs/archive/2025/Visual-Localization.md)|[262](./docs/archive/2025/Keypoint-Detection.md)|[1066](./docs/archive/2025/Image-Matching.md)|[366](./docs/archive/2025/NeRF.md)|||||
 |[2024](./docs/archive/2024/README.md)|[317](./docs/archive/2024/SLAM.md)|[163](./docs/archive/2024/SFM.md)|[378](./docs/archive/2024/Visual-Localization.md)|[67](./docs/archive/2024/Keypoint-Detection.md)|[95](./docs/archive/2024/Image-Matching.md)|[693](./docs/archive/2024/NeRF.md)|||||
 |[2023](./docs/archive/2023/README.md)|[79](./docs/archive/2023/SLAM.md)|[75](./docs/archive/2023/SFM.md)|[351](./docs/archive/2023/Visual-Localization.md)|[93](./docs/archive/2023/Keypoint-Detection.md)|[91](./docs/archive/2023/Image-Matching.md)|[583](./docs/archive/2023/NeRF.md)|||||
@@ -35,6 +35,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Jing Xia et.al.|[2610.21586](http://arxiv.org/abs/2610.21586)|null|
+|**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409](http://arxiv.org/abs/2610.21409)|null|
+|**2026-10-15**|**LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation**|Shiqi Che et.al.|[2610.21199](http://arxiv.org/abs/2610.21199)|null|
+|**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958](http://arxiv.org/abs/2610.20958)|null|
+|**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844](http://arxiv.org/abs/2610.20844)|null|
+|**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
+|**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044](http://arxiv.org/abs/2610.19044)|null|
+|**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|null|
+|**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|null|
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|**[link](https://github.com/IRMVLab/MemReg)**|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|**[link](https://github.com/hanjun815/RAGNAROK)**|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
@@ -225,20 +235,10 @@
 |**2025-12-11**|**Contact SLAM: An Active Tactile Exploration Policy Based on Physical Reasoning Utilized in Robotic Fine Blind Manipulation Tasks**|Gaozhao Wang et.al.|[2512.10481](http://arxiv.org/abs/2512.10481)|null|
 |**2025-12-11**|**CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation**|Liuyi Wang et.al.|[2512.10360](http://arxiv.org/abs/2512.10360)|null|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
-|**2025-12-10**|**Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization**|Zhiheng Li et.al.|[2512.09608](http://arxiv.org/abs/2512.09608)|null|
-|**2025-12-10**|**D $^2$ GSLAM: 4D Dynamic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2512.09411](http://arxiv.org/abs/2512.09411)|null|
-|**2025-12-09**|**A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation**|Doumegna Mawuto Koudjo Felix et.al.|[2512.08653](http://arxiv.org/abs/2512.08653)|null|
-|**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|null|
-|**2025-12-08**|**Sparse Variable Projection in Robotic Perception: Exploiting Separable Structure for Efficient Nonlinear Optimization**|Alan Papalia et.al.|[2512.07969](http://arxiv.org/abs/2512.07969)|null|
-|**2025-12-08**|**OptMap: Geometric Map Distillation via Submodular Maximization**|David Thorne et.al.|[2512.07775](http://arxiv.org/abs/2512.07775)|null|
-|**2025-12-08**|**Spatiotemporal Calibration and Ground Truth Estimation for High-Precision SLAM Benchmarking in Extended Reality**|Zichao Shu et.al.|[2512.07221](http://arxiv.org/abs/2512.07221)|null|
-|**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868](http://arxiv.org/abs/2512.06868)|null|
-|**2025-12-04**|**ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety**|Ahmad Yehia et.al.|[2512.05299](http://arxiv.org/abs/2512.05299)|null|
-|**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|null|
 
-> Showing the latest 200 of 1429 papers, see the [archive](#archive) for all.
+> Showing the latest 200 of 1439 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## SFM
 
@@ -447,7 +447,7 @@
 
 > Showing the latest 200 of 1054 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -656,7 +656,7 @@
 
 > Showing the latest 200 of 3021 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -865,7 +865,7 @@
 
 > Showing the latest 200 of 566 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1074,7 +1074,7 @@
 
 > Showing the latest 200 of 1396 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## NeRF
 
@@ -1283,7 +1283,7 @@
 
 > Showing the latest 200 of 1906 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -1300,7 +1300,7 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|**[link](https://github.com/POSE-Lab/novasplat)**|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -1317,7 +1317,7 @@
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
 |**2026-10-07**|**LVSPM: Long Sequence View Synthesis and Pose Estimation Model**|Xi Chen et.al.|[2610.10960](http://arxiv.org/abs/2610.10960)|**[link](https://github.com/Burningdust21/LVSPM)**|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## World Model
 
@@ -1333,7 +1333,7 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217](http://arxiv.org/abs/2610.13217)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## VLA and VLN
 
@@ -1350,7 +1350,7 @@
 |**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117](http://arxiv.org/abs/2610.13117)|null|
 |**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104](http://arxiv.org/abs/2610.13104)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

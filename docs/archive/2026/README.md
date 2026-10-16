@@ -1,9 +1,9 @@
 ## Archive 2026
-> 685 papers
+> 695 papers
 
 |Keyword|Papers|
 |---|---|
-|[SLAM](./SLAM.md)|171|
+|[SLAM](./SLAM.md)|181|
 |[SFM](./SFM.md)|96|
 |[Visual Localization](./Visual-Localization.md)|175|
 |[Keypoint Detection](./Keypoint-Detection.md)|39|
