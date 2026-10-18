@@ -3,5 +3,12 @@ description: Automatically updated computer vision papers from arXiv, grouped by
 repo_url: https://github.com/Vincentqyw/cv-arxiv-daily
 
 # the site uses its own layout (_layouts/default.html), no theme.
-# github pages renders the archive markdown without front matter and rewrites
-# the .md links to .html (jekyll-optional-front-matter / jekyll-relative-links)
+# the archive markdown has no front matter: these github pages default plugins
+# render it with the default layout, title it from its heading and rewrite
+# the .md links to .html. github pages loads them implicitly, vercel needs the list.
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
