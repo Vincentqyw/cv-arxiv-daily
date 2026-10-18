@@ -13,3 +13,5 @@ cmake-build-debug/
 .vscode/
 *.pyc
 
+.vercel
+.env*
