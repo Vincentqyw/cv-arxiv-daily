@@ -5,7 +5,7 @@
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-09**|**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**|Taoyong Cui et.al.|[2610.13912](http://arxiv.org/abs/2610.13912)|**[link](https://github.com/Gen-Verse/RSI-Anything)**|
 |**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816](http://arxiv.org/abs/2610.13816)|<span class="null">—</span>|
-|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|<span class="null">—</span>|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|**[link](https://github.com/OpenDriveLab/SimVTA)**|
 |**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Timi Owolabi et.al.|[2610.13740](http://arxiv.org/abs/2610.13740)|**[link](https://github.com/iitimii/SmolWAM)**|
 |**2026-10-09**|**GLIMPSE: Global-Local Indexing with Multi-Precision Spectral Encoding for Explorable Video World Models**|Zhufeng Xu et.al.|[2610.13706](http://arxiv.org/abs/2610.13706)|<span class="null">—</span>|
 |**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Peiyan Tu et.al.|[2610.13522](http://arxiv.org/abs/2610.13522)|<span class="null">—</span>|

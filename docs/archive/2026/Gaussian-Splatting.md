@@ -3,9 +3,9 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|<span class="null">—</span>|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|**[link](https://github.com/YanjieZe/agent-real2sim2real)**|
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|<span class="null">—</span>|
-|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|<span class="null">—</span>|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|**[link](https://github.com/OpenDriveLab/SimVTA)**|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|<span class="null">—</span>|
 |**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|<span class="null">—</span>|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|<span class="null">—</span>|

@@ -1,4 +1,4 @@
-## Updated on 2026.10.16
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958](http://arxiv.org/abs/2610.20958)|null|
 |**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844](http://arxiv.org/abs/2610.20844)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
-|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|**[link](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo)**|
 |**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044](http://arxiv.org/abs/2610.19044)|null|
 |**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|null|
 |**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|null|
@@ -49,10 +49,10 @@
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|**[link](https://github.com/hanjun815/RAGNAROK)**|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|null|
-|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|null|
+|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|**[link](https://github.com/sunset0917/InterCorrect-Intersection-Aware-Correction-of-Demographic-Model-Merging-for-Fair-ASR)**|
 |**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
-|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|null|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|**[link](https://github.com/Kilyakus/js-dockview)**|
 |**2026-10-05**|**Stellarators Linking Axisymmetric Mirrors Part 1: Coil Design, MHD Equilibrium, and Physics Metrics**|Rahul Gaur et.al.|[2610.06085](http://arxiv.org/abs/2610.06085)|null|
 |**2026-10-05**|**Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM**|Junhyun Nam et.al.|[2610.05757](http://arxiv.org/abs/2610.05757)|null|
 |**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Christina Kassab et.al.|[2605.13741](http://arxiv.org/abs/2605.13741)|**[link](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo)**|
@@ -238,7 +238,7 @@
 
 > Showing the latest 200 of 1439 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## SFM
 
@@ -447,7 +447,7 @@
 
 > Showing the latest 200 of 1054 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -656,7 +656,7 @@
 
 > Showing the latest 200 of 3021 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -865,7 +865,7 @@
 
 > Showing the latest 200 of 566 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1074,7 +1074,7 @@
 
 > Showing the latest 200 of 1396 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## NeRF
 
@@ -1283,15 +1283,15 @@
 
 > Showing the latest 200 of 1906 papers, see the [archive](#archive) for all.
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|null|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|**[link](https://github.com/YanjieZe/agent-real2sim2real)**|
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|null|
-|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|**[link](https://github.com/OpenDriveLab/SimVTA)**|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|null|
 |**2026-10-09**|**AutoBio+: Benchmarking Dexterous Manipulation with Dynamic Experimental Phenomena in Realistic Laboratories**|Xuanye Wu et.al.|[2610.13643](http://arxiv.org/abs/2610.13643)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
@@ -1300,7 +1300,7 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|**[link](https://github.com/POSE-Lab/novasplat)**|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## 3D Reconstruction
 
@@ -1317,7 +1317,7 @@
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
 |**2026-10-07**|**LVSPM: Long Sequence View Synthesis and Pose Estimation Model**|Xi Chen et.al.|[2610.10960](http://arxiv.org/abs/2610.10960)|**[link](https://github.com/Burningdust21/LVSPM)**|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## World Model
 
@@ -1325,7 +1325,7 @@
 |---|---|---|---|---|
 |**2026-10-09**|**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**|Taoyong Cui et.al.|[2610.13912](http://arxiv.org/abs/2610.13912)|**[link](https://github.com/Gen-Verse/RSI-Anything)**|
 |**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816](http://arxiv.org/abs/2610.13816)|null|
-|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|null|
+|**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|**[link](https://github.com/OpenDriveLab/SimVTA)**|
 |**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Timi Owolabi et.al.|[2610.13740](http://arxiv.org/abs/2610.13740)|**[link](https://github.com/iitimii/SmolWAM)**|
 |**2026-10-09**|**GLIMPSE: Global-Local Indexing with Multi-Precision Spectral Encoding for Explorable Video World Models**|Zhufeng Xu et.al.|[2610.13706](http://arxiv.org/abs/2610.13706)|null|
 |**2026-10-09**|**Beyond Successful Robot Demonstrations: Learning from Human Interactions and Modeling Failure Dynamics**|Peiyan Tu et.al.|[2610.13522](http://arxiv.org/abs/2610.13522)|null|
@@ -1333,13 +1333,13 @@
 |**2026-10-09**|**ManeuverFlow: Maneuver Hypothesis Generation with Future Evidence for Trajectory Evaluation and Refinement in End-to-End Autonomous Driving**|Yuhao Wei et.al.|[2610.13409](http://arxiv.org/abs/2610.13409)|**[link](https://github.com/wyh-autonomy/maneuverflow)**|
 |**2026-10-09**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217](http://arxiv.org/abs/2610.13217)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## VLA and VLN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|null|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|**[link](https://github.com/YanjieZe/agent-real2sim2real)**|
 |**2026-10-09**|**Noise Space Learning for VLA Adaptation**|Junjie Lu et.al.|[2610.13943](http://arxiv.org/abs/2610.13943)|null|
 |**2026-10-09**|**JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation**|Faith Ogunwoye et.al.|[2610.13628](http://arxiv.org/abs/2610.13628)|null|
 |**2026-10-09**|**RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation**|Xuhui Kang et.al.|[2610.13578](http://arxiv.org/abs/2610.13578)|**[link](https://github.com/Shua-Kang/RARA)**|
@@ -1350,7 +1350,7 @@
 |**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117](http://arxiv.org/abs/2610.13117)|null|
 |**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104](http://arxiv.org/abs/2610.13104)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

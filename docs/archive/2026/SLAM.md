@@ -9,7 +9,7 @@
 |**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958](http://arxiv.org/abs/2610.20958)|<span class="null">—</span>|
 |**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844](http://arxiv.org/abs/2610.20844)|<span class="null">—</span>|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|<span class="null">—</span>|
-|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|<span class="null">—</span>|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|**[link](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo)**|
 |**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044](http://arxiv.org/abs/2610.19044)|<span class="null">—</span>|
 |**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|<span class="null">—</span>|
 |**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|<span class="null">—</span>|
@@ -17,10 +17,10 @@
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|**[link](https://github.com/hanjun815/RAGNAROK)**|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|<span class="null">—</span>|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|<span class="null">—</span>|
-|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|<span class="null">—</span>|
+|**2026-10-06**|**InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR**|Ashley E. Bravo-Bravo et.al.|[2610.08604](http://arxiv.org/abs/2610.08604)|**[link](https://github.com/sunset0917/InterCorrect-Intersection-Aware-Correction-of-Demographic-Model-Merging-for-Fair-ASR)**|
 |**2026-10-06**|**VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation**|Yutian Zhang et.al.|[2610.08220](http://arxiv.org/abs/2610.08220)|<span class="null">—</span>|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|<span class="null">—</span>|
-|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|<span class="null">—</span>|
+|**2026-10-05**|**RoboCap: A New Platform for Egocentric Robot Learning**|Grounded Superintelligence et.al.|[2610.07217](http://arxiv.org/abs/2610.07217)|**[link](https://github.com/Kilyakus/js-dockview)**|
 |**2026-10-05**|**Stellarators Linking Axisymmetric Mirrors Part 1: Coil Design, MHD Equilibrium, and Physics Metrics**|Rahul Gaur et.al.|[2610.06085](http://arxiv.org/abs/2610.06085)|<span class="null">—</span>|
 |**2026-10-05**|**Human-in-the-Loop Neuro-Symbolic Drift Anticipation for Reliable Visual SLAM**|Junhyun Nam et.al.|[2610.05757](http://arxiv.org/abs/2610.05757)|<span class="null">—</span>|
 |**2026-05-13**|**LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction**|Christina Kassab et.al.|[2605.13741](http://arxiv.org/abs/2605.13741)|**[link](https://github.com/3D-Vision-World/All-3R-SLAM-in-this-Repo)**|
