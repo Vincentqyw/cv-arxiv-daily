@@ -1,8 +1,18 @@
 ## World Model (2026)
-> 9 papers, [archive 2026](./README.md)
+> 19 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**UniAction: Unified Action Conditioning for World Models**|Bowen Xue et.al.|[2610.32977](http://arxiv.org/abs/2610.32977)|<span class="null">—</span>|
+|**2026-10-23**|**Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection**|Luke Beddow et.al.|[2610.32742](http://arxiv.org/abs/2610.32742)|<span class="null">—</span>|
+|**2026-10-23**|**Conditional Neural Processes for Self-Supervised Goal Discovery in Action Imitation**|Marco Gabriele Fedozzi et.al.|[2610.32688](http://arxiv.org/abs/2610.32688)|<span class="null">—</span>|
+|**2026-10-23**|**DT-JEPA: Learning to Predict Future Representations for Decision-Making**|Changxu Ni et.al.|[2610.32657](http://arxiv.org/abs/2610.32657)|<span class="null">—</span>|
+|**2026-10-23**|**HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching**|I-tak Ieong et.al.|[2610.32554](http://arxiv.org/abs/2610.32554)|<span class="null">—</span>|
+|**2026-10-23**|**When Does Dynamics Randomization Test Context Inference?**|Oleg Smirnov et.al.|[2610.32414](http://arxiv.org/abs/2610.32414)|<span class="null">—</span>|
+|**2026-10-23**|**UniWorld: A Unified World Model for Real-Time Visual World Simulation**|Xin Zhang et.al.|[2610.32381](http://arxiv.org/abs/2610.32381)|<span class="null">—</span>|
+|**2026-10-23**|**ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences**|Shibo Hong et.al.|[2610.32222](http://arxiv.org/abs/2610.32222)|<span class="null">—</span>|
+|**2026-10-23**|**$Ψ$ -0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model**|Khai Loong Aw et.al.|[2610.32177](http://arxiv.org/abs/2610.32177)|<span class="null">—</span>|
+|**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983](http://arxiv.org/abs/2610.31983)|<span class="null">—</span>|
 |**2026-10-09**|**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**|Taoyong Cui et.al.|[2610.13912](http://arxiv.org/abs/2610.13912)|**[link](https://github.com/Gen-Verse/RSI-Anything)**|
 |**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816](http://arxiv.org/abs/2610.13816)|<span class="null">—</span>|
 |**2026-10-09**|**SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models**|Changhui Jing et.al.|[2610.13781](http://arxiv.org/abs/2610.13781)|**[link](https://github.com/OpenDriveLab/SimVTA)**|
