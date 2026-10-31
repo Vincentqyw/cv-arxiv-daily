@@ -1,5 +1,5 @@
 ## Archive 2026
-> 721 papers
+> 731 papers
 
 |Keyword|Papers|
 |---|---|
@@ -11,6 +11,6 @@
 |[NeRF](./NeRF.md)|114|
 |[Gaussian Splatting](./Gaussian-Splatting.md)|10|
 |[3D Reconstruction](./3D-Reconstruction.md)|10|
-|[World Model](./World-Model.md)|19|
+|[World Model](./World-Model.md)|29|
 |[VLA and VLN](./VLA-and-VLN.md)|10|
 
