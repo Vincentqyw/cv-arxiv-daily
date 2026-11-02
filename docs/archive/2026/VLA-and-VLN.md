@@ -4,7 +4,7 @@
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565](http://arxiv.org/abs/2610.40565)|<span class="null">—</span>|
-|**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Xiangyu Xu et.al.|[2610.40532](http://arxiv.org/abs/2610.40532)|<span class="null">—</span>|
+|**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Xiangyu Xu et.al.|[2610.40532](http://arxiv.org/abs/2610.40532)|**[link](https://github.com/hu-zlatan/embodied-ai-radar)**|
 |**2026-10-29**|**Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design**|Jingxu Gu et.al.|[2610.40430](http://arxiv.org/abs/2610.40430)|<span class="null">—</span>|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373](http://arxiv.org/abs/2610.40373)|<span class="null">—</span>|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349](http://arxiv.org/abs/2610.40349)|<span class="null">—</span>|

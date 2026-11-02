@@ -3,9 +3,9 @@
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-29**|**world2vec: Mechanistic world models through latent dynamics learning**|Tobias Schmidt et.al.|[2610.40637](http://arxiv.org/abs/2610.40637)|<span class="null">—</span>|
+|**2026-10-29**|**world2vec: Mechanistic world models through latent dynamics learning**|Tobias Schmidt et.al.|[2610.40637](http://arxiv.org/abs/2610.40637)|**[link](https://github.com/mlnjsh/ai-research-radar)**|
 |**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](http://arxiv.org/abs/2610.40614)|**[link](https://github.com/cvlab-kaist/L3G-World)**|
-|**2026-10-29**|**Fight World Model: Customizable Combat through Visual Interaction Proxies**|Jiahua Li et.al.|[2610.40607](http://arxiv.org/abs/2610.40607)|<span class="null">—</span>|
+|**2026-10-29**|**Fight World Model: Customizable Combat through Visual Interaction Proxies**|Jiahua Li et.al.|[2610.40607](http://arxiv.org/abs/2610.40607)|**[link](https://github.com/mlnjsh/ai-research-radar)**|
 |**2026-10-29**|**Algebraic World Model: From Exploration to Proofs**|Guancheng Pan et.al.|[2610.40503](http://arxiv.org/abs/2610.40503)|<span class="null">—</span>|
 |**2026-10-29**|**Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors**|Liangyu Li et.al.|[2610.40401](http://arxiv.org/abs/2610.40401)|<span class="null">—</span>|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Rongxing Ding et.al.|[2610.40373](http://arxiv.org/abs/2610.40373)|<span class="null">—</span>|
@@ -21,7 +21,7 @@
 |**2026-10-23**|**When Does Dynamics Randomization Test Context Inference?**|Oleg Smirnov et.al.|[2610.32414](http://arxiv.org/abs/2610.32414)|<span class="null">—</span>|
 |**2026-10-23**|**UniWorld: A Unified World Model for Real-Time Visual World Simulation**|Xin Zhang et.al.|[2610.32381](http://arxiv.org/abs/2610.32381)|<span class="null">—</span>|
 |**2026-10-23**|**ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences**|Shibo Hong et.al.|[2610.32222](http://arxiv.org/abs/2610.32222)|<span class="null">—</span>|
-|**2026-10-23**|**$Ψ$ -0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model**|Khai Loong Aw et.al.|[2610.32177](http://arxiv.org/abs/2610.32177)|<span class="null">—</span>|
+|**2026-10-23**|**$Ψ$ -0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model**|Khai Loong Aw et.al.|[2610.32177](http://arxiv.org/abs/2610.32177)|**[link](https://github.com/neuroailab/psi-0.6)**|
 |**2026-10-22**|**Interpreting Physics in Video Encoders using Multi-Object Interaction Videos**|Ayushi Mehrotra et.al.|[2610.31983](http://arxiv.org/abs/2610.31983)|<span class="null">—</span>|
 |**2026-10-09**|**RSI-Anything: Unlocking Recursive Self-Improvement with World Models**|Taoyong Cui et.al.|[2610.13912](http://arxiv.org/abs/2610.13912)|**[link](https://github.com/Gen-Verse/RSI-Anything)**|
 |**2026-10-09**|**Dream to Remember: Continual Steering of Generalist Robot Policies with World Models**|Bahey Tharwat et.al.|[2610.13816](http://arxiv.org/abs/2610.13816)|<span class="null">—</span>|
