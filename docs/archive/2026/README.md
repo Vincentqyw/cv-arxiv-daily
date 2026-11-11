@@ -1,5 +1,5 @@
 ## Archive 2026
-> 888 papers
+> 890 papers
 
 |Keyword|Papers|
 |---|---|
@@ -7,7 +7,7 @@
 |[SFM](./SFM.md)|124|
 |[Visual Localization](./Visual-Localization.md)|195|
 |[Keypoint Detection](./Keypoint-Detection.md)|43|
-|[Image Matching](./Image-Matching.md)|67|
+|[Image Matching](./Image-Matching.md)|69|
 |[NeRF](./NeRF.md)|130|
 |[Gaussian Splatting](./Gaussian-Splatting.md)|30|
 |[3D Reconstruction](./3D-Reconstruction.md)|30|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.09</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.11</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -24,7 +24,7 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
 |---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[201](./archive/2026/SLAM.md)|[124](./archive/2026/SFM.md)|[195](./archive/2026/Visual-Localization.md)|[43](./archive/2026/Keypoint-Detection.md)|[67](./archive/2026/Image-Matching.md)|[130](./archive/2026/NeRF.md)|[30](./archive/2026/Gaussian-Splatting.md)|[30](./archive/2026/3D-Reconstruction.md)|[38](./archive/2026/World-Model.md)|[30](./archive/2026/VLA-and-VLN.md)|
+|[2026](./archive/2026/README.md)|[201](./archive/2026/SLAM.md)|[124](./archive/2026/SFM.md)|[195](./archive/2026/Visual-Localization.md)|[43](./archive/2026/Keypoint-Detection.md)|[69](./archive/2026/Image-Matching.md)|[130](./archive/2026/NeRF.md)|[30](./archive/2026/Gaussian-Splatting.md)|[30](./archive/2026/3D-Reconstruction.md)|[38](./archive/2026/World-Model.md)|[30](./archive/2026/VLA-and-VLN.md)|
 |[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)|||||
 |[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)|||||
 |[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)|||||
@@ -863,6 +863,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](http://arxiv.org/abs/2611.10241)|<span class="null">—</span>|
+|**2026-11-05**|**Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis**|Abhijith Shaji et.al.|[2611.08771](http://arxiv.org/abs/2611.08771)|<span class="null">—</span>|
 |**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[2611.08352](http://arxiv.org/abs/2611.08352)|**[link](https://github.com/tohnperfect/USBGym)**|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](http://arxiv.org/abs/2611.05084)|<span class="null">—</span>|
 |**2026-11-03**|**Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps**|Nafie El Amrani et.al.|[2611.05083](http://arxiv.org/abs/2611.05083)|**[link](https://github.com/NafieAmrani/NAMI)**|
@@ -1061,10 +1063,8 @@ layout: default
 |**2025-11-12**|**Simple Vision-Language Math Reasoning via Rendered Text**|Matvey Skripkin et.al.|[2511.11704](http://arxiv.org/abs/2511.11704)|<span class="null">—</span>|
 |**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley et.al.|[2511.11526](http://arxiv.org/abs/2511.11526)|<span class="null">—</span>|
 |**2025-11-18**|**CVChess: A Deep Learning Framework for Converting Chessboard Images to Forsyth-Edwards Notation**|Luthira Abeykoon et.al.|[2511.11522](http://arxiv.org/abs/2511.11522)|<span class="null">—</span>|
-|**2025-11-14**|**Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping**|Guowei Zhang et.al.|[2511.11437](http://arxiv.org/abs/2511.11437)|<span class="null">—</span>|
-|**2025-11-14**|**The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models**|Maria-Teresa De Rosa Palmini et.al.|[2511.11435](http://arxiv.org/abs/2511.11435)|<span class="null">—</span>|
 
-> Showing the latest 200 of 1412 papers, see the [archive](#archive) for all.
+> Showing the latest 200 of 1414 papers, see the [archive](#archive) for all.
 
 <h2 id="nerf">NeRF</h2>
 
