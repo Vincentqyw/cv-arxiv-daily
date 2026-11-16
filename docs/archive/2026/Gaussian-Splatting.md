@@ -9,7 +9,7 @@
 |**2026-11-05**|**SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes**|Hao Yu et.al.|[2611.08264](http://arxiv.org/abs/2611.08264)|**[link](https://github.com/zju3dv/SplatAnything)**|
 |**2026-11-05**|**Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting**|Yuting Wang et.al.|[2611.07979](http://arxiv.org/abs/2611.07979)|<span class="null">—</span>|
 |**2026-11-05**|**EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure**|Kwan Yun et.al.|[2611.07909](http://arxiv.org/abs/2611.07909)|**[link](https://github.com/kwanyun/edgar-code)**|
-|**2026-11-05**|**XM4D: 4D Reconstruction through Certifiable Geometric Optimization**|Haoyu Han et.al.|[2611.07902](http://arxiv.org/abs/2611.07902)|<span class="null">—</span>|
+|**2026-11-05**|**XM4D: 4D Reconstruction through Certifiable Geometric Optimization**|Haoyu Han et.al.|[2611.07902](http://arxiv.org/abs/2611.07902)|**[link](https://github.com/ALEEEHU/World-Simulator)**|
 |**2026-11-05**|**AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification**|Tze Ho Elden Tse et.al.|[2611.07709](http://arxiv.org/abs/2611.07709)|<span class="null">—</span>|
 |**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081](http://arxiv.org/abs/2611.07081)|<span class="null">—</span>|
 |**2026-11-04**|**BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting**|Yuxi Hu et.al.|[2611.06593](http://arxiv.org/abs/2611.06593)|<span class="null">—</span>|

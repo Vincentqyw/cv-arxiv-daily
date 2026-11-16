@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.11</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.16</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -449,7 +449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-05**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136](http://arxiv.org/abs/2611.08136)|<span class="null">—</span>|
+|**2026-11-05**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136](http://arxiv.org/abs/2611.08136)|**[link](https://github.com/ideal-lab-sejong/PRISM_T)**|
 |**2026-11-05**|**Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives**|Jingsong Liu et.al.|[2611.07935](http://arxiv.org/abs/2611.07935)|<span class="null">—</span>|
 |**2026-11-05**|**Degree-Equalized View-Graph Selection under Tight Pair Budgets**|Minhyeok Im et.al.|[2611.07498](http://arxiv.org/abs/2611.07498)|<span class="null">—</span>|
 |**2026-11-05**|**DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models**|Benlei Cui et.al.|[2611.06433](http://arxiv.org/abs/2611.06433)|**[link](https://github.com/Alibaba-VELLDEPTH/DreamRealm)**|
@@ -1283,7 +1283,7 @@ layout: default
 |**2026-11-05**|**SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes**|Hao Yu et.al.|[2611.08264](http://arxiv.org/abs/2611.08264)|**[link](https://github.com/zju3dv/SplatAnything)**|
 |**2026-11-05**|**Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting**|Yuting Wang et.al.|[2611.07979](http://arxiv.org/abs/2611.07979)|<span class="null">—</span>|
 |**2026-11-05**|**EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure**|Kwan Yun et.al.|[2611.07909](http://arxiv.org/abs/2611.07909)|**[link](https://github.com/kwanyun/edgar-code)**|
-|**2026-11-05**|**XM4D: 4D Reconstruction through Certifiable Geometric Optimization**|Haoyu Han et.al.|[2611.07902](http://arxiv.org/abs/2611.07902)|<span class="null">—</span>|
+|**2026-11-05**|**XM4D: 4D Reconstruction through Certifiable Geometric Optimization**|Haoyu Han et.al.|[2611.07902](http://arxiv.org/abs/2611.07902)|**[link](https://github.com/ALEEEHU/World-Simulator)**|
 |**2026-11-05**|**AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification**|Tze Ho Elden Tse et.al.|[2611.07709](http://arxiv.org/abs/2611.07709)|<span class="null">—</span>|
 |**2026-11-04**|**Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving**|Kaixuan Zhang et.al.|[2611.07081](http://arxiv.org/abs/2611.07081)|<span class="null">—</span>|
 |**2026-11-04**|**BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting**|Yuxi Hu et.al.|[2611.06593](http://arxiv.org/abs/2611.06593)|<span class="null">—</span>|
