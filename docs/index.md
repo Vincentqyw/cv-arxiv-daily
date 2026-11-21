@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.16</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.21</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
@@ -24,7 +24,7 @@ layout: default
 
 |Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
 |---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./archive/2026/README.md)|[201](./archive/2026/SLAM.md)|[124](./archive/2026/SFM.md)|[195](./archive/2026/Visual-Localization.md)|[43](./archive/2026/Keypoint-Detection.md)|[69](./archive/2026/Image-Matching.md)|[130](./archive/2026/NeRF.md)|[30](./archive/2026/Gaussian-Splatting.md)|[30](./archive/2026/3D-Reconstruction.md)|[38](./archive/2026/World-Model.md)|[30](./archive/2026/VLA-and-VLN.md)|
+|[2026](./archive/2026/README.md)|[201](./archive/2026/SLAM.md)|[124](./archive/2026/SFM.md)|[195](./archive/2026/Visual-Localization.md)|[44](./archive/2026/Keypoint-Detection.md)|[69](./archive/2026/Image-Matching.md)|[130](./archive/2026/NeRF.md)|[30](./archive/2026/Gaussian-Splatting.md)|[30](./archive/2026/3D-Reconstruction.md)|[38](./archive/2026/World-Model.md)|[30](./archive/2026/VLA-and-VLN.md)|
 |[2025](./archive/2025/README.md)|[507](./archive/2025/SLAM.md)|[647](./archive/2025/SFM.md)|[1845](./archive/2025/Visual-Localization.md)|[262](./archive/2025/Keypoint-Detection.md)|[1066](./archive/2025/Image-Matching.md)|[366](./archive/2025/NeRF.md)|||||
 |[2024](./archive/2024/README.md)|[317](./archive/2024/SLAM.md)|[163](./archive/2024/SFM.md)|[378](./archive/2024/Visual-Localization.md)|[67](./archive/2024/Keypoint-Detection.md)|[95](./archive/2024/Image-Matching.md)|[693](./archive/2024/NeRF.md)|||||
 |[2023](./archive/2023/README.md)|[79](./archive/2023/SLAM.md)|[75](./archive/2023/SFM.md)|[351](./archive/2023/Visual-Localization.md)|[93](./archive/2023/Keypoint-Detection.md)|[91](./archive/2023/Image-Matching.md)|[583](./archive/2023/NeRF.md)|||||
@@ -656,6 +656,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717](http://arxiv.org/abs/2611.09717)|<span class="null">—</span>|
 |**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](http://arxiv.org/abs/2611.07677)|**[link](https://github.com/Pierreoo/GEKey)**|
 |**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467](http://arxiv.org/abs/2610.40467)|<span class="null">—</span>|
 |**2026-10-15**|**Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach**|Viktoria Ehm et.al.|[2610.21802](http://arxiv.org/abs/2610.21802)|<span class="null">—</span>|
@@ -855,9 +856,8 @@ layout: default
 |**2025-08-27**|**TopoBind: Multi-Modal Prediction of Antibody-Antigen Binding Free Energy via Sequence Embeddings and Structural Topology**|Ciyuan Yu et.al.|[2508.19632](http://arxiv.org/abs/2508.19632)|<span class="null">—</span>|
 |**2025-08-26**|**Dual Enhancement on 3D Vision-Language Perception for Monocular 3D Visual Grounding**|Yuzhen Li et.al.|[2508.19165](http://arxiv.org/abs/2508.19165)|<span class="null">—</span>|
 |**2025-08-30**|**A Novel Deep Hybrid Framework with Ensemble-Based Feature Optimization for Robust Real-Time Human Activity Recognition**|Wasi Ullah et.al.|[2508.18695](http://arxiv.org/abs/2508.18695)|<span class="null">—</span>|
-|**2025-08-25**|**Camera Pose Refinement via 3D Gaussian Splatting**|Lulu Hao et.al.|[2508.17876](http://arxiv.org/abs/2508.17876)|<span class="null">—</span>|
 
-> Showing the latest 200 of 570 papers, see the [archive](#archive) for all.
+> Showing the latest 200 of 571 papers, see the [archive](#archive) for all.
 
 <h2 id="image-matching">Image Matching</h2>
 
