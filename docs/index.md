@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.21</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.23</p>
 
 <nav class="toc">
 <a href="#slam">SLAM</a>
