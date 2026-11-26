@@ -1,8 +1,18 @@
 ## 3D Reconstruction (2026)
-> 30 papers, [archive 2026](./README.md)
+> 40 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Who Is Ego? Scaling Cross-View Camera Wearer Identification and Segmentation beyond Humans**|Yifan Jin et.al.|[2611.34489](http://arxiv.org/abs/2611.34489)|<span class="null">—</span>|
+|**2026-11-25**|**Embodied-VGGT: Preserving Reliable Local Geometry for Long-Sequence Reconstruction**|Yiheng Han et.al.|[2611.33964](http://arxiv.org/abs/2611.33964)|**[link](https://github.com/Ang-Sheep/Embodied-VGGT)**|
+|**2026-11-25**|**Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction**|Di Wu et.al.|[2611.33824](http://arxiv.org/abs/2611.33824)|<span class="null">—</span>|
+|**2026-11-25**|**Linear-Time Online Visual Geometry Transformer with Hybrid Architecture**|Haoyu Kang et.al.|[2611.33650](http://arxiv.org/abs/2611.33650)|<span class="null">—</span>|
+|**2026-11-24**|**GeoVLDrive: Geometry-Grounded Vision-Language Reasoning for Autonomous Driving**|JiaHui Huang et.al.|[2611.32510](http://arxiv.org/abs/2611.32510)|<span class="null">—</span>|
+|**2026-11-24**|**X-3DComposer: Feed-Forward 3D Scene Composition with Any Assets from Any Views**|Zidian Qiu et.al.|[2611.32491](http://arxiv.org/abs/2611.32491)|<span class="null">—</span>|
+|**2026-11-25**|**MaskedVGGT: Masked Multi-View Transformers Are Scalable 3D Learners**|Zichen Zou et.al.|[2611.32297](http://arxiv.org/abs/2611.32297)|<span class="null">—</span>|
+|**2026-11-24**|**MoGe-4D: Efficient, Flexible, and Unified Dense 4D Reconstruction and Tracking**|Ruicheng Wang et.al.|[2611.32198](http://arxiv.org/abs/2611.32198)|<span class="null">—</span>|
+|**2026-11-24**|**Xtream: An Explicit Metric State for Large-Scale Streaming Reconstruction**|Ernesto Lozano et.al.|[2611.31757](http://arxiv.org/abs/2611.31757)|<span class="null">—</span>|
+|**2026-11-23**|**Which Way Is Up? Rotated Photos Silently Hurt Multi-View 3D Foundation Models**|Yukun Shi et.al.|[2611.31478](http://arxiv.org/abs/2611.31478)|<span class="null">—</span>|
 |**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[2611.08372](http://arxiv.org/abs/2611.08372)|<span class="null">—</span>|
 |**2026-11-05**|**Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers**|Huanfei He et.al.|[2611.07955](http://arxiv.org/abs/2611.07955)|<span class="null">—</span>|
 |**2026-11-05**|**Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images**|David G. Shatwell et.al.|[2611.07575](http://arxiv.org/abs/2611.07575)|<span class="null">—</span>|
